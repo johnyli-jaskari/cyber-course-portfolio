@@ -1,6 +1,6 @@
 # Portfolio Setup
 
-**Date:** [Today]
+**Date:** 2026.08.15
 **Source:** Assignment U1-01a — GitHub Repository Setup — Course Portfolio
 **Environment:** GitHub web interface
 
@@ -8,19 +8,19 @@
 Set up a GitHub repository as my portfolio for the course.
 
 ## Steps
-1. Created a GitHub account at github.com/<my-username>
-2. Enabled two-factor authentication using <app name>
-3. Created repository: github.com/<my-username>/cyber-course-portfolio
-4. Chose visibility: <public / private> because <reason>
+1. Created a GitHub account at github.com/johnyli-jaskari
+2. Enabled two-factor authentication using Google Authenticator.
+3. Created repository: github.com/johnyli-jaskari/cyber-course-portfolio
+4. Chose visibility: public because I want my portfolio to be easily visible
 5. Created folder structure with placeholder files
 6. Updated the README to describe the portfolio
 7. Created the entry template in cheatsheets/
 8. Wrote this first entry
 
 ## Findings
-- GitHub's web interface lets me edit and create files directly without installing anything
-- Empty folders cannot be created — a folder appears when its first file is committed
-- Every change is recorded as a "commit" with a timestamp and message — useful both for me (to find old work) and for the instructor (to confirm I worked over time)
+- GitHub's web interface lets me edit and create files directly without installing anything.
+- Empty folders cannot be created — a folder appears when its first file is committed.
+- Every change is recorded as a "commit" with a timestamp and message — useful both for me (to find old work) and for the instructor (to confirm I worked over time).
 
 ## Issues and how I resolved them
 [Anything that didn't work the first time, and how you fixed it. If nothing went wrong, write "No issues this time."]
