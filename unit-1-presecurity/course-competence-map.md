@@ -13,7 +13,7 @@ Last updated: 2026-08-15
 
 | Competence | Evidence (assignment + link) | Notes / what it demonstrates |
 |---|---|---|
-| Tuntee CIA käsitteet (knows CIA concepts) |  |  |
+| Tuntee CIA käsitteet (knows CIA concepts) | https | koodausta |
 | Ymmärtää saavutettavuuden käsitteen ja siihen kohdistuvat uhat (understands availability and its threats) |  |  |
 | Ymmärtää luottamuksellisuuden käsitteen ja siihen kohdistuvat uhat (understands confidentiality and its threats) |  |  |
 | Ymmärtää eheyden käsitteen ja siihen kohdistuvat uhat (understands integrity and its threats) |  |  |
