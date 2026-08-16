@@ -16,7 +16,11 @@ What I was trying to do.
 <br>
 <br>
 
-3.
+3. Avasin terminaalin tryhackme sivustolla. Käytin dirb komentoa ja fakebank URL.
+```
+dirb http://fakebank.thm
+
+```
 
 Commands run, in order. Use code blocks.
 
