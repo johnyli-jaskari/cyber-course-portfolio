@@ -21,8 +21,10 @@ What I was trying to do.
 dirb http://fakebank.thm
 ```
 <img width="2752" height="994" alt="image" src="https://github.com/user-attachments/assets/3cd00dbe-6149-4ab7-b804-6c974d210796" />
+<br>
+<br>
 
-
+4.
 Commands run, in order. Use code blocks.
 
 ## Findings
