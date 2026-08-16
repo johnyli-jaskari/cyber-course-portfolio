@@ -8,7 +8,7 @@
 What I was trying to do.
 
 ## Steps
-<img width="1319" height="442" alt="Näyttökuva 2026-08-16 kello 12 05 49" src="https://github.com/user-attachments/assets/edaf202a-88a7-4cc0-86d1-d8a627a7281d" />
+<img width="800" height="300" alt="Näyttökuva 2026-08-16 kello 12 05 49" src="https://github.com/user-attachments/assets/edaf202a-88a7-4cc0-86d1-d8a627a7281d" />
 
 Commands run, in order. Use code blocks.
 
