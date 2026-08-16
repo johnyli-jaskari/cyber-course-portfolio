@@ -12,7 +12,7 @@ What I was trying to do.
 
 1. Tutustuin mitä tarkoittaa Offensive Security (hyökkäävä tietoturva) ja Defensive Security (puolustava tietoturva)
 2. Avasin virtual desktop tryhackme tehtävässä missä tuli esiin tehtävään liittyvä pankkisivusto ja etsin pankkitilin numeron (8881).
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/0c84d630-4b08-4883-a3ea-083872a7ea62" />
+<img width="800" height="330" alt="image" src="https://github.com/user-attachments/assets/0c84d630-4b08-4883-a3ea-083872a7ea62" />
 
 
 Commands run, in order. Use code blocks.
