@@ -12,6 +12,7 @@ What I was trying to do.
 
 1. Tutustuin mitä tarkoittaa Offensive Security (hyökkäävä tietoturva) ja Defensive Security (puolustava tietoturva)
 2. Avasin virtual desktop tryhackme sivustolla missä on tehtävään liittyvä pankkisivusto ja etsin pankkitilin numeron.
+<img width="800" height="250" alt="Näyttökuva 2026-08-16 kello 13 42 20" src="https://github.com/user-attachments/assets/bad3708a-ca23-44fc-b096-daf248969c59" />
 
 
 Commands run, in order. Use code blocks.
