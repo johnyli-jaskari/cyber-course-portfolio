@@ -25,7 +25,7 @@ dirb http://fakebank.thm
 <br>
 
 4.Laitoin sivuston osoitteen minkä löysin selaimeen, siirsin varoja ja vastasin kysymyksiin.
-<img width="1400" height="500" alt="image" src="https://github.com/user-attachments/assets/d452648f-8c0d-45da-a6a4-4a1af332dae8" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/d452648f-8c0d-45da-a6a4-4a1af332dae8" />
 
 
 ## Findings
