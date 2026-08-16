@@ -1,8 +1,8 @@
-# [Assignment name]
+# U1-01 Introduction to Cyber Security
 
-**Date:** YYYY-MM-DD
-**Source:** (Assignment ID, e.g. U1-05b — Linux CLI Basics)
-**Environment:** (host OS, VM, target IP, etc.)
+**Date:** 2026-08-16
+**Source:** Assignment U1-01 — Introduction to Cyber Security
+**Environment:** Tryhackme
 
 ## Goal
 What I was trying to do.
