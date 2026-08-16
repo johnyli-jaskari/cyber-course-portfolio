@@ -16,7 +16,7 @@ What I was trying to do.
 <br>
 <br>
 
-3. Avasin terminaalin tryhackme sivustolla. Käytin dirb komentoa ja fakebank URL.
+3. Avasin terminaalin tryhackme sivustolla. Käytin dirb komentoa ja fakebank URL löytääkseni piilotettuja sivuja.
 ```
 dirb http://fakebank.thm
 ```
