@@ -25,7 +25,7 @@ dirb http://fakebank.thm
 <br>
 
 4.Laitoin sivuston osoitteen minkä löysin selaimeen ja vastasin kysymyksiin.
-<img width="1800" height="600" alt="image" src="https://github.com/user-attachments/assets/d452648f-8c0d-45da-a6a4-4a1af332dae8" />
+<img width="1500" height="600" alt="image" src="https://github.com/user-attachments/assets/d452648f-8c0d-45da-a6a4-4a1af332dae8" />
 
 Commands run, in order. Use code blocks.
 
