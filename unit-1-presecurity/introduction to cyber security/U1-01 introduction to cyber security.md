@@ -9,7 +9,7 @@ What I was trying to do.
 
 ## Steps
 Commands run, in order. Use code blocks.
-<img width="1512" height="414" alt="Näyttökuva 2026-08-15 kello 17 09 48" src="https://github.com/user-attachments/assets/7a32fc37-bf0f-4676-b952-17e3279f3cc8" />
+<img width="1000" height="414" alt="Näyttökuva 2026-08-15 kello 17 09 48" src="https://github.com/user-attachments/assets/7a32fc37-bf0f-4676-b952-17e3279f3cc8" />
 
 ## Findings
 What I learned / what the output told me.
