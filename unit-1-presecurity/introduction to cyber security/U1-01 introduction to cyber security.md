@@ -25,7 +25,7 @@ dirb http://fakebank.thm
 <br>
 
 4.Laitoin sivuston osoitteen minkä löysin selaimeen, siirsin varoja ja vastasin kysymyksiin.
-<img width="1386" height="614" alt="Näyttökuva 2026-08-16 kello 15 01 33" src="https://github.com/user-attachments/assets/60f5ca06-c84e-47e9-8a13-3f0f666681dc" />
+<img width="1386" height="514" alt="Näyttökuva 2026-08-16 kello 15 01 33" src="https://github.com/user-attachments/assets/60f5ca06-c84e-47e9-8a13-3f0f666681dc" />
 
 
 ## Findings
