@@ -20,6 +20,8 @@ What I was trying to do.
 ```
 dirb http://fakebank.thm
 ```
+<img width="2862" height="1044" alt="image" src="https://github.com/user-attachments/assets/556418bc-6818-4487-ae80-a208ee01a409" />
+
 
 Commands run, in order. Use code blocks.
 
