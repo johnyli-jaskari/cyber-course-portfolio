@@ -14,9 +14,8 @@ What I was trying to do.
 2. Avasin virtual desktop tryhackme tehtävässä missä tuli esiin tehtävään liittyvä pankkisivusto ja etsin pankkitilin numeron (8881).
 <img width="800" height="400" alt="Näyttökuva 2026-08-16 kello 13 42 20" src="https://github.com/user-attachments/assets/bad3708a-ca23-44fc-b096-daf248969c59" />
 
+
 3.
-
-
 Commands run, in order. Use code blocks.
 
 ## Findings
