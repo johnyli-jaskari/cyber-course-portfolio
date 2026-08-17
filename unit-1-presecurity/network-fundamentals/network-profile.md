@@ -9,6 +9,9 @@ What I was trying to do.
 
 ## Steps
 ### Your machine's identity on the network
+````
+ip a
+````
 ### Q1
 Commands run, in order. Use code blocks.
 
