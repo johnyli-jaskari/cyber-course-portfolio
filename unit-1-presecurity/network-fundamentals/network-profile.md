@@ -8,7 +8,8 @@
 What I was trying to do.
 
 ## Steps
-Q2: Yksityinen IP-osoite toimii vain oman lähiverkon sisällä, kun taas julkinen IP-osoite näkyy internetiin, ja kotireititin käyttää yksityisiä osoitteita sisäverkossa, jotta useat laitteet voivat jakaa saman julkisen IP-osoitteen turvallisesti.
+###Q2:
+Yksityinen IP-osoite toimii vain oman lähiverkon sisällä, kun taas julkinen IP-osoite näkyy internetiin, ja kotireititin käyttää yksityisiä osoitteita sisäverkossa, jotta useat laitteet voivat jakaa saman julkisen IP-osoitteen turvallisesti.
 Commands run, in order. Use code blocks.
 
 ## Findings
