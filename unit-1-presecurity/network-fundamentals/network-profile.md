@@ -22,6 +22,7 @@ Sisältää 256 osoitetta
 - If your IP is 192.168.1.37/24, what is the network address and what is the broadcast address?
 
 Network address: 192.168.1.0
+
 Broadcast address: 192.168.1.225
 ### Q5:
 
