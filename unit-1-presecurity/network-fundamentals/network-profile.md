@@ -1,7 +1,7 @@
 # U1-02a Assignment: Map Your Network
 
 **Date:** 2026-08-17
-**Source:** Assignment U1-02
+**Source:** Assignment U1-02a Assignment: Map Your Network
 **Environment:** Kali linux
 
 ## Goal
