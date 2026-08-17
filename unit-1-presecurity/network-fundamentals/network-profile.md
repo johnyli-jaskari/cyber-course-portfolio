@@ -8,6 +8,8 @@
 What I was trying to do.
 
 ## Steps
+### Q1:
+192.168.249.xxx
 ### Q2:
 Yksityinen IP-osoite toimii vain oman lähiverkon sisällä, kun taas julkinen IP-osoite näkyy internetiin, ja kotireititin käyttää yksityisiä osoitteita sisäverkossa, jotta useat laitteet voivat jakaa saman julkisen IP-osoitteen turvallisesti.
 ### Q3:
@@ -25,6 +27,8 @@ Network address: 192.168.1.0
 
 Broadcast address: 192.168.1.225
 ### Q5:
+Default gateway: 192.168.249.2
+Kyllä, se on samassa aliverkossa kuin koneeni, koska sekä koneeni IP-osoite että gateway kuuluvat samaan 192.168.249.0/24 verkkoon
 
 ## Findings
 What I learned / what the output told me.
