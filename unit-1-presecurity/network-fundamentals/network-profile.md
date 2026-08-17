@@ -33,6 +33,9 @@ Default gateway on samassa aliverkossa kuin koneeni, koska sekä koneeni IP-osoi
 ### Q6:
 Gatewaylle keskimääräinen round-trip time oli 0.381ms. 1.1.1.1 keskimääräinen round-trip time oli 28.806ms.
 Gateway on paljon nopeampi, koska se sijaitsee omassa lähiverkossa, kun taas 1.1.1.1 sijaitsee internetissä.
+### Q7:
+Tämän mahdollisti DNS-palvelu, joka muuntaa nimen IP-osoitteeksi, jota tietokone voi käyttää yhteyden muodostamiseen.
+### Q8:
 
 ## Findings
 What I learned / what the output told me.
