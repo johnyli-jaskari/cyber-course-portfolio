@@ -28,6 +28,7 @@ Network address: 192.168.1.0
 Broadcast address: 192.168.1.225
 ### Q5:
 Default gateway: 192.168.249.2
+
 Kyllä, se on samassa aliverkossa kuin koneeni, koska sekä koneeni IP-osoite että gateway kuuluvat samaan 192.168.249.0/24 verkkoon
 
 ## Findings
