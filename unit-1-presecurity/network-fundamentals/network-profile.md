@@ -10,7 +10,17 @@ What I was trying to do.
 ## Steps
 ### Q2:
 Yksityinen IP-osoite toimii vain oman lähiverkon sisällä, kun taas julkinen IP-osoite näkyy internetiin, ja kotireititin käyttää yksityisiä osoitteita sisäverkossa, jotta useat laitteet voivat jakaa saman julkisen IP-osoitteen turvallisesti.
-Commands run, in order. Use code blocks.
+### Q3:
+IP-osoite kertoo laitteen sijainnin verkossa ja voi muuttua, kun taas MAC-osoite on yleensä laitteiston verkkokorttiin pysyvästi liitetty tunniste. IP-osoite toimii OSI-mallin verkkokerroksella (Layer 3) ja MAC-osoite siirtoyhteyskerroksella (Layer 2).
+### Q4:
+- How many total addresses does a /24 contain?
+Sisältää 256 osoitetta
+- How many of those are usable for devices (after subtracting the network and broadcast addresses)?
+254 osoitetta
+- If your IP is 192.168.1.37/24, what is the network address and what is the broadcast address?
+Network address: 192.168.1.0
+Broadcast address: 192.168.1.225
+### Q5:
 
 ## Findings
 What I learned / what the output told me.
