@@ -36,6 +36,8 @@ Gateway on paljon nopeampi, koska se sijaitsee omassa lähiverkossa, kun taas 1.
 ### Q7:
 Tämän mahdollisti DNS-palvelu, joka muuntaa nimen IP-osoitteeksi, jota tietokone voi käyttää yhteyden muodostamiseen.
 ### Q8:
+Koneeni käyttää kahta DNS-palvelinta: 192.168.249.2 (Default gateway) ja 192.168.163.1
+### Q9:
 
 ## Findings
 What I learned / what the output told me.
