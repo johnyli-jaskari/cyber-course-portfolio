@@ -14,10 +14,13 @@ Yksityinen IP-osoite toimii vain oman lähiverkon sisällä, kun taas julkinen I
 IP-osoite kertoo laitteen sijainnin verkossa ja voi muuttua, kun taas MAC-osoite on yleensä laitteiston verkkokorttiin pysyvästi liitetty tunniste. IP-osoite toimii OSI-mallin verkkokerroksella (Layer 3) ja MAC-osoite siirtoyhteyskerroksella (Layer 2).
 ### Q4:
 - How many total addresses does a /24 contain?
+
 Sisältää 256 osoitetta
 - How many of those are usable for devices (after subtracting the network and broadcast addresses)?
+
 254 osoitetta
 - If your IP is 192.168.1.37/24, what is the network address and what is the broadcast address?
+
 Network address: 192.168.1.0
 Broadcast address: 192.168.1.225
 ### Q5:
