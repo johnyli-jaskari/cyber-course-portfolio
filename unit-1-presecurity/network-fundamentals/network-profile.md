@@ -8,6 +8,8 @@
 What I was trying to do.
 
 ## Steps
+## 1.1 — Find your IP address and MAC address
+### Q1
 Commands run, in order. Use code blocks.
 
 ## Findings
