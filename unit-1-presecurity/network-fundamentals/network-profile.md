@@ -30,7 +30,10 @@ Broadcast address: 192.168.1.225
 Default gateway: 192.168.249.2
 
 Default gateway on samassa aliverkossa kuin koneeni, koska sekä koneeni IP-osoite että gateway kuuluvat samaan 192.168.249.0/24 verkkoon
+### Q6:
+Gatewaylle keskimääräinen round-trip time oli 0.381ms. 1.1.1.1 keskimääräinen round-trip time oli 28.806ms.
 
+Gateway on paljon nopeampi, koska se sijaitsee omassa lähiverkossa, kun taas 1.1.1.1 sijaitsee internetissä.
 ## Findings
 What I learned / what the output told me.
 
