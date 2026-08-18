@@ -14,8 +14,11 @@ What I was trying to do.
 Lisäsin kolme konetta ja yhdistin reitittimeen käyttäen straight-through kaapelia.
 <img width="700" height="571" alt="image" src="https://github.com/user-attachments/assets/48a34ba4-190b-4574-b61c-23e7c64175c7" />
 # Part 2: Observe the default DHCP settings
-Default gateway ip osoite: ```192.168.0.1 
-                           ```                          
+Hakemalla PC0 ip osoite DHCP avulla
+Default gateway ip osoite: 192.168.1.0
+<img width="917" height="312" alt="image" src="https://github.com/user-attachments/assets/3dc6d1f0-b6a2-42b6-9f6e-8e28f4bee1fe" />
+
+
 Commands run, in order. Use code blocks.
 
 ## Findings
