@@ -5,7 +5,7 @@
 **Environment:** Kali linux
 
 ## Goal
-What I was trying to do.
+Oppia perusteita, erilaisia komentoja ja niiden toteuttamista
 
 ## Steps
 ### Q1:
@@ -88,11 +88,4 @@ Tutkisin porttia 22, koska se käyttää SSH-yhteyksiä ja on avoinna verkolle.
 - Which command do you think you'll use most often, and why?
 Käyttäisin todennäköisesti eniten ipconfig-komentoa, löytyy perus verkkotiedot, voi hyödyntää tehtävissä.
 
-## Findings
-What I learned / what the output told me.
 
-## Issues and how I resolved them
-Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
