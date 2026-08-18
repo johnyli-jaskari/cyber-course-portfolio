@@ -21,6 +21,7 @@ PC0 koneella avasin selaimen ja laitoin URL kenttään Default gatevay ip osoitt
 Löytyy langattoman reitittimen ip osoite: 192.168.0.1 , Sekä DHCP tietoja kuten DHCP-alueen alkupiste 192.168.0.100 ja asiakkaille saatavilla oleva osoitealue 192.168.0.100 - 192.168.0.149.
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c50f78ba-71ec-4ed6-9282-ba423df5c179" />
+
 # Part 3: Change the default IP address of the wireless router.
 
 ## Findings
