@@ -69,16 +69,16 @@ Koneeni paljastaa vain yhden verkosta tavoitettavan palvelun, portin 22. Se oli 
 
 ## DNS
 - Configured DNS server(s): ...
-- example.com resolves to: ...
+- example.com resolves to: 104.20.23.154, 172.66.147.243, 2606:4700:10::6814:179a, 2606:4700:10::ac42:93f3
 
 ## Path to the internet
-- Hops to example.com: ...
-- First hop: ...
+- Hops to example.com: Traceroute ei saavuttanut example.com-palvelinta.
+- First hop: 192.168.249.2 eli default gateway.
 
 ## Listening ports
 | Port | Protocol | Interface (localhost / all) | Common use |
-|------|----------|------------------------------|------------|
-| ...  | ...      | ...                          | ...        |
+|------|----------|-----------------------------|------------|
+|  22  |   TCP    |     All (0.0.0.0 , [::])    |    SSH     |
 
 ## Reflection (150–200 words)
 - What surprised you about your own network?
