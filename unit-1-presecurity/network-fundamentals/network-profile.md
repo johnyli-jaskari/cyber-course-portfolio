@@ -45,7 +45,7 @@ Jos joku pystyisi seuraamaan verkkoliikennettäni hän voisi esimerkiksi pääte
 ### Q11:
 Traceroute ei saavuttanut example.com-palvelinta. Ensimmäinen hop oli 192.168.249.2 eli default gateway.
 ### Q12:
-*** ei välttämättä tarkoita, että yhteys on rikki. Tarkoittaa yleensä että yhteys toimii, mutta kyseinen verkkolaite ei vastaa tracerouten pyyntöihin tai estää ne.
+* * * ei välttämättä tarkoita, että yhteys on rikki. Tarkoittaa yleensä että yhteys toimii, mutta kyseinen verkkolaite ei vastaa tracerouten pyyntöihin tai estää ne.
 ### Q13:
 
 ## Findings
