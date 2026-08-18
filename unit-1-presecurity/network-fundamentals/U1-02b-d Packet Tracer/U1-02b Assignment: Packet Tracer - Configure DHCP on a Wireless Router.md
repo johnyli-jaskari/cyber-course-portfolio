@@ -19,7 +19,7 @@ Hakemalla PC0 koneelle ip osoite DHCP avulla. Default gateway ip osoite: 192.168
 
 PC0 koneella avasin selaimen ja laitoin URL kenttään Default gatevay ip osoitteen. Kirjauduin admin tunnuksilla sisään ja sivustolla perustietoja reitittimestä.
 
-<img width="800" height="457" alt="image" src="https://github.com/user-attachments/assets/c50f78ba-71ec-4ed6-9282-ba423df5c179" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c50f78ba-71ec-4ed6-9282-ba423df5c179" />
 
 
 ## Findings
