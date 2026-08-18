@@ -5,7 +5,7 @@
 **Environment:** Kali linux
 
 ## Goal
-Oppia erilaisia tremejä, komentoja ja niiden toteuttamista terminaalissa.
+Oppia erilaisia termejä, komentoja ja niiden toteuttamista terminaalissa. Network profile luominen.
 
 ## Steps
 ### Q1:
@@ -91,5 +91,10 @@ Tutkisin porttia 22, koska se käyttää SSH-yhteyksiä ja on avoinna verkolle.
 - Which command do you think you'll use most often, and why?
 
 Käyttäisin todennäköisesti eniten ipconfig-komentoa, löytyy perus verkkotiedot, voi hyödyntää tehtävissä.
+
+## Findings
+Opin, että DNS muuttaa verkkosivujen nimet, kuten google.com, IP-osoitteiksi, jotta tietokone tietää, mihin palvelimeen ottaa yhteyttä.
+## Issues and how I resolved them
+Piti varmistaa mikä oli oikea ip osoite ja verkkokortti, käytin ip route komentoa avuksi.
 
 
