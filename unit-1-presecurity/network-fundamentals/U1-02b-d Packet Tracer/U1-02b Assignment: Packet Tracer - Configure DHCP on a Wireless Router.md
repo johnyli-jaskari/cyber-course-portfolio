@@ -13,7 +13,9 @@ What I was trying to do.
 # Part 1: Set up the network topology
 Lisäsin kolme konetta ja yhdistin reitittimeen käyttäen straight-through kaapelia.
 <img width="700" height="571" alt="image" src="https://github.com/user-attachments/assets/48a34ba4-190b-4574-b61c-23e7c64175c7" />
-
+# Part 2: Observe the default DHCP settings
+Default gateway ip osoite: ```192.168.0.1 
+                           ``                          
 Commands run, in order. Use code blocks.
 
 ## Findings
