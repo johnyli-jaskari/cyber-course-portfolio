@@ -52,6 +52,38 @@ Koneeni kuuntelee porttia 22. Portti 22 kuuntelee osoitteessa 0.0.0.0 ja [::] el
 Porttia 22 käytetään yleensä SSH-yhteyksiin ja porttia 445 SMB-tiedostojen jakamiseen. Portti joka kuuntelee Localhostissa on turvallisempi, koska silloin palveluun pääsee vain omalta koneelta. Kaikissa verkkoliitännöissä kuunteleva portti on vähemmän turvallinen, koska siihen voidaan yrittää muodostaa yhteys myös verkosta.
 ### Q15:
 Koneeni paljastaa vain yhden verkosta tavoitettavan palvelun, portin 22. Se oli vähemmän kuin odotin.
+# Network Profile — [my machine]
+
+## Identity
+- IPv4 address: ...
+- Subnet mask / CIDR: ...
+- MAC address: ...
+- Network address: ...
+- Broadcast address: ...
+
+## Gateway and reachability
+- Default gateway: ...
+- Ping to gateway (avg): ... ms
+- Ping to 1.1.1.1 (avg): ... ms
+
+## DNS
+- Configured DNS server(s): ...
+- example.com resolves to: ...
+
+## Path to the internet
+- Hops to example.com: ...
+- First hop: ...
+
+## Listening ports
+| Port | Protocol | Interface (localhost / all) | Common use |
+|------|----------|------------------------------|------------|
+| ...  | ...      | ...                          | ...        |
+
+## Reflection (150–200 words)
+- What surprised you about your own network?
+- Which open port (if any) would you want to investigate or close?
+- Which command do you think you'll use most often, and why?
+
 ## Findings
 What I learned / what the output told me.
 
