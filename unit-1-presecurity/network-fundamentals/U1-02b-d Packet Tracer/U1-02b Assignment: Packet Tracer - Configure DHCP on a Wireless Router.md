@@ -15,7 +15,7 @@ Lisäsin kolme konetta ja yhdistin reitittimeen käyttäen straight-through kaap
 <img width="700" height="571" alt="image" src="https://github.com/user-attachments/assets/48a34ba4-190b-4574-b61c-23e7c64175c7" />
 # Part 2: Observe the default DHCP settings
 Hakemalla PC0 koneelle ip osoite DHCP avulla. Default gateway ip osoite: 192.168.0.1
-<img width="850" height="350" alt="image" src="https://github.com/user-attachments/assets/3dc6d1f0-b6a2-42b6-9f6e-8e28f4bee1fe" />
+<img width="917" height="312" alt="Näyttökuva 2026-08-18 183126" src="https://github.com/user-attachments/assets/cd60ab1f-8446-4f3d-bf0c-2290c35edbc3" />
 
 PC0 koneella avasin selaimen ja laitoin URL kenttään Default gatevay ip osoitteen. Kirjauduin admin tunnuksilla sisään ja sivustolla perustietoja reitittimestä.
 
