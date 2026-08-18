@@ -49,6 +49,8 @@ Traceroute ei saavuttanut example.com-palvelinta. Ensimmäinen hop oli 192.168.2
 ### Q13:
 Koneeni kuuntelee porttia 22. Portti 22 kuuntelee osoitteessa 0.0.0.0 ja [::] eli se on tavoitettavissa verkosta.
 ### Q14:
+Porttia 22 käytetään yleensä SSH-yhteyksiin ja porttia 445 SMB-tiedostojen jakamiseen. Portti joka kuuntelee Localhostissa on turvallisempi, koska silloin palveluun pääsee vain omalta koneelta. kaikissa verkkoliitännöissä kuunteleva portti on vähemmän turvallinen, koska siihen voidaan yrittää muodostaa yhteys myös verkosta.
+### Q15:
 
 ## Findings
 What I learned / what the output told me.
