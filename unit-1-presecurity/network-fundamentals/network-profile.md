@@ -9,9 +9,9 @@ What I was trying to do.
 
 ## Steps
 ### Q1:
-192.168.249.xxx
+IPv4 osoite: 192.168.249.xxx
 
-00:0c:29:b3:c0:xx
+Mac osoite: 00:0c:29:b3:c0:xx
 ### Q2:
 Yksityinen IP-osoite toimii vain oman lähiverkon sisällä, kun taas julkinen IP-osoite näkyy internetiin, ja kotireititin käyttää yksityisiä osoitteita sisäverkossa, jotta useat laitteet voivat jakaa saman julkisen IP-osoitteen turvallisesti.
 ### Q3:
