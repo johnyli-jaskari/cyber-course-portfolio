@@ -93,7 +93,7 @@ Tutkisin porttia 22, koska se käyttää SSH-yhteyksiä ja on avoinna verkolle.
 Käyttäisin todennäköisesti eniten ipconfig-komentoa, löytyy perus verkkotiedot, voi hyödyntää tehtävissä.
 
 ## Findings
-Aiheessa oli hyvää kertausta. Opin, että DNS muuttaa verkkosivujen nimet, kuten google.com, IP-osoitteiksi, jotta tietokone tietää, mihin palvelimeen ottaa yhteyttä.
+Aiheessa oli hyvää kertausta. Opin, että DNS muuttaa verkkosivujen nimet IP-osoitteiksi, jotta tietokone tietää, mihin palvelimeen ottaa yhteyttä.
 ## Issues and how I resolved them
 Piti varmistaa mikä oli oikea ip osoite ja verkkokortti, käytin ip route komentoa avuksi.
 
