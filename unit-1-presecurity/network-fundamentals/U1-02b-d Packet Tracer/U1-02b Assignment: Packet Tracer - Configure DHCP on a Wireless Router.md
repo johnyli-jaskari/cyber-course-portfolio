@@ -1,7 +1,9 @@
 # U1-02b Assignment: Packet Tracer - Configure DHCP on a Wireless Router
 
 **Date:** 2026-08-18
+
 **Source:** U1-02b Assignment: Packet Tracer - Configure DHCP on a Wireless Router
+
 **Environment:** Packet Tracer
 
 ## Goal
