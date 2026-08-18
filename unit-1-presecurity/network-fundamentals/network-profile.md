@@ -85,6 +85,7 @@ Koneeni paljastaa vain yhden verkosta tavoitettavan palvelun, portin 22. Se oli 
 - What surprised you about your own network?
 - Which open port (if any) would you want to investigate or close?
 - Which command do you think you'll use most often, and why?
+Käyttäisin todennäköisesti eniten ipconfig-komentoa, löytyy perus verkkotiedot, voi hyödyntää tehtävissä.
 
 ## Findings
 What I learned / what the output told me.
