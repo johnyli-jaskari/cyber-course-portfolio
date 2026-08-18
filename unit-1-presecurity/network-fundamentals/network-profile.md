@@ -43,7 +43,7 @@ nslookup käyttö google.com ja youtube.com sivustoilla palauttivat useita ja en
 ### Q10:
 Jos joku pystyisi seuraamaan verkkoliikennettäni hän voisi esimerkiksi päätellä, millaisilla verkkosivustoilla käyn ja mitä palveluita käytän.
 ### Q11:
-
+Traceroute ei saavuttanut example.com-palvelinta. Ensimmäinen hop oli 192.168.249.2 eli default gateway
 ## Findings
 What I learned / what the output told me.
 
