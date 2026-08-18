@@ -38,9 +38,11 @@ Tämän mahdollisti DNS-palvelu, joka muuntaa nimen IP-osoitteeksi, jota tietoko
 ### Q8:
 Koneeni käyttää kahta DNS-palvelinta: 192.168.249.2 (Default gateway) ja 192.168.163.1
 ### Q9:
-example.com palautti ip osoitteet: 104.20.23.154, 172.66.147.243, 2606:4700:10::6814:179a, 2606:4700:10::ac42:93f3
-nslookup käyttö google.com ja youtube.com sivustoilla, palauttivat useita ja enemmän ip osoitteita. Suurilla verkkosivustoilla on usein useita IP-osoitteita nopeuden parantamista ja toimintavarmuuden lisäämistä varten.
+example.com palautti ip osoitteet: 104.20.23.154, 172.66.147.243, 2606:4700:10::6814:179a, 2606:4700:10::ac42:93f3.
+nslookup käyttö google.com ja youtube.com sivustoilla palauttivat useita ja enemmän ip osoitteita. Suurilla verkkosivustoilla on usein useita IP-osoitteita nopeuden parantamista ja toimintavarmuuden lisäämistä varten.
 ### Q10:
+Jos joku pystyisi seuraamaan verkkoliikennettäni hän voisi esimerkiksi päätellä, millaisilla verkkosivustoilla käyn ja mitä palveluita käytän.
+### Q11:
 
 ## Findings
 What I learned / what the output told me.
