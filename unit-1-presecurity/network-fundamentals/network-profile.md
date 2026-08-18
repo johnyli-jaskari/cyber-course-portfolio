@@ -84,6 +84,7 @@ Koneeni paljastaa vain yhden verkosta tavoitettavan palvelun, portin 22. Se oli 
 ## Reflection (150–200 words)
 - What surprised you about your own network?
 - Which open port (if any) would you want to investigate or close?
+Tutkisin porttia 22, koska se käyttää SSH-yhteyksiä ja on avoinna verkolle.
 - Which command do you think you'll use most often, and why?
 Käyttäisin todennäköisesti eniten ipconfig-komentoa, löytyy perus verkkotiedot, voi hyödyntää tehtävissä.
 
