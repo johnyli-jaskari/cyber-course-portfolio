@@ -68,7 +68,7 @@ Koneeni paljastaa vain yhden verkosta tavoitettavan palvelun, portin 22. Se oli 
 - Ping to 1.1.1.1 (avg): 28.806 ms
 
 ## DNS
-- Configured DNS server(s): ...
+- Configured DNS server(s): 192.168.249.2 ja 192.168.163.1
 - example.com resolves to: 104.20.23.154, 172.66.147.243, 2606:4700:10::6814:179a, 2606:4700:10::ac42:93f3
 
 ## Path to the internet
