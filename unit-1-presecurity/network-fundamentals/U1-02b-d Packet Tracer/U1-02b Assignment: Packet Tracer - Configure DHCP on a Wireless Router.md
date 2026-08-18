@@ -17,8 +17,8 @@ Lisäsin kolme konetta ja yhdistin reitittimeen käyttäen straight-through kaap
 Hakemalla PC0 koneelle ip osoite DHCP avulla. Default gateway ip osoite: 192.168.0.1
 <img width="917" height="312" alt="image" src="https://github.com/user-attachments/assets/3dc6d1f0-b6a2-42b6-9f6e-8e28f4bee1fe" />
 
-PC0 koneella avasin selaimen ja laitoin URL kenttään Default gatevay ip osoitteen.
-Commands run, in order. Use code blocks.
+PC0 koneella avasin selaimen ja laitoin URL kenttään Default gatevay ip osoitteen. Kirjauduin admin tunnuksilla sisään
+
 
 ## Findings
 What I learned / what the output told me.
