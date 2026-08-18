@@ -10,6 +10,7 @@ What I was trying to do.
 ## Steps
 ### Q1:
 192.168.249.xxx
+00:0c:29:b3:c0:xx
 ### Q2:
 Yksityinen IP-osoite toimii vain oman lähiverkon sisällä, kun taas julkinen IP-osoite näkyy internetiin, ja kotireititin käyttää yksityisiä osoitteita sisäverkossa, jotta useat laitteet voivat jakaa saman julkisen IP-osoitteen turvallisesti.
 ### Q3:
@@ -55,11 +56,11 @@ Koneeni paljastaa vain yhden verkosta tavoitettavan palvelun, portin 22. Se oli 
 # Network Profile — [my machine]
 
 ## Identity
-- IPv4 address: ...
-- Subnet mask / CIDR: ...
-- MAC address: ...
+- IPv4 address: 192.168.249.xxx
+- Subnet mask / CIDR: 255.255.255.0
+- MAC address: 00:0c:29:b3:c0:xx
 - Network address: ...
-- Broadcast address: ...
+- Broadcast address: 192.168.249.255
 
 ## Gateway and reachability
 - Default gateway: ...
