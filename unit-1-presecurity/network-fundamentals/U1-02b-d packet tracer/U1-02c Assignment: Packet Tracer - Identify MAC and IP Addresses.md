@@ -25,6 +25,8 @@ PDU:ta painamalla saa enemmän tietoa, OSI model ja Outbound PDU Details
 
 <img width="387" height="557" alt="image" src="https://github.com/user-attachments/assets/460e0ffc-cbbb-44c6-a993-45322e9ef6bb" />
 
+PDU:n siirtyminen laitteelta toiselle, jokaisesta laitteesta koostuu oma PDU omilla tiedoillaan. Eri PDU:t ja niiden tiedot löytyvät alla olevasta taulukosta.
+
 ## Findings
 What I learned / what the output told me.
 
