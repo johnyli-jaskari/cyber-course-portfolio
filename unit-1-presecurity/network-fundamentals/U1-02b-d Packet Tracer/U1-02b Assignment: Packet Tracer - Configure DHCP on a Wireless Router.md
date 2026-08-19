@@ -42,7 +42,8 @@ Käytin ipconfig komentoa Command Promtissa
 PC0 IP-osoite on 192.168.5.127
 # Part 5: Enable DHCP on the other PCs.
 Otin DHCP:n käyttöön myös PC1 ja PC2:lla, IP Configuration sivulta.
-What I learned / what the output told me.
+<img width="532" height="330" alt="image" src="https://github.com/user-attachments/assets/90107590-7724-4799-89a9-48b8296ed5bb" />
+PC1 IP on 
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
