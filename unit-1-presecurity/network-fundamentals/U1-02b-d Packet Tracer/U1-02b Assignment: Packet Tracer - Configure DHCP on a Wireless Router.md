@@ -37,7 +37,7 @@ Vaihdoin langattoman reitittimen asetuksista DHCP-alueen alkupisteeksi 192.168.5
 
 Hain DHCP uudestaan PC0 IP Configuration osiosta pävittääkseen IP osoitteen.
 Käytin ipconfig komentoa Command Promtissa
-<img width="522" height="322" alt="image" src="https://github.com/user-attachments/assets/0c575651-e5a2-43bd-a113-620267fd2383" />
+<img width="527" height="321" alt="image" src="https://github.com/user-attachments/assets/7dd952c6-72dd-45e5-aa6e-031cc50bd462" />
 
 PC0 IP-osoite on 192.168.5.127
 ### Part 5: Enable DHCP on the other PCs.
