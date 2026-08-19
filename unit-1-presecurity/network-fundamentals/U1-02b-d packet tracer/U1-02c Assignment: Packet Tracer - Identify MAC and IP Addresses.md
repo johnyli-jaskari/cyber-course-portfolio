@@ -20,7 +20,9 @@ ping 172.16.31.2 komennon käyttöä.
 ping 172.16.31.2 uudestaan mutta simulation mode käytössä.
 
 <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/611da153-bff4-4e1b-b166-4572ad64fe74" />
+PDU:ta painamalla saa enemmän tietoa.
 
+<img width="587" height="757" alt="image" src="https://github.com/user-attachments/assets/460e0ffc-cbbb-44c6-a993-45322e9ef6bb" />
 
 ## Findings
 What I learned / what the output told me.
