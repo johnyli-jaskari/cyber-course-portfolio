@@ -35,7 +35,6 @@ Käytin ip osoitetta 192.168.5.1 selaimessa.
 Vaihdoin langattoman reitittimen asetuksista DHCP-alueen alkupisteeksi 192.168.5.126 ja maksimi käyttäjämääräksi 75.
 <img width="772" height="237" alt="image" src="https://github.com/user-attachments/assets/35ef0614-0de0-45ab-9051-bc0f285dc998" />
 Hain DHCP uudestaan PC0 IP Configuration osiosta pävittääkseen IP osoitteen.
-<img width="892" height="332" alt="image" src="https://github.com/user-attachments/assets/dd45fdb6-3fcd-49dc-b2ec-913ae8f66cc9" />
 Käytin ipconfig komentoa Command Promtissa
 <img width="522" height="322" alt="image" src="https://github.com/user-attachments/assets/0c575651-e5a2-43bd-a113-620267fd2383" />
 
