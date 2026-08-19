@@ -44,7 +44,7 @@ PC0 IP-osoite on 192.168.5.126
 Otin DHCP:n käyttöön myös PC1 ja PC2:lla, IP Configuration sivulta.
 PC1 IP osoite on 192.168.5.127
 
-<img width="446" height="326" alt="image" src="https://github.com/user-attachments/assets/f93a7d2d-6524-4588-a27b-0662979b4b9b" />
+<img width="450" height="327" alt="image" src="https://github.com/user-attachments/assets/3ab0d847-5670-40c5-8e25-18d54800315e" />
 
 PC2 IP osoite on 192.168.5.128
 
