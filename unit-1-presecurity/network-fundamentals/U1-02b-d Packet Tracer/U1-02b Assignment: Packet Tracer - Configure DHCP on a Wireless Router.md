@@ -7,7 +7,7 @@
 **Environment:** Packet Tracer
 
 ## Goal
-Määrittää langaton reititin ja tietokoneet käyttämään DHCP:tä sekä tarkistaa, että kaikki laitteet voivat kommunikoida keskenään.
+Määrittää langaton reititin, tietokoneet käyttämään DHCP:tä sekä tarkistaa, että kaikki laitteet voivat kommunikoida keskenään.
 
 ## Steps
 ### Part 1: Set up the network topology
