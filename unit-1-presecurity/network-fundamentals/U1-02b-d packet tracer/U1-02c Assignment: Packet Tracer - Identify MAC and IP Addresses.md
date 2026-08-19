@@ -17,7 +17,7 @@ ping 172.16.31.2 komennon käyttöä.
 
 <img width="487" height="372" alt="image" src="https://github.com/user-attachments/assets/6042b002-c733-4f0a-aa91-b292083f5108" />
 
-ping 172.16.31.2 uudestaan mutta simulation mode käytössä.
+ping 172.16.31.2 uudestaan mutta simulation mode käytössä. Ilmestyy PDU.
 
 <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/611da153-bff4-4e1b-b166-4572ad64fe74" />
 
