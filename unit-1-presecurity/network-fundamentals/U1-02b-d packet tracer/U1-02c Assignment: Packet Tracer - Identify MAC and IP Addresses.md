@@ -29,7 +29,7 @@ PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omill
 
 | **At Device** | **Src MAC** | **Dest. MAC** | **Src IPv4** | **Dest IPv4** |
 |---|---|---|---|---|
-|  |  |  |  |  |
+| k |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
