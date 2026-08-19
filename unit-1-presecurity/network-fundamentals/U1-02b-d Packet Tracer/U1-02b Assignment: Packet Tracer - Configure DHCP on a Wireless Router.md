@@ -25,6 +25,7 @@ Löytyy langattoman reitittimen ip osoite: 192.168.0.1 , Sekä DHCP tietoja kute
 # Part 3: Change the default IP address of the wireless router.
 Reitittimen ip asetuksista vaihdoin ip osoitteeseen 192.168.5.1. Muutoksen myötä tuli virheviesti sivustolta.
 <img width="932" height="215" alt="image" src="https://github.com/user-attachments/assets/76ff6312-647a-43bd-9f8f-edbc223d19e6" />
+
 Vaihdoin PC0 DHCP asetuksista uuteen ip osoitteeseen.
 <img width="442" height="325" alt="image" src="https://github.com/user-attachments/assets/a84a6bf9-acd9-4413-9cbf-c6a72a0a1ef9" />
 Käytin ip osoitetta 192.168.5.1 selaimessa.
