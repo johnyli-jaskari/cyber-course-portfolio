@@ -45,6 +45,7 @@ Otin DHCP:n käyttöön myös PC1 ja PC2:lla, IP Configuration sivulta.
 PC1 IP osoite on 192.168.5.128
 
 <img width="532" height="330" alt="image" src="https://github.com/user-attachments/assets/90107590-7724-4799-89a9-48b8296ed5bb" />
+
 PC2 IP osoite on 192.168.5.126
 <img width="450" height="327" alt="image" src="https://github.com/user-attachments/assets/f59ac330-3198-48c3-8f91-7443ac1fe0b1" />
 
