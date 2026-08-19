@@ -11,7 +11,7 @@ What I was trying to do.
 
 ## Steps
 # Part 1: Gather PDU Information for a Local Network Communication
-<img width="480" height="407" alt="image" src="https://github.com/user-attachments/assets/ebc494a4-f4f4-4ce3-b16a-d81928f65ca8" />
+<img width="400" height="307" alt="image" src="https://github.com/user-attachments/assets/ebc494a4-f4f4-4ce3-b16a-d81928f65ca8" />
 
 ping 172.16.31.2 komennon käyttöä.
 
@@ -19,7 +19,7 @@ ping 172.16.31.2 komennon käyttöä.
 
 ping 172.16.31.2 uudestaan mutta simulation mode käytössä.
 
-<img width="511" height="430" alt="image" src="https://github.com/user-attachments/assets/37883ef0-2307-481b-a924-f56a4877eb86" />
+<img width="411" height="330" alt="image" src="https://github.com/user-attachments/assets/37883ef0-2307-481b-a924-f56a4877eb86" />
 
 
 ## Findings
