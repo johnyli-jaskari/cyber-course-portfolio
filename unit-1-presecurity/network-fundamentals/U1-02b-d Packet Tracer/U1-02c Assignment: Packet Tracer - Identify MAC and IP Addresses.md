@@ -1,7 +1,9 @@
 # U1-02c Assignment: Packet Tracer - Identify MAC and IP Addresses
 
 **Date:** 2026-08-19
+
 **Source:** U1-02c Assignment: Packet Tracer - Identify MAC and IP Addresses
+
 **Environment:** Packet Tracer
 
 ## Goal
