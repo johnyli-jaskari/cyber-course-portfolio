@@ -51,7 +51,7 @@ PC2 IP osoite on 192.168.5.126
 <img width="450" height="327" alt="image" src="https://github.com/user-attachments/assets/f59ac330-3198-48c3-8f91-7443ac1fe0b1" />
 
 # Part 6: Verify connectivity
-
+Käytin ping komentoa Command Promt alustalla vahvistaakseni yhteyden laitteiden välillä.
 <img width="577" height="816" alt="Näyttökuva 2026-08-19 135712" src="https://github.com/user-attachments/assets/9bc898dd-3426-407e-ad0a-2845b7398740" />
 
 
