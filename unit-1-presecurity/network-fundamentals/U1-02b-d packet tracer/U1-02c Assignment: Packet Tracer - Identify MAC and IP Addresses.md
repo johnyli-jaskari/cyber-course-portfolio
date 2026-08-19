@@ -19,7 +19,7 @@ ping 172.16.31.2 komennon käyttöä.
 
 ping 172.16.31.2 uudestaan mutta simulation mode käytössä.
 
-<img width="411" height="330" alt="image" src="https://github.com/user-attachments/assets/37883ef0-2307-481b-a924-f56a4877eb86" />
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/611da153-bff4-4e1b-b166-4572ad64fe74" />
 
 
 ## Findings
