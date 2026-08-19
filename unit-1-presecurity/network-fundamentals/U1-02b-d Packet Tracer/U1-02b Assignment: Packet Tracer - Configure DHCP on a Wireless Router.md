@@ -29,6 +29,7 @@ Reitittimen ip asetuksista vaihdoin ip osoitteeseen 192.168.5.1. Muutoksen myöt
 Vaihdoin PC0 DHCP asetuksista uuteen ip osoitteeseen.
 
 <img width="442" height="325" alt="image" src="https://github.com/user-attachments/assets/a84a6bf9-acd9-4413-9cbf-c6a72a0a1ef9" />
+
 Käytin ip osoitetta 192.168.5.1 selaimessa.
 # Part 4: Change the default DHCP range of addresses.
 
