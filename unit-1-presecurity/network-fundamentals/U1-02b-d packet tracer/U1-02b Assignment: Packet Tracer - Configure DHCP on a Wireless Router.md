@@ -36,7 +36,7 @@ Vaihdoin langattoman reitittimen asetuksista DHCP-alueen alkupisteeksi 192.168.5
 <img width="772" height="237" alt="image" src="https://github.com/user-attachments/assets/35ef0614-0de0-45ab-9051-bc0f285dc998" />
 
 Hain DHCP uudestaan PC0 IP Configuration osiosta pävittääkseen IP osoitteen.
-Käytin ipconfig komentoa Command Promtissa
+Käytin ipconfig komentoa Command Promtissa.
 <img width="527" height="321" alt="image" src="https://github.com/user-attachments/assets/7dd952c6-72dd-45e5-aa6e-031cc50bd462" />
 
 PC0 IP-osoite on 192.168.5.126
