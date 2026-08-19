@@ -7,7 +7,7 @@
 **Environment:** Packet Tracer
 
 ## Goal
-What I was trying to do.
+Määrittää langaton reititin ja tietokoneet käyttämään DHCP:tä sekä tarkistaa, että kaikki laitteet voivat kommunikoida keskenään.
 
 ## Steps
 ### Part 1: Set up the network topology
@@ -56,6 +56,3 @@ PC2:lla käytin ping komentoa Command Promt alustalla vahvistaakseni yhteyden la
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
