@@ -55,4 +55,4 @@ PC2:lla käytin ping komentoa Command Promt alustalla vahvistaakseni yhteyden la
 <img width="852" height="787" alt="image" src="https://github.com/user-attachments/assets/833b5ed7-2a4a-46a2-b679-8b4e2e494139" />
 
 ## Issues and how I resolved them
-Aluksi tietokoneet saivat väärät IP-osoitteet, joten päivitin DHCP-asetukset ja uusien IP-osoitteiden hakemisen jälkeen ping-testit onnistuivat.
+Lopussa tietokoneet saivat väärät IP-osoitteet, joten päivitin DHCP-asetukset ja uusien IP-osoitteiden hakemisen jälkeen ping-testit onnistuivat.
