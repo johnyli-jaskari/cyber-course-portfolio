@@ -39,7 +39,7 @@ Hain DHCP uudestaan PC0 IP Configuration osiosta pävittääkseen IP osoitteen.
 Käytin ipconfig komentoa Command Promtissa
 <img width="527" height="321" alt="image" src="https://github.com/user-attachments/assets/7dd952c6-72dd-45e5-aa6e-031cc50bd462" />
 
-PC0 IP-osoite on 192.168.5.127
+PC0 IP-osoite on 192.168.5.126
 ### Part 5: Enable DHCP on the other PCs.
 Otin DHCP:n käyttöön myös PC1 ja PC2:lla, IP Configuration sivulta.
 PC1 IP osoite on 192.168.5.128
