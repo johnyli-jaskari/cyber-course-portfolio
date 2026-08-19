@@ -10,7 +10,12 @@
 What I was trying to do.
 
 ## Steps
-Commands run, in order. Use code blocks.
+# Part 1: Gather PDU Information for a Local Network Communication
+ping 172.16.31.2 komennon käyttöä.
+<img width="487" height="372" alt="image" src="https://github.com/user-attachments/assets/6042b002-c733-4f0a-aa91-b292083f5108" />
+ping 172.16.31.2 uudestaan mutta simulation mode käytössä.
+<img width="511" height="430" alt="image" src="https://github.com/user-attachments/assets/37883ef0-2307-481b-a924-f56a4877eb86" />
+
 
 ## Findings
 What I learned / what the output told me.
