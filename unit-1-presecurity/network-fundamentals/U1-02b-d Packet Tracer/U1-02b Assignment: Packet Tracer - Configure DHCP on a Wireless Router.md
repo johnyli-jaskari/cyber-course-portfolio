@@ -52,7 +52,7 @@ PC2 IP osoite on 192.168.5.128
 
 ### Part 6: Verify connectivity
 PC2:lla käytin ping komentoa Command Promt alustalla vahvistaakseni yhteyden laitteiden välillä.
-<img width="590" height="787" alt="image" src="https://github.com/user-attachments/assets/8270e84e-8dd0-4383-81a7-41bf49d2a00c" />
+<img width="587" height="787" alt="image" src="https://github.com/user-attachments/assets/7cd69306-ca80-49a7-b9cc-f97bca257021" />
 
 ## Issues and how I resolved them
 Lopussa tietokoneet saivat väärät IP-osoitteet, joten päivitin DHCP-asetukset ja uusien IP-osoitteiden hakemisen jälkeen ping-testit onnistuivat.
