@@ -13,7 +13,7 @@ What I was trying to do.
 # Part 1: Gather PDU Information for a Local Network Communication
 <img width="400" height="307" alt="image" src="https://github.com/user-attachments/assets/ebc494a4-f4f4-4ce3-b16a-d81928f65ca8" />
 
-ping 172.16.31.2 komennon käyttöä.
+ping 172.16.31.2 komennon käyttöä host 172.16.31.3 koneella.
 
 <img width="487" height="372" alt="image" src="https://github.com/user-attachments/assets/6042b002-c733-4f0a-aa91-b292083f5108" />
 
