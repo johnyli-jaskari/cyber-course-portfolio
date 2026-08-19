@@ -30,7 +30,7 @@ Vaihdoin PC0 DHCP asetuksista uuteen ip osoitteeseen.
 
 <img width="442" height="325" alt="image" src="https://github.com/user-attachments/assets/a84a6bf9-acd9-4413-9cbf-c6a72a0a1ef9" />
 
-Käytin seuraavaksi ip osoitetta 192.168.5.1 selaimessa.
+Käytin seuraavaksi Default gateway ip osoitetta 192.168.5.1 selaimessa. Pääsin takaisin reitittimen asetuksiin.
 ### Part 4: Change the default DHCP range of addresses.
 Vaihdoin langattoman reitittimen asetuksista DHCP-alueen alkupisteeksi 192.168.5.126 ja maksimi käyttäjämääräksi 75.
 <img width="772" height="237" alt="image" src="https://github.com/user-attachments/assets/35ef0614-0de0-45ab-9051-bc0f285dc998" />
