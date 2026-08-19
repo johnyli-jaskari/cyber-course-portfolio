@@ -10,7 +10,7 @@
 What I was trying to do.
 
 ## Steps
-# Part 1: Gather PDU Information for a Local Network Communication
+### Part 1: Gather PDU Information for a Local Network Communication
 <img width="400" height="307" alt="image" src="https://github.com/user-attachments/assets/ebc494a4-f4f4-4ce3-b16a-d81928f65ca8" />
 
 ping 172.16.31.2 komennon käyttöä host 172.16.31.3 koneella.
