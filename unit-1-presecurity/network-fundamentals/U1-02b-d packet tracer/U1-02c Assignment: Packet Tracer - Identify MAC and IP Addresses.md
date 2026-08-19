@@ -27,7 +27,12 @@ PDU:ta painamalla saa enemmän tietoa, OSI model ja Outbound PDU Details
 
 PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omilla tiedoillaan. Eri PDU:t ja niiden tiedot löytyvät alla olevasta taulukosta.
 
-| At Device | Src MAC | Dest. MAC | Src IPv4 | Dest IPv4 |
+| **At Device** | **Src MAC** | **Dest. MAC** | **Src IPv4** | **Dest IPv4** |
+|---|---|---|---|---|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 ## Findings
 What I learned / what the output told me.
