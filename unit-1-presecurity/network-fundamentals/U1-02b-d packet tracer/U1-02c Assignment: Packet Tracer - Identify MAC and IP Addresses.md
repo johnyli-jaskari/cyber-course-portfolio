@@ -45,10 +45,11 @@ Alla olevasta taulukosta löytyy PDU siirtymistä etäverkossa.
 | **At Device** | **Src MAC** | **Dest. MAC** | **Src IPv4** | **Dest IPv4** |
 |---|---|---|---|---|
 | 172.16.31.3 | 00D0:D311:C788 | 00D0:BA8E:741A | 172.16.31.3 | 10.10.10.2 |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Switch 2 | 0060.7036.2849 | 00D0:BA8E:741A | 172.16.31.3 | 10.10.10.2 |
+| Router | 0060.7036.2849 | 00D0:BA8E:741A | 172.16.31.3 | 10.10.10.2 |
+| Switch 1 | 00D0.588C.2401 | 0060.2F84.4AB6 | 172.16.31.3 | 10.10.10.2 |
+| Access Point | 00D0.588C.2401 | 0060.2F84.4AB6 | 172.16.31.3 | 10.10.10.2 |
+| 10.10.10.3 |  |  |  |  |
 
 ## Findings
 What I learned / what the output told me.
