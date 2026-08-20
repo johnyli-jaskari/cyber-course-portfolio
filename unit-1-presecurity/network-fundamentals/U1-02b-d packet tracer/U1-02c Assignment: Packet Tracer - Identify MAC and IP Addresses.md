@@ -30,8 +30,8 @@ PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omill
 | **At Device** | **Src MAC** | **Dest. MAC** | **Src IPv4** | **Dest IPv4** |
 |---|---|---|---|---|
 | 172.16.31.3 | 0060.7036.2849 | 000C:85CC:1DA7 | 172.16.31.3 | 172.16.31.2 |
-| <br> | <br> | <br> | <br> | <br> |
-| <br> | <br> | <br> | <br> | <br> |
+| Switch 2 | 0060.7036.2849 | 000C:85CC:1DA7 | 172.16.31.3 | 172.16.31.2 |
+| 172.16.31.2  | 000C:85CC.1DA7 | 0060.7036.2849 | 172.16.31.2 | 172.16.31.3 |
 | <br> | <br> | <br> | <br> | <br> |
 
 ## Findings
