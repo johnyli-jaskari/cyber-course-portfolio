@@ -42,6 +42,7 @@ Palasin takaisin Realtime mode
 Käynnistin Command Promt uudestaa 172.16.31.3 koneella ja käytin komentoa ping 10.10.10.2. Sain uuden PDU:n.
 
 What device and interface has the destinatipn MAC address that is shown?
+
 MAC osoite 00D0.BA8E.741A kuuluu reitittimen liitännälle FastEthernet1/0.
 
 Alla olevasta taulukosta löytyy PDU siirtymistä etäverkossa.
