@@ -67,7 +67,7 @@ Alla olevasta taulukosta löytyy PDU siirtymistä etäverkossa.
 ### Reflection Questions
 Answer the following questions regarding the captured data:
 
-1.     What different types of cables/media were used to connect devices?
+1.  What different types of cables/media were used to connect devices?
 
 2.     Did the cables change the handling of the PDU in any way?
 
