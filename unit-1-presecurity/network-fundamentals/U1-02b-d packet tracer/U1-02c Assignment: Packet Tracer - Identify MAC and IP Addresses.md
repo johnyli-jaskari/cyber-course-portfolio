@@ -36,6 +36,9 @@ PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omill
 | Switch 2 | 000C:85CC:1DA7 | 0060.7036.2849 | 172.16.31.2 | 172.16.31.3 |
 | 172.16.31.3 | 000C:85CC:1DA7 | 0060.7036.2849 | 172.16.31.2 | 172.16.31.3 |
 
+Kun PDU saavuttaa määränpään, se pystyy kulkemaan samaa reittiä takaisin. Kuitenkin osoitetiedot muuttuvat. Tämä johtuu
+
+### Part 2: Gather PDU Information for a Remote Network Communication
 ## Findings
 What I learned / what the output told me.
 
