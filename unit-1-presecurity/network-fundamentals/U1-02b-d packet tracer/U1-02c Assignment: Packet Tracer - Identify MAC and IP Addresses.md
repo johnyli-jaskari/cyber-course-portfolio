@@ -25,7 +25,7 @@ PDU:ta painamalla saa enemmän tietoa, OSI model ja Outbound PDU Details
 
 <img width="387" height="557" alt="image" src="https://github.com/user-attachments/assets/460e0ffc-cbbb-44c6-a993-45322e9ef6bb" />
 
-PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omilla tiedoillaan. Eri PDU:t ja niiden tiedot löytyvät alla olevasta taulukosta.
+PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omilla tiedoillaan. Eri PDU:t ja niiden tiedot löytyvät alla olevasta taulukosta, paikallinen verkko.
 
 | **At Device** | **Src MAC** | **Dest. MAC** | **Src IPv4** | **Dest IPv4** |
 |---|---|---|---|---|
@@ -39,6 +39,7 @@ PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omill
 Kun PDU saavuttaa määränpään, se pystyy kulkemaan samaa reittiä takaisin. Outbound PDU:ssa osoitteet ovat päinvastaiset, koska liikenne kulkee takaisin alkuperäiselle lähettäjälle.
 ### Part 2: Gather PDU Information for a Remote Network Communication
 MAC osoite 00D0.BA8E.741A kuuluu reitittimen liitännälle FastEthernet1/0.
+Alla olevasta taulukosta löytyy PDU siirtymistä etäverkossa.
 
 | **At Device** | **Src MAC** | **Dest. MAC** | **Src IPv4** | **Dest IPv4** |
 |---|---|---|---|---|
