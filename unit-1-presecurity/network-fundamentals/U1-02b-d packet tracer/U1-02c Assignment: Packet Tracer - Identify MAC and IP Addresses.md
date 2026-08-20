@@ -55,6 +55,15 @@ Alla olevasta taulukosta löytyy PDU siirtymistä etäverkossa.
 | Access Point | N/A | N/A | N/A | N/A |
 | 10.10.10.2 | 0060.2F84.4AB6 | 00D0.588C.2401  | 10.10.10.2 | 172.16.31.3 |
 
+| **At Device** | **Src MAC** | **Dest. MAC** | **Src IPv4** | **Dest IPv4** |
+|---|---|---|---|---|
+| 10.10.10.2 | 0060.2F84.4AB6 | 00D0.588C.2401 | 10.10.10.2 | 172.16.31.3 |
+| Access Point | N/A | N/A | N/A | N/A |
+| Switch 1 | 0060.2F84.4AB6 | 00D0.588C.2401 | N/A | N/A |
+| Router (in) | 0060.2F84.4AB6  | 00D0.588C.2401 | 10.10.10.2 | 172.16.31.3 |
+| Router (out) | 00D0:BA8E:741A | 0060.7036.2849 | 10.10.10.2 | 172.16.31.3 |
+| Switch 2 | 00D0:BA8E:741A | 0060.7036.2849 | N/A | N/A |
+| 172.16.31.3 | 00D0:BA8E:741A | 0060.7036.2849 | 10.10.10.2 | 172.16.31.3 |
 
 ### Reflection Questions
 Answer the following questions regarding the captured data:
