@@ -31,10 +31,8 @@ PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omill
 |---|---|---|---|---|
 | 172.16.31.3 | 0060.7036.2849 | 000C:85CC:1DA7 | 172.16.31.3 | 172.16.31.2 |
 | Switch 2 | 0060.7036.2849 | 000C:85CC:1DA7 | N/A | N/A |
-| 172.16.31.2  | 000C:85CC:1DA7 | 0060.7036.2849 | 172.16.31.3 | 172.16.31.2 |
-| 172.16.31.2 | 000C:85CC:1DA7 | 0060.7036.2849 | 172.16.31.2 | 172.16.31.3 |
-| Switch 2 | 000C:85CC:1DA7 | 0060.7036.2849 | 172.16.31.2 | 172.16.31.3 |
-| 172.16.31.3 | 000C:85CC:1DA7 | 0060.7036.2849 | 172.16.31.2 | 172.16.31.3 |
+| 172.16.31.2 (in)  | 0060.7036.2849 | 000C:85CC:1DA7 | 172.16.31.3 | 172.16.31.2 |
+| 172.16.31.2 (out) | 000C:85CC:1DA7 | 0060.7036.2849 | 172.16.31.2 | 172.16.31.3 |
 
 Kun PDU saavuttaa määränpään, se pystyy kulkemaan takaisin. Outbound PDU:ssa osoitteet ovat päinvastaiset, koska liikenne kulkee takaisin alkuperäiselle lähettäjälle.
 Palasin takaisin Realtime mode
