@@ -38,6 +38,11 @@ PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omill
 
 Kun PDU saavuttaa määränpään, se pystyy kulkemaan samaa reittiä takaisin. Outbound PDU:ssa osoitteet ovat päinvastaiset, koska liikenne kulkee takaisin alkuperäiselle lähettäjälle.
 ### Part 2: Gather PDU Information for a Remote Network Communication
+MAC osoite 00D0.BA8E.741A kuuluu reitittimen liitännälle FastEthernet1/0.
+
+| **At Device** | **Src MAC** | **Dest. MAC** | **Src IPv4** | **Dest IPv4** |
+|---|---|---|---|---|
+
 ## Findings
 What I learned / what the output told me.
 
