@@ -34,7 +34,7 @@ PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omill
 | 172.16.31.2  | 0060.7036.2849 | 000C:85CC:1DA7 | 172.16.31.3 | 172.16.31.2 |
 | 172.16.31.2 | 000C:85CC:1DA7 | 0060.7036.2849 | 172.16.31.2 | 172.16.31.3 |
 | Switch 2 | 000C:85CC:1DA7 | 0060.7036.2849 | 172.16.31.2 | 172.16.31.3 |
-|  |  |  |  |  |
+| 172.16.31.3 | 000C:85CC:1DA7 | 0060.7036.2849 | 172.16.31.2 | 172.16.31.3 |
 
 ## Findings
 What I learned / what the output told me.
