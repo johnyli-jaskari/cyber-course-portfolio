@@ -74,18 +74,23 @@ Copper straight-trough, Fiber, Wireless
 2. Did the cables change the handling of the PDU in any way?
 
 Ei
+
 3. Did the wireless Access Point do anything to the PDUs that it received?
 
 Kyllä. Se pakkasi ne uudelleen langattomiksi 802.11-kehyksiksi.
+
 4. Was PDU addressing changed by the access point?
 
 Ei
+
 5. What was the highest OSI layer that the Access Point used?
 
 Layer 1
+
 6. At what Layer of the OSI model do cables and access points operate?
 
 Layer 1
+
 7. When examining the PDU Details tab, which MAC address appeared first, the source or the destination?
 
 
