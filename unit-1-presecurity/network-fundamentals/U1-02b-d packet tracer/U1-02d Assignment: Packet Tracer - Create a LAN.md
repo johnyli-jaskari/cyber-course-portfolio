@@ -1,7 +1,9 @@
 # U1-02d Assignment: Packet Tracer - Create a LAN
 
 **Date:** 2026-08-22
-**Source:** U1-02d Assignment: Packet Tracer - Create a LAN.md
+
+**Source:** U1-02d Assignment: Packet Tracer - Create a LAN
+
 **Environment:** Packet tracer
 
 ## Goal
