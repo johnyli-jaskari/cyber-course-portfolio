@@ -7,8 +7,7 @@
 **Environment:** Packet Tracer
 
 ## Goal
-What I was trying to do.
-
+Ymmärtää, miten IP-osoitteet ja MAC-osoitteet toimivat verkossa.
 ## Steps
 ### Part 1: Gather PDU Information for a Local Network Communication
 <img width="400" height="307" alt="image" src="https://github.com/user-attachments/assets/ebc494a4-f4f4-4ce3-b16a-d81928f65ca8" />
