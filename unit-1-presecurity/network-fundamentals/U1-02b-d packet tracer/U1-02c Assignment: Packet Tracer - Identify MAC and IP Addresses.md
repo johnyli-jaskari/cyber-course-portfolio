@@ -129,10 +129,6 @@ Reitittimen tehtävänä on yhdistää eri IP-verkot toisiinsa. Jotta se voi teh
 Verkot 10.10.10.0/24 ja 172.16.31.0/24.
 
 ## Findings
-What I learned / what the output told me.
-
+Opin enemmän miten data liikkuu eri verkoissa.
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
+Oli hankaluuksia löytää oikeat MAC-osoitteet.
