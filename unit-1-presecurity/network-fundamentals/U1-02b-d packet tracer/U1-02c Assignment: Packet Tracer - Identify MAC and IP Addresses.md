@@ -71,6 +71,7 @@ Answer the following questions regarding the captured data:
 1.  What different types of cables/media were used to connect devices?
 
 Copper straight-trough, Fiber, Wireless
+
 2. Did the cables change the handling of the PDU in any way?
 
 Ei
@@ -93,8 +94,11 @@ Layer 1
 
 7. When examining the PDU Details tab, which MAC address appeared first, the source or the destination?
 
+Destination
 
 8. Sometimes PDUs were marked with red Xs while others had green check marks. What is the significance of these markings?
+
+
 
 9. Every time that the PDU was sent between the 10 network and the 172 network, there was a point where the MAC addresses suddenly changed. Where did that occur?
 
