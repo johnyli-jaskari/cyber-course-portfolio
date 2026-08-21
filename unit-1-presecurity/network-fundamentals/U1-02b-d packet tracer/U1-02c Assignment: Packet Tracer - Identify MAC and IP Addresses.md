@@ -126,7 +126,7 @@ Reitittimen tehtävänä on yhdistää eri IP-verkot toisiinsa. Jotta se voi teh
 
 15. Which IP networks are connected by the router?
 
-
+Verkot 10.10.10.0/24 ja 172.16.31.0/24.
 
 ## Findings
 What I learned / what the output told me.
