@@ -70,33 +70,33 @@ Answer the following questions regarding the captured data:
 
 1.  What different types of cables/media were used to connect devices?
 Copper straight-trough, Fiber, Wireless
-2. Did the cables change the handling of the PDU in any way?
+3. Did the cables change the handling of the PDU in any way?
 
-3. Did the wireless Access Point do anything to the PDUs that it received?
+4. Did the wireless Access Point do anything to the PDUs that it received?
 
-4. Was PDU addressing changed by the access point?
+5. Was PDU addressing changed by the access point?
 
-5. What was the highest OSI layer that the Access Point used?
+6. What was the highest OSI layer that the Access Point used?
 
-6. At what Layer of the OSI model do cables and access points operate?
+7. At what Layer of the OSI model do cables and access points operate?
 
-7. When examining the PDU Details tab, which MAC address appeared first, the source or the destination?
+8. When examining the PDU Details tab, which MAC address appeared first, the source or the destination?
 
-8. Sometimes PDUs were marked with red Xs while others had green check marks. What is the significance of these markings?
+9. Sometimes PDUs were marked with red Xs while others had green check marks. What is the significance of these markings?
 
-9. Every time that the PDU was sent between the 10 network and the 172 network, there was a point where the MAC addresses suddenly changed. Where did that occur?
+10. Every time that the PDU was sent between the 10 network and the 172 network, there was a point where the MAC addresses suddenly changed. Where did that occur?
 
-10. Which device uses MAC addresses that start with 00D0:BA?
+11. Which device uses MAC addresses that start with 00D0:BA?
 
-11. What devices did the other MAC addresses belong to?
+12. What devices did the other MAC addresses belong to?
 
-12. Did the sending and receiving IPv4 addresses change in any of the PDUs?
+13. Did the sending and receiving IPv4 addresses change in any of the PDUs?
 
-13. When you follow the reply to a ping, sometimes called a pong, what happens to the source and destination addresses?
+14. When you follow the reply to a ping, sometimes called a pong, what happens to the source and destination addresses?
 
-14. Why do you think the interfaces of the router are part of two different IP networks?
+15. Why do you think the interfaces of the router are part of two different IP networks?
 
-15. Which IP networks are connected by the router?
+16. Which IP networks are connected by the router?
 
 ## Findings
 What I learned / what the output told me.
