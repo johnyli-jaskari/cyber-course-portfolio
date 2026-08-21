@@ -114,11 +114,19 @@ Lähettävälle laitteelle ja vastaanottavalle laitteelle.
 
 12. Did the sending and receiving IPv4 addresses change in any of the PDUs?
 
+Ei.
+
 13. When you follow the reply to a ping, sometimes called a pong, what happens to the source and destination addresses?
+
+Ne vaihtavat paikkaa, koska vastaanottava laite on nyt lähettäjä.
 
 14. Why do you think the interfaces of the router are part of two different IP networks?
 
+Reitittimen tehtävänä on yhdistää eri IP-verkot toisiinsa. Jotta se voi tehdä tämän, sen täytyy olla yhteydessä molempiin verkkoihin.
+
 15. Which IP networks are connected by the router?
+
+
 
 ## Findings
 What I learned / what the output told me.
