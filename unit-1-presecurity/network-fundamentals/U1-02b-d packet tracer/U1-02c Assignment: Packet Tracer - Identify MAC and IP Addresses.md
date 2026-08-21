@@ -22,7 +22,7 @@ ping 172.16.31.2 uudestaan mutta simulation mode käytössä. Ilmestyy PDU.
 
 PDU:ta painamalla saa enemmän tietoa, OSI model ja Outbound PDU Details
 
-<img width="387" height="557" alt="image" src="https://github.com/user-attachments/assets/460e0ffc-cbbb-44c6-a993-45322e9ef6bb" />
+<img width="487" height="657" alt="image" src="https://github.com/user-attachments/assets/460e0ffc-cbbb-44c6-a993-45322e9ef6bb" />
 
 PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omilla tiedoillaan. Eri PDU:t ja niiden tiedot löytyvät alla olevasta taulukosta, paikallinen verkko.
 
