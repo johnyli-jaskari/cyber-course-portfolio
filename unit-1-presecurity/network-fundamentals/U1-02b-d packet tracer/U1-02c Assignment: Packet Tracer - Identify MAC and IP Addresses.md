@@ -69,6 +69,7 @@ Alla olevasta taulukosta löytyy PDU siirtymistä etäverkossa.
 Answer the following questions regarding the captured data:
 
 1.  What different types of cables/media were used to connect devices?
+
 Copper straight-trough, Fiber, Wireless
 3. Did the cables change the handling of the PDU in any way?
 
