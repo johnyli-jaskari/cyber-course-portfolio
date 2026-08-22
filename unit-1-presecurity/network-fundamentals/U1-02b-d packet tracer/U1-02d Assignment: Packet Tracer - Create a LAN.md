@@ -63,7 +63,7 @@ Pääsin verkkosivulle myös verkkopalvelimen URL-osoitteen kanssa www.cisco.pt
 <img width="812" height="242" alt="image" src="https://github.com/user-attachments/assets/2a3a073b-15cf-4328-a46d-20db5b18ac5a" />
 
 How many routers are passed on the way to the destination? How are those routers identified? <br>
-Matkalla ohitetaan 2 reititintä. Reitittimet tunnistetaan niiden IP-osoitteiden 192.168.1.1 ja 209.165.200.233 avulla.
+Matkalla ohitetaan 2 reititintä. Reitittimet tunnistaa niiden IP-osoitteista 192.168.1.1 ja 209.165.200.233.
 
 Where is the second router located? <br>
 Se sijaitsee Internet-pilvessä.
