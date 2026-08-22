@@ -58,11 +58,17 @@ Pääsin verkkosivulle myös verkkopalvelimen URL-osoitteen kanssa www.cisco.pt
 
 <img width="598" height="588" alt="image" src="https://github.com/user-attachments/assets/c8c13a52-283c-42d8-8bb0-5bf79c2a7fda" />
 
-```tracert www.cisco.pt``` 
+```tracert www.cisco.pt``` tracert-komento käyttää ICMP-protokollaa palauttaakseen tietoja reitittimistä, joiden kautta paketit kulkevat lähdetietokoneelta kohteeseen.
 
 <img width="812" height="242" alt="image" src="https://github.com/user-attachments/assets/2a3a073b-15cf-4328-a46d-20db5b18ac5a" />
 
+How many routers are passed on the way to the destination? How are those routers identified?
 
+Matkalla ohitetaan 2 reititintä. Reitittimet tunnistetaan niiden IP-osoitteiden 192.168.1.1 ja 209.165.200.233 avulla.
+
+Where is the second router located?
+
+Se sijaitsee Internet-pilvessä.
 
 ## Findings
 What I learned / what the output told me.
