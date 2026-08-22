@@ -10,7 +10,7 @@
 Ymmärtää, miten IP-osoitteet ja MAC-osoitteet toimivat verkossa.
 ## Steps
 ### Part 1: Gather PDU Information for a Local Network Communication
-<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/ebc494a4-f4f4-4ce3-b16a-d81928f65ca8" />
+<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/ebc494a4-f4f4-4ce3-b16a-d81928f65ca8" />
 
 ping 172.16.31.2 komennon käyttöä host 172.16.31.3 koneella.
 
@@ -18,7 +18,7 @@ ping 172.16.31.2 komennon käyttöä host 172.16.31.3 koneella.
 
 ping 172.16.31.2 uudestaan mutta simulation mode käytössä. Ilmestyy PDU.
 
-<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/611da153-bff4-4e1b-b166-4572ad64fe74" />
+<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/611da153-bff4-4e1b-b166-4572ad64fe74" />
 
 PDU:ta painamalla saa enemmän tietoa, OSI model ja Outbound PDU Details
 
