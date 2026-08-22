@@ -7,7 +7,7 @@
 **Environment:** Packet tracer
 
 ## Goal
-What I was trying to do.
+Tavoitteena on rakentaa ja konfiguroida lähiverkko.
 
 ## Steps
 ### Part 1: Connect Network Devices and Hosts
