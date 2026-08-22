@@ -12,11 +12,11 @@ Ymmärtää, miten IP-osoitteet ja MAC-osoitteet toimivat verkossa.
 ### Part 1: Gather PDU Information for a Local Network Communication
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/ebc494a4-f4f4-4ce3-b16a-d81928f65ca8" />
 
-ping 172.16.31.2 komennon käyttöä host 172.16.31.3 koneella.
+```ping 172.16.31.2``` komennon käyttöä host 172.16.31.3 koneella.
 
 <img width="487" height="372" alt="image" src="https://github.com/user-attachments/assets/6042b002-c733-4f0a-aa91-b292083f5108" />
 
-ping 172.16.31.2 uudestaan mutta simulation mode käytössä. Ilmestyy PDU.
+```ping 172.16.31.2``` uudestaan mutta simulation mode käytössä. Ilmestyy PDU.
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/611da153-bff4-4e1b-b166-4572ad64fe74" />
 
@@ -36,7 +36,7 @@ PDU:n siirtyminen laitteelta toiselle, jokaisesta kohdasta koostuu oma PDU omill
 Kun PDU saavuttaa määränpään, se pystyy kulkemaan takaisin. Outbound PDU:ssa osoitteet ovat päinvastaiset, koska liikenne kulkee takaisin alkuperäiselle lähettäjälle.
 Palasin takaisin Realtime mode
 ### Part 2: Gather PDU Information for a Remote Network Communication
-Käynnistin Command Promt uudestaa 172.16.31.3 koneella ja käytin komentoa ping 10.10.10.2. Sain uuden PDU:n.
+Käynnistin Command Promt uudestaa 172.16.31.3 koneella ja käytin komentoa ```ping 10.10.10.2``` Sain uuden PDU:n.
 
 What device and interface has the destination MAC address that is shown?
 
