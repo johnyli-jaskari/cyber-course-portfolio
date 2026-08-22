@@ -41,7 +41,7 @@ Tarkistin tietokoneiden IP-osoite asetukset. Admin PC:llä avasin Command Promt 
 
 Ping komento ja Manager PC:n IP-osoite, ```ping 192.18.1.3```
 
-<img width="487" height="232" alt="image" src="https://github.com/user-attachments/assets/b5af96c1-13f5-4e10-8200-bc174508c615" />
+<img width="412" height="476" alt="image" src="https://github.com/user-attachments/assets/2d14ca9b-ce72-4638-816c-177c4c2145b5" />
 
 ## Findings
 What I learned / what the output told me.
