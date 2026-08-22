@@ -69,6 +69,9 @@ Matkalla ohitetaan 2 reititintä. Reitittimet tunnistetaan niiden IP-osoitteiden
 Where is the second router located?
 
 Se sijaitsee Internet-pilvessä.
+### Reflection
+Consider a small office that has a LAN similar to the one you have created here. What is the biggest facilities challenge in setting up the network in a new location?
+
 
 ## Findings
 What I learned / what the output told me.
