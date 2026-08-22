@@ -19,6 +19,7 @@ Käynnistin laitteet päälle laitteiden physical tab kautta. Yhdistin verkkolai
 
 ### Part 2: Configure Devices with IPv4 Addressing
 Hain Admin PC ja Manager PC:llä IPv4-osoitteet DHCP avulla.
+
 <img width="473" height="325" alt="image" src="https://github.com/user-attachments/assets/22318e64-b45e-4931-a4af-13eb0e455411" />   <img width="521" height="327" alt="image" src="https://github.com/user-attachments/assets/6fa97de6-7485-48b3-ba86-8980d3300764" />
 
 
