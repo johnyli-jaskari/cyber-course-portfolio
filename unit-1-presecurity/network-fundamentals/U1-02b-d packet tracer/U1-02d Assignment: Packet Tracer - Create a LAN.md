@@ -72,10 +72,6 @@ Consider a small office that has a LAN similar to the one you have created here.
 Suurin haaste on fyysinen kaapelointi, sillä kaikille laitteille tarvitaan sopivat verkkokaapelit ja liitännät, jotka on yhdistettävä keskitetysti kytkimeen ja reitittimeen.
 
 ## Findings
-What I learned / what the output told me.
+Sain yhdistettyä verkkolaitteet, opin enemmän tracert komennosta.
 
-## Issues and how I resolved them
-Problems encountered, fixes applied.
 
-## References
-Links to docs, write-ups, or related notes.
