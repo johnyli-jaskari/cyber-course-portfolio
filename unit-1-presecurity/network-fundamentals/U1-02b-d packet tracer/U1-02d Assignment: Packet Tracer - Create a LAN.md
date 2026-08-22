@@ -41,7 +41,7 @@ Tarkistin tietokoneiden IP-osoite asetukset. Admin PC:llä avasin Command Promt 
 
 Ping komento ja Manager PC:n IP-osoite, ```ping 192.18.1.3```
 
-<img width="412" height="476" alt="image" src="https://github.com/user-attachments/assets/2d14ca9b-ce72-4638-816c-177c4c2145b5" />
+<img width="527" height="291" alt="image" src="https://github.com/user-attachments/assets/ef19ce0c-3c24-411b-9069-32d7508e61a3" />
 
 Ping komennot olivat onnistuneita, joka tarkoittaa, että tietokoneet ja tulostin ovat päällä ja oikein yhdistetty sekä määritetty
 
