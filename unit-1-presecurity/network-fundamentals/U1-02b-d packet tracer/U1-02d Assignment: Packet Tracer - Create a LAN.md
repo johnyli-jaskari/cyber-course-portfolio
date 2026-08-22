@@ -14,6 +14,7 @@ What I was trying to do.
 <img width="635" height="461" alt="image" src="https://github.com/user-attachments/assets/51e24c17-42a4-4815-b47b-b919fc02d14e" />
 
 Käynnistin laitteet päälle laitteiden physical tab kautta. Yhdistin verkkolaitteet toisiinsa tiettyjen porttien kautta käyttäen copper straight-through kaapelia.
+
 <img width="645" height="467" alt="image" src="https://github.com/user-attachments/assets/49a24030-eab3-45ef-be83-b13ecbae1c94" />
 
 ## Findings
