@@ -45,6 +45,10 @@ Ping komento ja Manager PC:n IP-osoite, ```ping 192.18.1.3```
 
 Ping komennot olivat onnistuneita, joka tarkoittaa, että tietokoneet ja tulostin ovat päällä ja oikein yhdistetty sekä määritetty.
 
+Menin sekä Admin PC:n ja Manager PC:n selaimeen ja käytin verkkopalvelimen IP-osoitetta. 
+<img width="423" height="322" alt="image" src="https://github.com/user-attachments/assets/0b8609b7-d4bb-425d-bc08-932681484f5c" /> <img width="426" height="320" alt="image" src="https://github.com/user-attachments/assets/10abe4a5-3a0f-41c6-aeb7-9457d07cf074" />
+
+
 ## Findings
 What I learned / what the output told me.
 
