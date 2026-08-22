@@ -50,6 +50,7 @@ Menin sekä Admin PC:n ja Manager PC:n selaimeen ja käytin verkkopalvelimen IP-
 
 Pääsin verkkosivulle myös verkkopalvelimen URL-osoitteen kanssa.
 ### Part 4: Use Networking Commands to View Host Information
+<img width="702" height="487" alt="image" src="https://github.com/user-attachments/assets/b1fe0f54-c28e-44a1-ae81-e85dfa8ca959" />
 
 ## Findings
 What I learned / what the output told me.
