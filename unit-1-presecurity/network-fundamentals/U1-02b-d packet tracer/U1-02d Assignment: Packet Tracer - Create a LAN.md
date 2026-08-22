@@ -74,4 +74,4 @@ Suurin haaste on fyysinen kaapelointi, sillä kaikille laitteille tarvitaan sopi
 ## Findings
 Sain yhdistettyä verkkolaitteet, opin enemmän tracert komennosta.
 ## Issues and how I resolved them
-Tracert-komennon tuloksia oli aluksi vaikea tulkita. Tutkimalla sain erotettua mitä eri kohdat tarkoittavat.
+Tracert-komennon tuloksia oli aluksi vaikea tulkita.
