@@ -31,7 +31,7 @@ IPv4-osoite on yksi tapa tunnistaa jokainen verkon laite toisistaan. Aliverkon p
 
 However, if you need to configure it with a default gateway, which value will the printer use? How can you determine this from the other devices in the network?
 
-Voit selvittää printterin default gateway arvon tarkastelemalla default gateway arvoja, jotka tietokoneille on määritetty DHCP:n kautta.
+Voit selvittää printterin default gateway arvon tarkastelemalla default gateway arvoja, jotka tietokoneille on määritetty DHCP:n kautta. Arvon voi myös selvittää Office Routerin Ethernet-liitännän IP-osoitteen, joka on yhdistetty toimiston lähiverkkoon. Office router Ip-osoite kuvastaa oletusyhdyskäytävää.
 ## Findings
 What I learned / what the output told me.
 
