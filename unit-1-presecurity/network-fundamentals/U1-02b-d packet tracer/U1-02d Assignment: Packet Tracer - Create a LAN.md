@@ -48,6 +48,8 @@ Ping komennot olivat onnistuneita, joka tarkoittaa, että tietokoneet ja tulosti
 Menin sekä Admin PC:n ja Manager PC:n selaimeen ja käytin verkkopalvelimen IP-osoitetta. 
 <img width="456" height="321" alt="image" src="https://github.com/user-attachments/assets/d73246cf-1e46-404d-b8ff-81edf3087d53" /> <img width="457" height="321" alt="image" src="https://github.com/user-attachments/assets/e9d99206-7bb5-45f0-9b3b-6e6e98b19510" />
 
+Pääsin verkkosivulle myös verkkopalvelimen URL-osoitteen kanssa.
+### Part 4: Use Networking Commands to View Host Information
 ## Findings
 What I learned / what the output told me.
 
