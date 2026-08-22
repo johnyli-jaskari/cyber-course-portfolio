@@ -43,7 +43,7 @@ Ping komento ja Manager PC:n IP-osoite, ```ping 192.18.1.3```
 
 <img width="527" height="291" alt="image" src="https://github.com/user-attachments/assets/ef19ce0c-3c24-411b-9069-32d7508e61a3" />
 
-Ping komennot olivat onnistuneita, joka tarkoittaa, että tietokoneet ja tulostin ovat päällä ja oikein yhdistetty sekä määritetty
+Ping komennot olivat onnistuneita, joka tarkoittaa, että tietokoneet ja tulostin ovat päällä ja oikein yhdistetty sekä määritetty.
 
 ## Findings
 What I learned / what the output told me.
