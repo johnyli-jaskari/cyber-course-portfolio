@@ -45,10 +45,10 @@ Ping komento ja Manager PC:n IP-osoite, ```ping 192.18.1.3```
 
 Ping komennot olivat onnistuneita, joka tarkoittaa, että tietokoneet ja tulostin ovat päällä ja oikein yhdistetty sekä määritetty.
 
-Menin sekä Admin PC:n ja Manager PC:n selaimeen ja käytin verkkopalvelimen IP-osoitetta. 
+Menin sekä Admin PC:n ja Manager PC:n selaimeen ja käytin verkkopalvelimen IP-osoitetta 209.165.200.225
 <img width="456" height="321" alt="image" src="https://github.com/user-attachments/assets/d73246cf-1e46-404d-b8ff-81edf3087d53" /> <img width="457" height="321" alt="image" src="https://github.com/user-attachments/assets/e9d99206-7bb5-45f0-9b3b-6e6e98b19510" />
 
-Pääsin verkkosivulle myös verkkopalvelimen URL-osoitteen kanssa.
+Pääsin verkkosivulle myös verkkopalvelimen URL-osoitteen kanssa www.cisco.pt
 ### Part 4: Use Networking Commands to View Host Information
 ```ipconfig``` Näyttää tietokoneen IPv4-osoitteen, aliverkon peitteen ja oletusyhdyskäytävän.
 
