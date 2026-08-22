@@ -62,15 +62,13 @@ Pääsin verkkosivulle myös verkkopalvelimen URL-osoitteen kanssa www.cisco.pt
 
 <img width="812" height="242" alt="image" src="https://github.com/user-attachments/assets/2a3a073b-15cf-4328-a46d-20db5b18ac5a" />
 
-How many routers are passed on the way to the destination? How are those routers identified?
-
+How many routers are passed on the way to the destination? How are those routers identified? <br>
 Matkalla ohitetaan 2 reititintä. Reitittimet tunnistetaan niiden IP-osoitteiden 192.168.1.1 ja 209.165.200.233 avulla.
 
-Where is the second router located?
-
+Where is the second router located? <br>
 Se sijaitsee Internet-pilvessä.
 ### Reflection
-Consider a small office that has a LAN similar to the one you have created here. What is the biggest facilities challenge in setting up the network in a new location?
+Consider a small office that has a LAN similar to the one you have created here. What is the biggest facilities challenge in setting up the network in a new location? <br>
 Suurin haaste on fyysinen kaapelointi, sillä kaikille laitteille tarvitaan sopivat verkkokaapelit ja liitännät, jotka on yhdistettävä keskitetysti kytkimeen ja reitittimeen.
 
 ## Findings
