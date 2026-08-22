@@ -22,7 +22,7 @@ Hain Admin PC ja Manager PC:llä IPv4-osoitteet DHCP avulla.
 
 <img width="473" height="325" alt="image" src="https://github.com/user-attachments/assets/22318e64-b45e-4931-a4af-13eb0e455411" />   <img width="521" height="327" alt="image" src="https://github.com/user-attachments/assets/6fa97de6-7485-48b3-ba86-8980d3300764" />
 
-Asetin printer IP-osoitteen manuaalisesti Addressing table:n mukaan.
+Asetin tulostimen IP-osoitteen manuaalisesti Addressing table:n mukaan.
 <img width="557" height="452" alt="image" src="https://github.com/user-attachments/assets/bf8d8d7b-42f0-4c25-9d96-c302599efcb3" />
 
 Why do you think the IPv4 addresses are different, but the subnet masks and default gateways are the same?
@@ -31,9 +31,9 @@ IPv4-osoite on yksi tapa tunnistaa jokainen verkon laite toisistaan. Aliverkon p
 
 However, if you need to configure it with a default gateway, which value will the printer use? How can you determine this from the other devices in the network?
 
-Voit selvittää printterin default gateway arvon tarkastelemalla default gateway arvoja, jotka tietokoneille on määritetty DHCP:n kautta. Arvon voi myös saada selvittämällä Office Routerin Ethernet-liitännän IP-osoitteen, joka on yhdistetty toimiston lähiverkkoon. IP-osoite kuvastaa oletusyhdyskäytävää.
+Voit selvittää tulostimen default gateway arvon tarkastelemalla default gateway arvoja, jotka tietokoneille on määritetty DHCP:n kautta. Arvon voi myös saada selvittämällä Office Routerin Ethernet-liitännän IP-osoitteen, joka on yhdistetty toimiston lähiverkkoon. IP-osoite kuvastaa oletusyhdyskäytävää.
 ### Part 3: Verify the End Device Configuration and Connectivity
-Tarkistin tietokoneiden IP-osoite asetukset. Admin PC:llä avasin Command Promt ja käytin komentoa ping sekä printterin IP-osoitetta, 
+Tarkistin tietokoneiden IP-osoite asetukset. Admin PC:llä avasin Command Promt ja käytin komentoa ping sekä tulostimen IP-osoitetta, 
 
 ```ping 192.168.1.100```
 
@@ -42,6 +42,8 @@ Tarkistin tietokoneiden IP-osoite asetukset. Admin PC:llä avasin Command Promt 
 Ping komento ja Manager PC:n IP-osoite, ```ping 192.18.1.3```
 
 <img width="412" height="476" alt="image" src="https://github.com/user-attachments/assets/2d14ca9b-ce72-4638-816c-177c4c2145b5" />
+
+Ping komennot olivat onnistuneita, joka tarkoittaa, että tietokoneet ja tulostin ovat päällä ja oikein yhdistetty sekä määritetty
 
 ## Findings
 What I learned / what the output told me.
