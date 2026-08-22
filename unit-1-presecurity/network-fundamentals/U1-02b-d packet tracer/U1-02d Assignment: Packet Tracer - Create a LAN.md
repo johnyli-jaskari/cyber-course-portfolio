@@ -25,7 +25,9 @@ Hain Admin PC ja Manager PC:llä IPv4-osoitteet DHCP avulla.
 Asetin printer IP-osoitteen manuaalisesti Addressing table:n mukaan.
 <img width="557" height="452" alt="image" src="https://github.com/user-attachments/assets/bf8d8d7b-42f0-4c25-9d96-c302599efcb3" />
 
+Why do you think the IPv4 addresses are different, but the subnet masks and default gateways are the same?
 
+However, if you need to configure it with a default gateway, which value will the printer use? How can you determine this from the other devices in the network?
 ## Findings
 What I learned / what the output told me.
 
