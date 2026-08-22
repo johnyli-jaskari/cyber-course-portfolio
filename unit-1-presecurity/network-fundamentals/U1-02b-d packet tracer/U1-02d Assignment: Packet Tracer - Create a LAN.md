@@ -30,7 +30,9 @@ Why do you think the IPv4 addresses are different, but the subnet masks and defa
 IPv4-osoite on yksi tapa tunnistaa jokainen verkon laite toisistaan. Aliverkon peitteet ja oletusyhdyskäytävät ovat samat, koska laitteet kuuluvat samaan paikallisverkkoon.
 
 However, if you need to configure it with a default gateway, which value will the printer use? How can you determine this from the other devices in the network?
+
 Voit selvittää printterin default gateway arvon tarkastelemalla default gateway arvoja, jotka tietokoneille on määritetty DHCP:n kautta. Arvon voi myös saada selvittämällä Office Routerin Ethernet-liitännän IP-osoitteen, joka on yhdistetty toimiston lähiverkkoon. IP-osoite kuvastaa oletusyhdyskäytävää.
+### Part 3: Verify the End Device Configuration and Connectivity
 ## Findings
 What I learned / what the output told me.
 
