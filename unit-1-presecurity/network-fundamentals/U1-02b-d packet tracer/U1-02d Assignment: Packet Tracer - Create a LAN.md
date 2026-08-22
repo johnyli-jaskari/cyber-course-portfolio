@@ -27,7 +27,8 @@ Asetin printer IP-osoitteen manuaalisesti Addressing table:n mukaan.
 
 Why do you think the IPv4 addresses are different, but the subnet masks and default gateways are the same?
 
-IPv4-osoite on yksi tapa tunnistaa jokainen verkon laite toisistaan.
+IPv4-osoite on yksi tapa tunnistaa jokainen verkon laite toisistaan. Aliverkon peitteet ja oletusyhdyskäytävät ovat samat, koska laitteet kuuluvat samaan paikallisverkkoon.
+
 However, if you need to configure it with a default gateway, which value will the printer use? How can you determine this from the other devices in the network?
 
 Voit selvittää printterin default gateway arvon tarkastelemalla default gateway arvoja, jotka tietokoneille on määritetty DHCP:n kautta
