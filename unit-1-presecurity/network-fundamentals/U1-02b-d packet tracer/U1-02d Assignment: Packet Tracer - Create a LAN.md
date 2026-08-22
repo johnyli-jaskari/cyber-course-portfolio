@@ -33,9 +33,15 @@ However, if you need to configure it with a default gateway, which value will th
 
 Voit selvittää printterin default gateway arvon tarkastelemalla default gateway arvoja, jotka tietokoneille on määritetty DHCP:n kautta. Arvon voi myös saada selvittämällä Office Routerin Ethernet-liitännän IP-osoitteen, joka on yhdistetty toimiston lähiverkkoon. IP-osoite kuvastaa oletusyhdyskäytävää.
 ### Part 3: Verify the End Device Configuration and Connectivity
-Tarkistin tietokoneiden IP-osoite asetukset. Admin PC:llä avasin Command Promt ja käytin komentoa ping ja printterin IP-osoitetta, 
+Tarkistin tietokoneiden IP-osoite asetukset. Admin PC:llä avasin Command Promt ja käytin komentoa ping sekä printterin IP-osoitetta, 
 
 ```ping 192.168.1.100```
+
+<img width="512" height="381" alt="image" src="https://github.com/user-attachments/assets/072f466a-76b8-4967-9ba2-0c3ab8a44505" />
+
+Ping komento ja Manager PC:n IP-osoite, ```ping 192.18.1.3```
+
+<img width="487" height="232" alt="image" src="https://github.com/user-attachments/assets/b5af96c1-13f5-4e10-8200-bc174508c615" />
 
 ## Findings
 What I learned / what the output told me.
