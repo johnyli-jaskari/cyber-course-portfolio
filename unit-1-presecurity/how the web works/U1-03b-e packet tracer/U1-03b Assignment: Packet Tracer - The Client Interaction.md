@@ -12,7 +12,7 @@ What I was trying to do.
 ## Steps
 ### Part 1: Enter simulation mode.
 Vaihdoin Realtime modesta Simulation modeen
-<img width="676" height="480" alt="image" src="https://github.com/user-attachments/assets/d99f4143-1b31-47d3-a966-371c6db48475" />
+<img width="1138" height="772" alt="image" src="https://github.com/user-attachments/assets/caef0519-35f9-43f5-a547-149f0e7dbebd" />
 ### Part 2: Set Event List Filters
 Simulation paneelissa poistin kaikki Event List Filters valinnat painamalla Show All/None. Valitsin Edit Filters kohdasta vain DNS ja HTTP.
 
