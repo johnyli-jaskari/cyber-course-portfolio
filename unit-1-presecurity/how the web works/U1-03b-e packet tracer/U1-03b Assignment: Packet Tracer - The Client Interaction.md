@@ -7,7 +7,7 @@
 **Environment:** Packet Tracer
 
 ## Goal
-What I was trying to do.
+Tutkia PC ja Serverin välistä vuorovaikutusta, kun verkkosivua on haettu.
 
 ## Steps
 ### Part 1: Enter simulation mode.
