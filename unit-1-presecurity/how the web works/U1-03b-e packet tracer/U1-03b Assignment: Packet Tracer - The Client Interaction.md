@@ -40,4 +40,4 @@ PDU sisältää OSI model välilehden sekä inbound ja/tai outbound välilehden.
 DNS ja HTTP valittiin, koska DNS selvittää palvelimen IP-osoitteen ja HTTP mahdollistaa verkkosivun hakemisen palvelimelta.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
+PDU tietoja ja viestintää oli osittain hankala tulkita.
