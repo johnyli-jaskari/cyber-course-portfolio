@@ -16,7 +16,7 @@ Vaihdoin Realtime modesta Simulation modeen
 ### Part 2: Set Event List Filters
 Simulation paneelissa poistin kaikki Event List Filters valinnat painamalla Show All/None. Valitsin Edit Filters kohdasta vain DNS ja HTTP.
 
-<img width="476" height="572" alt="image" src="https://github.com/user-attachments/assets/3861c8f3-7d3d-4b57-9278-520f19e9ab55" />
+<img width="456" height="552" alt="image" src="https://github.com/user-attachments/assets/3861c8f3-7d3d-4b57-9278-520f19e9ab55" />
 
 ### Part 3: Request a web page from the PC
 Avasin PC:llä verkkoselaimen ja laitoin hakukenttään www.example.com. Pienensin ikkunan.
