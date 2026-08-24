@@ -7,7 +7,7 @@
 **Environment:** Packet Tracer
 
 ## Goal
-Tutkia PC ja Serverin välistä vuorovaikutusta, kun verkkosivua on haettu.
+Tutkia PC:n ja palvelimen välistä vuorovaikutusta, kun PC hakee verkkosivua.
 
 ## Steps
 ### Part 1: Enter simulation mode.
@@ -22,7 +22,7 @@ Simulation paneelissa poistin kaikki Event List Filters valinnat painamalla Show
 Avasin PC:llä verkkoselaimen ja laitoin hakukenttään www.example.com. Pienensin ikkunan.
 <img width="591" height="185" alt="image" src="https://github.com/user-attachments/assets/b3dad7ab-b3a9-4311-8388-75d1faa8fcad" />
 ### Part 4: Run the simulation
-Käynnistin simulaation PC:n ja Serverin välillä.
+Käynnistin simulaation PC:n ja palvelimen välillä.
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/a0cf4499-192d-4d5f-b10d-6bb3390d0577" />
 
