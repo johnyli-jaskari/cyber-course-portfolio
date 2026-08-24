@@ -16,7 +16,7 @@ Vaihdoin Realtime modesta Simulation modeen
 ### Part 2: Set Event List Filters
 Simulation paneelissa poistin kaikki Event List Filters valinnat painamalla Show All/None. Valitsin Edit Filters kohdasta vain DNS ja HTTP.
 
-<img width="390" height="768" alt="image" src="https://github.com/user-attachments/assets/9d0d6c0e-bc86-4b35-a278-5741954f0fa6" />
+<img width="290" height="668" alt="image" src="https://github.com/user-attachments/assets/9d0d6c0e-bc86-4b35-a278-5741954f0fa6" />
 
 ## Findings
 What I learned / what the output told me.
