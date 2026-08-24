@@ -37,7 +37,7 @@ Tutkin enemmän suoritetusta simulaatiosta. Avasin Simulation Panel Event List e
 ### Part 6: Examine the contents of the PDU Information Window
 PDU sisältää OSI model välilehden sekä inbound ja/tai outbound välilehden. OSI Model sisältää eri kerroksia mitkä kuvaavat tiedon kulkua ja sen eri vaiheita. Vaiheita pystyy käydä yksitellen läpi. Inbound ja Outbound osiot sisältää esimerkiksi lähettäjän ja vastaanottajan IP-osoitteet, MAC-osoitteet. Kävin läpi simulaation eri tapahtumien PDU:t ja niiden eri layerit saadakseni hyvän kuvan miten tehtävässä PC saa verkkosivun auki.
 ## Findings
-What I learned / what the output told me.
+DNS ja HTTP valittiin, koska DNS selvittää palvelimen IP-osoitteen ja HTTP mahdollistaa verkkosivun hakemisen palvelimelta.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
