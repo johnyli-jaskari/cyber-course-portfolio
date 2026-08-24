@@ -24,7 +24,7 @@ Avasin PC:llä verkkoselaimen ja laitoin hakukenttään www.example.com. Pienens
 ### Part 4: Run the simulation
 Käynnistin simulaation PC:n ja Serverin välillä.
 
-<img width="746" height="572" alt="image" src="https://github.com/user-attachments/assets/b45d6182-253b-4b59-8f5e-964ba1863b9f" />
+<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/a0cf4499-192d-4d5f-b10d-6bb3390d0577" />
 
 ### Part 5: Access a specific PDU
 Avasin saman verkkoselaimen PC:llä ja ilmestyi verkkosivu.
