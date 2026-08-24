@@ -41,6 +41,3 @@ What I learned / what the output told me.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
