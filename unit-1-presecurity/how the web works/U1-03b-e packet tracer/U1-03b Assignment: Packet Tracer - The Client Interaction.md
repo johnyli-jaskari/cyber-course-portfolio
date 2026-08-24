@@ -30,6 +30,10 @@ Käynnistin simulaation PC:n ja Serverin välillä.
 Avasin saman verkkoselaimen PC:llä ja ilmestyi verkkosivu.
 <img width="667" height="366" alt="image" src="https://github.com/user-attachments/assets/c46d7779-2c23-405a-8312-26bd0fe9477a" />
 
+Simulation paneeli Event List:ssä avasin PDU tiedot ensimmäisestä tapahtumasta.
+
+<img width="626" height="388" alt="image" src="https://github.com/user-attachments/assets/a9210677-322c-494d-97a8-d370c485cd0e" />
+
 ## Findings
 What I learned / what the output told me.
 
