@@ -10,6 +10,7 @@
 What I was trying to do.
 
 ## Steps
+### Part 1: Enter simulation mode.
 Commands run, in order. Use code blocks.
 
 ## Findings
