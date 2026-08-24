@@ -24,7 +24,7 @@ Avasin PC:llä verkkoselaimen ja laitoin hakukenttään www.example.com
 ### Part 4: Run the simulation
 Käynnistin simulaation PC:n ja Serverin välillä.
 
-<img width="946" height="772" alt="image" src="https://github.com/user-attachments/assets/b45d6182-253b-4b59-8f5e-964ba1863b9f" />
+<img width="746" height="572" alt="image" src="https://github.com/user-attachments/assets/b45d6182-253b-4b59-8f5e-964ba1863b9f" />
 
 
 ## Findings
