@@ -1,7 +1,9 @@
 # Portfolio Setup
 
 **Date:** 2026-08-15
+
 **Source:** Assignment U1-01a — GitHub Repository Setup — Course Portfolio
+
 **Environment:** GitHub web interface
 
 ## Goal
