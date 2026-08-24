@@ -19,13 +19,16 @@ Simulation paneelissa poistin kaikki Event List Filters valinnat painamalla Show
 <img width="250" height="568" alt="image" src="https://github.com/user-attachments/assets/9d0d6c0e-bc86-4b35-a278-5741954f0fa6" />
 
 ### Part 3: Request a web page from the PC
-Avasin PC:llä verkkoselaimen ja laitoin hakukenttään www.example.com
+Avasin PC:llä verkkoselaimen ja laitoin hakukenttään www.example.com. Pienensin ikkunan.
 <img width="591" height="185" alt="image" src="https://github.com/user-attachments/assets/b3dad7ab-b3a9-4311-8388-75d1faa8fcad" />
 ### Part 4: Run the simulation
 Käynnistin simulaation PC:n ja Serverin välillä.
 
 <img width="746" height="572" alt="image" src="https://github.com/user-attachments/assets/b45d6182-253b-4b59-8f5e-964ba1863b9f" />
 
+### Part 5: Access a specific PDU
+Avasin saman verkkoselaimen PC:llä ja ilmestyi verkkosivu.
+<img width="667" height="366" alt="image" src="https://github.com/user-attachments/assets/c46d7779-2c23-405a-8312-26bd0fe9477a" />
 
 ## Findings
 What I learned / what the output told me.
