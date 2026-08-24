@@ -22,6 +22,9 @@ Simulation paneelissa poistin kaikki Event List Filters valinnat painamalla Show
 Avasin PC:llä verkkoselaimen ja laitoin hakukenttään www.example.com
 <img width="591" height="185" alt="image" src="https://github.com/user-attachments/assets/b3dad7ab-b3a9-4311-8388-75d1faa8fcad" />
 ### Part 4: Run the simulation
+Käynnistin simulaation PC:n ja Serverin välillä.
+
+<img width="946" height="772" alt="image" src="https://github.com/user-attachments/assets/b45d6182-253b-4b59-8f5e-964ba1863b9f" />
 
 
 ## Findings
