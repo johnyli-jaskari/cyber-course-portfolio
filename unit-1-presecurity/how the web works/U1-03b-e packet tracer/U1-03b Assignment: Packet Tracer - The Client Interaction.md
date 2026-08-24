@@ -35,7 +35,7 @@ Simulation paneeli Event List:ssä avasin PDU tiedot ensimmäisestä tapahtumast
 <img width="626" height="388" alt="image" src="https://github.com/user-attachments/assets/a9210677-322c-494d-97a8-d370c485cd0e" />
 
 ### Part 6: Examine the contents of the PDU Information Window
-PDU sisältää OSI model välilehden sekä inbound ja/tai outbound välilehden. OSI Model sisältää eri kerroksia mitkä kuvaavat tiedon kulkua ja sen eri vaiheita. Vaiheita pystyy käydä yksitellen läpi. Kävin läpi eri Event List tapahtumien PDU:t ja niiden eri layerit saadakseni hyvän kuvan miten tehtävässä PC saa verkkosivun auki.
+PDU sisältää OSI model välilehden sekä inbound ja/tai outbound välilehden. OSI Model sisältää eri kerroksia mitkä kuvaavat tiedon kulkua ja sen eri vaiheita. Vaiheita pystyy käydä yksitellen läpi. Inbound ja Outbound osiot sisältää esimerkiksi lähettäjän ja vastaanottajan IP-osoitteet, MAC-osoitteet. Kävin läpi eri Event List tapahtumien PDU:t ja niiden eri layerit saadakseni hyvän kuvan miten tehtävässä PC saa verkkosivun auki.
 ## Findings
 What I learned / what the output told me.
 
