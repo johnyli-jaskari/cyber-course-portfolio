@@ -30,7 +30,7 @@ Käynnistin simulaation PC:n ja palvelimen välillä.
 Simulaation suoritettua avasin saman verkkoselaimen PC:llä ja ilmestyi verkkosivu.
 <img width="667" height="366" alt="image" src="https://github.com/user-attachments/assets/c46d7779-2c23-405a-8312-26bd0fe9477a" />
 
-Tutkin enemmän suoritetusta simulaatiosta. Avasin Simulation paneeli Event List:ssä ensimmäisen tapahtuman PDU tiedot.
+Tutkin enemmän suoritetusta simulaatiosta. Avasin Simulation Panel Event List ensimmäisen tapahtuman PDU tiedot.
 
 <img width="626" height="388" alt="image" src="https://github.com/user-attachments/assets/a9210677-322c-494d-97a8-d370c485cd0e" />
 
