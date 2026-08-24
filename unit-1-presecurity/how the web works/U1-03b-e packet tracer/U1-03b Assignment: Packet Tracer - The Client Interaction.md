@@ -12,7 +12,7 @@ What I was trying to do.
 ## Steps
 ### Part 1: Enter simulation mode.
 Vaihdoin Realtime modesta Simulation modeen
-<img width="760" height="577" alt="image" src="https://github.com/user-attachments/assets/2e0baaf7-b334-4432-a965-4aadf003808f" />
+<img width="776" height="580" alt="image" src="https://github.com/user-attachments/assets/d99f4143-1b31-47d3-a966-371c6db48475" />
 
 Commands run, in order. Use code blocks.
 
