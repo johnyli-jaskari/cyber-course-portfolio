@@ -27,10 +27,10 @@ Käynnistin simulaation PC:n ja Serverin välillä.
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/a0cf4499-192d-4d5f-b10d-6bb3390d0577" />
 
 ### Part 5: Access a specific PDU
-Avasin saman verkkoselaimen PC:llä ja ilmestyi verkkosivu.
+Simulaation suoritettua avasin saman verkkoselaimen PC:llä ja ilmestyi verkkosivu.
 <img width="667" height="366" alt="image" src="https://github.com/user-attachments/assets/c46d7779-2c23-405a-8312-26bd0fe9477a" />
 
-Simulaation suoritettua avasin Simulation paneeli Event List:ssä ensimmäisen tapahtuman PDU tiedot.
+Tutkin enemmän suoritetusta simulaatiosta. Avasin Simulation paneeli Event List:ssä ensimmäisen tapahtuman PDU tiedot.
 
 <img width="626" height="388" alt="image" src="https://github.com/user-attachments/assets/a9210677-322c-494d-97a8-d370c485cd0e" />
 
