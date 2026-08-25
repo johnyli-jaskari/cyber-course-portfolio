@@ -22,6 +22,8 @@ External Client PC:llä avasin verkkoselaimen ja hain hakusanalla ciscolearn.web
 <img width="507" height="612" alt="image" src="https://github.com/user-attachments/assets/38e70087-4597-4e38-a81e-5741f2b77722" />
 
 Jätin ikkunan auki.
+### Part 3: View the HTML code
+
 ## Findings
 What I learned / what the output told me.
 
