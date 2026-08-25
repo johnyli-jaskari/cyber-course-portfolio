@@ -14,7 +14,7 @@ What I was trying to do.
 <img width="857" height="310" alt="image" src="https://github.com/user-attachments/assets/6407ab50-6c7b-40d7-91af-4cb64fafc549" />
 
 Käytin External Client Command Promt:ssa ```ping ciscolearn.web.com``` 
-<img width="526" height="350" alt="image" src="https://github.com/user-attachments/assets/c6cdef05-77b4-43c5-9b1b-6639c3aeaee5" />
+<img width="666" height="386" alt="image" src="https://github.com/user-attachments/assets/372b0f34-2160-4f35-bd68-a5b85134c556" />
 
 ### Part 2: Connect to the web server
 External Client PC:llä avasin verkkoselaimen ja hain hakusanalla ciscolearn.web.com
