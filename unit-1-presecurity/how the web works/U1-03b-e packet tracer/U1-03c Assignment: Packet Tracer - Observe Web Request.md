@@ -36,7 +36,7 @@ Tein uuden Complex PDU:n. Asetin External CLient PC:n lähteeksi ja ciscolearn.w
 
 <img width="300" height="437" alt="image" src="https://github.com/user-attachments/assets/7e18e579-9044-46a5-81c0-164236b547ed" />
 
-Aloitin simulaation. HTTP käyttää TCP:tä, joten yhteyden muodostaminen ja pakettien kuittaukset lisäävät verkkoliikennettä.
+Aloitin simulaation. HTTP käyttää TCP:tä, joten yhteyden muodostaminen ja pakettien vastaanoton kuittaukset lisäävät ohjauspaketteja ja samalla verkkoliikennettä paljon. 
 <img width="1732" height="752" alt="image" src="https://github.com/user-attachments/assets/cf0ed538-c1c5-4b46-a86b-e51f498d6b90" />
 
 
