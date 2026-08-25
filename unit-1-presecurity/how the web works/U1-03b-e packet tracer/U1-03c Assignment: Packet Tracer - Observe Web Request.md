@@ -33,6 +33,9 @@ Simulation mode. Valitsin HTTP ja TCP Filters.
 <img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/25796ca7-c3f4-4691-ace7-4237e4c9d390" />
 
 Tein uuden Complex PDU:n. Asetin External CLient PC:n lähteeksi ja ciscolearn.web.com kohteeksi.
+
+<img width="423" height="637" alt="image" src="https://github.com/user-attachments/assets/7e18e579-9044-46a5-81c0-164236b547ed" />
+
 ## Findings
 What I learned / what the output told me.
 
