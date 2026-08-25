@@ -19,7 +19,7 @@ Käytin External Client Command Promt:ssa ```ping ciscolearn.web.com```
 ### Part 2: Connect to the web server
 External Client PC:llä avasin verkkoselaimen ja hain hakusanalla ciscolearn.web.com
 
-<img width="722" height="825" alt="image" src="https://github.com/user-attachments/assets/2695a501-4ea9-4172-9d84-fdc841295b5b" />
+<img width="522" height="625" alt="image" src="https://github.com/user-attachments/assets/2695a501-4ea9-4172-9d84-fdc841295b5b" />
 
 Jätin ikkunan auki.
 ### Part 3: View the HTML code
