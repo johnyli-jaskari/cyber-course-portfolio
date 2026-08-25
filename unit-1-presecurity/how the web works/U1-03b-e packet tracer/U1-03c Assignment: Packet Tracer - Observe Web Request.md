@@ -37,7 +37,7 @@ Tein uuden Complex PDU:n. Asetin External CLient PC:n lähteeksi ja ciscolearn.w
 <img width="300" height="437" alt="image" src="https://github.com/user-attachments/assets/7e18e579-9044-46a5-81c0-164236b547ed" />
 
 Aloitin simulaation. HTTP käyttää TCP protokollaa, joten yhteyden muodostaminen ja pakettien vastaanoton kuittaukset kasvattaa ohjausliikenteen määrää mikä lisää verkkoliikennettä paljon. 
-<img width="1732" height="752" alt="image" src="https://github.com/user-attachments/assets/cf0ed538-c1c5-4b46-a86b-e51f498d6b90" />
+<img width="1782" height="752" alt="image" src="https://github.com/user-attachments/assets/fd1a7a75-01a3-41e4-8783-e16d3083bb64" />
 
 
 ## Findings
