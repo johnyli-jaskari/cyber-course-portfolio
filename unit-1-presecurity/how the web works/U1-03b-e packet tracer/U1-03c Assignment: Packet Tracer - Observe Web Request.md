@@ -1,7 +1,9 @@
 # U1-03c Assignment: Packet Tracer - Observe Web Request
 
 **Date:** 2026-08-24
+
 **Source:** U1-03c Assignment: Packet Tracer - Observe Web Request
+
 **Environment:** Packet Tracer
 
 ## Goal
