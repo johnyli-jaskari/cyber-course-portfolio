@@ -12,7 +12,7 @@ What I was trying to do.
 ## Steps
 ### Part 1: Verify connectivity to the web server.
 <img width="712" height="250" alt="image" src="https://github.com/user-attachments/assets/c738c6e7-acc5-4240-83ab-47ddb51eab5b" />
-
+Käytin External Client Command Promt:ssa ```ping ciscolearn.web.com```
 ## Findings
 What I learned / what the output told me.
 
