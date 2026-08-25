@@ -11,7 +11,7 @@ What I was trying to do.
 
 ## Steps
 ### Part 1: Verify connectivity to the web server.
-<img width="311" height="130" alt="image" src="https://github.com/user-attachments/assets/ac080c2f-2f13-4462-819c-1467ec98ba43" />
+<img width="857" height="310" alt="image" src="https://github.com/user-attachments/assets/6407ab50-6c7b-40d7-91af-4cb64fafc549" />
 
 Käytin External Client Command Promt:ssa ```ping ciscolearn.web.com``` 
 <img width="526" height="350" alt="image" src="https://github.com/user-attachments/assets/c6cdef05-77b4-43c5-9b1b-6639c3aeaee5" />
