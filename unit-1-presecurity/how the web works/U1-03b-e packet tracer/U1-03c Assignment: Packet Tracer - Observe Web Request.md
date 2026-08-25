@@ -42,4 +42,4 @@ Aloitin simulaation. HTTP käyttää TCP protokollaa, joten yhteyden muodostamin
 Simulaation tuloksista kävi ilmi, että External Client koneen ja verkkopalvelimen välisessä HTTP-liikenteessä kulkee runsaasti paketteja.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
+Verkkoliikenteen suuren määrän hahmottaminen tapahtumaluettelosta.
