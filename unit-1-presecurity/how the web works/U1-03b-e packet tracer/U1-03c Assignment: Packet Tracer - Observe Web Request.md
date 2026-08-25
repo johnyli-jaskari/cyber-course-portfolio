@@ -7,8 +7,7 @@
 **Environment:** Packet Tracer
 
 ## Goal
-What I was trying to do.
-
+Tarkastella simulaation avulla, miten tietokoneelta verkkopalvelun pyytäminen verkkopalvelimelle muodostaa TCP-liikennettä ja kasvattaa ohjausliikenteen määrää.
 ## Steps
 ### Part 1: Verify connectivity to the web server.
 <img width="857" height="310" alt="image" src="https://github.com/user-attachments/assets/6407ab50-6c7b-40d7-91af-4cb64fafc549" />
@@ -39,13 +38,8 @@ Tein uuden Complex PDU:n. Asetin External CLient PC:n lähteeksi ja ciscolearn.w
 Aloitin simulaation. HTTP käyttää TCP protokollaa, joten yhteyden muodostaminen ja pakettien vastaanoton kuittaukset kasvattaa ohjausliikenteen määrää mikä lisää verkkoliikennettä paljon. 
 <img width="1782" height="750" alt="image" src="https://github.com/user-attachments/assets/844a5241-dc56-4fee-ac05-2a48a0cdde01" />
 
-
 ## Findings
-What I learned / what the output told me.
+Simulaation tuloksista kävi ilmi, että External Client koneen ja verkkopalvelimen välisessä HTTP-liikenteessä kulkee runsaasti paketteja.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
-
