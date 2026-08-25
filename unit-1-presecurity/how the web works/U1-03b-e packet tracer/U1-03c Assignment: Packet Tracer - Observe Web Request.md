@@ -19,18 +19,18 @@ Käytin External Client Command Promt:ssa ```ping ciscolearn.web.com```
 ### Part 2: Connect to the web server
 External Client PC:llä avasin verkkoselaimen ja hain hakusanalla ciscolearn.web.com
 
-<img width="507" height="612" alt="image" src="https://github.com/user-attachments/assets/38e70087-4597-4e38-a81e-5741f2b77722" />
+<img width="722" height="825" alt="image" src="https://github.com/user-attachments/assets/2695a501-4ea9-4172-9d84-fdc841295b5b" />
 
 Jätin ikkunan auki.
 ### Part 3: View the HTML code
 Avasin ciscolearn.web.com palvelimen joka luo External Client verkkosivun. Menin palvelimen Services osioon ja HTTP välilehteen, index.html tiedosto ja sen muokkaukseen. Vertasin palvelimen html koodia ja External Client verkkosivua. Sisältö on sama.
 
-<img width="1345" height="808" alt="image" src="https://github.com/user-attachments/assets/aa86faa9-f549-4e99-b244-3ee09bbd5c7d" />
+<img width="1440" height="821" alt="image" src="https://github.com/user-attachments/assets/ab63ff88-a352-4d47-937c-7d1708cc3943" />
 
 ### Part 4: Observe traffic between the client and the web server
 Simulation mode. Valitsin HTTP ja TCP Filters.
 
-<img width="300" height="647" alt="image" src="https://github.com/user-attachments/assets/da18429d-6056-48af-80c0-05bcf86153a0" />
+<img width="333" height="750" alt="image" src="https://github.com/user-attachments/assets/25796ca7-c3f4-4691-ace7-4237e4c9d390" />
 
 Tein uuden Complex PDU:n. Asetin External CLient PC:n lähteeksi ja ciscolearn.web.com kohteeksi.
 ## Findings
