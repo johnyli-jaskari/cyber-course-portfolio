@@ -30,7 +30,7 @@ Avasin ciscolearn.web.com palvelimen joka luo External Client verkkosivun. Menin
 ### Part 4: Observe traffic between the client and the web server
 Simulation mode. Valitsin HTTP ja TCP Filters.
 
-<img width="280" height="500" alt="image" src="https://github.com/user-attachments/assets/25796ca7-c3f4-4691-ace7-4237e4c9d390" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/25796ca7-c3f4-4691-ace7-4237e4c9d390" />
 
 Tein uuden Complex PDU:n. Asetin External CLient PC:n lähteeksi ja ciscolearn.web.com kohteeksi.
 ## Findings
