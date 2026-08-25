@@ -23,9 +23,11 @@ External Client PC:llä avasin verkkoselaimen ja hain hakusanalla ciscolearn.web
 
 Jätin ikkunan auki.
 ### Part 3: View the HTML codeiitä
-Avasin ciscolearn.web.com palvelimen joka luo External Client verkkosivun. Menin palvelimen Services osioon ja HTTP välilehteen, index.html tiedosto ja sen muokkaukseen. Vertasin palvelimen html koodia ja External Client verkkosivua.
+Avasin ciscolearn.web.com palvelimen joka luo External Client verkkosivun. Menin palvelimen Services osioon ja HTTP välilehteen, index.html tiedosto ja sen muokkaukseen. Vertasin palvelimen html koodia ja External Client verkkosivua. Sisältö on sama.
 
-<img width="1347" height="842" alt="Näyttökuva 2026-08-25 101030" src="https://github.com/user-attachments/assets/bc3cf2b1-5c3f-4871-952f-64d323799040" />
+<img width="1345" height="808" alt="image" src="https://github.com/user-attachments/assets/aa86faa9-f549-4e99-b244-3ee09bbd5c7d" />
+
+### Part 4: Observe traffic between the client and the web server
 
 ## Findings
 What I learned / what the output told me.
