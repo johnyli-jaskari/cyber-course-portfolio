@@ -30,7 +30,7 @@ Avasin ciscolearn.web.com palvelimen joka luo External Client verkkosivun. Menin
 ### Part 4: Observe traffic between the client and the web server
 Simulation mode. Valitsin HTTP ja TCP Filters.
 
-<img width="327" height="747" alt="image" src="https://github.com/user-attachments/assets/da18429d-6056-48af-80c0-05bcf86153a0" />
+<img width="227" height="547" alt="image" src="https://github.com/user-attachments/assets/da18429d-6056-48af-80c0-05bcf86153a0" />
 
 ## Findings
 What I learned / what the output told me.
