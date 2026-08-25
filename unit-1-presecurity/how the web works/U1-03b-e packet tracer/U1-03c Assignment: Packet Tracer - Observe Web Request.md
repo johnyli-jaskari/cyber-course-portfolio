@@ -18,7 +18,7 @@ Käytin External Client Command Promt:ssa ```ping ciscolearn.web.com```
 ### Part 2: Connect to the web server
 External Client PC:llä avasin verkkoselaimen ja hain hakusanalla ciscolearn.web.com
 
-<img width="522" height="625" alt="image" src="https://github.com/user-attachments/assets/2695a501-4ea9-4172-9d84-fdc841295b5b" /> <img width="592" height="681" alt="image" src="https://github.com/user-attachments/assets/092b8b04-46f8-49e8-bdeb-4230d3fc78d8" />
+<img width="522" height="625" alt="image" src="https://github.com/user-attachments/assets/2695a501-4ea9-4172-9d84-fdc841295b5b" /> <img width="552" height="651" alt="image" src="https://github.com/user-attachments/assets/092b8b04-46f8-49e8-bdeb-4230d3fc78d8" />
 
 
 Jätin ikkunan auki.
