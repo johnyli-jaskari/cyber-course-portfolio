@@ -31,7 +31,7 @@ Syötin komennon ```?``` löytääkseni saatavilla olevat komennot ftp asiakasoh
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ef86da75-e1d5-4eeb-9285-876b8838c9de" />
 
-Tiedoston lähettäminen FTP palvelimelle komennolla ```put sampleFile.txt```. Käytin ```dir``` komentoa, jotta voi tarkistaa tiedoston olevan siirtynyt FTP palvelimelle.
+Tiedoston lähettäminen FTP palvelimelle komennolla ```put sampleFile.txt```. Käytin myös ```dir``` komentoa, jotta voi tarkistaa tiedoston olevan siirtynyt FTP palvelimelle.
 
 <img width="550" height="700" alt="image" src="https://github.com/user-attachments/assets/9d37e7ca-1730-42ff-84e1-b043b5a2160f" />
 
