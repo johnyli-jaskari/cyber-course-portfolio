@@ -38,7 +38,7 @@ Tiedoston sampleFile.txt lähettäminen FTP palvelimelle komennolla ```put sampl
 ### Part 2: Download a file from an FTP server.
 Vaihdoin tiedoston sampleFile.txt nimen uudeksi sampleFile_FTP.txt. Komennolla ```rename sampleFile.txt sampleFile_FTP.txt```. Lopuksi ```dir``` komennolla tarkistaa tiedoston nimen muutoksen.
 
-<img width="572" height="680" alt="image" src="https://github.com/user-attachments/assets/4e584e45-9088-4b02-a601-4cf099ce8a92" />
+<img width="520" height="600" alt="image" src="https://github.com/user-attachments/assets/4e584e45-9088-4b02-a601-4cf099ce8a92" />
 
 Komento ```get sampleFile_FTP.txt``` avulla tiedoston siirtäminen PC:lle. Poistuin ftp asiakasohjelmasta.
 
