@@ -5,7 +5,7 @@
 **Environment:** Packet Tracer
 
 ## Goal
-What I was trying to do.
+Siirtämään tiedostoja tietokoneen ja FTP-palvelimen välillä sekä lataamaan ja poistamaan tiedostoja FTP-palvelimelta.
 
 ## Steps
 ### Part 1: Upload a file to an FTP server.
@@ -55,6 +55,3 @@ What I learned / what the output told me.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
