@@ -31,6 +31,9 @@ Syötin komennon ```?``` löytääkseni saatavilla olevat komennot ftp asiakasoh
 
 <img width="553" height="568" alt="image" src="https://github.com/user-attachments/assets/ef86da75-e1d5-4eeb-9285-876b8838c9de" />
 
+Tiedoston lähettäminen FTP palvelimelle ```put sampleFile.txt```. ```dir``` komennon käyttö, jotta voi tarkistaa tiedoston olevan siirtynyt FTP palvelimelle.
+<img width="660" height="822" alt="image" src="https://github.com/user-attachments/assets/9d37e7ca-1730-42ff-84e1-b043b5a2160f" />
+### Part 2: Download a file from an FTP server.
 
 ## Findings
 What I learned / what the output told me.
