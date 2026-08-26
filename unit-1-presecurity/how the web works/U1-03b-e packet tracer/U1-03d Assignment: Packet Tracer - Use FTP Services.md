@@ -47,6 +47,9 @@ Komento ```get sampleFile_FTP.txt``` avulla tiedoston siirtäminen PC:lle. Poist
 Kirjauduin uudestaan FTP palvelimelle poistaakseni sieltä sampleFile_FTP.txt tiedoston. ```delete sampleFile_FTP.txt```
 <img width="657" height="311" alt="image" src="https://github.com/user-attachments/assets/578c2c16-7b68-4df1-b1f3-b7b226a831ab" />
 
+What command did you use to remove the file from the FTP server? <br>
+delete
+
 ## Findings
 What I learned / what the output told me.
 
