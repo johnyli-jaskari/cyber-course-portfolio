@@ -15,7 +15,7 @@ Avasin PC:n Command Promt ja käytin komentoa ```?``` löytääkseni saatavilla 
 
 <img width="562" height="552" alt="image" src="https://github.com/user-attachments/assets/9b01fe92-5d65-4f5a-a23d-9d38ac1c2e56" />
 
-```dir```  avulla löydän PC:llä olevat tiedostot. Löytyi sampleFile.txt tiedosto.
+```dir```  komennon avulla löydän PC:llä olevat tiedostot. Löytyi sampleFile.txt tiedosto.
 
 <img width="636" height="148" alt="image" src="https://github.com/user-attachments/assets/6703de5f-80e9-4cd7-9a7e-e84cef4215d0" />
 
