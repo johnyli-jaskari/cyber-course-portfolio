@@ -29,7 +29,7 @@ Syötin komennon ```?``` löytääkseni saatavilla olevat komennot ftp asiakasoh
 
 ```dir``` tiedostojen löytämiseen palvelimella.
 
-<img width="553" height="568" alt="image" src="https://github.com/user-attachments/assets/ef86da75-e1d5-4eeb-9285-876b8838c9de" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ef86da75-e1d5-4eeb-9285-876b8838c9de" />
 
 Tiedoston lähettäminen FTP palvelimelle ```put sampleFile.txt```. ```dir``` komennon käyttö, jotta voi tarkistaa tiedoston olevan siirtynyt FTP palvelimelle.
 
