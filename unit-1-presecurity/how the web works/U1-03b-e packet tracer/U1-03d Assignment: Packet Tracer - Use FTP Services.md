@@ -51,7 +51,7 @@ What command did you use to remove the file from the FTP server? <br>
 ```delete sampleFile_FTP.txt```
 
 ## Findings
-What I learned / what the output told me.
+Opin käyttämään FTP-komentoja tiedostojen lataamiseen, nimeämiseen ja poistamiseen palvelimelta.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
+Tarkistin komennon ```?``` kautta oikean tavan poistaa tiedosto.
