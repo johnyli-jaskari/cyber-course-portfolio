@@ -15,10 +15,13 @@ Avasin PC:n Command Promt ja käytin komentoa ```?``` löytääkseni saatavilla 
 
 <img width="662" height="652" alt="image" src="https://github.com/user-attachments/assets/9b01fe92-5d65-4f5a-a23d-9d38ac1c2e56" />
 
-```dir``` Löydän PC:llä olevat tiedostot. Löytyi sampleFile.txt tiedosto.
+```dir```  avulla löydän PC:llä olevat tiedostot. Löytyi sampleFile.txt tiedosto.
 
 <img width="636" height="148" alt="image" src="https://github.com/user-attachments/assets/6703de5f-80e9-4cd7-9a7e-e84cef4215d0" />
 
+Yhdistin FTP serverille, ```ftp 209.165.200.226``` ja syötin käyttäjänimeksi student sekä salasanaksi class.
+
+<img width="652" height="197" alt="image" src="https://github.com/user-attachments/assets/f30b347c-a256-4cce-b816-522dfc2d7f46" />
 
 ## Findings
 What I learned / what the output told me.
