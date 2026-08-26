@@ -19,9 +19,13 @@ Avasin PC:n Command Promt ja käytin komentoa ```?``` löytääkseni saatavilla 
 
 <img width="636" height="148" alt="image" src="https://github.com/user-attachments/assets/6703de5f-80e9-4cd7-9a7e-e84cef4215d0" />
 
-Yhdistin FTP serverille, ```ftp 209.165.200.226``` ja syötin käyttäjänimeksi student sekä salasanaksi class.
+Yhdistin FTP palvelimelle, ```ftp 209.165.200.226``` ja syötin käyttäjänimeksi student sekä salasanaksi class. ftp>.
 
 <img width="652" height="197" alt="image" src="https://github.com/user-attachments/assets/f30b347c-a256-4cce-b816-522dfc2d7f46" />
+
+Syötin komennon ```?``` löytääkseni saatavilla olevat komennot ftp asiakasohjelmassa.
+
+<img width="246" height="203" alt="image" src="https://github.com/user-attachments/assets/482c9142-47c4-47aa-b805-0feac191ff89" />
 
 ## Findings
 What I learned / what the output told me.
