@@ -40,10 +40,11 @@ Vaihdoin tiedoston sampleFile.txt nimen uudeksi sampleFile_FTP.txt. Komennolla `
 
 <img width="572" height="680" alt="image" src="https://github.com/user-attachments/assets/4e584e45-9088-4b02-a601-4cf099ce8a92" />
 
-Komento ```get sampleFile_FTP.txt``` avulla tiedoston siirtäminen PC:lle.
+Komento ```get sampleFile_FTP.txt``` avulla tiedoston siirtäminen PC:lle. Poistuin ftp asiakasohjelmasta.
 
 <img width="515" height="327" alt="image" src="https://github.com/user-attachments/assets/9e253e7b-cc45-4cc4-98a7-85ec4ac003f1" />
 
+Kirjauduin uudestaan FTP palvelimelle poistaakseni sampleFile_FTP.txt tiedoston.
 ## Findings
 What I learned / what the output told me.
 
