@@ -27,6 +27,11 @@ Syötin komennon ```?``` löytääkseni saatavilla olevat komennot ftp asiakasoh
 
 <img width="246" height="203" alt="image" src="https://github.com/user-attachments/assets/482c9142-47c4-47aa-b805-0feac191ff89" />
 
+```dir``` ftp asiakasohjelmassa
+
+<img width="553" height="568" alt="image" src="https://github.com/user-attachments/assets/ef86da75-e1d5-4eeb-9285-876b8838c9de" />
+
+
 ## Findings
 What I learned / what the output told me.
 
