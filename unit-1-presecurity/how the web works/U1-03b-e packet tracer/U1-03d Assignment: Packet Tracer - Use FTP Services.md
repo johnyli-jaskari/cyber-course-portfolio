@@ -25,9 +25,9 @@ Yhdistin FTP palvelimelle, ```ftp 209.165.200.226``` ja syötin käyttäjänimek
 
 Syötin komennon ```?``` löytääkseni saatavilla olevat komennot ftp asiakasohjelmassa.
 
-<img width="246" height="203" alt="image" src="https://github.com/user-attachments/assets/482c9142-47c4-47aa-b805-0feac191ff89" />
+<img width="207" height="183" alt="image" src="https://github.com/user-attachments/assets/011d49c8-ea36-49f4-a1b5-48171f768442" />
 
-```dir``` ftp asiakasohjelmassa
+```dir``` tiedostojen löytämiseen palvelimella.
 
 <img width="553" height="568" alt="image" src="https://github.com/user-attachments/assets/ef86da75-e1d5-4eeb-9285-876b8838c9de" />
 
