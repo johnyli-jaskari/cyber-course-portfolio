@@ -34,7 +34,10 @@ Syötin komennon ```?``` löytääkseni saatavilla olevat komennot ftp asiakasoh
 Tiedoston lähettäminen FTP palvelimelle komennolla ```put sampleFile.txt```. Käytin ```dir``` komentoa, jotta voi tarkistaa tiedoston olevan siirtynyt FTP palvelimelle.
 
 <img width="550" height="700" alt="image" src="https://github.com/user-attachments/assets/9d37e7ca-1730-42ff-84e1-b043b5a2160f" />
+
 ### Part 2: Download a file from an FTP server.
+Vaihdoin tiedoston sampleFile.txt nimen uudeksi sampleFile_FTP.txt, komennolla ```rename sampleFile.txt sampleFile_FTP.txt. Lopuksi ```dir``` komento tarkistaa tiedoston nimen muutoksen.
+<img width="672" height="780" alt="image" src="https://github.com/user-attachments/assets/4e584e45-9088-4b02-a601-4cf099ce8a92" />
 
 ## Findings
 What I learned / what the output told me.
