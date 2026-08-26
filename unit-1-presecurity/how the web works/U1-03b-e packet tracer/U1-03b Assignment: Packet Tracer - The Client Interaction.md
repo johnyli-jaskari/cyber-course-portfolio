@@ -1,9 +1,7 @@
 # U1-03b Assignment: Packet Tracer - The Client Interaction
 
-**Date:** 2026-08-24
-
-**Source:** U1-03b Assignment: Packet Tracer - The Client Interaction
-
+**Date:** 2026-08-24 <br>
+**Source:** U1-03b Assignment: Packet Tracer - The Client Interaction <br>
 **Environment:** Packet Tracer
 
 ## Goal
