@@ -13,7 +13,7 @@ What I was trying to do.
 
 Avasin PC:n Command Promt ja käytin komentoa ```?``` löytääkseni saatavilla olevat komennot.
 
-<img width="662" height="652" alt="image" src="https://github.com/user-attachments/assets/9b01fe92-5d65-4f5a-a23d-9d38ac1c2e56" />
+<img width="562" height="552" alt="image" src="https://github.com/user-attachments/assets/9b01fe92-5d65-4f5a-a23d-9d38ac1c2e56" />
 
 ```dir```  avulla löydän PC:llä olevat tiedostot. Löytyi sampleFile.txt tiedosto.
 
