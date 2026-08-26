@@ -44,7 +44,9 @@ Komento ```get sampleFile_FTP.txt``` avulla tiedoston siirtäminen PC:lle. Poist
 
 <img width="515" height="327" alt="image" src="https://github.com/user-attachments/assets/9e253e7b-cc45-4cc4-98a7-85ec4ac003f1" />
 
-Kirjauduin uudestaan FTP palvelimelle poistaakseni sieltä sampleFile_FTP.txt tiedoston.
+Kirjauduin uudestaan FTP palvelimelle poistaakseni sieltä sampleFile_FTP.txt tiedoston. ```delete sampleFile_FTP.txt```
+<img width="657" height="311" alt="image" src="https://github.com/user-attachments/assets/578c2c16-7b68-4df1-b1f3-b7b226a831ab" />
+
 ## Findings
 What I learned / what the output told me.
 
