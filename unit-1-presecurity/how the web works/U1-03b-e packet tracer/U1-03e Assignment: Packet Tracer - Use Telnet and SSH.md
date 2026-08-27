@@ -16,12 +16,12 @@ Käytin ```ipconfig``` komentoa tarkistaakseni DHCP:n antaman IP-osoitteen molem
 
 <img width="573" height="515" alt="image" src="https://github.com/user-attachments/assets/d26a541d-5153-45ee-949c-b2a242043180" />  <img width="582" height="512" alt="image" src="https://github.com/user-attachments/assets/9d4295a9-84c1-41d9-85bd-673f009da657" />
 
-Varmistin että pystyn pingata retitin HQ:n, käytin komentoa ```ping 64.100.1.1```
+Varmistin yhteyden reititn HQ:n ja tietokoneiden välillä, käytin komentoa ```ping 64.100.1.1```
 
 <img width="561" height="287" alt="image" src="https://github.com/user-attachments/assets/a9ef89c3-1eba-483b-9d64-76a77048fdc9" /> <img width="570" height="288" alt="image" src="https://github.com/user-attachments/assets/ca8cb788-613e-45a2-b4b6-9d754aa655b4" />
 
 ### Part 2: Access a Remote Device
-Yritin ottaa yhteyden HQ reitittimeen komennolla ```telnet 64.100.1.1``` , mutta komento ei onnistunut.
+Yritin ottaa etähallintayhteyden HQ reitittimeen komennolla ```telnet 64.100.1.1``` , mutta komento ei onnistunut.
 
 <img width="727" height="143" alt="image" src="https://github.com/user-attachments/assets/a43e0aca-c6a5-42b1-b2e7-00c97d9109f8" />
 
