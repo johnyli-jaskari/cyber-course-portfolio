@@ -5,7 +5,7 @@
 **Environment:** Packet Tracer
 
 ## Goal
-What I was trying to do.
+Tavoitteena oli muodostaa etäyhteys reitittimeen.
 
 ## Steps
 ### Part 1: Verify Connectivity
@@ -33,7 +33,6 @@ What is prompt after accessing the router successfully via SSH? <br>
 HQ#
 
 ## Findings
-What I learned / what the output told me.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
