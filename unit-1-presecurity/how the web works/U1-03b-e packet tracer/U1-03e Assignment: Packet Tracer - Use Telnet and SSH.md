@@ -25,7 +25,7 @@ Yritin päästä HQ sisälle komennolla ```telnet 64.100.1.1``` , mutta komento 
 
 <img width="727" height="143" alt="image" src="https://github.com/user-attachments/assets/a43e0aca-c6a5-42b1-b2e7-00c97d9109f8" />
 
-Yritin seuraavaksi komentoa ```ssh -l admin 64.100.1.1``` , jonka avulla sain pääsyn HQ:lle
+Yritin seuraavaksi komentoa ```ssh -l admin 64.100.1.1``` ja salasanaa class , jonka avulla sain pääsyn HQ:lle
 
 <img width="727" height="261" alt="image" src="https://github.com/user-attachments/assets/f25e9a13-cf1d-43e7-8b87-e27f59ab22c2" />
 
@@ -37,6 +37,3 @@ What I learned / what the output told me.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
