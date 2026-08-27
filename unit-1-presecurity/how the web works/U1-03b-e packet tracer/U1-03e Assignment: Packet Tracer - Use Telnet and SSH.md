@@ -8,7 +8,7 @@
 What I was trying to do.
 
 ## Steps
-<img width="827" height="371" alt="image" src="https://github.com/user-attachments/assets/0b5d0f17-7383-4063-b1e8-16f4aac2e347" />
+<img width="727" height="331" alt="image" src="https://github.com/user-attachments/assets/0b5d0f17-7383-4063-b1e8-16f4aac2e347" />
 
 ## Findings
 What I learned / what the output told me.
