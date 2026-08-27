@@ -27,7 +27,7 @@ Yritin ottaa etähallintayhteyden HQ reitittimeen komennolla ```telnet 64.100.1.
 
 Yritin seuraavaksi komentoa ```ssh -l admin 64.100.1.1``` ja salasanaa class , jonka avulla sain pääsyn HQ reitittimeen.
 
-<img width="727" height="261" alt="image" src="https://github.com/user-attachments/assets/f25e9a13-cf1d-43e7-8b87-e27f59ab22c2" />
+<img width="727" height="160" alt="image" src="https://github.com/user-attachments/assets/ae2ed341-0949-4fd8-8cb9-383961fd01ce" />
 
 What is prompt after accessing the router successfully via SSH? <br>
 HQ#
