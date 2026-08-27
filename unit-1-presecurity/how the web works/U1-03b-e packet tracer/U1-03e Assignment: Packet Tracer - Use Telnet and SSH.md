@@ -23,11 +23,11 @@ Varmistin yhteyden reititn HQ:n ja tietokoneiden välillä, käytin komentoa ```
 ### Part 2: Access a Remote Device
 Yritin ottaa etähallintayhteyden HQ reitittimeen komennolla ```telnet 64.100.1.1``` , mutta komento ei onnistunut.
 
-<img width="777" height="190" alt="image" src="https://github.com/user-attachments/assets/a43e0aca-c6a5-42b1-b2e7-00c97d9109f8" />
+<img width="777" height="170" alt="image" src="https://github.com/user-attachments/assets/a43e0aca-c6a5-42b1-b2e7-00c97d9109f8" />
 
 Yritin seuraavaksi komentoa ```ssh -l admin 64.100.1.1``` ja salasanaa class , jonka avulla sain pääsyn HQ reitittimeen.
 
-<img width="777" height="210" alt="image" src="https://github.com/user-attachments/assets/ae2ed341-0949-4fd8-8cb9-383961fd01ce" />
+<img width="777" height="190" alt="image" src="https://github.com/user-attachments/assets/ae2ed341-0949-4fd8-8cb9-383961fd01ce" />
 
 What is prompt after accessing the router successfully via SSH? <br>
 HQ#
