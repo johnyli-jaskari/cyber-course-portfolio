@@ -33,7 +33,7 @@ What is prompt after accessing the router successfully via SSH? <br>
 HQ#
 
 ## Findings
-Opin, että Telnet-yhteys voidaan estää reitittimen asetuksilla, jolloin etähallintaan käytetään turvallisempaa SSH-yhteyttä.
+Opin, että etäyhteyksiä voidaan hallita reitittimen asetuksilla ja SSH tarjoaa turvallisen tavan etähallintaan.
 
 ## Issues and how I resolved them
 Telnet-yhteys ei onnistunut, joten käytin SSH-yhteyttä reitittimeen pääsemiseksi.
