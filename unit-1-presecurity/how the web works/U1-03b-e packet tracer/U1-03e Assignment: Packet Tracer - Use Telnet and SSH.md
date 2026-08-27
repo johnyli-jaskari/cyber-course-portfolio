@@ -13,7 +13,7 @@ What I was trying to do.
 ### Part 1: Verify Connectivity
 Käytin ```ipconfig``` komentoa tarkistaakseni DHCP:n antaman IP-osoitteen molemmilta tietokoneilta PC0 ja PC1.
 
-<img width="573" height="515" alt="image" src="https://github.com/user-attachments/assets/d26a541d-5153-45ee-949c-b2a242043180" /> <img width="582" height="512" alt="image" src="https://github.com/user-attachments/assets/9d4295a9-84c1-41d9-85bd-673f009da657" />
+<img width="573" height="515" alt="image" src="https://github.com/user-attachments/assets/d26a541d-5153-45ee-949c-b2a242043180" />  <img width="582" height="512" alt="image" src="https://github.com/user-attachments/assets/9d4295a9-84c1-41d9-85bd-673f009da657" />
 
 
 ## Findings
