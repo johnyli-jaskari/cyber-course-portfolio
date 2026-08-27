@@ -9,6 +9,7 @@ What I was trying to do.
 
 ## Steps
 <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/0b5d0f17-7383-4063-b1e8-16f4aac2e347" />
+
 ### Part 1: Verify Connectivity
 Käytin ```ipconfig``` komentoa tarkistaakseni DHCP:n antaman IP-osoitteen molemmilta tietokoneilta PC0 ja PC1.
 
