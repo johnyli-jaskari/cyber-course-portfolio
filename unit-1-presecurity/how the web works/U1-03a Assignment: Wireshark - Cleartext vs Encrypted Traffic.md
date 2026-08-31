@@ -62,7 +62,7 @@ HTTP siirtää kaiken datan salaamattomana tekstinä, jolloin kuka tahansa verkk
 ### 9. Name one situation in your daily life where you might be sending traffic over an untrusted network (e.g. public Wi-Fi). What protects you, and what would still be exposed? <br>
 Kirjautuminen sähköpostiin kannettavalla julkisessa Wi-Fi-verkossa junassa. HTTPS-salaus (TLS) suojaa itse viestin sisällön. Ulkopuolinen näkee verkkosivuston, siirretyn datan määrän ja ajankohdan.
 
-- What surprised you most about the difference between the two captures?
+- What surprised you most about the difference between the two captures? <br>
 HTTP paketista pystyi lukemaan lauseita, mutta HTTPS paketin kun avasin niin erikoisesti ei saanut selvää. Opin kuitenkin myöhemmin että näiden komentojen välinen ero on aika iso, HTTPS suojaus on kattavampi.
 
 ## Findings
