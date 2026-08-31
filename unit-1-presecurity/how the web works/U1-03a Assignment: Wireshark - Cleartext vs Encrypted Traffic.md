@@ -54,6 +54,12 @@ lab-portal.local
 
 ### 7. Even though the contents are encrypted, name one thing an eavesdropper can still learn from the HTTPS capture (think about addresses, timing, or sizes). <br>  
 IP-osoitteen.
+
+Part C - making sense of it
+
+### 8. In one sentence: why does the protocol choice (HTTP vs HTTPS) matter for confidentiality?
+### 9. Name one situation in your daily life where you might be sending traffic over an untrusted network (e.g. public Wi-Fi). What protects you, and what would still be exposed?
+
 ## Findings
 What I learned / what the output told me.
 
