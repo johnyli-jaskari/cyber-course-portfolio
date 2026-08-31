@@ -38,9 +38,9 @@ Part A - the HTTP capture (U1-03a_http_login.pcap)
 ### 1. Find the login submission. What username and password were sent? Paste the line from the stream where you found them. <br> 
 ```username=anna.virtanen&password=Summer2026!&remember=on```
 ### 2. The login form was submitted using which HTTP method — GET or POST? (Look at the packet that carries the credentials.) <br> 
-POST
+```POST```
 ### 3. After a successful login, the server sends back a Set-Cookie header. What is the value of the SESSIONID cookie? Why might an attacker who sees this cookie be dangerous, even without the password? <br> 
-SESSIONID=a3f9c2e7b81d4f60a5e2c9d10f4b7e88. Hyökkääjä voi kaapata istunnon ja kirjautua sisään uhrin tilille ilman salasanaa.
+```SESSIONID=a3f9c2e7b81d4f60a5e2c9d10f4b7e88```. Hyökkääjä voi kaapata istunnon ja kirjautua sisään uhrin tilille ilman salasanaa.
 ### 4. The dashboard page (the final server response) reveals personal details about the user. List two pieces of sensitive information visible there.  <br>
 Rooli / Työnimike: Taloushallinnon asiantuntija (Finance Administrator). Sähköpostiosoite: anna.virtanen@pohjola-logistics.local.
 
@@ -62,12 +62,11 @@ HTTP siirtää kaiken datan salaamattomana tekstinä, jolloin kuka tahansa verkk
 ### 9. Name one situation in your daily life where you might be sending traffic over an untrusted network (e.g. public Wi-Fi). What protects you, and what would still be exposed? <br>
 Kirjautuminen sähköpostiin kannettavalla julkisessa Wi-Fi-verkossa junassa. HTTPS-salaus (TLS) suojaa itse viestin sisällön. Ulkopuolinen näkee verkkosivuston, siirretyn datan määrän ja ajankohdan.
 
+- What surprised you most about the difference between the two captures?
+HTTP paketista pystyi lukemaan lauseita, mutta HTTPS paketin kun avasin niin erikoisesti ei saanut selvää. Opin kuitenkin myöhemmin että näiden komentojen välinen ero on aika iso, HTTPS suojaus on kattavampi.
+
 ## Findings
 What I learned / what the output told me.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
-
