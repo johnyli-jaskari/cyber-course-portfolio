@@ -36,7 +36,7 @@ Käytin suodatinta ```tls```, tutkin yhtä paketeista ja vertasin tietoja aikais
 ### Step 4 - Complete the worksheet
 Part A - the HTTP capture (U1-03a_http_login.pcap)
 ### 1. Find the login submission. What username and password were sent? Paste the line from the stream where you found them. <br> 
-```username=anna.virtanen&password=Summer2026!&remember=on´´´ <br>
+username=anna.virtanen&password=Summer2026!&remember=on
 ### 2. The login form was submitted using which HTTP method — GET or POST? (Look at the packet that carries the credentials.) <br> 
 POST
 ### 3. After a successful login, the server sends back a Set-Cookie header. What is the value of the SESSIONID cookie? Why might an attacker who sees this cookie be dangerous, even without the password? <br> 
