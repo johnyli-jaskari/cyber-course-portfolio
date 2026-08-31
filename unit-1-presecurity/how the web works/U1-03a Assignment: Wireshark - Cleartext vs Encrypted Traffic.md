@@ -13,7 +13,7 @@ Avasin Kali Linux, wireshark sekä latasin koneelle lab tiedostot.
 
 <img width="1032" height="712" alt="image" src="https://github.com/user-attachments/assets/46e956e0-26ff-4314-9880-eb9f1bf3c699" />
 
-Avasin HTTP capture tiedoston wiresharkissa.
+Avasin HTTP capture lab tiedoston wiresharkissa.
 
 <img width="1247" height="725" alt="image" src="https://github.com/user-attachments/assets/dc6819de-911b-450d-9bac-8e901f9dfc8f" />
 
