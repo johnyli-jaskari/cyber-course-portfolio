@@ -11,7 +11,7 @@ What I was trying to do.
 ### Step 1 - Open the HTTP capture
 Avasin Kali Linux, wireshark sekä latasin koneelle lab tiedostot.
 
-<img width="800" height="550" alt="image" src="https://github.com/user-attachments/assets/46e956e0-26ff-4314-9880-eb9f1bf3c699" />
+<img width="800" height="530" alt="image" src="https://github.com/user-attachments/assets/46e956e0-26ff-4314-9880-eb9f1bf3c699" />
 
 Avasin HTTP lab tiedoston wiresharkissa.
 
