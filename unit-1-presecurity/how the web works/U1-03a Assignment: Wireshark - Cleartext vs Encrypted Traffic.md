@@ -25,11 +25,11 @@ Tutkin HTTP pakettia.
 ### Step 3 - Open the HTTPS capture
 Wiresharkissa avasin seuraavaksi HTTPS lab teidoston. 
 
-<img width="1147" height="652" alt="image" src="https://github.com/user-attachments/assets/a6cf14c6-b4c7-4345-b0ca-7b5586a70b1d" />
+<img width="900" height="452" alt="image" src="https://github.com/user-attachments/assets/a6cf14c6-b4c7-4345-b0ca-7b5586a70b1d" />
 
 Käytin suodatinta ```tls```, tutkin yhtä paketeista ja vertasin tietoja aikaisempaan HTTP pakettiin.
 
-<img width="1150" height="567" alt="image" src="https://github.com/user-attachments/assets/b2f14217-5edd-4ff0-bc9c-691657e57adc" />
+<img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/b2f14217-5edd-4ff0-bc9c-691657e57adc" />
 
 <img width="735" height="652" alt="image" src="https://github.com/user-attachments/assets/c111fde3-010c-4fab-ad7e-b398a97cca29" />
 
