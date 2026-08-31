@@ -17,11 +17,16 @@ Avasin HTTP capture lab tiedoston wiresharkissa.
 
 <img width="1247" height="725" alt="image" src="https://github.com/user-attachments/assets/dc6819de-911b-450d-9bac-8e901f9dfc8f" />
 
-Valitsin HTTP paketin.
+### Step 2 - Follow the conversation
+Tutkin HTTP pakettia.
 
 <img width="832" height="727" alt="image" src="https://github.com/user-attachments/assets/551786d4-0c85-4ee7-9700-9e43f5459607" />
 
+### Step 3 - Open the HTTPS capture
+Wiresharkissa avasin seuraavaksi HTTPS capture lab teidoston. 
 
+Käytin suodatinta ```tls```ja tutkin yhtä paketeista. 
+<img width="1150" height="567" alt="image" src="https://github.com/user-attachments/assets/b2f14217-5edd-4ff0-bc9c-691657e57adc" />
 
 ## Findings
 What I learned / what the output told me.
