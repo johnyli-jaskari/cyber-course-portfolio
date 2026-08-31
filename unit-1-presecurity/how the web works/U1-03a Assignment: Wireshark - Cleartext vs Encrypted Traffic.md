@@ -8,7 +8,10 @@
 What I was trying to do.
 
 ## Steps
-Commands run, in order. Use code blocks.
+### Step 1 - Open the HTTP capture
+Avasin Kali Linux, wireshark sekä latasin koneelle lab tiedostot.
+
+<img width="1032" height="712" alt="image" src="https://github.com/user-attachments/assets/46e956e0-26ff-4314-9880-eb9f1bf3c699" />
 
 ## Findings
 What I learned / what the output told me.
