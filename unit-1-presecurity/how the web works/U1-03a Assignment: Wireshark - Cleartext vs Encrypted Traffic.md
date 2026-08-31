@@ -57,8 +57,10 @@ IP-osoitteen.
 
 Part C - making sense of it
 
-### 8. In one sentence: why does the protocol choice (HTTP vs HTTPS) matter for confidentiality?
-### 9. Name one situation in your daily life where you might be sending traffic over an untrusted network (e.g. public Wi-Fi). What protects you, and what would still be exposed?
+### 8. In one sentence: why does the protocol choice (HTTP vs HTTPS) matter for confidentiality? <br>
+HTTP siirtää kaiken datan salaamattomana tekstinä, jolloin kuka tahansa verkkoliikennettä tarkkaileva voi lukea sen suoraan, kun taas HTTPS salaa kaiken sisällön, jolloin ulkopuoliset näkevät vain kohdan, johon otetaan yhteyttä.
+### 9. Name one situation in your daily life where you might be sending traffic over an untrusted network (e.g. public Wi-Fi). What protects you, and what would still be exposed? <br>
+Kirjautuminen sähköpostiin kannettavalla julkisessa Wi-Fi-verkossa junassa. HTTPS-salaus (TLS) suojaa itse viestisi sisällön. Ulkopuolinen näkee verkkosivuston, siirretyn datan määrän ja ajankohdan.
 
 ## Findings
 What I learned / what the output told me.
