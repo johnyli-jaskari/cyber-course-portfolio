@@ -41,7 +41,15 @@ username=anna.virtanen&password=Summer2026!&remember=on
 POST
 ### 3. After a successful login, the server sends back a Set-Cookie header. What is the value of the SESSIONID cookie? Why might an attacker who sees this cookie be dangerous, even without the password? <br> 
 SESSIONID=a3f9c2e7b81d4f60a5e2c9d10f4b7e88. Hyökkääjä voi kaapata istunnon ja kirjautua sisään uhrin tilille ilman salasanaa.
-### 4. The dashboard page (the final server response) reveals personal details about the user. List two pieces of sensitive information visible there.
+### 4. The dashboard page (the final server response) reveals personal details about the user. List two pieces of sensitive information visible there.  <br>
+Rooli / Työnimike: Taloushallinnon asiantuntija (Finance Administrator). Sähköpostiosoite: anna.virtanen@pohjola-logistics.local.
+
+Part B - the HTTPS capture (U1-03a_https_login.pcap)
+### Apply the filter tls. Can you find the username and password anywhere in this capture? Why or why not?  <br>
+
+### Look at the first TLS packet (the "Client Hello"). One piece of plaintext is still visible here: the name of the server the client is connecting to. What is it? (Hint: look for "Server Name" / SNI in the packet details.)   <br>
+
+### Even though the contents are encrypted, name one thing an eavesdropper can still learn from the HTTPS capture (think about addresses, timing, or sizes).   <br>
 
 ## Findings
 What I learned / what the output told me.
