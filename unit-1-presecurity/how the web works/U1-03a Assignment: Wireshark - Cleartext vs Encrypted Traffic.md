@@ -20,7 +20,7 @@ Avasin HTTP lab tiedoston wiresharkissa.
 ### Step 2 - Follow the conversation
 Tutkin HTTP pakettia.
 
-<img width="732" height="627" alt="image" src="https://github.com/user-attachments/assets/551786d4-0c85-4ee7-9700-9e43f5459607" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/551786d4-0c85-4ee7-9700-9e43f5459607" />
 
 ### Step 3 - Open the HTTPS capture
 Wiresharkissa avasin seuraavaksi HTTPS lab teidoston. 
