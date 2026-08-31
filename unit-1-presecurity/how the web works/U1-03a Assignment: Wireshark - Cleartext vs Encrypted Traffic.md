@@ -15,7 +15,7 @@ Avasin Kali Linux, wireshark sekä latasin koneelle lab tiedostot.
 
 Avasin HTTP lab tiedoston wiresharkissa.
 
-<img width="1000" height="620" alt="image" src="https://github.com/user-attachments/assets/dc6819de-911b-450d-9bac-8e901f9dfc8f" />
+<img width="900" height="560" alt="image" src="https://github.com/user-attachments/assets/dc6819de-911b-450d-9bac-8e901f9dfc8f" />
 
 ### Step 2 - Follow the conversation
 Tutkin HTTP pakettia.
