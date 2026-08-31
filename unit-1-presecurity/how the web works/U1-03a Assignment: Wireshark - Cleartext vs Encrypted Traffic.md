@@ -5,7 +5,7 @@
 **Environment:** Kali Linux, Wireshark
 
 ## Goal
-What I was trying to do.
+Käyttää wireshark, tutkia verkkoliikennettä ja ymmärtää suojaamattoman ja suojatun verkkoliikenteen erot.
 
 ## Steps
 ### Step 1 - Open the HTTP capture
