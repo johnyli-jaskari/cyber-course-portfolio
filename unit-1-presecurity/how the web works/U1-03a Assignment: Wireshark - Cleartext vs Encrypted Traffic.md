@@ -11,7 +11,7 @@ What I was trying to do.
 ### Step 1 - Open the HTTP capture
 Avasin Kali Linux, wireshark sekä latasin koneelle lab tiedostot.
 
-<img width="800" height="510" alt="image" src="https://github.com/user-attachments/assets/46e956e0-26ff-4314-9880-eb9f1bf3c699" />
+<img width="800" height="490" alt="image" src="https://github.com/user-attachments/assets/46e956e0-26ff-4314-9880-eb9f1bf3c699" />
 
 Avasin HTTP lab tiedoston wiresharkissa.
 
@@ -31,7 +31,7 @@ Käytin suodatinta ```tls```, tutkin yhtä paketeista ja vertasin tietoja aikais
 
 <img width="900" height="470" alt="image" src="https://github.com/user-attachments/assets/b2f14217-5edd-4ff0-bc9c-691657e57adc" />
 
-<img width="700" height="580" alt="image" src="https://github.com/user-attachments/assets/c111fde3-010c-4fab-ad7e-b398a97cca29" />
+<img width="700" height="560" alt="image" src="https://github.com/user-attachments/assets/c111fde3-010c-4fab-ad7e-b398a97cca29" />
 
 ### Step 4 - Complete the worksheet
 Part A - the HTTP capture (U1-03a_http_login.pcap)
