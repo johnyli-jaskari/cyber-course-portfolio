@@ -31,7 +31,7 @@ Käytin suodatinta ```tls```, tutkin yhtä paketeista ja vertasin tietoja aikais
 
 <img width="1150" height="567" alt="image" src="https://github.com/user-attachments/assets/b2f14217-5edd-4ff0-bc9c-691657e57adc" />
 
-<img width="835" height="752" alt="image" src="https://github.com/user-attachments/assets/c111fde3-010c-4fab-ad7e-b398a97cca29" />
+<img width="735" height="652" alt="image" src="https://github.com/user-attachments/assets/c111fde3-010c-4fab-ad7e-b398a97cca29" />
 
 ### Step 4 - Complete the worksheet
 Part A - the HTTP capture (U1-03a_http_login.pcap)
