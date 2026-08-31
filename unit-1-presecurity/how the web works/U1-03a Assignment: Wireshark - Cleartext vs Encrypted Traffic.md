@@ -45,13 +45,14 @@ SESSIONID=a3f9c2e7b81d4f60a5e2c9d10f4b7e88. Hyökkääjä voi kaapata istunnon j
 Rooli / Työnimike: Taloushallinnon asiantuntija (Finance Administrator). Sähköpostiosoite: anna.virtanen@pohjola-logistics.local.
 
 Part B - the HTTPS capture (U1-03a_https_login.pcap)
- 5. Apply the filter tls. Can you find the username and password anywhere in this capture? Why or why not?  
+
+- 5. Apply the filter tls. Can you find the username and password anywhere in this capture? Why or why not?  
  
 Käyttäjätunnusta ja salasanaa ei voi löytää paketista. Syynä on se, että HTTPS (TLS) salaa kaiken liikenteen, joten tunnistautumistiedot ovat suojattuja eivätkä näy ulkopuolisille.
 
- 6. Look at the first TLS packet (the "Client Hello"). One piece of plaintext is still visible here: the name of the server the client is connecting to. What is it? (Hint: look for "Server Name" / SNI in the packet details.)   
+- 6. Look at the first TLS packet (the "Client Hello"). One piece of plaintext is still visible here: the name of the server the client is connecting to. What is it? (Hint: look for "Server Name" / SNI in the packet details.)   
 
-7. Even though the contents are encrypted, name one thing an eavesdropper can still learn from the HTTPS capture (think about addresses, timing, or sizes).   <br>
+- 7. Even though the contents are encrypted, name one thing an eavesdropper can still learn from the HTTPS capture (think about addresses, timing, or sizes).   <br>
 
 ## Findings
 What I learned / what the output told me.
