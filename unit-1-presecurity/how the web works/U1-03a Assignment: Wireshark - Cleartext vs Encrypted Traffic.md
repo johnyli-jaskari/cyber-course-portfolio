@@ -1,8 +1,8 @@
-# [Assignment name]
+# Assignment: Wireshark - Cleartext vs Encrypted Traffic
 
-**Date:** YYYY-MM-DD
-**Source:** (Assignment ID, e.g. U1-05b — Linux CLI Basics)
-**Environment:** (host OS, VM, target IP, etc.)
+**Date:** 2026-08-31
+**Source:** Assignment: Wireshark - Cleartext vs Encrypted Traffic
+**Environment:** Kali Linux, Wireshark
 
 ## Goal
 What I was trying to do.
@@ -33,6 +33,15 @@ Käytin suodatinta ```tls```, tutkin yhtä paketeista ja vertasin tietoja aikais
 
 <img width="835" height="752" alt="image" src="https://github.com/user-attachments/assets/c111fde3-010c-4fab-ad7e-b398a97cca29" />
 
+### Step 4 - Complete the worksheet
+Part A - the HTTP capture (U1-03a_http_login.pcap)
+### 1. Find the login submission. What username and password were sent? Paste the line from the stream where you found them.
+
+### 2. The login form was submitted using which HTTP method — GET or POST? (Look at the packet that carries the credentials.)
+
+### 3. After a successful login, the server sends back a Set-Cookie header. What is the value of the SESSIONID cookie? Why might an attacker who sees this cookie be dangerous, even without the password?
+
+### 4. The dashboard page (the final server response) reveals personal details about the user. List two pieces of sensitive information visible there.
 
 ## Findings
 What I learned / what the output told me.
