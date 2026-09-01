@@ -37,7 +37,7 @@ ip a | grep inet
 
 ## VM identity
 - VM name (in VirtualBox): debian
-- Hostname (inside Debian): 
+- Hostname (inside Debian): debian-lab
 - Debian version (from `cat /etc/debian_version`): 13.6
 - Kernel version (from `uname -r`): 6.12.107+deb13-amd64
 
@@ -64,7 +64,7 @@ ip a | grep inet
 - Date taken: 1.9.2026
 
 ## What worked, what didn't
-Two or three sentences on the install experience. What was confusing? What surprised you? What would you do differently if you did it again?
+Debian asennus oli alkuun tuttua, olen asentanut virtuaalikoneita ennenkin. Kuitenkin debian käynnistyksessä oli ongelmia, debian aloitti install osion uudestaan käynnistyksen yhteydessä. Sain uudestaan kokeilemalla asennettua. Jos asentaisin vielä uudestaan niin tarkistaisin ja poistaisin iso tiedoston ennen kuin viimeistelee asennuksen.
 
 ## Findings
 What I learned / what the output told me.
