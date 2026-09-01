@@ -1,7 +1,7 @@
-# Assignment: Wireshark - Cleartext vs Encrypted Traffic
+# U1-03a Assignment: Wireshark - Cleartext vs Encrypted Traffic
 
 **Date:** 2026-08-31  <br>
-**Source:** Assignment: Wireshark - Cleartext vs Encrypted Traffic   <br>
+**Source:** U1-03a Assignment: Wireshark - Cleartext vs Encrypted Traffic   <br>
 **Environment:** Kali Linux, Wireshark    <br>
 
 ## Goal
