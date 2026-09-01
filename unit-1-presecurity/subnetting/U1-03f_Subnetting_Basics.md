@@ -1,8 +1,8 @@
 # U1-03f Assignment: Subnetting Basics
 
-**Date:** 2026-09-1
-**Source:** U1-03f Assignment: Subnetting Basics
-**Environment:** Excel
+**Date:** 2026-09-1   <br>
+**Source:** U1-03f Assignment: Subnetting Basics    <br>
+**Environment:** Excel    <br>
 
 ## Goal
 What I was trying to do.
