@@ -1,8 +1,8 @@
 # Assignment: Wireshark - Cleartext vs Encrypted Traffic
 
-**Date:** 2026-08-31
-**Source:** Assignment: Wireshark - Cleartext vs Encrypted Traffic
-**Environment:** Kali Linux, Wireshark
+**Date:** 2026-08-31  <br>
+**Source:** Assignment: Wireshark - Cleartext vs Encrypted Traffic   <br>
+**Environment:** Kali Linux, Wireshark    <br>
 
 ## Goal
 Käyttää wireshark, tutkia verkkoliikennettä ja ymmärtää suojaamattoman ja suojatun verkkoliikenteen erot.
@@ -67,7 +67,7 @@ Kirjautuminen sähköpostiin kannettavalla julkisessa Wi-Fi-verkossa junassa. HT
 HTTP paketista pystyi lukemaan lauseita, mutta HTTPS paketin kun avasin niin erikoisesti ei saanut selvää. Opin kuitenkin myöhemmin että näiden komentojen välinen ero on aika iso, HTTPS suojaus on kattavampi.
 
 ## Findings
-What I learned / what the output told me.
+Opin enemmän miten wireshark toimii ja sen perusteet
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
+Oli haasteita löytää TLS paketti Client Hello serverin nimi, tutkin kuitenkin pudotusvalikkoja.
