@@ -70,4 +70,4 @@ HTTP paketista pystyi lukemaan lauseita, mutta HTTPS paketin kun avasin niin eri
 Opin enemmän miten wireshark toimii ja sen perusteet
 
 ## Issues and how I resolved them
-Oli haasteita löytää TLS paketti Client Hello serverin nimi, tutkin kuitenkin paketin pudotusvalikkoja.
+Oli haasteita löytää TLS paketti Client Hello serverin nimi, mutta tutkin paketin eri kohtia ja löysin lopulta tarvittavat tiedot.
