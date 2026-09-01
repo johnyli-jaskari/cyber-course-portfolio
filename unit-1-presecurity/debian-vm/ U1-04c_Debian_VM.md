@@ -27,7 +27,7 @@ ip a | grep inet
 
 4. guest-additions-working.png - the VM desktop with the window resized to a non-default shape, showing the Debian desktop filling it (proves Guest Additions is working)
 
-   <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/a0171540-50be-4c18-bb87-420b2d3723ee" />    <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/69fdeac2-bb88-41d9-abe7-35880382f4ae" />
+   <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/a0171540-50be-4c18-bb87-420b2d3723ee" />    <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/69fdeac2-bb88-41d9-abe7-35880382f4ae" />
 
 5. snapshot.png - the VirtualBox Snapshots view showing your snapshot listed
 
