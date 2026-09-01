@@ -23,7 +23,7 @@ uname -a  <br>
 cat /etc/debian_version  <br>
 ip a | grep inet
 
-<img width="1001" height="476" alt="image" src="https://github.com/user-attachments/assets/68c4802f-8e0e-4807-be29-f7599a99e45b" />
+<img width="1001" height="293" alt="image" src="https://github.com/user-attachments/assets/eb6a04f9-7b9c-4ba5-a8ce-ee372f1f6ea0" />
 
 4. guest-additions-working.png - the VM desktop with the window resized to a non-default shape, showing the Debian desktop filling it (proves Guest Additions is working)
 
