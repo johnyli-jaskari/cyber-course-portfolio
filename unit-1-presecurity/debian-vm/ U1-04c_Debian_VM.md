@@ -36,32 +36,32 @@ ip a | grep inet
 # My Debian 13 Lab VM
 
 ## VM identity
-- VM name (in VirtualBox): 
+- VM name (in VirtualBox): debian
 - Hostname (inside Debian): 
-- Debian version (from `cat /etc/debian_version`): 
-- Kernel version (from `uname -r`): 
+- Debian version (from `cat /etc/debian_version`): 13.6
+- Kernel version (from `uname -r`): 6.12.107+deb13-amd64
 
 ## Allocated resources
-- CPU cores: 
-- RAM: 
-- Disk size: 
+- CPU cores: 2
+- RAM: 4096
+- Disk size: 30 GB
 - Network mode: NAT (default)
 
 ## User account
-- Username: 
-- Root account: disabled / enabled (which did you choose?)
-- Sudo works: yes / no
+- Username: john
+- Root account: disabled
+- Sudo works: yes
 
 ## Desktop environment
-- (GNOME / XFCE / KDE / no desktop — command line only)
+- GNOME
 
 ## Guest Additions
-- Installed: yes / no
-- Version (from `VBoxClient --version` in the VM): 
+- Installed: yes
+- Version (from `VBoxClient --version` in the VM): 7.2.6r172322
 
 ## Snapshot
-- Snapshot name: 
-- Date taken: 
+- Snapshot name: clean-install-guest-additions
+- Date taken: 1.9.2026
 
 ## What worked, what didn't
 Two or three sentences on the install experience. What was confusing? What surprised you? What would you do differently if you did it again?
