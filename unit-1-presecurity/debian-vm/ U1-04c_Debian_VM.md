@@ -31,7 +31,7 @@ ip a | grep inet
 
 5. snapshot.png - the VirtualBox Snapshots view showing your snapshot listed
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/14901dd9-4388-4fe2-aa28-381c37a4897e" />
+<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/14901dd9-4388-4fe2-aa28-381c37a4897e" />
 
 # My Debian 13 Lab VM
 
