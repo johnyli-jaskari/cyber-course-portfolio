@@ -5,7 +5,7 @@
 **Environment:** Debian Linux    <br>
 
 ## Goal
-Debian Linux virtuaalikoneen asennus Virtualboxia käyttäen.
+Debian 13 Linux virtuaalikoneen asennus Virtualboxia käyttäen.
 
 ## Steps
 Asensin debian linux käyttöjärjestelmän.
