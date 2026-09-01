@@ -16,7 +16,7 @@ Asensin debian linux käyttöjärjestelmän.
 
 2. login-screen.png - the Debian login screen with your username visible
 
-<img width="600" height="650" alt="image" src="https://github.com/user-attachments/assets/87f826a4-44b2-473d-ab0b-02f91ec0dd66" />
+<img width="550" height="600" alt="image" src="https://github.com/user-attachments/assets/87f826a4-44b2-473d-ab0b-02f91ec0dd66" />
 
 3. terminal-uname.png - a terminal inside the VM showing the output of:  <br>
 uname -a  <br>
