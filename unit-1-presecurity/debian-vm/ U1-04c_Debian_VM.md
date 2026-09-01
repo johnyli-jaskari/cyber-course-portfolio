@@ -5,7 +5,7 @@
 **Environment:** Debian Linux    <br>
 
 ## Goal
-What I was trying to do.
+Debian Linux virtuaalikoneen asennus Virtualboxia käyttäen.
 
 ## Steps
 Asensin debian linux käyttöjärjestelmän.
@@ -67,7 +67,6 @@ ip a | grep inet
 Debian asennus oli alkuun tuttua, olen asentanut virtuaalikoneita ennenkin. Kuitenkin debian käynnistyksessä oli ongelmia, debian aloitti install osion uudestaan käynnistyksen yhteydessä. Sain uudestaan kokeilemalla asennettua. Jos asentaisin vielä uudestaan niin tarkistaisin ja poistaisin iso tiedoston ennen kuin viimeistelee asennuksen.
 
 ## Findings
-What I learned / what the output told me.
-
+Debian linux on toimintakunnossa.
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
+Asennuksessa hieman vastoinkäymisiä. 
