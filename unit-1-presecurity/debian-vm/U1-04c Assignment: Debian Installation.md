@@ -16,7 +16,12 @@ What I was trying to do.
 
 <img width="852" height="925" alt="image" src="https://github.com/user-attachments/assets/87f826a4-44b2-473d-ab0b-02f91ec0dd66" />
 
+3. terminal-uname.png - a terminal inside the VM showing the output of:
+uname -a
+cat /etc/debian_version
+ip a | grep inet
 
+<img width="1001" height="316" alt="image" src="https://github.com/user-attachments/assets/cd993f36-7517-4ebd-a546-9fba3be11a88" />
 
 ## Findings
 What I learned / what the output told me.
