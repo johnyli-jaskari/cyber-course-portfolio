@@ -5,7 +5,10 @@
 **Environment:** Excel    <br>
 
 ## Goal
-What I was trying to do.
+### Task 1 - Binary ↔ decimal for a single octet
+
+- 1.1 - Decimal to binary
+<img width="393" height="717" alt="image" src="https://github.com/user-attachments/assets/42a00de2-ea22-4eac-acc8-ba5a925b53fd" />
 
 ## Steps
 Commands run, in order. Use code blocks.
