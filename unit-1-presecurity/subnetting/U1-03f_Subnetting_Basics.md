@@ -15,7 +15,8 @@
 
 - 1.3 - Full-address conversion <br>
 Write these IPv4 addresses in binary. <br>
-<img width="998" height="212" alt="image" src="https://github.com/user-attachments/assets/d9d708fe-638c-42da-ae40-33bed84b058e" />
+<img width="998" height="212" alt="image" src="https://github.com/user-attachments/assets/d9d708fe-638c-42da-ae40-33bed84b058e" />  <br>
+write these binary IPs in dotted-decimal
 
 
 ## Steps
