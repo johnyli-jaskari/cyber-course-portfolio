@@ -12,7 +12,7 @@ Asensin debian linux käyttöjärjestelmän.
 
 1. vm-settings.png - the VirtualBox Settings window for your VM, showing the System tab (so RAM and CPU allocations are visible)
 
-<img width="630" height="420" alt="image" src="https://github.com/user-attachments/assets/960be193-aced-4aad-be51-ffbc36a90704" />  <img width="630" height="420" alt="image" src="https://github.com/user-attachments/assets/888e7539-f46f-4f11-8db5-b9cc8e4c9c74" />
+<img width="620" height="420" alt="image" src="https://github.com/user-attachments/assets/960be193-aced-4aad-be51-ffbc36a90704" />  <img width="620" height="420" alt="image" src="https://github.com/user-attachments/assets/888e7539-f46f-4f11-8db5-b9cc8e4c9c74" />
 
 2. login-screen.png - the Debian login screen with your username visible
 
