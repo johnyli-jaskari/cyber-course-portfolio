@@ -18,7 +18,7 @@ Write these IPv4 addresses in binary. <br>
 <img width="998" height="212" alt="image" src="https://github.com/user-attachments/assets/d9d708fe-638c-42da-ae40-33bed84b058e" />  
 
 Write these binary IPs in dotted-decimal <br>
-<img width="850" height="146" alt="image" src="https://github.com/user-attachments/assets/83e7f8d7-8437-4ce2-9c7f-5d6c5fe361be" />
+<img width="1229" height="211" alt="image" src="https://github.com/user-attachments/assets/9b76594f-d113-41bc-8d6a-ab62b833a34a" />
 
 
 ## Steps
