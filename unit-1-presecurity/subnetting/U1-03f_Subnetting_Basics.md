@@ -7,8 +7,8 @@
 ## Goal
 ### Task 1 - Binary ↔ decimal for a single octet
 
-- 1.1 - Decimal to binary
-<img width="393" height="717" alt="image" src="https://github.com/user-attachments/assets/42a00de2-ea22-4eac-acc8-ba5a925b53fd" />
+- 1.1 - Decimal to binary  <br>
+<img width="373" height="715" alt="image" src="https://github.com/user-attachments/assets/d4e6f886-ca73-4855-8bb5-16f9984c0a26" />
 
 ## Steps
 Commands run, in order. Use code blocks.
