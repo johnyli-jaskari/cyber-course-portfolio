@@ -71,7 +71,7 @@ Department D: /30
 
 
 In your own words, in 2–3 sentences: why do we need IPv6?    <br>
-
+IPv6 osoitetta tarvitaan ja kehitettiin, koska IPv4 ei pysty tarjoamaan tarpeeksi monta miljardia uniikkia IP-osoitetta eri käyttäjille ja koneille. Uudella standardilla IPv4 ja IPv6 avulla pystytään tarjoamaan yksilöllisiä osoitteita kaikille laitteille. Lisäksi IPv6 tuo mukanaan rakenteellisia parannuksia.
 
 ## Steps
 Commands run, in order. Use code blocks.
