@@ -62,7 +62,7 @@ Department D: /30
 ### Task 6 - IPv6, briefly
 
 - 6.1 - Hex ↔ decimal ↔ binary refresher   <br>
-<img width="612" height="546" alt="image" src="https://github.com/user-attachments/assets/7da818b7-c88a-4328-a139-9b930c71d44d" />
+<img width="602" height="542" alt="image" src="https://github.com/user-attachments/assets/ef506592-3b18-4bcf-8118-299a55d99fb1" />
 
 - 6.2 - Compress these IPv6 addresses    <br>
 
