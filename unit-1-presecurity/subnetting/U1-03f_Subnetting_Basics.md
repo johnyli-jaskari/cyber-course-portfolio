@@ -5,9 +5,8 @@
 **Environment:** Excel    <br>
 
 ## Goal
-
+Ymmärtämään IPv4- ja IPv6-osoitteita, muuntamaan IP-osoitteita desimaali-, binaari- ja CIDR-muotojen välillä sekä laskemaan subnetin verkko-osoite, gateway, käytettävissä olevat host-osoitteet ja broadcast-osoite.
 ## Steps
-Commands run, in order. Use code blocks.
 
 ### Task 1 - Binary ↔ decimal for a single octet
 
