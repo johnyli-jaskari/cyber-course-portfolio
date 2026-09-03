@@ -17,7 +17,7 @@
 Write these IPv4 addresses in binary. <br>
 <img width="1248" height="263" alt="image" src="https://github.com/user-attachments/assets/720274f2-729d-4e42-a586-17eec033feb8" />
 
-- Write these binary IPs in dotted-decimal <br>
+  Write these binary IPs in dotted-decimal <br>
 <img width="1227" height="213" alt="image" src="https://github.com/user-attachments/assets/c1c9716a-9987-477c-b548-beec0c65ec1d" />
 
 ### Task 2 - Recognize the class and CIDR
