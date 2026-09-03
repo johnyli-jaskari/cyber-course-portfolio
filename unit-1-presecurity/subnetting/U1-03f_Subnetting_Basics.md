@@ -26,7 +26,10 @@ Write these binary IPs in dotted-decimal <br>
 <img width="1390" height="687" alt="image" src="https://github.com/user-attachments/assets/a2422851-63a5-4d40-8371-f15d0d36589b" />
 
 - 2.2 - Mask ↔ CIDR ↔ binary   <br>
-<img width="1548" height="486" alt="image" src="https://github.com/user-attachments/assets/e27e1910-c312-4691-9ab9-75483c98d4a2" />
+<img width="1552" height="486" alt="image" src="https://github.com/user-attachments/assets/4619e899-071b-4973-bec5-880ad61faf2b" />
+
+- 2.3 - Networks and hosts per class   <br>
+
 
 ## Steps
 Commands run, in order. Use code blocks.
