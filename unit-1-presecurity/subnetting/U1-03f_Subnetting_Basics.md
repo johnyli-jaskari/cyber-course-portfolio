@@ -5,6 +5,10 @@
 **Environment:** Excel    <br>
 
 ## Goal
+
+## Steps
+Commands run, in order. Use code blocks.
+
 ### Task 1 - Binary ↔ decimal for a single octet
 
 - 1.1 - Decimal to binary  <br>
@@ -72,9 +76,6 @@ Department D: /30
 
 In your own words, in 2–3 sentences: why do we need IPv6?    <br>
 IPv6 osoitetta tarvitaan ja kehitettiin, koska IPv4 ei pysty tarjoamaan tarpeeksi monta miljardia uniikkia IP-osoitetta eri käyttäjille ja koneille. Uudella standardilla IPv4 ja IPv6 avulla pystytään tarjoamaan yksilöllisiä osoitteita kaikille laitteille. Lisäksi IPv6 tuo mukanaan rakenteellisia parannuksia.
-
-## Steps
-Commands run, in order. Use code blocks.
 
 ## Findings
 What I learned / what the output told me.
