@@ -26,7 +26,7 @@ Write these binary IPs in dotted-decimal <br>
 <img width="1390" height="687" alt="image" src="https://github.com/user-attachments/assets/a2422851-63a5-4d40-8371-f15d0d36589b" />
 
 - 2.2 - Mask ↔ CIDR ↔ binary   <br>
-<img width="637" height="200" alt="image" src="https://github.com/user-attachments/assets/94fefbd6-2301-4ed4-8b0f-5428ce5fd9cd" />
+<img width="1548" height="486" alt="image" src="https://github.com/user-attachments/assets/e27e1910-c312-4691-9ab9-75483c98d4a2" />
 
 ## Steps
 Commands run, in order. Use code blocks.
