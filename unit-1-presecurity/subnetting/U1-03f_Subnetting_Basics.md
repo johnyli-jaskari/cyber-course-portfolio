@@ -52,10 +52,10 @@ Which departments have "too much" address space and could use a smaller subnet (
 Osastot B, C ja D saavat /26-verkolla likaa osoitteita ja voisivat käyttää pienempää verkkoa.
 
 Suggest a better CIDR (e.g. /26, /27, /28, /29, /30) for each department.  <br> 
-Department A: /26
-Department B: /27
-Department C: /28
-Department D: /30
+Department A: /26   <br>
+Department B: /27   <br>
+Department C: /28   <br>
+Department D: /30    
 
 <img width="759" height="384" alt="image" src="https://github.com/user-attachments/assets/6086ba8f-fc3d-4655-a8d3-4337a639ba27" />
 
