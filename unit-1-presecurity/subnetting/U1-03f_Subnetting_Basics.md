@@ -43,15 +43,19 @@ Write these IPv4 addresses in binary. <br>
 <img width="1310" height="789" alt="image" src="https://github.com/user-attachments/assets/064cf6d3-d3fd-4ffe-a69c-22fcddab1ee5" />
 
 - 5.2 - Enough hosts? <br>
-Would a /26 fit all four departments? <br>
 
+
+Would a /26 fit all four departments? <br>
+Kyllä, sillä se tarjoaa 62 käyttökelpoista osoitetta.
 
 Which departments have "too much" address space and could use a smaller subnet (higher CIDR number, fewer host bits)?  <br>
-
+Osastot B, C ja D saavat /26-verkolla likaa osoitteita ja voisivat käyttää pienempää verkkoa.
 
 Suggest a better CIDR (e.g. /26, /27, /28, /29, /30) for each department.  <br> 
-
-
+Department A: /26
+Department B: /27
+Department C: /28
+Department D: /30
 
 <img width="759" height="384" alt="image" src="https://github.com/user-attachments/assets/6086ba8f-fc3d-4655-a8d3-4337a639ba27" />
 
