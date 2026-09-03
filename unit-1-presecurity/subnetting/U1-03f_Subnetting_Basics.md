@@ -32,7 +32,9 @@ Write these binary IPs in dotted-decimal <br>
 <img width="1502" height="252" alt="image" src="https://github.com/user-attachments/assets/c369fceb-198a-4165-a511-c043d4b18412" />
 
 ### Task 3 - The five key values - the main event
-<img width="1642" height="992" alt="image" src="https://github.com/user-attachments/assets/3fee93c9-6bb0-41bf-b7bc-0a603c853542" />
+<img width="1607" height="993" alt="image" src="https://github.com/user-attachments/assets/e652e179-f9ec-419a-aa1d-23b3f79a4542" />
+
+### Task 4 - Which subnet does this host belong to?
 
 ## Steps
 Commands run, in order. Use code blocks.
