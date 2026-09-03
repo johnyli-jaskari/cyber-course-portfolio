@@ -31,6 +31,8 @@ Write these binary IPs in dotted-decimal <br>
 - 2.3 - Networks and hosts per class   <br>
 <img width="1581" height="252" alt="image" src="https://github.com/user-attachments/assets/f1fdd59d-de11-40c2-a71c-3d803f0a42fb" />
 
+### Task 3 - The five key values - the main event
+<img width="1650" height="995" alt="image" src="https://github.com/user-attachments/assets/eb863e04-db93-4cab-8e06-760771d2e0cf" />
 
 ## Steps
 Commands run, in order. Use code blocks.
