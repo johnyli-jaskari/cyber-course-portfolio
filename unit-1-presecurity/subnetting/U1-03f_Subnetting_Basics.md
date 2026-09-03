@@ -37,6 +37,8 @@ Write these binary IPs in dotted-decimal <br>
 ### Task 4 - Which subnet does this host belong to?
 <img width="1815" height="732" alt="image" src="https://github.com/user-attachments/assets/4a90d91a-2b9a-4437-a562-a6830d79cd8a" />
 
+### Task 5 - Slicing up a /24
+
 ## Steps
 Commands run, in order. Use code blocks.
 
