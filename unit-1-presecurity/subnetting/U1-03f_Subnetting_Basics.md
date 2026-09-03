@@ -80,4 +80,4 @@ IPv6 osoitetta tarvitaan ja kehitettiin, koska IPv4 ei pysty tarjoamaan tarpeeks
 Opin jakamaan verkon pienempiin aliverkkoihin.
 
 ## Issues and how I resolved them
-Haasteita oli ajoittain IP-osoitteet joissa CIDR mukana, niiden verkon tietojen päätteleminen ja täydentäminen.
+Haasteita oli ajoittain CIDR block verkon tietojen päätteleminen ja täydentäminen.
