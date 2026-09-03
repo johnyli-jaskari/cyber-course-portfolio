@@ -32,7 +32,7 @@ Write these binary IPs in dotted-decimal <br>
 <img width="1581" height="252" alt="image" src="https://github.com/user-attachments/assets/f1fdd59d-de11-40c2-a71c-3d803f0a42fb" />
 
 ### Task 3 - The five key values - the main event
-<img width="1650" height="995" alt="image" src="https://github.com/user-attachments/assets/eb863e04-db93-4cab-8e06-760771d2e0cf" />
+<img width="1667" height="995" alt="image" src="https://github.com/user-attachments/assets/ce55211e-0ed5-47c9-8a1a-ed4331343bcc" />
 
 ## Steps
 Commands run, in order. Use code blocks.
