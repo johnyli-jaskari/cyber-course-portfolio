@@ -29,7 +29,7 @@ Write these binary IPs in dotted-decimal <br>
 <img width="900" height="286" alt="image" src="https://github.com/user-attachments/assets/4619e899-071b-4973-bec5-880ad61faf2b" />
 
 - 2.3 - Networks and hosts per class   <br>
-<img width="1581" height="252" alt="image" src="https://github.com/user-attachments/assets/f1fdd59d-de11-40c2-a71c-3d803f0a42fb" />
+<img width="1502" height="252" alt="image" src="https://github.com/user-attachments/assets/c369fceb-198a-4165-a511-c043d4b18412" />
 
 ### Task 3 - The five key values - the main event
 <img width="1642" height="992" alt="image" src="https://github.com/user-attachments/assets/3fee93c9-6bb0-41bf-b7bc-0a603c853542" />
