@@ -8,7 +8,7 @@
 ### Task 1 - Binary ↔ decimal for a single octet
 
 - 1.1 - Decimal to binary  <br>
-<img width="373" height="715" alt="image" src="https://github.com/user-attachments/assets/d4e6f886-ca73-4855-8bb5-16f9984c0a26" />
+<img width="273" height="515" alt="image" src="https://github.com/user-attachments/assets/d4e6f886-ca73-4855-8bb5-16f9984c0a26" />
 
 - 1.2 - Binary to decimal  <br>
 <img width="592" height="421" alt="image" src="https://github.com/user-attachments/assets/9153c6df-8bf1-4a63-b0db-8b62a4219c9b" />
