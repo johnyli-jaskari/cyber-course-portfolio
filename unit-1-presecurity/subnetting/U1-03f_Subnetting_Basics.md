@@ -65,6 +65,13 @@ Department D: /30
 <img width="602" height="542" alt="image" src="https://github.com/user-attachments/assets/ef506592-3b18-4bcf-8118-299a55d99fb1" />
 
 - 6.2 - Compress these IPv6 addresses    <br>
+<img width="1338" height="209" alt="image" src="https://github.com/user-attachments/assets/30c7a8b9-5528-43e6-a34c-8da81898026a" />
+
+- 6.3 - A conceptual question
+
+
+In your own words, in 2–3 sentences: why do we need IPv6?    <br>
+
 
 ## Steps
 Commands run, in order. Use code blocks.
