@@ -23,6 +23,10 @@ Write these binary IPs in dotted-decimal <br>
 ### Task 2 - Recognize the class and CIDR
 
 - 2.1 - What class is it?  <br>
+<img width="1390" height="687" alt="image" src="https://github.com/user-attachments/assets/a2422851-63a5-4d40-8371-f15d0d36589b" />
+
+- 2.2 - Mask ↔ CIDR ↔ binary   <br>
+<img width="637" height="200" alt="image" src="https://github.com/user-attachments/assets/94fefbd6-2301-4ed4-8b0f-5428ce5fd9cd" />
 
 ## Steps
 Commands run, in order. Use code blocks.
