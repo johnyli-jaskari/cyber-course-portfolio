@@ -35,7 +35,7 @@ Write these binary IPs in dotted-decimal <br>
 <img width="1607" height="992" alt="image" src="https://github.com/user-attachments/assets/e75374d1-aac9-4ff9-869e-705360b9c6ae" />
 
 ### Task 4 - Which subnet does this host belong to?
-<img width="1818" height="727" alt="Näyttökuva 2026-09-03 133448" src="https://github.com/user-attachments/assets/32a60996-3714-4a22-9ac7-46ec906813b0" />
+<img width="1815" height="732" alt="image" src="https://github.com/user-attachments/assets/4a90d91a-2b9a-4437-a562-a6830d79cd8a" />
 
 ## Steps
 Commands run, in order. Use code blocks.
