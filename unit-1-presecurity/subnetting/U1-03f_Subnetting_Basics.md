@@ -11,7 +11,7 @@ Ymmärtämään IPv4- ja IPv6-osoitteita, muuntamaan IP-osoitteita desimaali-, b
 ### Task 1 - Binary ↔ decimal for a single octet
 
 - 1.1 - Decimal to binary  <br>
-<img width="577" height="988" alt="image" src="https://github.com/user-attachments/assets/07404767-45ed-4c4c-b4d3-ce7a7638140a" />
+<img width="477" height="888" alt="image" src="https://github.com/user-attachments/assets/07404767-45ed-4c4c-b4d3-ce7a7638140a" />
 
 - 1.2 - Binary to decimal  <br>
 <img width="397" height="442" alt="image" src="https://github.com/user-attachments/assets/2ca5f758-2480-48b4-a06e-85b107a1ee9c" />
