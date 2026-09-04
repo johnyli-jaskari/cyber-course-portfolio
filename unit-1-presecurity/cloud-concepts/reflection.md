@@ -2,7 +2,7 @@
 
 **Date:** 2026-09-04    <br>
 **Source:** Assignment: Cloud Concepts Reflection <br>
-**Environment:** MacOS, Github
+**Environment:** Github
 
 ## Goal
 What I was trying to do.
