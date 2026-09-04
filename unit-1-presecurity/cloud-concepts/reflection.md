@@ -10,7 +10,7 @@ What I was trying to do.
 ## Steps
 ### 1. Cloud in your own words
 
-Pystyt saamaan netistä virtuaalisia resursseja vuokraamalla teknologiayrityksiltä ja niiden datakeskuksilta. Digitaaliset resurssien avulla voit käyttää eri sovelluksia, palveluita, ohjelmistoja. Voit saada omaan laitteeseesi päivityksiä, kuten tallennustilaa ja laskentatehoa. Kun tarvitsee päivitystä sen sijaan kuin ostaisit kokonaan uuden koneen lähikaupasta pystyt kätevästi saada parannuksia netistä etänä.
+Pystyt saamaan netistä virtuaalisia resursseja vuokraamalla teknologiayrityksiltä ja niiden datakeskuksilta. Digitaaliset resurssien avulla voit täyttää laitteesi potentiaalia ja käyttää eri sovelluksia, palveluita, ohjelmistoja. Voit saada omaan laitteeseesi päivityksiä, kuten tallennustilaa ja laskentatehoa. Kun tarvitsee päivitystä sen sijaan kuin ostaisit kokonaan uuden koneen lähikaupasta pystyt kätevästi saada parannuksia netistä etänä.
 
 ### 2. Traditional → Cloud → Containers
 
