@@ -15,6 +15,9 @@ Pystyt saamaan netistä virtuaalisia resursseja vuokraamalla teknologiayrityksil
 ### 2. Traditional → Cloud → Containers
 Teknologian kehityksen kaava neljässä eri vaiheessa on suorituskyvyn nousu ja samalla fyysisen laitteiston vähentäminen. Jokainen sukupolvi ratkaisi edellisen hitauden. Traditionalin fyysiset koneet olivat kankeita ja Virtualization toi avun omilla virtuaalikone käyttöjärjestelmillä, Cloud ratkaisi VM-infrastruktuurin tekemällä kyseisistä resursseista etänä itsepalveluna tilattavia, ja lopulta Containers poisti lopunkin raskaasta kuormasta. 
 
+### 3. Deployment vs Service models.
+
+
 ## Findings
 What I learned / what the output told me.
 
