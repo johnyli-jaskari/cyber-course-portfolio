@@ -17,6 +17,8 @@ Teknologian kehityksen kaava neljässä eri vaiheessa on suorituskyvyn nousu ja 
 
 ### 3. Deployment vs Service models.
 
+Deployment-malli vastaa kysymykseen: Missä pilvi fyysisesti sijaitsee ja kuka omistaa infrastruktuurin? <br>
+Service-malli vastaa kysymykseen: Mitä olet ostamassa ja kuinka paljon vastuuta haluat kantaa?
 
 ## Findings
 What I learned / what the output told me.
