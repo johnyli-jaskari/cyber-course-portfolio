@@ -8,7 +8,8 @@
 What I was trying to do.
 
 ## Steps
-Commands run, in order. Use code blocks.
+### 1. Cloud in your own words
+
 
 ## Findings
 What I learned / what the output told me.
