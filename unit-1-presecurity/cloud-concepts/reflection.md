@@ -17,8 +17,7 @@ Teknologian kehityksen kaava neljässä eri vaiheessa on suorituskyvyn nousu ja 
 
 ### 3. Deployment vs Service models.
 
-Deployment-malli vastaa kysymykseen: Missä pilvi fyysisesti sijaitsee ja kuka omistaa infrastruktuurin? <br>
-Service-malli vastaa kysymykseen: Mitä olet ostamassa ja kuinka paljon vastuuta haluat kantaa?
+Deployment-malli vastaa kysymykseen: Missä pilvi fyysisesti sijaitsee ja kuka omistaa laitteisto infrastruktuurin? Service-malli vastaa kysymykseen: Mitä olet ostamassa ja kuinka paljon vastuuta haluat kantaa? Microsoft 365 ohjelmisto toimii suoraan selaimessa julkisen pilven jakaman infrastruktuurin päällä ilman, että käyttäjän tarvitsee huolehtia laitteistoista tai palvelimista.
 
 ## Findings
 What I learned / what the output told me.
