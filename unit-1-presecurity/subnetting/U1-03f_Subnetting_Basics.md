@@ -38,7 +38,7 @@ Write these IPv4 addresses in binary. <br>
 <img width="1381" height="897" alt="image" src="https://github.com/user-attachments/assets/b640387d-7938-4230-882c-fbcf8f7bfbbf" />
 
 ### Task 4 - Which subnet does this host belong to?
-<img width="1862" height="762" alt="image" src="https://github.com/user-attachments/assets/7fbfdc2b-6897-4b72-9f0a-3b61b28de344" />
+<img width="1842" height="762" alt="image" src="https://github.com/user-attachments/assets/24fc7d7e-8303-44d4-b94e-2257c3fe3541" />
 
 ### Task 5 - Slicing up a /24
 
