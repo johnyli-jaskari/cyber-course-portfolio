@@ -14,7 +14,7 @@ Ymmärtämään IPv4- ja IPv6-osoitteita, muuntamaan IP-osoitteita desimaali-, b
 <img width="273" height="515" alt="image" src="https://github.com/user-attachments/assets/d4e6f886-ca73-4855-8bb5-16f9984c0a26" />
 
 - 1.2 - Binary to decimal  <br>
-<img width="400" height="321" alt="image" src="https://github.com/user-attachments/assets/9153c6df-8bf1-4a63-b0db-8b62a4219c9b" />
+<img width="497" height="542" alt="image" src="https://github.com/user-attachments/assets/2ca5f758-2480-48b4-a06e-85b107a1ee9c" />
 
 - 1.3 - Full-address conversion <br>
 Write these IPv4 addresses in binary. <br>
