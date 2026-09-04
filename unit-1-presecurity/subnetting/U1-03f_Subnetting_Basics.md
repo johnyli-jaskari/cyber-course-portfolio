@@ -11,7 +11,7 @@ Ymmärtämään IPv4- ja IPv6-osoitteita, muuntamaan IP-osoitteita desimaali-, b
 ### Task 1 - Binary ↔ decimal for a single octet
 
 - 1.1 - Decimal to binary  <br>
-<img width="273" height="515" alt="image" src="https://github.com/user-attachments/assets/d4e6f886-ca73-4855-8bb5-16f9984c0a26" />
+<img width="577" height="988" alt="image" src="https://github.com/user-attachments/assets/07404767-45ed-4c4c-b4d3-ce7a7638140a" />
 
 - 1.2 - Binary to decimal  <br>
 <img width="397" height="442" alt="image" src="https://github.com/user-attachments/assets/2ca5f758-2480-48b4-a06e-85b107a1ee9c" />
@@ -26,7 +26,7 @@ Write these IPv4 addresses in binary. <br>
 ### Task 2 - Recognize the class and CIDR
 
 - 2.1 - What class is it?  <br>
-<img width="1390" height="687" alt="image" src="https://github.com/user-attachments/assets/a2422851-63a5-4d40-8371-f15d0d36589b" />
+<img width="1707" height="856" alt="image" src="https://github.com/user-attachments/assets/99ea270d-b11d-4387-aa77-0a85635a6fd2" />
 
 - 2.2 - Mask ↔ CIDR ↔ binary   <br>
 <img width="900" height="286" alt="image" src="https://github.com/user-attachments/assets/4619e899-071b-4973-bec5-880ad61faf2b" />
@@ -35,15 +35,15 @@ Write these IPv4 addresses in binary. <br>
 <img width="1502" height="252" alt="image" src="https://github.com/user-attachments/assets/c369fceb-198a-4165-a511-c043d4b18412" />
 
 ### Task 3 - The five key values - the main event
-<img width="1607" height="992" alt="image" src="https://github.com/user-attachments/assets/e75374d1-aac9-4ff9-869e-705360b9c6ae" />
+<img width="1381" height="897" alt="image" src="https://github.com/user-attachments/assets/b640387d-7938-4230-882c-fbcf8f7bfbbf" />
 
 ### Task 4 - Which subnet does this host belong to?
-<img width="1815" height="732" alt="image" src="https://github.com/user-attachments/assets/4a90d91a-2b9a-4437-a562-a6830d79cd8a" />
+<img width="1862" height="762" alt="image" src="https://github.com/user-attachments/assets/7fbfdc2b-6897-4b72-9f0a-3b61b28de344" />
 
 ### Task 5 - Slicing up a /24
 
 - 5.1 - Four equal /26 subnets  <br>
-<img width="1310" height="789" alt="image" src="https://github.com/user-attachments/assets/064cf6d3-d3fd-4ffe-a69c-22fcddab1ee5" />
+<img width="1782" height="995" alt="image" src="https://github.com/user-attachments/assets/f48a6afe-0a27-4e4f-957a-5195feddb762" />
 
 - 5.2 - Enough hosts? <br>
 
