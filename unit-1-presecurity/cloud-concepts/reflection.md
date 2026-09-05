@@ -25,7 +25,7 @@ Jaetun vastuun malli kuvaa miten tietoturvavastuu pilviympäristössä jaetaan p
 
 ### 5. Why organisations still hesitate
 
-Organisaatiot voivat epäröidä siirtymistä pilveen lainsäädännöllisten vaatimuksien vuoksi. Esim EU:n GDPR-säätely joka saattaa edellyttää arkaluonteisen datan säilyttämistä paikallisesti tietyillä maantieteellisillä alueilla. Eli mikä tahansa kansainvälinen pilvilpalvelutarjoaja ei välttämättä käy. Toinen merkittävä syy voi olla organisaation olemassa olevat laiteinvestoinnit kuten serverit, datakeskukset ja muut laitteistot. Näiden korvaaminen tekisi investoinnista mitättömän ja samalla tekee kalliiksi pilveen siirtymisestä.
+Organisaatiot voivat epäröidä siirtymistä pilveen lainsäädännöllisten vaatimuksien vuoksi. Esim EU:n GDPR-säätely joka saattaa edellyttää henkilötietojen säilyttämistä paikallisesti tietyillä maantieteellisillä alueilla. Eli mikä tahansa kansainvälinen pilvilpalvelutarjoaja ei välttämättä käy. Toinen merkittävä syy voi olla organisaation olemassa olevat laiteinvestoinnit kuten serverit, datakeskukset ja muut laitteistot. Näiden korvaaminen tekisi investoinnista mitättömän ja samalla tekee kalliiksi pilveen siirtymisestä.
 
 ## Findings
 What I learned / what the output told me.
