@@ -14,7 +14,7 @@ Reflektoida Cloud Concepts -oppituntia ja parantaa ymmärrystäni pilvestä.
 ## Findings
 ### 1. Cloud in your own words
 
-Pystyt saamaan netistä virtuaalisia resursseja vuokraamalla teknologiayrityksiltä ja niiden datakeskuksilta. Digitaaliset resurssien avulla voit täyttää laitteesi potentiaalia ja käyttää eri sovelluksia, palveluita, ohjelmistoja. Voit saada omaan laitteeseesi päivityksiä, kuten tallennustilaa ja laskentatehoa. Kun tarvitsee päivitystä sen sijaan kuin ostaisit kokonaan uuden koneen lähikaupasta tai osia, pystyt kätevästi saada parannuksia netistä etänä.
+Pystyt saamaan netistä virtuaalisia resursseja vuokraamalla teknologiayrityksiltä ja niiden datakeskuksilta. Digitaaliset resurssien avulla voit täyttää laitteesi potentiaalia ja käyttää eri sovelluksia, palveluita, ohjelmistoja. Voit saada omaan laitteeseesi päivityksiä, kuten tallennustilaa ja laskentatehoa. Kun tarvitsee päivitystä sen sijaan kuin ostaisit kokonaan uuden koneen lähikaupasta tai osia, pystyt kätevästi saada parannuksia virtuaalisesti netistä etänä.
 
 ### 2. Traditional → Cloud → Containers
 Teknologian kehityksen kaava neljässä eri vaiheessa on suorituskyvyn nousu ja samalla fyysisen laitteiston vähentäminen. Jokainen sukupolvi ratkaisi edellisen hitauden. Traditionalin fyysiset koneet olivat kankeita ja Virtualization toi avun omilla virtuaalikone käyttöjärjestelmillä, Cloud ratkaisi VM-infrastruktuurin tekemällä kyseisistä resursseista etänä itsepalveluna tilattavia, ja lopulta Containers poisti lopunkin raskaasta kuormasta. 
