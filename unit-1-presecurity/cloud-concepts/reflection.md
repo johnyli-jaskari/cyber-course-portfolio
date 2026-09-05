@@ -19,6 +19,10 @@ Teknologian kehityksen kaava neljässä eri vaiheessa on suorituskyvyn nousu ja 
 
 Deployment-malli vastaa kysymykseen: Missä pilvi fyysisesti sijaitsee ja kuka omistaa laitteisto infrastruktuurin? Service-malli vastaa kysymykseen: Mitä olet ostamassa ja kuinka paljon vastuuta haluat kantaa? Microsoft 365 ohjelmisto toimii suoraan selaimessa julkisen pilven jakaman infrastruktuurin päällä ilman, että käyttäjän tarvitsee huolehtia laitteistoista tai palvelimista.
 
+### 4. The Shared Responsibility Model
+
+Jaetun vastuun malli kuvaa miten tietoturvavastuu pilviympäristössä jaetaan pilvipalveluntarjoajan ja asiakkaan kesken. Pilveen siirtyminen ei siirrä tietoturvavastuita kokonaan palveluntarjoajalle, sillä se riippuu mitä mallia käytetään sekä yleisesti asiakas on aina itse vastuussa omasta datastaan ja identiteetistä.
+
 ## Findings
 What I learned / what the output told me.
 
