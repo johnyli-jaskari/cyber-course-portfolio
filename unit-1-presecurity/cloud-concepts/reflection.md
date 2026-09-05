@@ -28,7 +28,9 @@ Jaetun vastuun malli kuvaa miten tietoturvavastuu pilviympäristössä jaetaan p
 Organisaatiot voivat epäröidä siirtymistä pilveen lainsäädännöllisten vaatimuksien vuoksi. Esim EU:n GDPR-sääntely asettaa vaatimuksia henkilötietojen käsittelylle ja voi rajoittaa niiden siirtämistä EU:n ulkopuolelle, eli mikä tahansa kansainvälinen pilvilpalvelutarjoaja ei välttämättä käy. Toinen merkittävä syy voi olla organisaation olemassa olevat laiteinvestoinnit kuten serverit, datakeskukset ja muut laitteistot. Näiden korvaaminen tekisi investoinnista mitättömän ja samalla tekee kalliiksi pilveen siirtymisestä.
 
 ### 6. Cloud in an entry-level tech role
-   
+
+Microsoft 365 -tiliongelma missä helpdesk-teknikko voi saada käyttäjältä ilmoituksen, ettei tämä pääse kirjautumaan Microsoft 365 -tililleen. Työntekijän pitää selvittää esimerkiksi tunnukset, MFA ja mahdolliset käyttöoikeudet. Toisena esimerkkinä
+
 ## Findings
 What I learned / what the output told me.
 
