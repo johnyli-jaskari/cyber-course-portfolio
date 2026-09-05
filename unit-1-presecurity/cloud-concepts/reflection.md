@@ -5,8 +5,8 @@
 **Environment:** Github
 
 ## Goal
-What I was trying to do.
-
+Reflektoida Cloud Concepts -oppituntia ja parantaa ymmärrystäni pilvipalveluista.
+ 
 ## Steps
 ### 1. Cloud in your own words
 
@@ -41,4 +41,4 @@ What I learned / what the output told me.
 Problems encountered, fixes applied.
 
 ## References
-Links to docs, write-ups, or related notes.
+Oppitunnin
