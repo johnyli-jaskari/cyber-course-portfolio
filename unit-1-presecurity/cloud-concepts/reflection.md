@@ -37,7 +37,7 @@ Organisaatiot voivat epäröidä siirtymistä pilveen lainsäädännöllisten va
 Microsoft 365 -tiliongelma missä helpdesk-teknikko voi saada käyttäjältä ilmoituksen, ettei tämä pääse kirjautumaan Microsoft 365 -tililleen. Tai esimerkkinä yrityksen työntekijät yrittävät käyttää pilvipalvelua, kuten Shopify, mutta palvelu ei toimi, koska heidän verkkoyhteydessään on ongelma. Network technician yrittää selvittää asiaa.
 
 ### 7. Your personal takeaway
-Ymmärrän paremmin MFA:n merkityksen tietoturvassa.
+Kiinnitän enemmän huomiota siihen, minne tallennan tärkeät henkilökohtaiset tietoni, ja huolehdin siitä, että niistä on varmuuskopiot.
 
 ## Issues and how I resolved them
 --
