@@ -6,8 +6,13 @@
 
 ## Goal
 Reflektoida Cloud Concepts -oppituntia ja parantaa ymmärrystäni pilvipalveluista.
- 
+
 ## Steps
+- Tutustuin tehtävänantoon.
+- Kertasin oppitunnilla käyty aihe.
+- Vastsasin kysymyksiin.
+
+## Findings
 ### 1. Cloud in your own words
 
 Pystyt saamaan netistä virtuaalisia resursseja vuokraamalla teknologiayrityksiltä ja niiden datakeskuksilta. Digitaaliset resurssien avulla voit täyttää laitteesi potentiaalia ja käyttää eri sovelluksia, palveluita, ohjelmistoja. Voit saada omaan laitteeseesi päivityksiä, kuten tallennustilaa ja laskentatehoa. Kun tarvitsee päivitystä sen sijaan kuin ostaisit kokonaan uuden koneen lähikaupasta tai osia, pystyt kätevästi saada parannuksia netistä etänä.
@@ -34,11 +39,8 @@ Microsoft 365 -tiliongelma missä helpdesk-teknikko voi saada käyttäjältä il
 ### 7. Your personal takeaway
 Ymmärrän paremmin MFA:n merkityksen tietoturvassa.
 
-## Findings
-What I learned / what the output told me.
-
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
+-
 
 ## References
-Oppitunnin
+Oppitunti materiaali.
