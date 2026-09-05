@@ -5,8 +5,7 @@
 **Environment:** Github
 
 ## Goal
-Reflektoida Cloud Concepts -oppituntia ja parantaa ymmärrystäni pilvipalveluista.
-
+Reflektoida Cloud Concepts -oppituntia ja parantaa ymmärrystäni pilvestä.
 ## Steps
 - Tutustuin tehtävänantoon.
 - Kertasin oppitunnilla käyty aihe.
