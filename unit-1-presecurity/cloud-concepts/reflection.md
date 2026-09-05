@@ -21,7 +21,7 @@ Deployment-malli vastaa kysymykseen: Missä pilvi fyysisesti sijaitsee ja kuka o
 
 ### 4. The Shared Responsibility Model
 
-Jaetun vastuun malli kuvaa miten tietoturvavastuu pilviympäristössä jaetaan pilvipalveluntarjoajan ja asiakkaan kesken. Pilveen siirtyminen ei siirrä tietoturvavastuita kokonaan palveluntarjoajalle, sillä se riippuu mitä mallia käytetään sekä yleisesti asiakas on aina itse vastuussa omasta datastaan ja identiteetistä. Esimerkkinä tietovuototilanne, jossa yritys tallentaa tietoja pilveen Azure tallennustilaan, mutta asettaa vahingossa oikeudet niin, että kuka tahansa internetissä voi lukea, muokata, ladata kyseisiä tietoja. Tietovuoto on yrityksen vika eikä pilvipalvelutarjoajan.
+Jaetun vastuun malli kuvaa miten tietoturvavastuu pilviympäristössä jaetaan pilvipalveluntarjoajan ja asiakkaan kesken. Pilveen siirtyminen ei siirrä tietoturvavastuita kokonaan palveluntarjoajalle, sillä se riippuu mitä mallia käytetään sekä yleisesti asiakas on aina itse vastuussa omasta datastaan ja identiteetistä. Esimerkkinä tietovuototilanne, jossa yritys tallentaa tietoja pilveen Azure tallennustilaan, mutta asettaa vahingossa oikeudet niin, että kuka tahansa internetissä voi lukea, muokata, ladata kyseisiä tietoja. Tietovuoto tapahtui ja on yrityksen vika eikä pilvipalvelutarjoajan, jolla on omalta osaltaan pilvi suojattuna.
 
 ## Findings
 What I learned / what the output told me.
