@@ -40,7 +40,7 @@ Microsoft 365 -tiliongelma missä helpdesk-teknikko voi saada käyttäjältä il
 Ymmärrän paremmin MFA:n merkityksen tietoturvassa.
 
 ## Issues and how I resolved them
--
+--
 
 ## References
 Oppitunti materiaali.
