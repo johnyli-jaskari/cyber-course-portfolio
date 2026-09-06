@@ -8,8 +8,7 @@
 What I was trying to do.
 
 ## Steps
-
-<img width="763" height="451" alt="image" src="https://github.com/user-attachments/assets/75e1a560-2773-4b9a-8a86-48c020662df5" />
+## Part 1 Getting your bearings
 
 Komento: ```whoami```  Tuloste: ```john```
 
@@ -20,7 +19,14 @@ Tuloste: ```uid=1000(john) gid=1000(john) groups=1000(john),24(cdrom),25(floppy)
 
 Komento: ```hostname```  Tuloste: ```debian-lab```
 
-Komento: ```uname -a```  Tuloste: uid=1000(john) gid=1000(john) groups=1000(john),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),102(scanner),106(bluetooth),108(lpadmin)
+Komento: ```uname -a```  
+Tuloste: uid=1000(john) gid=1000(john) groups=1000(john),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),102(scanner),106(bluetooth),108(lpadmin)
+
+### Q1: What username are you logged in as?
+
+### Q2: Are you a member of the sudo group? How can you tell from the output of id?
+
+### Q3: What kernel version is your system running?
 
 ### Part 1 Getting your bearings
 
