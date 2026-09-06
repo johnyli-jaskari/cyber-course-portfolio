@@ -138,4 +138,18 @@ Komento:
 ```
 mkdir -p ~/cyber-course/unit1 ~/cyber-course/unit2 ~/cyber-course/unit3/osint ~/cyber-course/unit3/recon ~/cyber-course/unit3/crypto ~/cyber-course/scratch
 ```
+- Inside ~/cyber-course/scratch/, create three empty files: a.txt, b.txt, c.txt. Verify with ls.
 
+Komento:
+```
+cd ~/cyber-course/scratch/
+touch a.txt b.txt c.txt
+```
+Ja varmisuts ```ls```
+- Copy a.txt to ~/cyber-course/unit1/ with the new name intro.txt. Verify it exists in the new location.
+
+Komento:
+```
+cp ~/cyber-course/scratch/a.txt ~/cyber-course/unit1/intro.txt
+```
+ja tarkistus ```ls ~/cyber-course/unit1/```
