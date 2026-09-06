@@ -44,7 +44,7 @@ Versio 6.12.107+deb13-amd64.   <br>
 (a) Hae sana kirjoittamalla ```/user``` ja painamalla Enter.  (b) Poistu manuaalista painamalla kirjainta ```q```.  <br>
 
 ### Part 2 Navigation
-<img src="./screenshots/Navigation_1.png" width="600" height="300">
+<img src="./screenshots/Navigation_1.png" width="200" height="400">
 
 ### Q6: What did cd - do?
 
