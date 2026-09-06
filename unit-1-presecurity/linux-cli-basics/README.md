@@ -87,19 +87,19 @@ Tuloste: ```/```
 ```cd -``` siirtää takaisin edelliseen hakemistoon, missä oli ennen nykyistä.
 - List the contents of /etc in three ways
 
-Komento: ```ls /etc```
+Komento: ```ls /etc```    <br>
 Tuloste: 
 ```
 adduser.conf            debconf.conf          host.conf        magic           profile.d          subuid
 alsa                    debian_version        hostname         magic.mime      protocols          subuid-
 ```
-Komento: ```ls -l /etc```
+Komento: ```ls -l /etc```     <br>
 Tuloste:
 ```
 -rw-r--r--  1 root                 root                  3981 May  6  2025 adduser.conf
 drwxr-xr-x  3 root                 root                  4096 Sep  1 14:13 alsa
 ```
-Komento: ```ls -la /etc```
+Komento: ```ls -la /etc```    <br>
 Tuloste:
 ```
 drwxr-xr-x 125 root                 root                 12288 Sep  6 13:09 .
