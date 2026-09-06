@@ -1,8 +1,8 @@
 # U1-05b Assignment: Linux CLI Basics
 
-**Date:** 2026-09-06
-**Source:** U1-05b Assignment: Linux CLI Basics
-**Environment:** Debian 13 VM, Linux
+**Date:** 2026-09-06   <br>
+**Source:** U1-05b Assignment: Linux CLI Basics  <br>
+**Environment:** Debian 13 VM, Linux  
 
 ## Goal
 What I was trying to do.
