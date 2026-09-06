@@ -8,7 +8,7 @@
 What I was trying to do.
 
 ## Steps
-## Part 1 Getting your bearings
+### Part 1 Getting your bearings
 ![](./screenshots/Getting-your-bearings_1.png)
 
 Komento: ```whoami```  Tuloste: ```john```
@@ -34,7 +34,7 @@ Versio 6.12.107+deb13-amd64.
 ```whatis``` antaa hyvin lyhyen, yhden rivin tiivistelmän komennon tarkoituksesta. ```man``` tarjoaa laajan ja yksityiskohtaisen käyttöohjeen.
 ### Q5: While in man, how do you (a) search for the word "user" and (b) quit?    <br>
 (a) Hae sana kirjoittamalla ```/user``` ja painamalla Enter.  (b) Poistu manuaalista painamalla kirjainta ```q```.  <br>
-## Part 2 Navigation
+### Part 2 Navigation
 
 ## Findings
 What I learned / what the output told me.
