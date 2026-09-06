@@ -57,46 +57,28 @@ DESCRIPTION
 (a) Hae sana kirjoittamalla ```/user``` ja painamalla Enter.  (b) Poistu manuaalista painamalla kirjainta ```q```.  <br>
 
 ### Part 2 Navigation
-Komento: 
-```
-cd /etc
-pwd
-```
+Komento: ```cd /etc``` ja ```pwd```
+
 Tuloste: ```/etc```
 
-Komento:
-```
-cd ..
-pwd
-```
+Komento:```cd ..``` ja ```pwd```
+
 Tuloste: ```/```
 
-Komento:
-```
-cd /var/log
-pwd
-```
+Komento:```cd /var/log``` ja ```pwd```
+
 Tuloste: ```/var/log```
 
-Komento:
-```
-cd -
-pwd
-```
+Komento:```cd -``` ja ```pwd```
+
 Tuloste: ```/```
 
-Komento:
-```
-cd ~
-pwd
-```
+Komento:```cd ~``` ja ```pwd```
+
 Tuloste: ```/home/john```
 
-Komento:
-```
-cd /
-pwd
-```
+Komento:```cd/``` ja ```pwd```
+
 Tuloste: ```/```
 
 ### Q6: What did cd - do?
