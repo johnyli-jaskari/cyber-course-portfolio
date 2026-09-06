@@ -10,7 +10,7 @@ What I was trying to do.
 ## Steps
 ### Part 1 Getting your bearings
 
-Komento: ```whoami```  Tuloste: ```john```
+Komento: ```whoami```  Tuloste: ```john```   
 
 Komento: ```pwd``` Tuloste: ```/home/john```
 
@@ -57,6 +57,7 @@ Komento: ```man whoami```    Tuloste:
 
 ### Q9: What is the largest file in /var/log? What size is it? 
 Isoin tiedosto on dpkg.log, joka on 804 kilotavua
+
 ## Findings
 What I learned / what the output told me.
 
