@@ -57,8 +57,31 @@ DESCRIPTION
 (a) Hae sana kirjoittamalla ```/user``` ja painamalla Enter.  (b) Poistu manuaalista painamalla kirjainta ```q```.  <br>
 
 ### Part 2 Navigation
-<img src="./screenshots/Navigation_1.png" width="400" height="800">
-
+Komento: 
+```
+cd /etc
+pwd
+cd ..
+pwd
+cd /var/log
+pwd
+cd -
+pwd
+cd ~
+pwd
+cd /
+pwd
+```
+Tuloste: 
+```
+/etc
+/
+/var/log
+/
+/
+/home/john
+/
+```
 ### Q6: What did cd - do?
 ```cd -``` siirtää takaisin edelliseen hakemistoon, missä oli ennen nykyistä.
 
@@ -70,11 +93,3 @@ DESCRIPTION
 ### Q9: What is the largest file in /var/log? What size is it? 
 Isoin tiedosto on dpkg.log, joka on 804 kilotavua
 
-## Findings
-What I learned / what the output told me.
-
-## Issues and how I resolved them
-Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
