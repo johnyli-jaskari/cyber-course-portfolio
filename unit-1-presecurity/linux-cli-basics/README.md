@@ -151,8 +151,9 @@ Ja varmistus ```ls```
 Komento:```cp ~/cyber-course/scratch/a.txt ~/cyber-course/unit1/intro.txt```
 
 ja tarkistus ```ls ~/cyber-course/unit1/```
-
 - Move b.txt to ~/cyber-course/unit2/.
 
 Komento: ```mv ~/cyber-course/scratch/b.txt ~/cyber-course/unit2/```   <br>
-ja tarkistus ```ls ~/cyber-course/unit2/```
+- Rename c.txt to notes.txt (still in scratch/).
+
+Komento: ```mv ~/cyber-course/scratch/c.txt ~/cyber-course/scratch/notes.txt```
