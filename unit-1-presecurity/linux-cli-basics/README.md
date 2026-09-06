@@ -17,9 +17,10 @@ Komento: ```pwd``` Tuloste: ```/home/john```
 
 Komento: ```id```   
 Tuloste: ```uid=1000(john) gid=1000(john) groups=1000(john),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),102(scanner),106(bluetooth),108(lpadmin)```
+
 Komento: ```hostname```  Tuloste: ```debian-lab```
 
-
+Komento: ```uname -a```  Tuloste: uid=1000(john) gid=1000(john) groups=1000(john),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),102(scanner),106(bluetooth),108(lpadmin)
 
 ### Part 1 Getting your bearings
 
