@@ -39,7 +39,18 @@ Versio 6.12.107+deb13-amd64.   <br>
                                                                                                                                       
 Komento: ```whatis whoami```    Tuloste: ```whoami (1)           - print effective user name```
 
-Komento: ```man whoami```    Tuloste: 
+Komento: ```man whoami```    
+Tuloste: 
+```
+NAME
+       whoami - print effective user name
+
+SYNOPSIS
+       whoami [OPTION]...
+
+DESCRIPTION
+       Print the user name associated with the current effective user ID.  Same as id -un.
+```
 ### Q4: What is the difference in the depth of information they give you?   <br>
 ```whatis``` antaa hyvin lyhyen, yhden rivin tiivistelmän komennon tarkoituksesta. ```man``` tarjoaa laajan ja yksityiskohtaisen käyttöohjeen.
 ### Q5: While in man, how do you (a) search for the word "user" and (b) quit?    <br>
