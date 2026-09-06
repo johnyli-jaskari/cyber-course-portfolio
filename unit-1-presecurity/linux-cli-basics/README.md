@@ -85,7 +85,26 @@ Tuloste: ```/```
 
 ### Q6: What did cd - do?
 ```cd -``` siirtää takaisin edelliseen hakemistoon, missä oli ennen nykyistä.
+- List the contents of /etc in three ways
 
+Komento: ```ls /etc```
+Tuloste: 
+```
+adduser.conf            debconf.conf          host.conf        magic           profile.d          subuid
+alsa                    debian_version        hostname         magic.mime      protocols          subuid-
+```
+Komento: ```ls -l /etc```
+Tuloste:
+```
+-rw-r--r--  1 root                 root                  3981 May  6  2025 adduser.conf
+drwxr-xr-x  3 root                 root                  4096 Sep  1 14:13 alsa
+```
+Komento: ```ls -la /etc```
+Tuloste:
+```
+drwxr-xr-x 125 root                 root                 12288 Sep  6 13:09 .
+drwxr-xr-x  19 root                 root                  4096 Sep  1 14:15 ..
+```
 ### Q7: What additional information does -l give you over plain ls?    <br>
 ```-l``` antaa tavalliseen ls-komentoon verrattuna yksityiskohtaisempia tietoja kuten tiedostojen ja hakemistojen käyttöoikeudet, linkkien määrän, omistajan ja ryhmän, koon tavuina sekä muokkausajankohdan.  <br>
 ### Q8: What does -a show that wasn't visible before? Name two examples from the output.   <br>
