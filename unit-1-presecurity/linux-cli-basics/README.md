@@ -1,8 +1,8 @@
-# [Assignment name]
+# U1-05b Assignment: Linux CLI Basics
 
-**Date:** YYYY-MM-DD
-**Source:** (Assignment ID, e.g. U1-05b — Linux CLI Basics)
-**Environment:** (host OS, VM, target IP, etc.)
+**Date:** 2026-09-06
+**Source:** U1-05b Assignment: Linux CLI Basics
+**Environment:** Debian 13 VM, Linux
 
 ## Goal
 What I was trying to do.
