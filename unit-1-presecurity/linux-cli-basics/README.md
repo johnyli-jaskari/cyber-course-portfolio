@@ -61,7 +61,7 @@ Komento:
 ```
 cd /etc
 pwd
-``´
+```
 Tuloste: ```/etc```
 
 Komento:
