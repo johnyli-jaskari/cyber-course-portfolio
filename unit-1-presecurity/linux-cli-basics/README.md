@@ -28,11 +28,13 @@ Käyttäjänimi on john.    <br>
 Kyllä, olen sudo-ryhmän jäsen. Sen näkee id-komennon tulosteesta ryhmälistauksessa olevasta merkinnästä 27(sudo).   <br>
 ### Q3: What kernel version is your system running?  <br>
 Versio 6.12.107+deb13-amd64.   <br>
+- Find out what whoami is for using two different help tools   <br>
 ![](./screenshots/Getting-your-bearings_2.png)   <img src="./screenshots/Getting-your-bearings_3.png" width="800" height="500">     <br>
 ### Q4: What is the difference in the depth of information they give you?   <br>
 ```whatis``` antaa hyvin lyhyen, yhden rivin tiivistelmän komennon tarkoituksesta. ```man``` tarjoaa laajan ja yksityiskohtaisen käyttöohjeen.
 ### Q5: While in man, how do you (a) search for the word "user" and (b) quit?    <br>
 (a) Hae sana kirjoittamalla ```/user``` ja painamalla Enter.  (b) Poistu manuaalista painamalla kirjainta ```q```.  <br>
+
 ### Part 2 Navigation
 
 ## Findings
