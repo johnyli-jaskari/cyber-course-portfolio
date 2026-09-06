@@ -9,7 +9,7 @@ What I was trying to do.
 
 ## Steps
 ## Part 1 Getting your bearings
-(.screenshots/Getting-your-bearings_1.png)
+!(.screenshots/Getting-your-bearings_1.png)
 
 Komento: ```whoami```  Tuloste: ```john```
 
