@@ -79,7 +79,7 @@ Komento:```cd ~``` ja ```pwd```
 
 Tuloste: ```/home/john```
 
-Komento:```cd/``` ja ```pwd```
+Komento:```cd /``` ja ```pwd```
 
 Tuloste: ```/```
 
