@@ -57,7 +57,8 @@ DESCRIPTION
 (a) Hae sana kirjoittamalla ```/user``` ja painamalla Enter.  (b) Poistu manuaalista painamalla kirjainta ```q```.  <br>
 
 ### Part 2 Navigation
-- From your home directory, navigate as follows. After each cd, run pwd to confirm where you are.  <br>
+- From your home directory, navigate as follows. After each cd, run pwd to confirm where you are.
+
 Komento: ```cd /etc``` ja ```pwd```
 
 Tuloste: ```/etc```
