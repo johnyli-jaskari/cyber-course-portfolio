@@ -162,5 +162,13 @@ Komento: ```mv ~/cyber-course/scratch/c.txt ~/cyber-course/scratch/notes.txt``` 
   Today I learned that mv is also rename, and that nano shows shortcuts at the bottom.
 
 ### Q12: What key combination did you use to save? What key combination did you use to exit?
-Save: Ctrl + O (ja Enter)
+Save: Ctrl + O (ja Enter)   <br>
 Exit: Ctrl + X
+
+Komento: ```cat ~/cyber-course/unit1/intro.txt``` , vahvistaa sisällön ja tuo esiin tekstin.
+### Q13: Why did rmdir fail (or succeed)?
+Komento epäonnistui, koska rmdir-komento pystyy poistamaan vain täysin tyhjiä kansioita. Kansio scratch/ sisältää tiedoston note.txt.
+
+- Now delete ~/cyber-course/scratch/ properly. Show the command you used.
+
+Komento: ```rm -r ~/cyber-course/scratch/```
