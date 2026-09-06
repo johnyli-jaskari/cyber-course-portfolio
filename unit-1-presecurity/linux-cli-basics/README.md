@@ -111,6 +111,22 @@ drwxr-xr-x  19 root                 root                  4096 Sep  1 14:15 ..
 ```-a``` näyttää myös piilotetut tiedostot ja hakemistot. Esimerkiksi . ja ..
 - Run ls -lh /var/log.
 
-### Q9: What is the largest file in /var/log? What size is it? 
-Isoin tiedosto on dpkg.log, joka on 804 kilotavua
+Komento: ```ls -lh /var/log```
+Tuloste: 
+```
+-rw-r--r--  1 root              root             49K Sep  1 17:11 alternatives.log
+drwxr-xr-x  2 root              root            4.0K Sep  1 17:46 apt
+```
 
+### Q9: What is the largest file in /var/log? What size is it?    <br>
+Isoin tiedosto on dpkg.log, joka on 804 kilotavua
+- Run ls -lt /var/log.
+
+Komento: ```ls -lt /var/log
+Tuloste:
+```
+-rw-r--r--  1 root              root              8192 Sep  6 13:11 wtmp.db
+-rw-rw-r--  1 root              utmp              4608 Sep  6 13:10 wtmp
+```
+### Q10: What was modified most recently?    <br>
+Viimeisimpänä hakemistossa /var/log on muokattu tiedostoa wtmp.db
