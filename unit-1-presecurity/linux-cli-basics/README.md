@@ -9,7 +9,7 @@ What I was trying to do.
 
 ## Steps
 ### Part 1 Getting your bearings
-- Open a terminal on your Debian VM
+- Open a terminal on your Debian VM.
 
 Komento: ```whoami```  Tuloste: ```john```   
 
@@ -35,7 +35,7 @@ Käyttäjänimi on john.    <br>
 Kyllä, olen sudo-ryhmän jäsen. Sen näkee id-komennon tulosteesta ryhmälistauksessa olevasta merkinnästä 27(sudo).   <br>
 ### Q3: What kernel version is your system running?  <br>
 Versio 6.12.107+deb13-amd64.   <br>
-- Find out what whoami is for using two different help tools
+- Find out what whoami is for using two different help tools.
                                                                                                                                       
 Komento: ```whatis whoami```    Tuloste: ```whoami (1)           - print effective user name```
 
@@ -85,7 +85,7 @@ Tuloste: ```/```
 
 ### Q6: What did cd - do?
 ```cd -``` siirtää takaisin edelliseen hakemistoon, missä oli ennen nykyistä.
-- List the contents of /etc in three ways
+- List the contents of /etc in three ways.
 
 Komento: ```ls /etc```    <br>
 Tuloste: 
@@ -109,7 +109,7 @@ drwxr-xr-x  19 root                 root                  4096 Sep  1 14:15 ..
 ```-l``` antaa tavalliseen ls-komentoon verrattuna yksityiskohtaisempia tietoja kuten tiedostojen ja hakemistojen käyttöoikeudet, linkkien määrän, omistajan ja ryhmän, koon tavuina sekä muokkausajankohdan.  <br>
 ### Q8: What does -a show that wasn't visible before? Name two examples from the output.   <br>
 ```-a``` näyttää myös piilotetut tiedostot ja hakemistot. Esimerkiksi . ja ..
-- Run ls -lh /var/log
+- Run ls -lh /var/log.
 
 ### Q9: What is the largest file in /var/log? What size is it? 
 Isoin tiedosto on dpkg.log, joka on 804 kilotavua
