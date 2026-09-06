@@ -9,6 +9,7 @@ What I was trying to do.
 
 ## Steps
 ### Part 1 Getting your bearings
+- Open a terminal on your Debian VM
 
 Komento: ```whoami```  Tuloste: ```john```   
 
