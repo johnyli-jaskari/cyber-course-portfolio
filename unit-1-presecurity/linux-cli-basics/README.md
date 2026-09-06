@@ -145,11 +145,14 @@ Komento:
 cd ~/cyber-course/scratch/
 touch a.txt b.txt c.txt
 ```
-Ja varmisuts ```ls```
+Ja varmistus ```ls```
 - Copy a.txt to ~/cyber-course/unit1/ with the new name intro.txt. Verify it exists in the new location.
+
+Komento:```cp ~/cyber-course/scratch/a.txt ~/cyber-course/unit1/intro.txt```
+
+ja tarkistus ```ls ~/cyber-course/unit1/```
+
+- Move b.txt to ~/cyber-course/unit2/.
 
 Komento:
 ```
-cp ~/cyber-course/scratch/a.txt ~/cyber-course/unit1/intro.txt
-```
-ja tarkistus ```ls ~/cyber-course/unit1/```
