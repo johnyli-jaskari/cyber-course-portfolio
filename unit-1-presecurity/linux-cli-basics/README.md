@@ -10,6 +10,7 @@ What I was trying to do.
 ## Steps
 ### Part 1 Getting your bearings
 <img src="./screenshots/Getting-your-bearings_1.png" width="600" height="300">
+
 Komento: ```whoami```  Tuloste: ```john```
 
 Komento: ```pwd``` Tuloste: ```/home/john```
