@@ -28,8 +28,8 @@ Käyttäjänimi on john.    <br>
 ### Q2: Are you a member of the sudo group? How can you tell from the output of id?    <br>
 Kyllä, olen sudo-ryhmän jäsen. Sen näkee id-komennon tulosteesta ryhmälistauksessa olevasta merkinnästä 27(sudo).   <br>
 ### Q3: What kernel version is your system running?  <br>
-Versio 6.12.107+deb13-amd64.
-
+Versio 6.12.107+deb13-amd64.   <br>
+![](./screenshots/Getting-your-bearings_3.png)    ![](./screenshots/Getting-your-bearings_3.png)     <br>
 ### Q4: What is the difference in the depth of information they give you?   <br>
 ```whatis``` antaa hyvin lyhyen, yhden rivin tiivistelmän komennon tarkoituksesta. ```man``` tarjoaa laajan ja yksityiskohtaisen käyttöohjeen.
 ### Q5: While in man, how do you (a) search for the word "user" and (b) quit?    <br>
