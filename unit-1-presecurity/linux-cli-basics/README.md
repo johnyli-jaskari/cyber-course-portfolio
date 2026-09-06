@@ -150,10 +150,17 @@ Ja varmistus ```ls```
 
 Komento:```cp ~/cyber-course/scratch/a.txt ~/cyber-course/unit1/intro.txt```
 
-ja tarkistus ```ls ~/cyber-course/unit1/```
+ja tarkistus ```ls ~/cyber-course/unit1/```ls
 - Move b.txt to ~/cyber-course/unit2/.
 
 Komento: ```mv ~/cyber-course/scratch/b.txt ~/cyber-course/unit2/```   <br>
 - Rename c.txt to notes.txt (still in scratch/).
 
-Komento: ```mv ~/cyber-course/scratch/c.txt ~/cyber-course/scratch/notes.txt```
+Komento: ```mv ~/cyber-course/scratch/c.txt ~/cyber-course/scratch/notes.txt```  <br>
+- Open ~/cyber-course/unit1/intro.txt with nano. Type the following text:
+  This is my first file edited from the Linux command line.
+  Today I learned that mv is also rename, and that nano shows shortcuts at the bottom.
+
+### Q12: What key combination did you use to save? What key combination did you use to exit?
+Save: Ctrl + O (ja Enter)
+Exit: Ctrl + X
