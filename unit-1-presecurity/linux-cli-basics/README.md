@@ -122,7 +122,7 @@ drwxr-xr-x  2 root              root            4.0K Sep  1 17:46 apt
 Isoin tiedosto on dpkg.log, joka on 804 kilotavua
 - Run ls -lt /var/log.
 
-Komento: ```ls -lt /var/log
+Komento: ```ls -lt /var/log```
 Tuloste:
 ```
 -rw-r--r--  1 root              root              8192 Sep  6 13:11 wtmp.db
@@ -130,3 +130,6 @@ Tuloste:
 ```
 ### Q10: What was modified most recently?    <br>
 Viimeisimpänä hakemistossa /var/log on muokattu tiedostoa wtmp.db
+
+### Part 3 Creating and managing files
+
