@@ -11,7 +11,8 @@ What I was trying to do.
 
 <img width="763" height="451" alt="image" src="https://github.com/user-attachments/assets/75e1a560-2773-4b9a-8a86-48c020662df5" />
 
-
+Komento: ```whoami```   
+Tuloste: ```john```
 
 ### Part 1 Getting your bearings
 
