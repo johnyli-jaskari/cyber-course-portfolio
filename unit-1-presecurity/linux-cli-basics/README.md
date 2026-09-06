@@ -23,7 +23,11 @@ uid=1000(john) gid=1000(john) groups=1000(john),24(cdrom),25(floppy),27(sudo),29
 
 Komento: ```hostname```  Tuloste: ```debian-lab```
 
-Komento: ```uname -a```  Tuloste: ```Linux debian-lab 6.12.107+deb13-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.107-1 (2026-08-29) x86_64 GNU/Linux```
+Komento: ```uname -a```  
+Tuloste: 
+```
+Linux debian-lab 6.12.107+deb13-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.107-1 (2026-08-29) x86_64 GNU/Linux
+```
 
 ### Q1: What username are you logged in as?   <br>
 Käyttäjänimi on john.    <br>
