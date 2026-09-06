@@ -47,6 +47,8 @@ Versio 6.12.107+deb13-amd64.   <br>
 <img src="./screenshots/Navigation_1.png" width="400" height="800">
 
 ### Q6: What did cd - do?
+```cd -``` siirtää takaisin edelliseen hakemistoon, missä oli ennen nykyistä.
+
 
 ## Findings
 What I learned / what the output told me.
