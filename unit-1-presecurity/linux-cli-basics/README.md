@@ -8,7 +8,12 @@
 What I was trying to do.
 
 ## Steps
-Commands run, in order. Use code blocks.
+
+<img width="763" height="451" alt="image" src="https://github.com/user-attachments/assets/75e1a560-2773-4b9a-8a86-48c020662df5" />
+
+
+
+### Part 1 Getting your bearings
 
 ## Findings
 What I learned / what the output told me.
