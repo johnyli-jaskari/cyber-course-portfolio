@@ -172,4 +172,6 @@ Komento epäonnistui, koska rmdir-komento pystyy poistamaan vain täysin tyhjiä
 
 - Now delete ~/cyber-course/scratch/ properly. Show the command you used.
 
-Komento: ```rm -r ~/cyber-course/scratch/```
+Komento: ```rm -r ~/cyber-course/scratch/``` poistaa kunnolla koko kansiorakenteen.
+
+### Part 4 Viewing files
