@@ -159,6 +159,7 @@ Komento: ```mv ~/cyber-course/scratch/c.txt ~/cyber-course/scratch/notes.txt``` 
 - Open ~/cyber-course/unit1/intro.txt with nano. Type the following text:
   This is my first file edited from the Linux command line.
   Today I learned that mv is also rename, and that nano shows shortcuts at the bottom.
+Komento: ```nano ~/cyber-course/unit1/intro.txt```
 
 ### Q12: What key combination did you use to save? What key combination did you use to exit?
 Save: Ctrl + O (ja Enter)   <br>
