@@ -154,5 +154,5 @@ ja tarkistus ```ls ~/cyber-course/unit1/```
 
 - Move b.txt to ~/cyber-course/unit2/.
 
-Komento:
-```
+Komento: ```mv ~/cyber-course/scratch/b.txt ~/cyber-course/unit2/```
+ja tarkistus ```ls ~/cyber-course/unit2/```
