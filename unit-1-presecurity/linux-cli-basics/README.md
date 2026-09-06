@@ -109,6 +109,7 @@ drwxr-xr-x  19 root                 root                  4096 Sep  1 14:15 ..
 ```-l``` antaa tavalliseen ls-komentoon verrattuna yksityiskohtaisempia tietoja kuten tiedostojen ja hakemistojen käyttöoikeudet, linkkien määrän, omistajan ja ryhmän, koon tavuina sekä muokkausajankohdan.  <br>
 ### Q8: What does -a show that wasn't visible before? Name two examples from the output.   <br>
 ```-a``` näyttää myös piilotetut tiedostot ja hakemistot. Esimerkiksi . ja ..
+- Run ls -lh /var/log
 
 ### Q9: What is the largest file in /var/log? What size is it? 
 Isoin tiedosto on dpkg.log, joka on 804 kilotavua
