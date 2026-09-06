@@ -61,27 +61,14 @@ Komento:
 ```
 cd /etc
 pwd
-cd ..
-pwd
-cd /var/log
-pwd
-cd -
-pwd
-cd ~
-pwd
-cd /
-pwd
-```
-Tuloste: 
-```
-/etc
-/
-/var/log
-/
-/
-/home/john
-/
-```
+``´
+Tuloste: ```/etc```
+
+Komento: ```
+         cd ..
+         ```
+
+
 ### Q6: What did cd - do?
 ```cd -``` siirtää takaisin edelliseen hakemistoon, missä oli ennen nykyistä.
 
