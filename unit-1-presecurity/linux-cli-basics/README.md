@@ -30,9 +30,11 @@ Kyllä, olen sudo-ryhmän jäsen. Sen näkee id-komennon tulosteesta ryhmälista
 ### Q3: What kernel version is your system running?  <br>
 Versio 6.12.107+deb13-amd64.
 
-### Q4: What is the difference in the depth of information they give you?
-
-### Q5: While in man, how do you (a) search for the word "user" and (b) quit?
+### Q4: What is the difference in the depth of information they give you?   <br>
+```whatis``` antaa hyvin lyhyen, yhden rivin tiivistelmän komennon tarkoituksesta. ```man``` tarjoaa laajan ja yksityiskohtaisen käyttöohjeen.
+### Q5: While in man, how do you (a) search for the word "user" and (b) quit?    <br>
+(a) Hae sana kirjoittamalla ```/user``` ja painamalla Enter.  (b) Poistu manuaalista painamalla kirjainta ```q```.  <br>
+## Part 2 Navigation
 
 ## Findings
 What I learned / what the output told me.
