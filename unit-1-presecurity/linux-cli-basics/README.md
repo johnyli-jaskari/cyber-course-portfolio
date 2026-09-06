@@ -64,10 +64,40 @@ pwd
 ``´
 Tuloste: ```/etc```
 
-Komento: ```
-         cd ..
-         ```
+Komento:
+```
+cd ..
+pwd
+```
+Tuloste: ```/```
 
+Komento:
+```
+cd /var/log
+pwd
+```
+Tuloste: ```/var/log```
+
+Komento:
+```
+cd -
+pwd
+```
+Tuloste: ```/```
+
+Komento:
+```
+cd ~
+pwd
+```
+Tuloste: ```/home/john```
+
+Komento:
+```
+cd /
+pwd
+```
+Tuloste: ```/```
 
 ### Q6: What did cd - do?
 ```cd -``` siirtää takaisin edelliseen hakemistoon, missä oli ennen nykyistä.
