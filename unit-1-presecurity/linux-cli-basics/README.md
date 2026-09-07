@@ -121,13 +121,12 @@ Tuloste:
 Viimeisimpänä hakemistossa /var/log on muokattu tiedostoa wtmp.db
 
 ### Part 3 Creating and managing files
-- Create a directory structure
 ### Q11: Show the command (or commands) you used.
 Komento:
 ```
 mkdir -p ~/cyber-course/unit1 ~/cyber-course/unit2 ~/cyber-course/unit3/osint ~/cyber-course/unit3/recon ~/cyber-course/unit3/crypto ~/cyber-course/scratch
 ```
-- Inside ~/cyber-course/scratch/, create three empty files: a.txt, b.txt, c.txt. Verify with ls.
+Tuloste: Ei tulostetta
 
 Komento:
 ```
