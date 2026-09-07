@@ -179,3 +179,30 @@ Tuloste: ```/usr/bin/nano```
 
 Komennon ```ls```sijainti tiedostojärjestelmässä on ```/usr/bin/ls```, ja komennon ```nano``` sijainti ```/usr/bin/nano```.
 ### Part 6 History, redirection, and pipes
+### Q19: What does the | symbol do here?
+Komento: ```history | tail -n 20```
+Tuloste: 
+```
+124  ls ~/cyber-course/srcratch
+125  ls ~/cyber-course/scratch
+```
+```|``` -symboli ottaa history-komennon tulostuksen ja syöttää sen suoraan tail -n 20 -komennolle käsiteltäväksi.
+
+### Q20: What is the difference between > and >>?
+Komento: ```ls -la ~/cyber-course/ > ~/listing.txt```
+Komento: ``` cat ~/listing.txt```
+Tuloste: 
+```
+drwxrwxr-x  2 john john 4096 Sep  6 18:46 unit2
+drwxrwxr-x  5 john john 4096 Sep  6 18:25 unit3
+```
+Komento: ```date >> ~/listing.txt```
+Komento: ```cat ~/listing.txt```
+Tuloste: 
+```
+drwxrwxr-x  5 john john 4096 Sep  6 18:25 unit3
+Mon Sep  7 06:01:21 PM EEST 2026
+```
+```>``` ylikirjoittaa tiedoston sisällön, jos on vanhaa sisältöä on niin sen poistaa ja korvaa. Kun taas ```>>``` pitää vanhan sisällön ennallaan ja kirjoittaa uuden tiedon sen loppuun.
+### Q21: What was the output, and why?
+
