@@ -128,39 +128,12 @@ mkdir -p ~/cyber-course/unit1 ~/cyber-course/unit2 ~/cyber-course/unit3/osint ~/
 ```
 Tuloste: Ei tulostetta
 
-Komento:
-```
-cd ~/cyber-course/scratch/
-touch a.txt b.txt c.txt
-```   
-Ja varmistus ```ls```
-- Copy a.txt to ~/cyber-course/unit1/ with the new name intro.txt. Verify it exists in the new location.
-
-Komento:```cp ~/cyber-course/scratch/a.txt ~/cyber-course/unit1/intro.txt```    <br>
-ja tarkistus ```ls ~/cyber-course/unit1/```
-- Move b.txt to ~/cyber-course/unit2/.
-
-Komento: ```mv ~/cyber-course/scratch/b.txt ~/cyber-course/unit2/```   <br>
-- Rename c.txt to notes.txt (still in scratch/).
-
-Komento: ```mv ~/cyber-course/scratch/c.txt ~/cyber-course/scratch/notes.txt```  <br>
-- Open ~/cyber-course/unit1/intro.txt with nano. Type the following text:
-  This is my first file edited from the Linux command line.
-  Today I learned that mv is also rename, and that nano shows shortcuts at the bottom.
-
-Komento: ```nano ~/cyber-course/unit1/intro.txt```
-
 ### Q12: What key combination did you use to save? What key combination did you use to exit?
 Save: Ctrl + O (ja Enter)   <br>
 Exit: Ctrl + X
 
-Komento: ```cat ~/cyber-course/unit1/intro.txt``` , vahvistaa sisällön ja tuo esiin tekstin.
 ### Q13: Why did rmdir fail (or succeed)?
 Komento epäonnistui, koska rmdir-komento pystyy poistamaan vain täysin tyhjiä kansioita. Kansio scratch/ sisältää tiedoston note.txt.
-
-- Now delete ~/cyber-course/scratch/ properly. Show the command you used.
-
-Komento: ```rm -r ~/cyber-course/scratch/``` poistaa kunnolla koko kansiorakenteen.
 
 ### Part 4 Viewing files
 ### Q14: Which Debian version do you have?
@@ -172,33 +145,6 @@ PRETTY_NAME="Debian GNU/Linux 13 (trixie)"
 NAME="Debian GNU/Linux"
 ```
 Debian 13 (trixie) versio 13.6
-
-Komento: ```cat /etc/services```   <br>
-Tuloste:
-```
-tcpmux		1/tcp				# TCP port service multiplexer
-echo		7/tcp
-```
-Tulostaa koko tiedoston sisällön kerralla ruudulle.
-
-Komento: ```less /etc/services```    <br>
-Tuloste: 
-```
-tcpmux          1/tcp                           # TCP port service multiplexer
-echo            7/tcp
-```
-Avaa saman tiedoston mutta interaktiiviseen katseluohjelmaan. Harjoittelin erin komentojen kanssa.
-
-Komento: ```head -n 5 /etc/services```  <br>
-Tuloste:
-```
-# Network services, Internet style
-#
-# Updated from https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml .
-#
-# New ports will be added on request if they have been officially assigned
-```
-Näyttää tiedoston 5 ensimmäistä riviä.
 
 ### Q15: What kind of messages do you see? Are they recent?
 
