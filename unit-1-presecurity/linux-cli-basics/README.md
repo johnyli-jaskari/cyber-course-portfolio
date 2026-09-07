@@ -9,33 +9,30 @@ What I was trying to do.
 
 ## Steps
 ### Part 1 Getting your bearings
-- Open a terminal on your Debian VM.
-
-Komento: ```whoami```  Tuloste: ```john```   
 
 Komento: ```pwd``` Tuloste: ```/home/john```
 
+
+Komento: ```hostname```  Tuloste: ```debian-lab```
+
+
+### Q1: What username are you logged in as?    <br>
+Komento: ```whoami```  Tuloste: ```john```   
+Käyttäjänimi on john.    <br>
+### Q2: Are you a member of the sudo group? How can you tell from the output of id?    <br>
 Komento: ```id```   
 Tuloste: 
 ```
 uid=1000(john) gid=1000(john) groups=1000(john),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),102(scanner),106(bluetooth),108(lpadmin)
 ```
-
-Komento: ```hostname```  Tuloste: ```debian-lab```
-
+Kyllä, olen sudo-ryhmän jäsen. Sen näkee id-komennon tulosteesta ryhmälistauksessa olevasta merkinnästä 27(sudo).   <br>
+### Q3: What kernel version is your system running?  <br>
 Komento: ```uname -a```  
 Tuloste: 
 ```
 Linux debian-lab 6.12.107+deb13-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.107-1 (2026-08-29) x86_64 GNU/Linux
 ```
-
-### Q1: What username are you logged in as?   <br>
-Käyttäjänimi on john.    <br>
-### Q2: Are you a member of the sudo group? How can you tell from the output of id?    <br>
-Kyllä, olen sudo-ryhmän jäsen. Sen näkee id-komennon tulosteesta ryhmälistauksessa olevasta merkinnästä 27(sudo).   <br>
-### Q3: What kernel version is your system running?  <br>
 Versio 6.12.107+deb13-amd64.   <br>
-- Find out what whoami is for using two different help tools.
                                                                                                                                       
 Komento: ```whatis whoami```    Tuloste: ```whoami (1)           - print effective user name```
 
@@ -175,13 +172,14 @@ Komento epäonnistui, koska rmdir-komento pystyy poistamaan vain täysin tyhjiä
 Komento: ```rm -r ~/cyber-course/scratch/``` poistaa kunnolla koko kansiorakenteen.
 
 ### Part 4 Viewing files
+### Q14: Which Debian version do you have?
+
 Komento: ```cat /etc/os-release```
 Tuloste: 
 ```
 PRETTY_NAME="Debian GNU/Linux 13 (trixie)"
 NAME="Debian GNU/Linux"
 ```
-### Q14: Which Debian version do you have?
 Debian 13 (trixie) versio 13.6
 
 Komento: ```cat /etc/services```   <br>
@@ -211,13 +209,14 @@ Tuloste:
 ```
 Näyttää tiedoston 5 ensimmäistä riviä.
 
+### Q15: What kind of messages do you see? Are they recent?
+
 Komento: ```sudo tail -n 10 /var/log/syslog```   <br>
 Tuloste:
 ```
 Sep 07 10:21:56 debian-lab sudo[2644]: pam_unix(sudo:session): session opened for user root(uid=0) by john(uid=1000)
 Sep 07 10:21:56 debian-lab sudo[2644]: pam_unix(sudo:session): session closed for user root
 ```
-### Q15: What kind of messages do you see? Are they recent?
 Viestit ovat sudo-komentojen turvallisuuslokeja, jotka näyttävät käyttäjän suorittamat pääkäyttäjäkomennot ja istuntojen avaukset. Kyllä, ne ovat aivan tuoreita ja näkyvät lokissa viime minuuteilta.
 
 ### Part 5 Searching
