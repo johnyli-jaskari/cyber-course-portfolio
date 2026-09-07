@@ -184,7 +184,7 @@ NAME="Debian GNU/Linux"
 ### Q14: Which Debian version do you have?
 Debian 13 (trixie) versio 13.6
 
-Komento: ```cat /etc/services```
+Komento: ```cat /etc/services```   <br>
 Tuloste:
 ```
 tcpmux		1/tcp				# TCP port service multiplexer
@@ -192,10 +192,32 @@ echo		7/tcp
 ```
 Tulostaa koko tiedoston sisällön kerralla ruudulle.
 
-Komento: ```less /etc/services```
+Komento: ```less /etc/services```     <br>
 Tuloste: 
 ```
 tcpmux          1/tcp                           # TCP port service multiplexer
 echo            7/tcp
 ```
-Avaa saman tiedoston mutta interaktiiviseen katseluohjelmaan.
+Avaa saman tiedoston mutta interaktiiviseen katseluohjelmaan. Harjoittelin erin komentojen kanssa.
+
+Komento: ```head -n 5 /etc/services```
+Tuloste:
+```
+# Network services, Internet style
+#
+# Updated from https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml .
+#
+# New ports will be added on request if they have been officially assigned
+```
+Näyttää tiedoston 5 ensimmäistä riviä.
+
+Komento: ```sudo tail -n 10 /var/log/syslog```
+Tuloste:
+```
+Sep 07 10:21:56 debian-lab sudo[2644]: pam_unix(sudo:session): session opened for user root(uid=0) by john(uid=1000)
+Sep 07 10:21:56 debian-lab sudo[2644]: pam_unix(sudo:session): session closed for user root
+```
+### Q15: What kind of messages do you see? Are they recent?
+Viestit ovat sudo-komentojen turvallisuuslokeja, jotka näyttävät käyttäjän suorittamat pääkäyttäjäkomennot ja istuntojen avaukset. Kyllä, ne ovat aivan tuoreita ja näkyvät lokissa viime minuuteilta.
+
+### Part 5 Searching
