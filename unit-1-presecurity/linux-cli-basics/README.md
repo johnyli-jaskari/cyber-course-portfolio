@@ -53,8 +53,7 @@ DESCRIPTION
 (a) Hae sana kirjoittamalla ```/user``` ja painamalla Enter.  (b) Poistu manuaalista painamalla kirjainta ```q```.  <br>
 
 ### Part 2 Navigation
-- From your home directory, navigate as follows. After each cd, run pwd to confirm where you are.
-
+### Q6: What did cd - do?
 Komento: ```cd /etc``` ja ```pwd```
 
 Tuloste: ```/etc```
@@ -79,10 +78,8 @@ Komento:```cd /``` ja ```pwd```
 
 Tuloste: ```/```
 
-### Q6: What did cd - do?
 ```cd -``` siirtää takaisin edelliseen hakemistoon, missä oli ennen nykyistä.
-- List the contents of /etc in three ways.
-
+### Q7: What additional information does -l give you over plain ls?    <br>
 Komento: ```ls /etc```    <br>
 Tuloste: 
 ```
@@ -95,36 +92,32 @@ Tuloste:
 -rw-r--r--  1 root                 root                  3981 May  6  2025 adduser.conf
 drwxr-xr-x  3 root                 root                  4096 Sep  1 14:13 alsa
 ```
+
+```-l``` antaa tavalliseen ls-komentoon verrattuna yksityiskohtaisempia tietoja kuten tiedostojen ja hakemistojen käyttöoikeudet, linkkien määrän, omistajan ja ryhmän, koon tavuina sekä muokkausajankohdan.  <br>
+### Q8: What does -a show that wasn't visible before? Name two examples from the output.   <br>
 Komento: ```ls -la /etc```    <br>
 Tuloste:
 ```
 drwxr-xr-x 125 root                 root                 12288 Sep  6 13:09 .
 drwxr-xr-x  19 root                 root                  4096 Sep  1 14:15 ..
 ```
-### Q7: What additional information does -l give you over plain ls?    <br>
-```-l``` antaa tavalliseen ls-komentoon verrattuna yksityiskohtaisempia tietoja kuten tiedostojen ja hakemistojen käyttöoikeudet, linkkien määrän, omistajan ja ryhmän, koon tavuina sekä muokkausajankohdan.  <br>
-### Q8: What does -a show that wasn't visible before? Name two examples from the output.   <br>
-```-a``` näyttää myös piilotetut tiedostot ja hakemistot. Esimerkiksi . ja ..
-- Run ls -lh /var/log.
 
+```-a``` näyttää myös piilotetut tiedostot ja hakemistot. Esimerkiksi . ja ..
+### Q9: What is the largest file in /var/log? What size is it?    <br>
 Komento: ```ls -lh /var/log```
 Tuloste: 
 ```
 -rw-r--r--  1 root              root             49K Sep  1 17:11 alternatives.log
 drwxr-xr-x  2 root              root            4.0K Sep  1 17:46 apt
 ```
-
-### Q9: What is the largest file in /var/log? What size is it?    <br>
 Isoin tiedosto on dpkg.log, joka on 804 kilotavua
-- Run ls -lt /var/log.
-
+### Q10: What was modified most recently?    <br>
 Komento: ```ls -lt /var/log```
 Tuloste:
 ```
 -rw-r--r--  1 root              root              8192 Sep  6 13:11 wtmp.db
 -rw-rw-r--  1 root              utmp              4608 Sep  6 13:10 wtmp
 ```
-### Q10: What was modified most recently?    <br>
 Viimeisimpänä hakemistossa /var/log on muokattu tiedostoa wtmp.db
 
 ### Part 3 Creating and managing files
