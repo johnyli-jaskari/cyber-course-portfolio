@@ -192,7 +192,7 @@ echo		7/tcp
 ```
 Tulostaa koko tiedoston sisällön kerralla ruudulle.
 
-Komento: ```less /etc/services```     <br>
+Komento: ```less /etc/services```    <br>
 Tuloste: 
 ```
 tcpmux          1/tcp                           # TCP port service multiplexer
@@ -200,7 +200,7 @@ echo            7/tcp
 ```
 Avaa saman tiedoston mutta interaktiiviseen katseluohjelmaan. Harjoittelin erin komentojen kanssa.
 
-Komento: ```head -n 5 /etc/services```   <br>
+Komento: ```head -n 5 /etc/services```  <br>
 Tuloste:
 ```
 # Network services, Internet style
