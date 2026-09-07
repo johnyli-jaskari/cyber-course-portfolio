@@ -157,3 +157,25 @@ Sep 07 10:21:56 debian-lab sudo[2644]: pam_unix(sudo:session): session closed fo
 Viestit ovat sudo-komentojen turvallisuuslokeja, jotka näyttävät käyttäjän suorittamat pääkäyttäjäkomennot ja istuntojen avaukset. Kyllä, ne ovat aivan tuoreita ja näkyvät lokissa viime minuuteilta.
 
 ### Part 5 Searching
+### Q16: How many lines were returned? (Hint: pipe to wc -l.)
+Komento: ```grep "ssh" /etc/services | wc -l```
+Tuloste: ```1```  
+Yksi rivi.
+
+### Q17: How would you modify the command to show only .conf files modified in the last 7 days?
+Komento: ```sudo find /etc -name "*.conf" -mtime -7```
+Tuloste: 
+```
+/etc/cups/subscriptions.conf
+/etc/cups/cupsd.conf
+```
+Pystyy näkemään .conf tiedostot mitä on muokattu viimeisen 7 päivän sisällä lisäämällä loppuun komennot ```-mtime``` ja ```-7``` .
+### Q18: Where are these commands actually located on the filesystem?
+Komento: ```which ls```
+Tuloste: ```/usr/bin/ls```
+
+Komento: ```which nano```
+Tuloste: ```/usr/bin/nano```
+
+Komennon ```ls```sijainti tiedostojärjestelmässä on ```/usr/bin/ls```, ja komennon ```nano``` sijainti ```/usr/bin/nano```.
+### Part 6 History, redirection, and pipes
