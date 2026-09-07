@@ -189,15 +189,15 @@ Tuloste:
 ```|``` -symboli ottaa history-komennon tulostuksen ja syöttää sen suoraan tail -n 20 -komennolle käsiteltäväksi.
 
 ### Q20: What is the difference between > and >>?
-Komento: ```ls -la ~/cyber-course/ > ~/listing.txt```
-Komento: ``` cat ~/listing.txt```
+Komento: ```ls -la ~/cyber-course/ > ~/listing.txt```   <br>
+Komento: ``` cat ~/listing.txt```    <br>
 Tuloste: 
 ```
 drwxrwxr-x  2 john john 4096 Sep  6 18:46 unit2
 drwxrwxr-x  5 john john 4096 Sep  6 18:25 unit3
 ```
-Komento: ```date >> ~/listing.txt```
-Komento: ```cat ~/listing.txt```
+Komento: ```date >> ~/listing.txt```    <br>
+Komento: ```cat ~/listing.txt```     
 Tuloste: 
 ```
 drwxrwxr-x  5 john john 4096 Sep  6 18:25 unit3
