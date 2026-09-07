@@ -175,3 +175,27 @@ Komento epäonnistui, koska rmdir-komento pystyy poistamaan vain täysin tyhjiä
 Komento: ```rm -r ~/cyber-course/scratch/``` poistaa kunnolla koko kansiorakenteen.
 
 ### Part 4 Viewing files
+Komento: ```cat /etc/os-release```
+Tuloste: 
+```
+PRETTY_NAME="Debian GNU/Linux 13 (trixie)"
+NAME="Debian GNU/Linux"
+```
+### Q14: Which Debian version do you have?
+Debian 13 (trixie) versio 13.6
+
+Komento: ```cat /etc/services```
+Tuloste:
+```
+tcpmux		1/tcp				# TCP port service multiplexer
+echo		7/tcp
+```
+Tulostaa koko tiedoston sisällön kerralla ruudulle.
+
+Komento: ```less /etc/services```
+Tuloste: 
+```
+tcpmux          1/tcp                           # TCP port service multiplexer
+echo            7/tcp
+```
+Avaa saman tiedoston mutta interaktiiviseen katseluohjelmaan.
