@@ -144,7 +144,7 @@ Komento:
 ```
 cd ~/cyber-course/scratch/
 touch a.txt b.txt c.txt
-```
+```    <br>
 Ja varmistus ```ls```
 - Copy a.txt to ~/cyber-course/unit1/ with the new name intro.txt. Verify it exists in the new location.
 
