@@ -200,7 +200,7 @@ echo            7/tcp
 ```
 Avaa saman tiedoston mutta interaktiiviseen katseluohjelmaan. Harjoittelin erin komentojen kanssa.
 
-Komento: ```head -n 5 /etc/services```
+Komento: ```head -n 5 /etc/services```   <br>
 Tuloste:
 ```
 # Network services, Internet style
@@ -211,7 +211,7 @@ Tuloste:
 ```
 Näyttää tiedoston 5 ensimmäistä riviä.
 
-Komento: ```sudo tail -n 10 /var/log/syslog```
+Komento: ```sudo tail -n 10 /var/log/syslog```   <br>
 Tuloste:
 ```
 Sep 07 10:21:56 debian-lab sudo[2644]: pam_unix(sudo:session): session opened for user root(uid=0) by john(uid=1000)
