@@ -33,7 +33,7 @@ Tuloste:
 Linux debian-lab 6.12.107+deb13-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.107-1 (2026-08-29) x86_64 GNU/Linux
 ```
 Versio 6.12.107+deb13-amd64.   <br>
-                                                                                                                                      
+### Q4: What is the difference in the depth of information they give you?   <br>
 Komento: ```whatis whoami```    Tuloste: ```whoami (1)           - print effective user name```
 
 Komento: ```man whoami```    
@@ -48,8 +48,7 @@ SYNOPSIS
 DESCRIPTION
        Print the user name associated with the current effective user ID.  Same as id -un.
 ```
-### Q4: What is the difference in the depth of information they give you?   <br>
-```whatis``` antaa hyvin lyhyen, yhden rivin tiivistelmän komennon tarkoituksesta. ```man``` tarjoaa laajan ja yksityiskohtaisen käyttöohjeen.
+```whatis``` antaa hyvin lyhyen, yhden rivin tiivistelmän komennon tarkoituksesta. ```man``` tarjoaa laajan ja yksityiskohtaisen käyttöohjeen.                                                                                                                                      
 ### Q5: While in man, how do you (a) search for the word "user" and (b) quit?    <br>
 (a) Hae sana kirjoittamalla ```/user``` ja painamalla Enter.  (b) Poistu manuaalista painamalla kirjainta ```q```.  <br>
 
