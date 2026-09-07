@@ -205,4 +205,9 @@ Mon Sep  7 06:01:21 PM EEST 2026
 ```
 ```>``` ylikirjoittaa tiedoston sisällön, jos on vanhaa sisältöä on niin sen poistaa ja korvaa. Kun taas ```>>``` pitää vanhan sisällön ennallaan ja kirjoittaa uuden tiedon sen loppuun.
 ### Q21: What was the output, and why?
+Komento: ```echo "hello cyber world" | grep "cyber"```    <br>
+Tuloste: ```hello cyber world```
 
+Output oli hello cyber world, koska echo luo tekstin, putki (```|```) siirtää sen grep:ille, ja grep tulostaa rivin löydettyään hakusanan "cyber".
+
+### Part 7 Archives
