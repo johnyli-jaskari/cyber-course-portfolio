@@ -171,10 +171,10 @@ Tuloste:
 ```
 Pystyy näkemään .conf tiedostot mitä on muokattu viimeisen 7 päivän sisällä lisäämällä loppuun komennot ```-mtime``` ja ```-7``` .
 ### Q18: Where are these commands actually located on the filesystem?
-Komento: ```which ls```
+Komento: ```which ls```   <br>
 Tuloste: ```/usr/bin/ls```
 
-Komento: ```which nano```
+Komento: ```which nano```     <br>
 Tuloste: ```/usr/bin/nano```
 
 Komennon ```ls```sijainti tiedostojärjestelmässä on ```/usr/bin/ls```, ja komennon ```nano``` sijainti ```/usr/bin/nano```.
