@@ -363,3 +363,15 @@ Tuloste:
 ```
 Numero ```700``` tarkoittaa, että tiedoston omistajalla on täydet luku-, kirjoitus- ja suoritusoikeudet, kun taas ryhmällä ja muilla käyttäjillä ei ole mitään oikeuksia.
 ### Part 9 Processes and system info
+### Q28: What does the USER column show?
+Komento:
+```
+ps aux | head -n 10
+```
+Tuloste:
+```
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.3  23788 14448 ?        Ss   06:03   0:01 /sbin/init
+root           2  0.0  0.0      0     0 ?        S    06:03   0:00 [kthreadd]
+```
+USER-sarake näyttää sen käyttäjänimen, joka omistaa prosessin ja jonka oikeuksilla se pyörii.
