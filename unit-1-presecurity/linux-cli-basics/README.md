@@ -483,3 +483,7 @@ Upgrading:
 ```
 3 pakettia päivitettiin (firefox-esr, libde265-0 ja libjbig2dec0).
 ### Q36: What's one thing htop shows you that top did not?
+Komento:
+```
+htop
+```
