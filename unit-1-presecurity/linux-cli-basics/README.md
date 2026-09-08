@@ -237,4 +237,14 @@ drwxrwxr-x john/john         0 2026-09-06 18:46 unit2/
 
 ### Part 8 Permissions
 ### Q24: Paste the permission string. Can the owner execute the file?
-
+Komento:
+```
+touch ~/cyber-course/hello.sh
+ls -l ~/cyber-course/hello.sh
+```
+Tuloste:
+```
+-rw-rw-r-- 1 john john 0 Sep  8 10:07 /home/john/cyber-course/hello.sh
+```
+Oikeusmerkkijono: -rw-rw-r--. Omistajalla ei ole suoritusoikeutta, koska omistajan oikeuksista (rw-) puuttuu suoritusoikeuden merkki (x).
+### Q25: What happened, and why?
