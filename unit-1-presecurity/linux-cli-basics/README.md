@@ -487,3 +487,12 @@ Komento:
 ```
 htop
 ```
+Tuloste:
+```
+  [Main] [I/O]
+Send signal:       PID USER       PRI  NI  VIRT   RES   SHR S  CPU% MEM%   TIME+  Command△
+ 0 Cancel         1517 john        20   0 24684  3872  2040 S   0.0  0.1  0:00.00 (sd-pam)
+ 1 SIGHUP            1 root        20   0 23788 14448 10564 S   0.0  0.4  0:01.10 /sbin/init
+ 2 SIGINT         2162 john        20   0 14052  1708  1364 S   0.0  0.0  0:00.00 /usr/bin/VBoxClient --clipboard
+```
+```htop``` näyttää graafiset, värikkäät palkit suorittimen ydinten, RAM-muistin ja Swap-muistin käytölle, joita top-komento ei näytä.
