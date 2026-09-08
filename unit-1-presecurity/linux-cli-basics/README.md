@@ -145,7 +145,7 @@ Tuloste: Ei tulostetta
 
 ### Q12: What key combination did you use to save? What key combination did you use to exit?
 Save: Ctrl + O (ja Enter)   <br>
-Exit: Ctrl + X
+Exit: Ctrl + X    <br>
 Varmistuskomento:
 ```
 cat ~/cyber-course/unit1/intro.txt
