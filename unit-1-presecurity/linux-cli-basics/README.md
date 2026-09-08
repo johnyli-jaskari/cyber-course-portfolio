@@ -546,4 +546,4 @@ Komento mkdir -p yllätti positiivisesti, jonka avulla voi tehdä kokonaisen use
 Which command will you use most often, and why?         <br>
 cd komentoa, jota voi käyttää eri hakemistojen ja kansioiden välillä siirtymiseen ja mahdollistaan paljon komentojen suoritusta tietyissä paikoissa. On tosi yleinen ja standardi terminaalia käyttäessä.   <br>
 What one thing about the Linux CLI is still confusing?      <br>
-
+tar -czvf -komennon eri kirjainten käyttö.
