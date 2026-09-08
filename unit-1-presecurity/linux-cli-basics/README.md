@@ -211,3 +211,31 @@ Tuloste: ```hello cyber world```
 Output oli hello cyber world, koska echo luo tekstin, putki (```|```) siirtää sen grep:ille, ja grep tulostaa rivin löydettyään hakusanan "cyber".
 
 ### Part 7 Archives
+### Q22: Confirm with ls -la that the extraction worked. What did you find inside?
+Komento: 
+```
+mkdir ~/test-extract
+cd ~/test-extract
+unzip ~/cyber-course/unit1.zip
+ls -la
+```
+Tuloste:
+```
+drwxrwxr-x  3 john john 4096 Sep  8 09:29 .
+drwx------ 16 john john 4096 Sep  8 09:28 ..
+drwxrwxr-x  2 john john 4096 Sep  6 19:22 unit1
+```
+Purku onnistui, ja test-extract-kansiosta löytyi purettu unit1-hakemisto, joka sisältää intro.txt-tiedoston.
+### Q23: What do the flags c, z, v, and f each mean?
+Komento: 
+```
+cd ~/cyber-course/
+tar -czvf unit2.tar.gz unit2/
+tar -tvf unit2.tar.gz
+```
+Tuloste: 
+```
+drwxrwxr-x john/john         0 2026-09-06 18:46 unit2/
+-rw-rw-r-- john/john         0 2026-09-06 18:26 unit2/b.txt
+```
+(C) Luodaan uusi arkistotiedosto. (Z) Pakataan arkisto gzip-menetelmällä. (V) Näytetään näytöllä yksityiskohtaisesti kaikki käsiteltävät tiedostot. (F) Määritetään luotavan tai luettavan arkistotiedoston nimi.
