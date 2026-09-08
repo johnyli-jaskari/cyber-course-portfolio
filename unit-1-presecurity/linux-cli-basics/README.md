@@ -71,33 +71,6 @@ DESCRIPTION
 ### Q6: What did cd - do?
 Komento: 
 ```
-cd /etc
-pwd
-```
-Tuloste: 
-```
-/etc
-```
-Komento:
-```
-cd ..
-pwd
-```
-Tuloste: 
-```
-/
-```
-Komento:
-```
-cd /var/log
-pwd
-```
-Tuloste: 
-```
-/var/log
-```
-Komento:
-```
 cd -
 pwd
 ```
