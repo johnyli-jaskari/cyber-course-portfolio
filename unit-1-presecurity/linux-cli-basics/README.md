@@ -463,3 +463,23 @@ Get:2 http://security.debian.org/debian-security trixie-security InRelease [43.4
 ```
 ```sudo``` kysyi nykyisen käyttäjän omaa salasanaa.
 ### Q35: Were any packages upgraded? Roughly how many?
+Komento:
+```
+apt list --upgradable
+```
+Tuloste:
+```
+firefox-esr/stable-security 140.15.0esr-1~deb13u1 amd64 [upgradable from: 140.14.0esr-1~deb13u1]
+libde265-0/stable-security 1.0.15-1+deb13u2 amd64 [upgradable from: 1.0.15-1+deb13u1]
+```
+Komento:
+```
+sudo apt upgrade
+```
+Tuloste:
+```
+Upgrading:                      
+  firefox-esr  libde265-0  libjbig2dec0
+```
+3 pakettia päivitettiin (firefox-esr, libde265-0 ja libjbig2dec0).
+### Q36: What's one thing htop shows you that top did not?
