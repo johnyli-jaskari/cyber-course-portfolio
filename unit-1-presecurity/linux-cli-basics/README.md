@@ -508,7 +508,7 @@ nmap/stable 7.95+dfsg-3 amd64
 ```
 Kuvauksen mukaan nmap on "The Network Mapper" on työkalu, jota käytetään verkon kartoitukseen ja tietoturvatarkastuksiin.
 ### Part 12 Putting it together
-#### Q38: Paste the commands you used. The output redirection (> and >>) is the key here.
+### Q38: Paste the commands you used. The output redirection (> and >>) is the key here.
 Komento:
 ```
 cd
@@ -534,6 +534,6 @@ Archive:  report.zip
 
 ### A short reflection (150–200 words) at the end, in its own section, covering:
 
-Which command surprised you (positively or negatively)?
-Which command will you use most often, and why?
-What one thing about the Linux CLI is still confusing?
+Which command surprised you (positively or negatively)?   <br>
+Which command will you use most often, and why?         <br>
+What one thing about the Linux CLI is still confusing?      <br>
