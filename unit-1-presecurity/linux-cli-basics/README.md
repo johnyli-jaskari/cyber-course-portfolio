@@ -212,13 +212,7 @@ Output oli hello cyber world, koska echo luo tekstin, putki (```|```) siirtää 
 
 ### Part 7 Archives
 ### Q22: Confirm with ls -la that the extraction worked. What did you find inside?
-Komennot: 
-```
-mkdir ~/test-extract
-cd ~/test-extract
-unzip ~/cyber-course/unit1.zip
-ls -la
-```
+Komento: ```ls -la```
 Tuloste:
 ```
 drwxrwxr-x  3 john john 4096 Sep  8 09:29 .
@@ -227,12 +221,7 @@ drwxrwxr-x  2 john john 4096 Sep  6 19:22 unit1
 ```
 Purku onnistui, ja test-extract-kansiosta löytyi purettu unit1-hakemisto, joka sisältää intro.txt-tiedoston.
 ### Q23: What do the flags c, z, v, and f each mean?
-Komennot: 
-```
-cd ~/cyber-course/
-tar -czvf unit2.tar.gz unit2/
-tar -tvf unit2.tar.gz
-```
+Komento: ```tar -tvf unit2.tar.gz```
 Tuloste: 
 ```
 drwxrwxr-x john/john         0 2026-09-06 18:46 unit2/
