@@ -229,8 +229,14 @@ Tuloste:
 ```
 /usr/bin/ls
 ```
-Komento: ```which nano```     <br>
-Tuloste: ```/usr/bin/nano```
+Komento: 
+```
+which nano
+```     
+Tuloste: 
+```
+/usr/bin/nano
+```
 
 Komennon ```ls```sijainti tiedostojärjestelmässä on ```/usr/bin/ls```, ja komennon ```nano``` sijainti ```/usr/bin/nano```.
 ### Part 6 History, redirection, and pipes
