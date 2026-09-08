@@ -496,3 +496,15 @@ Send signal:       PID USER       PRI  NI  VIRT   RES   SHR S  CPU% MEM%   TIME+
  2 SIGINT         2162 john        20   0 14052  1708  1364 S   0.0  0.0  0:00.00 /usr/bin/VBoxClient --clipboard
 ```
 ```htop``` näyttää graafiset, värikkäät palkit suorittimen ydinten, RAM-muistin ja Swap-muistin käytölle, joita top-komento ei näytä.
+### Q37: What is nmap, according to the description?
+Komento:
+```
+apt search nmap
+```
+Tuloste:
+```
+nmap/stable 7.95+dfsg-3 amd64
+  The Network Mapper
+```
+Kuvauksen mukaan nmap on "The Network Mapper" — työkalu, jota käytetään verkon kartoitukseen ja tietoturvatarkastuksiin.
+### Part 12 Putting it together
