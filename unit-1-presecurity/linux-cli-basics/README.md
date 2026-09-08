@@ -310,6 +310,7 @@ Archive:  unit1.zip
        58  2026-09-08 19:40   unit1/intro.txt
 ---------                     -------
        58                     2 files
+```
 Komento:
 ```
 mkdir ~/test-extract
