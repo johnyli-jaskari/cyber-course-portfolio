@@ -548,4 +548,4 @@ Which command will you use most often, and why?         <br>
 cd komentoa, jota voi käyttää eri hakemistojen ja kansioiden välillä siirtymiseen ja mahdollistaan paljon komentojen suoritusta tietyissä paikoissa. On tosi yleinen ja standardi terminaalia käyttäessä.   
 
 What one thing about the Linux CLI is still confusing?      <br>
-tar -czvf -komennon eri kirjainten käyttö.
+tar -czvf -komennon käyttö.
