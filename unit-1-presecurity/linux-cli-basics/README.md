@@ -399,7 +399,7 @@ Swap:          1.6Gi          0B       1.6Gi
 ```
 Virtuaalikoneella on yhteensä 3,8 GiB RAM-muistia, josta 1,2 GiB on tällä hetkellä käytössä.
 
-## Part 10 Networking and downloads
+### Part 10 Networking and downloads
 ### Q31: What is your VM's IP address on the primary interface?
 Komento:
 ```
@@ -437,4 +437,24 @@ PING example.com (172.66.147.243) 56(84) bytes of data.
 ```
 Molemmat epäonnistuivat, todennäköinen syy tälle on että palomuuri tai reititin estää ICMP (ping) -liikenteen.
 ### Q33: Are the two files identical? (Hint: diff debian.html debian2.html.)
+Komento:
+```
+wget https://www.debian.org/index.html -O ~/cyber-course/debian.html
+less ~/cyber-course/debian.html
+```
+Tuloste:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+```
+Komento:
+```
+curl https://www.debian.org/ -o ~/cyber-course/debian2.html
+diff debian.html debian2.html
+```
+Tuloste: tyhjä.
 
+Kyllä, tiedostot ovat identtiset. diff-komento ei palauta mitään tulostetta.
+### Part 11 Package management and sudo
