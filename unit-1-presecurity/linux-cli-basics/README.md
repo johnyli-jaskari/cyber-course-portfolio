@@ -400,3 +400,41 @@ Swap:          1.6Gi          0B       1.6Gi
 Virtuaalikoneella on yhteensä 3,8 GiB RAM-muistia, josta 1,2 GiB on tällä hetkellä käytössä.
 
 ## Part 10 Networking and downloads
+### Q31: What is your VM's IP address on the primary interface?
+Komento:
+```
+ip a
+```
+Tuloste:
+```
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+```
+Ensisijaisen verkkokortin (enp0s3) ip osoitteena on 10.0.2.15
+### Q32: Did both succeed? If one failed, what is the most likely reason?
+Komento:
+```
+ping -c 4 1.1.1.1
+```
+Tuloste:
+```
+PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+
+--- 1.1.1.1 ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3210ms
+```
+Komento:
+```
+ping -c 4 example.com
+```
+Tuloste:
+```
+PING example.com (172.66.147.243) 56(84) bytes of data.
+
+--- example.com ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3080ms
+```
+Molemmat epäonnistuivat, todennäköinen syy tälle on että palomuuri tai reititin estää ICMP (ping) -liikenteen.
+### Q33: Are the two files identical? (Hint: diff debian.html debian2.html.)
+
