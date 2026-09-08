@@ -9,13 +9,6 @@ What I was trying to do.
 
 ## Steps
 ### Part 1 Getting your bearings
-
-Komento: ```pwd``` Tuloste: ```/home/john```
-
-
-Komento: ```hostname```  Tuloste: ```debian-lab```
-
-
 ### Q1: What username are you logged in as?    <br>
 Komento: 
 ```
