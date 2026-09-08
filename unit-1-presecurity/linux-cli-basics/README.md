@@ -5,8 +5,8 @@
 **Environment:** Debian 13 VM, Linux  
 
 ## Goal
-What I was trying to do.
-
+Tehtävän tavoitteena on oppia ja hallita Linux-komentorivin (CLI) peruskomennot. Osata navigoida, hallita tiedostoja, hakea avainsanoja, ladata paketteja.
+ 
 ## Steps
 ### Part 1 Getting your bearings
 ### Q1: What username are you logged in as?    <br>
