@@ -104,7 +104,7 @@ drwxr-xr-x  19 root                 root                  4096 Sep  1 14:15 ..
 
 ```-a``` näyttää myös piilotetut tiedostot ja hakemistot. Esimerkiksi . ja ..
 ### Q9: What is the largest file in /var/log? What size is it?    <br>
-Komento: ```ls -lh /var/log```
+Komento: ```ls -lh /var/log```    <br>
 Tuloste: 
 ```
 -rw-r--r--  1 root              root             49K Sep  1 17:11 alternatives.log
@@ -212,7 +212,10 @@ Output oli hello cyber world, koska echo luo tekstin, putki (```|```) siirtää 
 
 ### Part 7 Archives
 ### Q22: Confirm with ls -la that the extraction worked. What did you find inside?
-Komento: ```ls -la```   <br>
+Komento: 
+```
+ls -la
+```   
 Tuloste:
 ```
 drwxrwxr-x  3 john john 4096 Sep  8 09:29 .
@@ -221,10 +224,17 @@ drwxrwxr-x  2 john john 4096 Sep  6 19:22 unit1
 ```
 Purku onnistui, ja test-extract-kansiosta löytyi purettu unit1-hakemisto, joka sisältää intro.txt-tiedoston.
 ### Q23: What do the flags c, z, v, and f each mean?
-Komento: ```tar -tvf unit2.tar.gz```     <br>
+Komento: 
+```
+tar -tvf unit2.tar.gz
+```     
 Tuloste: 
 ```
 drwxrwxr-x john/john         0 2026-09-06 18:46 unit2/
 -rw-rw-r-- john/john         0 2026-09-06 18:26 unit2/b.txt
 ```
 (c) Luodaan uusi arkistotiedosto. (z) Pakataan arkisto gzip-menetelmällä. (v) Näytetään näytöllä yksityiskohtaisesti kaikki käsiteltävät tiedostot. (f) Määritetään luotavan tai luettavan arkistotiedoston nimi.
+
+### Part 8 Permissions
+### Q24: Paste the permission string. Can the owner execute the file?
+
