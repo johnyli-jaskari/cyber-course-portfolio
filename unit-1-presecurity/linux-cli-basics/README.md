@@ -458,3 +458,15 @@ Tuloste: tyhjä.
 
 Kyllä, tiedostot ovat identtiset. diff-komento ei palauta mitään tulostetta.
 ### Part 11 Package management and sudo
+### Q34: Did sudo ask for a password? Whose password?
+Komento:
+```
+sudo apt update
+```
+Tuloste:
+```
+Hit:1 http://deb.debian.org/debian trixie InRelease
+Get:2 http://security.debian.org/debian-security trixie-security InRelease [43.4 kB]
+```
+```sudo``` kysyi nykyisen käyttäjän omaa salasanaa.
+### Q35: Were any packages upgraded? Roughly how many?
