@@ -101,8 +101,10 @@ Komento:
 cd -
 pwd
 ```
-Tuloste: ```/```
-
+Tuloste: 
+```
+/
+```
 ```cd -``` siirtää takaisin edelliseen hakemistoon, missä oli ennen nykyistä.
 ### Q7: What additional information does -l give you over plain ls?    <br>
 Komento: 
