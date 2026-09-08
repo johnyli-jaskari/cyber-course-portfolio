@@ -327,3 +327,21 @@ bash: /home/john/cyber-course/hello.sh: Permission denied
 ```
 Skriptiä yritettiin ajaa nano-tallennuksen jälkeen, mutta järjestelmä antoi virheilmoituksen Permission denied. Tämä johtuu siitä, että tiedostolta puuttuu suoritusoikeus.
 ### Q26: What does the new permission string look like? Did the script run this time?
+Komento:
+```
+chmod u+x ~/cyber-course/hello.sh
+ls -l ~/cyber-course/hello.sh
+```
+Tuloste:
+```
+-rwxrw-r-- 1 john john 46 Sep  8 10:18 /home/john/cyber-course/hello.sh
+```
+Komento:
+```
+~/cyber-course/hello.sh
+```
+Tuloste:
+```
+Hello from my first script
+```
+Uusi oikeusmerkkijono on -rwxrw-r--. Skripti suoritettiin tällä kertaa onnistuneesti, ja se tulosti ruudulle tekstin "Hello from my first script"
