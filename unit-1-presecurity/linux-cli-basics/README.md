@@ -506,5 +506,5 @@ Tuloste:
 nmap/stable 7.95+dfsg-3 amd64
   The Network Mapper
 ```
-Kuvauksen mukaan nmap on "The Network Mapper" — työkalu, jota käytetään verkon kartoitukseen ja tietoturvatarkastuksiin.
+Kuvauksen mukaan nmap on "The Network Mapper" on työkalu, jota käytetään verkon kartoitukseen ja tietoturvatarkastuksiin.
 ### Part 12 Putting it together
