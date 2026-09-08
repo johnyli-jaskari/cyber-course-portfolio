@@ -146,9 +146,31 @@ Tuloste: Ei tulostetta
 ### Q12: What key combination did you use to save? What key combination did you use to exit?
 Save: Ctrl + O (ja Enter)   <br>
 Exit: Ctrl + X
-
+Varmistuskomento:
+```
+cat ~/cyber-course/unit1/intro.txt
+```
+Tuloste:
+```
+This is my first file edited from the Linux command line.
+Today I learned that mv is also rename, and that nano shows shortcuts at the bottom.
+```
 ### Q13: Why did rmdir fail (or succeed)?
-Komento epäonnistui, koska rmdir-komento pystyy poistamaan vain täysin tyhjiä kansioita. Kansio scratch/ sisältää tiedoston note.txt.
+Komento:
+```
+rmdir ~/cyber-course/scratch/
+```
+Tuloste:
+```
+rmdir: failed to remove '/home/john/cyber-course/scratch/': Directory not empty
+```
+Komento:
+```
+rm -r ~/cyber-course/scratch/
+```
+Komento onnistui.
+
+rmdir-komento epäonnistui, koska se pystyy poistamaan vain täysin tyhjiä kansioita. Kansio scratch/ sisältää tiedoston note.txt.
 
 ### Part 4 Viewing files
 ### Q14: Which Debian version do you have?
