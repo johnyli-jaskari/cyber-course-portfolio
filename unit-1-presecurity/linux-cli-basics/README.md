@@ -69,28 +69,38 @@ DESCRIPTION
 
 ### Part 2 Navigation
 ### Q6: What did cd - do?
-Komento: ```cd /etc``` ja ```pwd```
-
-Tuloste: ```/etc```
-
-Komento:```cd ..``` ja ```pwd```
-
-Tuloste: ```/```
-
-Komento:```cd /var/log``` ja ```pwd```
-
-Tuloste: ```/var/log```
-
-Komento:```cd -``` ja ```pwd```
-
-Tuloste: ```/```
-
-Komento:```cd ~``` ja ```pwd```
-
-Tuloste: ```/home/john```
-
-Komento:```cd /``` ja ```pwd```
-
+Komento: 
+```
+cd /etc
+pwd
+```
+Tuloste: 
+```
+/etc
+```
+Komento:
+```
+cd ..
+pwd
+```
+Tuloste: 
+```
+/
+```
+Komento:
+```
+cd /var/log
+pwd
+```
+Tuloste: 
+```
+/var/log
+```
+Komento:
+```
+cd -
+pwd
+```
 Tuloste: ```/```
 
 ```cd -``` siirtää takaisin edelliseen hakemistoon, missä oli ennen nykyistä.
