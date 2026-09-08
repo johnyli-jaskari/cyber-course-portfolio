@@ -212,7 +212,7 @@ Output oli hello cyber world, koska echo luo tekstin, putki (```|```) siirtää 
 
 ### Part 7 Archives
 ### Q22: Confirm with ls -la that the extraction worked. What did you find inside?
-Komento: 
+Komennot: 
 ```
 mkdir ~/test-extract
 cd ~/test-extract
@@ -227,7 +227,7 @@ drwxrwxr-x  2 john john 4096 Sep  6 19:22 unit1
 ```
 Purku onnistui, ja test-extract-kansiosta löytyi purettu unit1-hakemisto, joka sisältää intro.txt-tiedoston.
 ### Q23: What do the flags c, z, v, and f each mean?
-Komento: 
+Komennot: 
 ```
 cd ~/cyber-course/
 tar -czvf unit2.tar.gz unit2/
@@ -238,4 +238,4 @@ Tuloste:
 drwxrwxr-x john/john         0 2026-09-06 18:46 unit2/
 -rw-rw-r-- john/john         0 2026-09-06 18:26 unit2/b.txt
 ```
-(C) Luodaan uusi arkistotiedosto. (Z) Pakataan arkisto gzip-menetelmällä. (V) Näytetään näytöllä yksityiskohtaisesti kaikki käsiteltävät tiedostot. (F) Määritetään luotavan tai luettavan arkistotiedoston nimi.
+(c) Luodaan uusi arkistotiedosto. (z) Pakataan arkisto gzip-menetelmällä. (v) Näytetään näytöllä yksityiskohtaisesti kaikki käsiteltävät tiedostot. (f) Määritetään luotavan tai luettavan arkistotiedoston nimi.
