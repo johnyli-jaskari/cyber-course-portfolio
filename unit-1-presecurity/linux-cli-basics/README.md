@@ -250,7 +250,7 @@ Tuloste:
 124  ls ~/cyber-course/srcratch
 125  ls ~/cyber-course/scratch
 ```
-```|``` -symboli ottaa history-komennon tulostuksen ja syöttää sen suoraan tail -n 20 -komennolle käsiteltäväksi.
+```|``` -symboli ottaa history-komennon ja syöttää sen suoraan tail -n 20 -komennolle käsiteltäväksi.
 
 ### Q20: What is the difference between > and >>?
 Komento: 
