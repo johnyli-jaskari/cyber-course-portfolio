@@ -542,8 +542,10 @@ Archive:  report.zip
 ### A short reflection (150–200 words) at the end, in its own section, covering:
 
 Which command surprised you (positively or negatively)?  <br>
-Komento mkdir -p yllätti positiivisesti, jonka avulla voi tehdä kokonaisen useamman tason kansiorakenteen yhdellä komentorivillä.     <br>
+Komento mkdir -p yllätti positiivisesti, jonka avulla voi tehdä kokonaisen useamman tason kansiorakenteen yhdellä komentorivillä.     
+
 Which command will you use most often, and why?         <br>
-cd komentoa, jota voi käyttää eri hakemistojen ja kansioiden välillä siirtymiseen ja mahdollistaan paljon komentojen suoritusta tietyissä paikoissa. On tosi yleinen ja standardi terminaalia käyttäessä.   <br>
+cd komentoa, jota voi käyttää eri hakemistojen ja kansioiden välillä siirtymiseen ja mahdollistaan paljon komentojen suoritusta tietyissä paikoissa. On tosi yleinen ja standardi terminaalia käyttäessä.   
+
 What one thing about the Linux CLI is still confusing?      <br>
 tar -czvf -komennon eri kirjainten käyttö.
