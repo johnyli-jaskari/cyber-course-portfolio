@@ -315,7 +315,7 @@ Tuloste:
 ```
 -rw-rw-r-- 1 john john 0 Sep  8 10:07 /home/john/cyber-course/hello.sh
 ```
-Oikeusmerkkijono: -rw-rw-r--. Omistajalla ei ole suoritusoikeutta, koska omistajan oikeuksista (rw-) puuttuu suoritusoikeuden merkki (x).
+Oikeusmerkkijono: ```-rw-rw-r--```. Omistajalla ei ole suoritusoikeutta, koska omistajan oikeuksista (rw-) puuttuu suoritusoikeuden merkki (x).
 ### Q25: What happened, and why?
 Komento:
 ```
@@ -344,4 +344,16 @@ Tuloste:
 ```
 Hello from my first script
 ```
-Uusi oikeusmerkkijono on -rwxrw-r--. Skripti suoritettiin tällä kertaa onnistuneesti, ja se tulosti ruudulle tekstin "Hello from my first script"
+Uusi oikeusmerkkijono on ```-rwxrw-r--```. Skripti suoritettiin tällä kertaa onnistuneesti, ja se tulosti ruudulle tekstin "Hello from my first script"
+### Q27: What does 700 mean in plain language?
+Komento:
+```
+chmod 700 ~/cyber-course/hello.sh
+ls -l ~/cyber-course/hello.sh
+```
+Tuloste:
+```
+-rwx------ 1 john john 46 Sep  8 10:18 /home/john/cyber-course/hello.sh
+```
+Numero ```700``` tarkoittaa, että tiedoston omistajalla on täydet luku-, kirjoitus- ja suoritusoikeudet, kun taas ryhmällä ja muilla käyttäjillä ei ole mitään oikeuksia.
+### Part 9 Processes and system info
