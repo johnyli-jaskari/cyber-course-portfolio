@@ -508,3 +508,32 @@ nmap/stable 7.95+dfsg-3 amd64
 ```
 Kuvauksen mukaan nmap on "The Network Mapper" on työkalu, jota käytetään verkon kartoitukseen ja tietoturvatarkastuksiin.
 ### Part 12 Putting it together
+### Q38: Paste the commands you used. The output redirection (> and >>) is the key here.
+Komento:
+```
+cd
+mkdir report
+hostname > report/system-info.txt
+whoami >> report/system-info.txt
+uname -a >> report/system-info.txt
+df -h >> report/system-info.txt
+date >> report/system-info.txt
+zip -r report.zip report
+unzip -l report.zip
+```
+Tuloste:
+```
+Archive:  report.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2026-09-08 15:49   report/
+      604  2026-09-08 15:53   report/system-info.txt
+---------                     -------
+      604                     2 files
+```
+
+- A short reflection (150–200 words) at the end, in its own section, covering:
+
+Which command surprised you (positively or negatively)?
+Which command will you use most often, and why?
+What one thing about the Linux CLI is still confusing?
