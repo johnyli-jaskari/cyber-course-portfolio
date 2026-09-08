@@ -375,3 +375,28 @@ root           1  0.0  0.3  23788 14448 ?        Ss   06:03   0:01 /sbin/init
 root           2  0.0  0.0      0     0 ?        S    06:03   0:00 [kthreadd]
 ```
 USER-sarake näyttää sen käyttäjänimen, joka omistaa prosessin ja jonka oikeuksilla se pyörii.
+### Q29: How much disk space is your cyber-course directory using?
+Komento:
+```
+du -sh ~/cyber-course/
+```
+Tuloste:
+```
+52K	/home/john/cyber-course/
+```
+cyber-course-hakemisto käyttää 52 kilotavua levytilaa.
+
+### Q30: How much RAM does your VM have, and how much is currently used?
+Komento:
+```
+free -h
+```
+Tuloste:
+```
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       2.0Gi       9.1Mi       867Mi       2.7Gi
+Swap:          1.6Gi          0B       1.6Gi
+```
+Virtuaalikoneella on yhteensä 3,8 GiB RAM-muistia, josta 1,2 GiB on tällä hetkellä käytössä.
+
+## Part 10 Networking and downloads
