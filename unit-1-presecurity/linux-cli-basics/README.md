@@ -287,6 +287,41 @@ Output oli hello cyber world, koska echo luo tekstin, putki (```|```) siirtää 
 
 ### Part 7 Archives
 ### Q22: Confirm with ls -la that the extraction worked. What did you find inside?
+Komento:
+```
+cd ~/cyber-course/
+zip -r unit1.zip unit1/
+```
+Tuloste:
+```
+updating: unit1/ (stored 0%)
+updating: unit1/intro.txt (deflated 2%)
+```
+Komento:
+```
+unzip -l unit1.zip
+```
+Tuloste:
+```
+Archive:  unit1.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2026-09-08 19:40   unit1/
+       58  2026-09-08 19:40   unit1/intro.txt
+---------                     -------
+       58                     2 files
+Komento:
+```
+mkdir ~/test-extract
+cd ~/test-extract
+unzip ~/cyber-course/unit1.zip
+```
+Tuloste:
+```
+Archive:  /home/john/cyber-course/unit1.zip
+   creating: unit1/
+  inflating: unit1/intro.txt 
+```
 Komento: 
 ```
 ls -la
