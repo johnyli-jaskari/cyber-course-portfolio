@@ -52,7 +52,7 @@ Komento:
 ```
 man whoami
 ```    
-Tuloste (ote): 
+Tuloste: 
 ```
 NAME
        whoami - print effective user name
@@ -84,7 +84,7 @@ Komento:
 ```
 ls /etc
 ```    
-Tuloste (ote): 
+Tuloste: 
 ```
 adduser.conf            debconf.conf          host.conf        magic           profile.d          subuid
 alsa                    debian_version        hostname         magic.mime      protocols          subuid-
@@ -93,7 +93,7 @@ Komento:
 ```
 ls -l /etc
 ```     
-Tuloste (ote):
+Tuloste:
 ```
 -rw-r--r--  1 root                 root                  3981 May  6  2025 adduser.conf
 drwxr-xr-x  3 root                 root                  4096 Sep  1 14:13 alsa
@@ -105,7 +105,7 @@ Komento:
 ```
 ls -la /etc
 ```    
-Tuloste (ote):
+Tuloste:
 ```
 drwxr-xr-x 125 root                 root                 12288 Sep  6 13:09 .
 drwxr-xr-x  19 root                 root                  4096 Sep  1 14:15 ..
@@ -117,7 +117,7 @@ Komento:
 ```
 ls -lh /var/log
 ```   
-Tuloste (ote): 
+Tuloste: 
 ```
 -rw-r--r--  1 root              root             49K Sep  1 17:11 alternatives.log
 drwxr-xr-x  2 root              root            4.0K Sep  1 17:46 apt
@@ -128,7 +128,7 @@ Komento:
 ```
 ls -lt /var/log
 ```
-Tuloste (ote):
+Tuloste:
 ```
 -rw-r--r--  1 root              root              8192 Sep  6 13:11 wtmp.db
 -rw-rw-r--  1 root              utmp              4608 Sep  6 13:10 wtmp
@@ -178,7 +178,7 @@ Komento:
 ```
 cat /etc/os-release
 ```
-Tuloste (ote): 
+Tuloste: 
 ```
 PRETTY_NAME="Debian GNU/Linux 13 (trixie)"
 NAME="Debian GNU/Linux"
@@ -245,7 +245,7 @@ Komento:
 ```
 history | tail -n 20
 ```
-Tuloste (ote): 
+Tuloste: 
 ```
 124  ls ~/cyber-course/srcratch
 125  ls ~/cyber-course/scratch
@@ -293,7 +293,7 @@ mkdir ~/test-extract
 cd ~/test-extract
 unzip ~/cyber-course/unit1.zip
 ```
-Tuloste (ote):
+Tuloste:
 ```
 Archive:  /home/john/cyber-course/unit1.zip
    creating: unit1/
@@ -380,7 +380,7 @@ Komento:
 ```
 ps aux | head -n 10
 ```
-Tuloste (ote):
+Tuloste:
 ```
 USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
 root           1  0.0  0.3  23788 14448 ?        Ss   06:03   0:01 /sbin/init
@@ -417,7 +417,7 @@ Komento:
 ```
 ip a
 ```
-Tuloste (ote):
+Tuloste:
 ```
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
@@ -454,7 +454,7 @@ Komento:
 wget https://www.debian.org/index.html -O ~/cyber-course/debian.html
 less ~/cyber-course/debian.html
 ```
-Tuloste (ote):
+Tuloste:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -486,7 +486,7 @@ Komento:
 ```
 apt list --upgradable
 ```
-Tuloste (ote):
+Tuloste:
 ```
 firefox-esr/stable-security 140.15.0esr-1~deb13u1 amd64 [upgradable from: 140.14.0esr-1~deb13u1]
 libde265-0/stable-security 1.0.15-1+deb13u2 amd64 [upgradable from: 1.0.15-1+deb13u1]
@@ -495,7 +495,7 @@ Komento:
 ```
 sudo apt upgrade
 ```
-Tuloste (ote):
+Tuloste:
 ```
 Upgrading:                      
   firefox-esr  libde265-0  libjbig2dec0
@@ -506,7 +506,7 @@ Komento:
 ```
 htop
 ```
-Tuloste (ote):
+Tuloste:
 ```
   [Main] [I/O]
 Send signal:       PID USER       PRI  NI  VIRT   RES   SHR S  CPU% MEM%   TIME+  Command△
@@ -520,7 +520,7 @@ Komento:
 ```
 apt search nmap
 ```
-Tuloste (ote):
+Tuloste:
 ```
 nmap/stable 7.95+dfsg-3 amd64
   The Network Mapper
