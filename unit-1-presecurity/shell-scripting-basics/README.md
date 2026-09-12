@@ -71,18 +71,21 @@ Hello, Linuxuser
 john@debian-lab:~$
 ```
 ### Q6: Paste the banner output you see.
-
+Terminaalin alussa näkyy nyt:
+```
 ===============================
   Welcome back, john
   Host: debian-lab
   Today: Saturday, 12 September 2026
 ===============================
-john@debian-lab:~$
+john@debian-lab:~$ 
+```
 
 ### Q7: What does $(whoami) do? Why are the dollar sign and parentheses there?
 $(whoami) tulostaa nykyisen käyttäjän käyttäjänimen.
 $(...) on Bashin komentokorvaus, joka suorittaa sulkeiden sisällä olevan komennon ja sijoittaa sen tuloksen tekstin sekaan.
 
+### Part 4 - Adding aliases
 
 ## Findings
 What I learned / what the output told me.
