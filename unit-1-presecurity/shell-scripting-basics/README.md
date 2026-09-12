@@ -86,6 +86,35 @@ $(whoami) tulostaa nykyisen käyttäjän käyttäjänimen.
 $(...) on Bashin komentokorvaus, joka suorittaa sulkeiden sisällä olevan komennon ja sijoittaa sen tuloksen tekstin sekaan.
 
 ### Part 4 - Adding aliases
+### Q8: Paste the two aliases you defined and the output when you ran them.
+Aliases:
+```
+alias ll='ls -la'
+alias gohome='cd ~/cyber-course'
+```
+Komento: 
+```
+ll
+```
+Tuloste:
+```
+total 136
+drwx------ 17 john john 4096 Sep 12 19:03 .
+drwxr-xr-x  3 root root 4096 Sep  1 14:19 ..
+-rw-------  1 john john 4574 Sep 12 18:59 .bash_history
+-rw-r--r--  1 john john  220 Sep  1 14:19 .bash_logout
+-rw-r--r--  1 john john 3579 Sep 12 19:03 .bashrc
+...
+```
+Komento:
+```
+gohome
+pwd
+```
+Tuloste:
+```
+/home/john/cyber-course
+```
 
 ## Findings
 What I learned / what the output told me.
