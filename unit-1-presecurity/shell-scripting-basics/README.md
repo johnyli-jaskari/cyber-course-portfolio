@@ -1,15 +1,45 @@
-# [Assignment name]
+# U1-06b Assignment: Shell Scripting Basics
 
-**Date:** YYYY-MM-DD
-**Source:** (Assignment ID, e.g. U1-05b — Linux CLI Basics)
-**Environment:** (host OS, VM, target IP, etc.)
+**Date:** 2026-09-12
+**Source:** U1-06b Assignment: Shell Scripting Basics
+**Environment:** Debian 13 VM
 
 ## Goal
 What I was trying to do.
 
 ## Steps
-Commands run, in order. Use code blocks.
+### Part 1 - Exploring your ~/.bashrc
+### Q1: Paste the line. What size is the file? When was it last modified?
+Komento:
+```
+ls -la ~ | grep bashrc
+```
+Tuloste:
+```
+-rw-r--r--  1 john john 3526 Sep  1 14:19 .bashrc
+```
+Tiedoston koko on 3526 tavua. Tiedostoa on viimeksi muokattu 1.9 Klo 14:19.
 
+### Q2: Find one section that contains comments explaining what it does. Paste a 3–5 line excerpt and explain in one sentence what that section does.
+Komento:
+```
+less ~/.bashrc
+```
+Tuloste:
+
+### Q3: Find a section that already defines aliases (look for the word alias). Are any aliases already set up by Debian's default .bashrc? Name two.
+Komento:
+```
+less ~/.bashrc
+```
+Tuloste:
+```
+# some more ls aliases
+#alias ll='ls -l'
+#alias la='ls -A'
+#alias l='ls -CF'
+```
+Kyllä, on valmiita aliaksia. Esimerkiksi alias ll='ls -l' joka näyttää yksityiskohtaisen listauksen kaikista tiedostoista. Alias la='ls -A' joka näyttää kaikki tiedostot mukaanlukien piilotiedostoja.
 ## Findings
 What I learned / what the output told me.
 
