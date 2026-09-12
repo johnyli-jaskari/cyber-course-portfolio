@@ -63,24 +63,27 @@ Tuloste:
 Molemmat tiedostot .bashrc ja .bashrc.backup löytyvät kotihakemistosta ja ovat samankokoisia.
 ### Part 3 - Adding a welcome banner
 ### Q5: What appears at the top of the new terminal?
-Komento:
-```
-nano ~/.bashrc
-```
-Tuloste:
-```
-# ~/.bashrc: executed by bash(1) for non-login shells.
-# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
-# for examples
-```
-Add a blank line, then:
-My customizations start here
-echo "Hello, Linuxuser"
-
 Uuden terminaali ikkunan alussa näkyy teksti Hello, Linuxuser.
 
+Tuloste:
+```
 Hello, Linuxuser
-john@debian-lab:~$ 
+john@debian-lab:~$
+```
+### Q6: Paste the banner output you see.
+
+===============================
+  Welcome back, john
+  Host: debian-lab
+  Today: Saturday, 12 September 2026
+===============================
+john@debian-lab:~$
+
+### Q7: What does $(whoami) do? Why are the dollar sign and parentheses there?
+$(whoami) tulostaa nykyisen käyttäjän käyttäjänimen.
+$(...) on Bashin komentokorvaus, joka suorittaa sulkeiden sisällä olevan komennon ja sijoittaa sen tuloksen tekstin sekaan.
+
+
 ## Findings
 What I learned / what the output told me.
 
