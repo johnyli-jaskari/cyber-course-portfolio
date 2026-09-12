@@ -62,7 +62,25 @@ Tuloste:
 ```
 Molemmat tiedostot .bashrc ja .bashrc.backup löytyvät kotihakemistosta ja ovat samankokoisia.
 ### Part 3 - Adding a welcome banner
+### Q5: What appears at the top of the new terminal?
+Komento:
+```
+nano ~/.bashrc
+```
+Tuloste:
+```
+# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+# for examples
+```
+Add a blank line, then:
+My customizations start here
+echo "Hello, Linuxuser"
 
+Uuden terminaali ikkunan alussa näkyy teksti Hello, Linuxuser.
+
+Hello, Linuxuser
+john@debian-lab:~$ 
 ## Findings
 What I learned / what the output told me.
 
