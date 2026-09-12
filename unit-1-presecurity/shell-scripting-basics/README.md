@@ -26,7 +26,14 @@ Komento:
 less ~/.bashrc
 ```
 Tuloste:
-
+```
+# If not running interactively, don't do anything
+case $- in
+    *i*) ;;
+      *) return;;
+esac
+```
+Tämä osio tarkistaa, onko komentosessio käyttäjän aktiivisessa käytössä, jos ei ja komentoja ajetaan automaattisesti taustalla, tiedoston lukeminen lopetetaan.
 ### Q3: Find a section that already defines aliases (look for the word alias). Are any aliases already set up by Debian's default .bashrc? Name two.
 Komento:
 ```
@@ -40,6 +47,11 @@ Tuloste:
 #alias l='ls -CF'
 ```
 Kyllä, on valmiita aliaksia. Esimerkiksi alias ll='ls -l' ,joka näyttää yksityiskohtaisen listauksen kaikista tiedostoista. Alias la='ls -A' ,joka näyttää kaikki tiedostot mukaanlukien piilotiedostoja.
+
+## Part 2 - Backup before editing
+### Q4: Paste the output. Confirm you have both .bashrc and .bashrc.backup.
+
+
 ## Findings
 What I learned / what the output told me.
 
