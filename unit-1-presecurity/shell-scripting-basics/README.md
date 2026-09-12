@@ -50,7 +50,18 @@ Kyllä, on valmiita aliaksia. Esimerkiksi alias ll='ls -l' ,joka näyttää yksi
 
 ## Part 2 - Backup before editing
 ### Q4: Paste the output. Confirm you have both .bashrc and .bashrc.backup.
-
+Komento:
+```
+cp ~/.bashrc ~/.bashrc.backup
+ls -la ~/.bashrc*
+```
+Tuloste:
+```
+-rw-r--r-- 1 john john 3526 Sep  1 14:19 /home/john/.bashrc
+-rw-r--r-- 1 john john 3526 Sep 12 17:06 /home/john/.bashrc.backup
+```
+Molemmat tiedostot .bashrc ja .bashrc.backup löytyvät kotihakemistosta ja ovat samankokoisia.
+### Part 3 - Adding a welcome banner
 
 ## Findings
 What I learned / what the output told me.
