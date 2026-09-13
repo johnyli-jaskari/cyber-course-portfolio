@@ -214,7 +214,7 @@ Asettamalla HISTSIZE=5 aktiivisen terminaali-ikkunan muistissa säilytettävä h
 ### Q15: A long history is convenient — but ~/.bash_history is a plain text file in your home directory. Name two reasons why someone with read access to your home folder might care what's in your history file.
 Historia voi paljastaa vahingossa syötettyjä salasanoja tai API-avaimia, jos niitä on annettu komentojen parametreina.
 
-Lisäksi historia paljastaa käyttäjän järjestelmässä tekemät toimet, katsellut tiedostot ja käytetyt etäpalvelinosoitteet, joita hyökkääjä voi hyödyntää järjestelmän kartoituksessa.
+Lisäksi historia paljastaa käyttäjän järjestelmässä tekemät toimet, käytetyt ohjelmat, katsellut tiedostot ja käytetyt etäpalvelinosoitteet, joita hyökkääjä voi hyödyntää järjestelmän kartoituksessa.
 
 ### Part 6 - Your first script
 
