@@ -115,6 +115,20 @@ Tuloste:
 ```
 /home/john/cyber-course
 ```
+### Q9: How many aliases are now defined in your shell? (Include Debian defaults plus your additions.)
+Komento:
+```
+alias
+```
+Tuloste:
+```
+alias gohome='cd ~/cyber-course'
+alias ll='ls -la'
+alias ls='ls --color=auto'
+```
+Aliaksia on määriteltynä yhteensä 3 kappaletta.
+### Q10: Pick one of the two aliases you created. In one sentence, why is this a useful shortcut for you specifically?
+gohome-alias on hyödyllinen, koska se siirtää nopeasti yhdellä lyhyellä komennolla suoraan projektikansioon, mikä säästää aikaa ja toistuvalta kirjoittamiselta.
 
 ## Findings
 What I learned / what the output told me.
