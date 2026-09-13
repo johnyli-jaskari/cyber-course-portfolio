@@ -216,7 +216,35 @@ Historia voi paljastaa vahingossa syötettyjä salasanoja tai API-avaimia, jos n
 
 Lisäksi historia paljastaa käyttäjän järjestelmässä tekemät toimet, käytetyt ohjelmat, katsellut tiedostot ja käytetyt etäpalvelinosoitteet, joita hyökkääjä voi hyödyntää järjestelmän kartoituksessa.
 
-### Part 6 - Your first script
+### Part 7 - Testing your script
+### Q16: Paste the output. Then run ls -la test-run-1/ and paste the result.
+Komento:
+```
+./make-files.sh
+```
+Tuloste:
+```
+Enter a directory name: test-run-1
+Created directory: test-run-1
+Created 5 files in test-run-1
+```
+Komento:
+```
+ls -la test-run-1/
+```
+Tuloste:
+```
+total 8
+drwxrwxr-x 2 john john 4096 Sep 13 19:22 .
+drwxrwxr-x 4 john john 4096 Sep 13 19:22 ..
+-rw-rw-r-- 1 john john    0 Sep 13 19:22 file1.txt
+-rw-rw-r-- 1 john john    0 Sep 13 19:22 file2.txt
+-rw-rw-r-- 1 john john    0 Sep 13 19:22 file3.txt
+-rw-rw-r-- 1 john john    0 Sep 13 19:22 file4.txt
+-rw-rw-r-- 1 john john    0 Sep 13 19:22 file5.txt
+```
+### Q17: What does the script say this time? Did it still try to create the 5 files? What happens if a file with the same name already exists - does touch overwrite it, or does something else happen?
+
 
 ## Findings
 What I learned / what the output told me.
