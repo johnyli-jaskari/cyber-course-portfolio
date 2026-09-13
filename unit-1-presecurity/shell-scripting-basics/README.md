@@ -196,6 +196,23 @@ $HISTSIZE: 10000    <br>
 $HISTFILESIZE: 20000
 
 ### Q14: What changes? How many commands does history now show?
+Komento:
+```
+HISTSIZE=5
+history
+```
+Tuloste:
+```
+  230  nano ~/.bashrc
+  231  echo $HISTSIZE
+  232  echo  $HISTFILESIZE
+  233  HISTSIZE=5
+  234  history
+```
+Asettamalla HISTSIZE=5 aktiivisen terminaali-ikkunan muistissa säilytettävä historia rajoittuu välittömästi viiteen riviin, joten history-komento näyttää nyt vain 5 komentoa. Muutos on tilapäinen ja koskee ainoastaan nykyistä sessiota.
+
+### Q15: A long history is convenient — but ~/.bash_history is a plain text file in your home directory. Name two reasons why someone with read access to your home folder might care what's in your history file.
+
 
 ## Findings
 What I learned / what the output told me.
