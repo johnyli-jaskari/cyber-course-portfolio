@@ -151,6 +151,29 @@ Tuloste:
 HISTSIZE: 1000, aktiivisen istunnon muistissa säilytettävien komentojen määrä. <br>
 HISTFILESIZE: 2000, tiedostoon ~/.bash_history tallennettavien komentojen enimmäismäärä.
 
+### Q12: How many lines are in your history file? Paste the last 5 lines.
+Komento:
+```
+wc -l ~/.bash_history
+```
+Tuloste:
+```
+231 /home/john/.bash_history
+```
+Komento:
+```
+tail -n 20 ~/.bash_history
+```
+Tuloste:
+```
+nano ~/.bashrc
+nano ~/.barshc
+nano ~/.bashrc
+alias
+nano ~/.bashrc
+```
+Historia-tiedostossa on yhteensä 231 riviä.
+
 ## Findings
 What I learned / what the output told me.
 
