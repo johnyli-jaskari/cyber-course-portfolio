@@ -174,6 +174,29 @@ nano ~/.bashrc
 ```
 Historia-tiedostossa on yhteensä 231 riviä.
 
+### Q13: What are the new values?
+Komento:
+```
+echo $HISTSIZE
+```
+Tuloste:
+```
+10000
+```
+Komento:
+```
+echo $HISTFILESIZE
+```
+Tuloste:
+```
+20000
+```
+Uudet arvot ovat:   <br>
+$HISTSIZE: 10000    <br>
+$HISTFILESIZE: 20000
+
+### Q14: What changes? How many commands does history now show?
+
 ## Findings
 What I learned / what the output told me.
 
