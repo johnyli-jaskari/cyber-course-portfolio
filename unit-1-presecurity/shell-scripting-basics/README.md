@@ -130,6 +130,27 @@ Aliaksia on määriteltynä yhteensä 3 kappaletta.
 ### Q10: Pick one of the two aliases you created. In one sentence, why is this a useful shortcut for you specifically?
 gohome-alias on hyödyllinen, koska se siirtää nopeasti yhdellä lyhyellä komennolla suoraan projektikansioon, mikä säästää aikaa ja toistuvalta kirjoittamiselta.
 
+### Part 5 - History settings
+### Q11: What are the default values on your system?
+Komento:
+```
+echo $HISTSIZE
+```
+Tuloste:
+```
+1000
+```
+Komento:
+```
+echo $HISTFILESIZE
+```
+Tuloste:
+```
+2000
+```
+HISTSIZE: 1000, aktiivisen istunnon muistissa säilytettävien komentojen määrä. <br>
+HISTFILESIZE: 2000, tiedostoon ~/.bash_history tallennettavien komentojen enimmäismäärä.
+
 ## Findings
 What I learned / what the output told me.
 
