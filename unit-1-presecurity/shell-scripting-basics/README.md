@@ -244,6 +244,21 @@ drwxrwxr-x 4 john john 4096 Sep 13 19:22 ..
 -rw-rw-r-- 1 john john    0 Sep 13 19:22 file5.txt
 ```
 ### Q17: What does the script say this time? Did it still try to create the 5 files? What happens if a file with the same name already exists - does touch overwrite it, or does something else happen?
+Komento:
+```
+./make-files.sh
+```
+tuloste:
+```
+Enter a directory name: test-run-1
+Directory already exists: test-run-1
+Created 5 files in test-run-1
+```
+Skripti ilmoittaa kansion olevan jo olemassa ja käsittelee olemassaolevat teidostot uudelleen.
+
+Jos on samanniminen tiedosto jo olemassa, touch-komento ei ylikirjoita tiedoston sisältöä eikä tuhoa sitä. Komento päivittää ainoastaan viimeisimmän muokkausajan.
+
+### Q18: What does the script do?
 
 
 ## Findings
