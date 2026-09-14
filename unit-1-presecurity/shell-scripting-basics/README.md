@@ -271,7 +271,55 @@ Error: no name was given.
 Skripti tulostaa virheilmoituksen ```Error: no name was given.``` jos ei syötä mitään ja keskeyttää suorituksen.
 
 ### Part 8 - Reading and improving
+### Q19: Which option did you pick, what does your modified script look like, and what does its output look like when you test it?
+Valitsin A - Ask how many files.
 
+```
+#!/bin/bash
+
+read -p "Enter a directory name: " dir_name
+
+if [ -z "$dir_name" ]; then
+    echo "Error: no name was given."
+    exit 1
+fi
+
+read -p "How many files? " count
+
+mkdir -p "$dir_name"
+echo "Created directory: $dir_name"
+
+for i in $(seq 1 "$count"); do
+    touch "$dir_name/file$i.txt"
+done
+
+echo "Created $count files in $dir_name"
+```
+Komento:
+```
+./make-files.sh
+```
+Tuloste:
+```
+Enter a directory name: test-run-optA
+How many files? 4
+Created directory: test-run-optA
+Created 4 files in test-run-optA
+```
+Komento:
+```
+ls -la test-run-optA/
+```
+Tuloste:
+```
+total 8
+drwxrwxr-x 2 john john 4096 Sep 14 09:48 .
+drwxrwxr-x 5 john john 4096 Sep 14 09:48 ..
+-rw-rw-r-- 1 john john    0 Sep 14 09:48 file1.txt
+-rw-rw-r-- 1 john john    0 Sep 14 09:48 file2.txt
+-rw-rw-r-- 1 john john    0 Sep 14 09:48 file3.txt
+-rw-rw-r-- 1 john john    0 Sep 14 09:48 file4.txt
+```
 ## Findings
 What I learned / what the output told me.
 
