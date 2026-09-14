@@ -212,9 +212,9 @@ Tuloste:
 Asettamalla ```HISTSIZE=5``` aktiivisen terminaali-ikkunan muistissa säilytettävä historia rajoittuu välittömästi viiteen riviin, joten history-komento näyttää nyt vain 5 komentoa. Muutos on tilapäinen ja koskee ainoastaan nykyistä sessiota.
 
 ### Q15: A long history is convenient — but ~/.bash_history is a plain text file in your home directory. Name two reasons why someone with read access to your home folder might care what's in your history file.
-Historia voi paljastaa vahingossa syötettyjä salasanoja tai API-avaimia, jos niitä on annettu komentojen parametreina.
+Historia tiedosto voi paljastaa vahingossa syötettyjä salasanoja tai API-avaimia, jos niitä on annettu komentojen parametreina.
 
-Lisäksi historia paljastaa käyttäjän järjestelmässä tekemät toimet, käytetyt ohjelmat, katsellut tiedostot ja käytetyt etäpalvelinosoitteet, joita hyökkääjä voi hyödyntää järjestelmän kartoituksessa.
+Lisäksi historia tiedosto paljastaa käyttäjän järjestelmässä tekemät toimet, käytetyt ohjelmat, katsellut tiedostot ja käytetyt etäpalvelinosoitteet, joita hyökkääjä voi hyödyntää järjestelmän kartoituksessa.
 
 ### Part 7 - Testing your script
 ### Q16: Paste the output. Then run ls -la test-run-1/ and paste the result.
