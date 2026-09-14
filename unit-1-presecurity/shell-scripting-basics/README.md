@@ -46,7 +46,7 @@ Tuloste:
 #alias la='ls -A'
 #alias l='ls -CF'
 ```
-Kyllä, on valmiita aliaksia. Esimerkiksi alias ll='ls -l' ,joka näyttää yksityiskohtaisen listauksen kaikista tiedostoista. Alias la='ls -A' ,joka näyttää kaikki tiedostot mukaanlukien piilotiedostoja.
+Kyllä, on valmiita aliaksia. Esimerkiksi: alias ll='ls -l' , joka näyttää yksityiskohtaisen listauksen kaikista tiedostoista. alias la='ls -A' , joka näyttää kaikki tiedostot mukaanlukien piilotiedostoja.
 
 ## Part 2 - Backup before editing
 ### Q4: Paste the output. Confirm you have both .bashrc and .bashrc.backup.
