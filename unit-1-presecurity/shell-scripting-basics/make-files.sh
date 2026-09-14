@@ -1,6 +1,3 @@
-# Your final script
-
-```
 #!/bin/bash
 
 read -p "Enter a directory name: " dir_name
@@ -20,4 +17,4 @@ for i in $(seq 1 "$count"); do
 done
 
 echo "Created $count files in $dir_name"
-```
+
