@@ -82,7 +82,7 @@ john@debian-lab:~$
 ```
 
 ### Q7: What does $(whoami) do? Why are the dollar sign and parentheses there?
-$(whoami) tulostaa nykyisen käyttäjän käyttäjänimen.
+```$(whoami)``` tulostaa nykyisen käyttäjän käyttäjänimen.
 $(...) on Bashin komentokorvaus, joka suorittaa sulkeiden sisällä olevan komennon ja sijoittaa sen tuloksen tekstin sekaan.
 
 ### Part 4 - Adding aliases
