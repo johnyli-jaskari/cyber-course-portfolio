@@ -274,7 +274,7 @@ Skripti tulostaa virheilmoituksen ```Error: no name was given.``` jos ei syötä
 ### Q19: Which option did you pick, what does your modified script look like, and what does its output look like when you test it?
 Valitsin A - Ask how many files.
 
-```
+```bash
 #!/bin/bash
 
 read -p "Enter a directory name: " dir_name
@@ -321,6 +321,31 @@ drwxrwxr-x 5 john john 4096 Sep 14 09:48 ..
 -rw-rw-r-- 1 john john    0 Sep 14 09:48 file4.txt
 ```
 
+## Your final script
+
+See `make-files.sh` in this folder for the actual file. For reference:
+
+```bash
+#!/bin/bash
+
+read -p "Enter a directory name: " dir_name
+
+if [ -z "$dir_name" ]; then
+    echo "Error: no name was given."
+    exit 1
+fi
+
+read -p "How many files? " count
+
+mkdir -p "$dir_name"
+echo "Created directory: $dir_name"
+
+for i in $(seq 1 "$count"); do
+    touch "$dir_name/file$i.txt"
+done
+
+echo "Created $count files in $dir_name"
+```
 
 - A reflection section (150–200 words) at the end covering:
 
