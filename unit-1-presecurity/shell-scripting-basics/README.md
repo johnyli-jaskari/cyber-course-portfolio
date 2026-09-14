@@ -320,11 +320,18 @@ drwxrwxr-x 5 john john 4096 Sep 14 09:48 ..
 -rw-rw-r-- 1 john john    0 Sep 14 09:48 file3.txt
 -rw-rw-r-- 1 john john    0 Sep 14 09:48 file4.txt
 ```
+
+
+- A reflection section (150–200 words) at the end covering:
+
+What was easier than you expected?
+What was harder than you expected?
+What was the most useful thing about .bashrc you learned?
+One thing you'd want to script next
+
+
 ## Findings
 What I learned / what the output told me.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
