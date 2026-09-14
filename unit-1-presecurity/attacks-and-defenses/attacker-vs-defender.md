@@ -3,6 +3,8 @@
 ## The system
 [1–2 sentences: what it is and why it matters to you]
 
+Käytän päivittäin kannettavaa tietokonetta, pidän macbook malleista. Kannettava tietokone tarjoaa paljon hyötyjä, voit tehdä kunnolla koulutehtäviä ja helposti käyttää sähköpostia, tukee eri sovelluksia, tarjoaa immersiivisen katselukokemuksen jota voi kuljettaa mukana.
+
 ## Attacker view
 [3–5 sentences: what, how, what they gain]
 
