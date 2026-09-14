@@ -7,6 +7,7 @@ Käytän päivittäin kannettavaa tietokonetta, pidän macbook malleista. Kannet
 
 ## Attacker view
 [3–5 sentences: what, how, what they gain]
+
 Hyökkääjä pyrkii saamaan luvattoman pääsyn MacBookilleni huijaamalla minut lataamaan haittaohjelman, joka on naamioitu turvalliseksi ohjelmistopäivitykseksi. Hyökkäys toteutetaan ohjaamalla minut kalastelusivustolle, joka pyytää asentamaan pakollisen päivityksen. Kun avaan ladatun tiedoston ja syötän macOS-ylläpitäjän salasanani, haittaohjelma asentuu taustalle. Onnistuessaan hyökkääjä saa pääsyn järjestelmään tallennettuihin henkilökohtaisiin tiedostoihin ja selaimen salasanoihin.
 
 ## Defender view
