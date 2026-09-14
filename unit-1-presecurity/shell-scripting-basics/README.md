@@ -259,7 +259,18 @@ Skripti ilmoittaa kansion olevan jo olemassa ja käsittelee olemassaolevat teido
 Jos on samanniminen tiedosto jo olemassa, touch-komento ei ylikirjoita tiedoston sisältöä eikä tuhoa sitä. Komento päivittää ainoastaan viimeisimmän muokkausajan.
 
 ### Q18: What does the script do?
+Komento:
+```
+./make-files.sh
+```
+Tuloste:
+```
+Enter a directory name: 
+Error: no name was given.
+```
+Skripti tulostaa virheilmoituksen ```Error: no name was given.``` jos ei syötä mitään ja keskeyttää suorituksen.
 
+### Part 8 - Reading and improving
 
 ## Findings
 What I learned / what the output told me.
