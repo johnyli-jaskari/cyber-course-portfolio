@@ -347,12 +347,19 @@ done
 echo "Created $count files in $dir_name"
 ```
 
+
 - A reflection section (150–200 words) at the end covering:
 
-What was easier than you expected?
-What was harder than you expected?
-What was the most useful thing about .bashrc you learned?
-One thing you'd want to script next
+What was easier than you expected?  <br>
+Tavallisten Linux-komentojen käyttäminen ja terminaalissa työskentely.
+
+What was harder than you expected?   <br>
+Skriptien tekeminen toimivaksi kokonaisuudeksi.
+
+What was the most useful thing about .bashrc you learned?  <br>
+Hyödyllistä oli oppia alias komennosta ja miten luoda ja käyttää pikakomentoja, joka nopeuttaa komentojen tekemistä.
+
+One thing you'd want to script next   <br>
 
 
 ## Findings
