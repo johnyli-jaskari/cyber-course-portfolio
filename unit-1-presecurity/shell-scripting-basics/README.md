@@ -357,13 +357,7 @@ What was harder than you expected?   <br>
 Skriptien tekeminen toimivaksi kokonaisuudeksi.
 
 What was the most useful thing about .bashrc you learned?  <br>
-Hyödyllistä oli oppia alias komennosta ja miten luoda ja käyttää pikakomentoja, joka nopeuttaa komentojen tekemistä.
+Hyödyllistä oli oppia alias komennosta ja miten luoda ja käyttää pikakomentoja, joka nopeuttaa työskentelyä.
 
 One thing you'd want to script next   <br>
-
-
-## Findings
-What I learned / what the output told me.
-
-## Issues and how I resolved them
-Problems encountered, fixes applied.
+Harjoitella lisää skriptien tekemistä yksinkertaisilla tehtävillä kuten järjestelmän lokien tarkistamista. 
