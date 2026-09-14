@@ -5,7 +5,7 @@
 **Environment:** Debian 13 VM
 
 ## Goal
-What I was trying to do.
+Mukauttaa komento-ympäristöä `~/.bashrc`-tiedoston avulla, käyttää aliaksia, luoda toimiva Bash-skripti.
 
 ## Steps
 ### Part 1 - Exploring your ~/.bashrc
