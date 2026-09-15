@@ -24,7 +24,7 @@ Ransomware-hyökkäys kaksoiskiristyksellä.
 
 - Preventive controls
 
-Verkkoa segmentoimalla eristetään kriittiset lääkinnälliset järjestelmät ja tiedostopalvelimet erilleen yleisestä yritysverkosta ja internetistä. Vaaditaan Monivaiheinen tunnistautuminen MFA kaikissa etäyhteyksissä luvattoman sisäänpääsyn estämiseksi. Järjestelmien ja sovellusten säännöllinen päivittäminen sulkee tunnetut haavoittuvuudet.
+Verkkoa segmentoimalla eristetään kriittiset lääkinnälliset järjestelmät ja tiedostopalvelimet erilleen yleisestä yritysverkosta ja internetistä. Vaatia monivaiheinen tunnistautuminen MFA kaikissa etäyhteyksissä luvattoman sisäänpääsyn estämiseksi. Järjestelmien ja sovellusten säännöllinen päivittäminen sulkee tunnetut haavoittuvuudet.
 
 - Damage-limitation controls
 
@@ -50,7 +50,29 @@ Rajoittamalla tietokannan käyttöoikeuksia ja käyttöoikeudet vain välttämä
 
 - Damage-limitation controls
 
-Vaarannettujen asiakastilien nopea sulkeminen. Mitätöidään kaikkien käyttäjien aktiiviset kirjautumisistunnot ja vaaditaan välitön salasanan vaihto. Toteutetaan lakisääteiset tietosuojailmoitukset asiakkaille ja viranomaisille jatkovahinkojen minimoimiseksi.
+Vaarannettujen asiakastilien nopea sulkeminen. Mitätöidä kaikkien käyttäjien aktiiviset kirjautumisistunnot ja vaadita välitön salasanan vaihto. Toteuttaa lakisääteiset tietosuojailmoitukset asiakkaille ja viranomaisille jatkovahinkojen minimoimiseksi.
+
+### Scenario C - The defaced municipal site
+- Primary CIA violation
+
+ Integrity
+
+- Secondary impacts.
+
+Availability: Verkkosivusto jouduttiin ottamaan pois käytöstä 4 tunniksi puhdistusta ja palautusta varten, mikä katkaisi julkiset palvelut. <br>
+Confidentiality: Luvaton pääsy verkkopalvelimelle altistaa myös palvelimen sisäiset konfiguraatiot ja lokitiedostot hyökkääjän katseille.
+
+- Attack technique
+
+Verkkosovelluksen haavoittuvuuden hyödyntäminen, kuten tietoturva-aukko tai murrettu ylläpitäjän tunnus.
+ 
+- Preventive controls
+
+Julkaisujärjestelmä, sen lisäosat ja palvelinohjelmistot jatkuvasti päivitettyinä sekä järjestelmä kovennettuna. Vaatimalla vahva tunnistautuminen ja MFA kaikille ylläpitotileille. Sovelluspalomuuri suodattamaan haitallista verkkoliikennettä ja tiedostojen eheyden valvonta, jotta luvattomat muutokset sivuston tiedostoissa havaitaan välittömästi.
+
+- Damage-limitation controls
+
+Offline-varmuuskopioita, joiden avulla sivusto voidaan palauttaa nopeasti ennalleen käyttökatkon minimoimiseksi. Julkaisemalla tiedote paikallismedialle ja kuntalaisten suuntaan asiakastietojen turvallisuuden vahvistamiseksi sekä organisaation maineen suojaamiseksi.
 
 ## Findings
 What I learned / what the output told me.
