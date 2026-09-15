@@ -31,6 +31,17 @@ Verkkoa segmentoimalla eristetään kriittiset lääkinnälliset järjestelmät 
 Säännöllisesti ylläpidettävät ja lukitut varmuuskopiot mahdollistavat järjestelmien palauttamisen, vaikka alkuperäiset tiedostot olisi kryptattu. Saastuneiden verkko-osien välitön irrottaminen muusta verkosta pysäyttää haittaohjelman leviämisen muihin kriittisiin järjestelmiin. Uloslähtevän tietoliikenteen automaattinen valvonta estää poikkeukselliset tiedostonsiirrot ja rajoittaa siten laajamittaisia tietovuotoja.
 
 ### Scenario B - The leaked database
+- Primary CIA violation
+
+
+
+- Secondary impacts.
+
+- Attack technique
+
+- Preventive controls
+
+- Damage-limitation controls
 
 ## Findings
 What I learned / what the output told me.
