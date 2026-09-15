@@ -33,15 +33,24 @@ Säännöllisesti ylläpidettävät ja lukitut varmuuskopiot mahdollistavat jär
 ### Scenario B - The leaked database
 - Primary CIA violation
 
-
+Confidentiality
 
 - Secondary impacts.
 
+Integrity: Vanhentuneella MD5-algoritmilla tiivistettyjen salasanojen vuotaminen heikentää käyttäjätunnistuksen eheyttä ja mahdollistaa luvattoman tilien kaappauksen. <br>
+Availability: Vaikka järjestelmät pysyivät pystyssä, pakotetut salasanojen nollaukset ja tietoturvatoimet aiheuttavat tilapäisiä katkoja käyttäjien palvelukäyttöön.
+
 - Attack technique
+
+SQL-injektio (SQLi) ja luvaton tietojenvuoto.
 
 - Preventive controls
 
+Rajoittamalla tietokannan käyttöoikeuksia ja käyttöoikeudet vain välttämättömiin toimintoihin. Korvaamalla heikko MD5-suojaus nykyaikaisilla vaihtoehdoilla kuten bcrypt tai Argon2.
+
 - Damage-limitation controls
+
+Vaarannettujen asiakastilien nopea sulkeminen. Mitätöidään kaikkien käyttäjien aktiiviset kirjautumisistunnot ja vaaditaan välitön salasanan vaihto. Toteutetaan lakisääteiset tietosuojailmoitukset asiakkaille ja viranomaisille jatkovahinkojen minimoimiseksi.
 
 ## Findings
 What I learned / what the output told me.
