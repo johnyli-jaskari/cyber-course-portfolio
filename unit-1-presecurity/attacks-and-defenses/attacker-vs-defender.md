@@ -17,6 +17,10 @@ Selaimen sisäänrakennetun haittaohjelmasuojauksen pitäminen aktiivisena. Sela
 
 ## CIA angle
 [1–2 sentences: which leg is primarily threatened]
+ 
+Ensisijainen Confidentiality, hyökkäyksen päätavoite on varastaa salaisia tietoja, kuten selaimen tallennettuja salasanoja ja henkilökohtaisia tiedostoja.
+
+Toissijainen Integrity, järjestelmän eheys vaarantuu, kun haittaohjelma tekee luvattomia muutoksia koneen järjestelmätiedostoihin tai asentaa taustalle koodia.
 
 ## What I'm changing this week
 [2–3 sentences]
