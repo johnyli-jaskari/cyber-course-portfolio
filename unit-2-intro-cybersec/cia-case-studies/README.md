@@ -9,15 +9,22 @@ What I was trying to do.
 
 ## Steps
 ### Scenario A - The hospital
-- 1 Primary CIA violation
+- Primary CIA violation <br>
+Availability
 
-- 2. Secondary impacts
+- Secondary impacts <br>
+Confidentiality: Hyökkääjät varastivat potilastietoja ja uhkasivat julkaista ne, mikä vaaransi luottamuksellisten henkilö- ja terveystietojen suojan
 
-- 3. Attack technique
+Integrity: Kryptatut palvelimet ja potilastiedot muuttuivat käyttökelvottomiksi ja epäluotettaviksi, kunnes ne saadaan palautettua.
 
-- 4. Preventive controls
+- Attack technique <br>
+Ransomware-hyökkäys kaksoiskiristyksellä.
 
-- 5. Damage-limitation controls 
+- Preventive controls <br>
+Verkkoa segmentoimalla eristetään kriittiset lääkinnälliset järjestelmät ja tiedostopalvelimet erilleen yleisestä yritysverkosta ja internetistä. Vaaditaan Monivaiheinen tunnistautuminen MFA kaikissa etäyhteyksissä luvattoman sisäänpääsyn estämiseksi. Järjestelmien ja sovellusten säännöllinen päivittäminen sulkee tunnetut haavoittuvuudet.
+
+- Damage-limitation controls <br>
+Säännöllisesti ylläpidettävät ja lukitut varmuuskopiot mahdollistavat järjestelmien palauttamisen ilman lunnaiden maksamista, vaikka alkuperäiset tiedostot olisi kryptattu.
 
 ## Findings
 What I learned / what the output told me.
