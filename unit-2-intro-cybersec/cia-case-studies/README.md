@@ -9,12 +9,12 @@ What I was trying to do.
 
 ## Steps
 ### Scenario A - The hospital
-- Primary CIA violation <br>
+- Primary CIA violation
+
 Availability
 
-- Secondary impacts <br>
-Confidentiality: Hyökkääjät varastivat potilastietoja ja uhkasivat julkaista ne, mikä vaaransi luottamuksellisten henkilö- ja terveystietojen suojan
-
+- Secondary impacts. <br>
+Confidentiality: Hyökkääjät varastivat potilastietoja ja uhkasivat julkaista ne, mikä vaaransi luottamuksellisten henkilö- ja terveystietojen suojan.  <br>
 Integrity: Kryptatut palvelimet ja potilastiedot muuttuivat käyttökelvottomiksi ja epäluotettaviksi, kunnes ne saadaan palautettua.
 
 - Attack technique <br>
@@ -24,7 +24,9 @@ Ransomware-hyökkäys kaksoiskiristyksellä.
 Verkkoa segmentoimalla eristetään kriittiset lääkinnälliset järjestelmät ja tiedostopalvelimet erilleen yleisestä yritysverkosta ja internetistä. Vaaditaan Monivaiheinen tunnistautuminen MFA kaikissa etäyhteyksissä luvattoman sisäänpääsyn estämiseksi. Järjestelmien ja sovellusten säännöllinen päivittäminen sulkee tunnetut haavoittuvuudet.
 
 - Damage-limitation controls <br>
-Säännöllisesti ylläpidettävät ja lukitut varmuuskopiot mahdollistavat järjestelmien palauttamisen ilman lunnaiden maksamista, vaikka alkuperäiset tiedostot olisi kryptattu.
+Säännöllisesti ylläpidettävät ja lukitut varmuuskopiot mahdollistavat järjestelmien palauttamisen, vaikka alkuperäiset tiedostot olisi kryptattu. Saastuneiden verkko-osien välitön irrottaminen muusta verkosta pysäyttää haittaohjelman leviämisen muihin kriittisiin järjestelmiin. Uloslähtevän tietoliikenteen automaattinen valvonta estää poikkeukselliset tiedostonsiirrot ja rajoittaa siten laajamittaisia tietovuotoja.
+
+### Scenario B - The leaked database
 
 ## Findings
 What I learned / what the output told me.
