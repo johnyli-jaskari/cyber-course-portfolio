@@ -9,7 +9,7 @@ What I was trying to do.
 
 ## Steps
 ### Scenario A - The hospital
-- 1. Primary CIA violation
+- 1 Primary CIA violation
 
 - 2. Secondary impacts
 
