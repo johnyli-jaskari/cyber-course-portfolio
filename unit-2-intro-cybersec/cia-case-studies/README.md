@@ -42,7 +42,7 @@ Availability: Vaikka järjestelmät pysyivät pystyssä, pakotetut salasanojen n
 
 - Attack technique
 
-SQL-injektio (SQLi) ja luvaton tietojenvuoto.
+SQL-injektio ja luvaton tietojenvuoto.
 
 - Preventive controls
 
