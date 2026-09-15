@@ -15,4 +15,4 @@ Ensisijainen Confidentiality, hyökkäyksen päätavoite on varastaa salaisia ti
 Toissijainen Integrity, järjestelmän eheys vaarantuu, kun haittaohjelma tekee luvattomia muutoksia koneen järjestelmätiedostoihin tai asentaa taustalle koodia.
 
 ## What I'm changing this week
-Aion tarkistaa tällä viikolla Safarin asetuksista, että "Varo luottamaan vaarallisiin sivustoihin" -suojaus on varmasti päällä. Lisäksi kiinnitän jatkossa enemmän huomiota selaimen antamiin turvallisuusvaroituksiin ja tarkistan osoitekentän huolellisesti ennen minkään päivityksen lataamista.
+Aion tarkistaa tällä viikolla selaimeni asetuksista, että haittaohjelmasuojaus on varmasti päällä. Lisäksi kiinnitän jatkossa enemmän huomiota selaimen antamiin turvallisuusvaroituksiin ja tarkistan osoitekentän huolellisesti ennen minkään päivityksen lataamista.
