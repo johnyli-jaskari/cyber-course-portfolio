@@ -1,4 +1,4 @@
-# Attacker vs Defender — [system you chose]
+# Attacker vs Defender — [laptop]
 
 ## The system
 Käytän päivittäin kannettavaa tietokonetta, pidän macbook malleista. Kannettava tietokone tarjoaa paljon hyötyjä, voit tehdä kunnolla koulutehtäviä ja helposti käyttää sähköpostia, tukee eri sovelluksia, tarjoaa immersiivisen katselukokemuksen jota voi kuljettaa mukana.
