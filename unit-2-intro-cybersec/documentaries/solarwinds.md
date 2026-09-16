@@ -25,14 +25,17 @@ Iskun pääkohteena oli luottamuksellisuus (Confidentiality), sillä kyseessä o
 Toimitusketjuhyökkäyksessä rikollinen ei iske suoraan kohteeseen, vaan murtautuu sen käyttämään luotettuun kolmannen osapuolen toimittajaan. Tämä tekee hyökkäyksestä poikkeuksellisen vaarallisen, koska se kiertää suojaukset hyväksikäyttämällä valmista luottamussuhdetta. Yhdellä ainoalla murrolla hyökkääjä voi saada pääsyn satoihin tai tuhansiin korkean turvatason organisaatioihin samanaikaisesti.
 
 ### 5. How was it discovered?
-
+Hyökkäystä ei havaittu automaattisilla hälytyksillä tai valtion tiedustelun toimesta, vaan tietoturvayhtiö FireEye huomasi epäilyttävän kirjautumisyrityksen omassa kaksivaiheisessa tunnistautumisessaan. Tutkiessaan tätä pientä poikkeamaa FireEye huomasi työkalujensa päätyneen vieraasiin käsiin ja jäljitti murron SolarWindsin päivitykseen. Tämä osoittaa, että suuret kyberhyökkäykset paljastuvat usein asiantuntijoiden tarkkuuden ja pienten poikkeamien seurannan kautta.
 
 
 ### 6. What could have helped
+Jos ohjelmistopäivityksen koodi olisi käännetty ja verrattu automaattisesti kahdessa erillisessä ympäristössä ennen allekirjoittamista, järjestelmä olisi havainnut haittaohjelman tekemät koodimuutokset. Tämä olisi pysäyttänyt saastuneen päivityksen jakelun asiakkaille ennen sen julkaisua.
 
 ### 7. The broader lesson
+Tapaus opetti tietoturva-alalle, ettei edes tunnettujen ja luotettavien organisaatioiden digitaalisiin päivityksiin voi luottaa sokeasti. Automaattisten päivitysten jakelukanavasta muodostui hyökkäysase, mikä pakotti organisaatiot arvioimaan uudelleen kolmansien osapuolten mukanaan tuomia riskejä.
 
 ### 8. Your personal takeaway
+Tämä muuttaa suhtautumista arjessa asennettavaan ja päivitettävään sisältöön. Se voi periaatteessa olla kompromisoitu.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
