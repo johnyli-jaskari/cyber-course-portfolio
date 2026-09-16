@@ -35,10 +35,7 @@ Jos ohjelmistopäivityksen koodi olisi käännetty ja verrattu automaattisesti k
 Tapaus opetti tietoturva-alalle, ettei edes tunnettujen ja luotettavien organisaatioiden digitaalisiin päivityksiin voi luottaa sokeasti. Automaattisten päivitysten jakelukanavasta muodostui hyökkäysase, mikä pakotti organisaatiot arvioimaan uudelleen kolmansien osapuolten mukanaan tuomia riskejä.
 
 ### 8. Your personal takeaway
-Tämä muuttaa suhtautumista arjessa asennettavaan ja päivitettävään sisältöön. Se voi periaatteessa olla kompromisoitu.
+Tämä muuttaa suhtautumista arjessa asennettavaan ja päivitettävään sisältöön. Mikä tahansa ohjelmisto voi periaatteessa olla kompromisoitu.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
+Ei ongelmia.
