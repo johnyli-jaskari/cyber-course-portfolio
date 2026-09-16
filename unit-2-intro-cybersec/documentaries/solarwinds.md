@@ -22,7 +22,7 @@ Noin 18 000 organisaatiota latasi saastuneen päivityksen, joista hyökkääjät
 Iskun pääkohteena oli luottamuksellisuus (Confidentiality), sillä kyseessä oli puhtaasti digitaalinen vakoiluoperaatio salaisen tiedon lukemiseksi. Eheys (Integrity) oli kuitenkin hyökkäyksen toteutustapa, sillä hyökkääjät peukaloivat SolarWindsin lähdekoodia ja rakennusjärjestelmää.
 
 ### 4. The attack technique - what made this one different?
-Toimitusketjuhyökkäyksessä rikollinen ei iske suoraan kohteeseen, vaan murtautuu sen käyttämään heikompaan ja luotettuun kolmannen osapuolen toimittajaan. Tämä tekee hyökkäyksestä poikkeuksellisen vaarallisen, koska se kiertää suojaukset hyväksikäyttämällä valmista luottamussuhdetta. Yhdellä ainoalla murrolla hyökkääjä voi saada pääsyn satoihin tai tuhansiin korkean turvatason organisaatioihin samanaikaisesti.
+Toimitusketjuhyökkäyksessä rikollinen ei iske suoraan kohteeseen, vaan murtautuu sen käyttämään heikompaan ja luotettuun kolmannen osapuolen toimittajaan. Yhdellä ainoalla murrolla hyökkääjä voi saada pääsyn satoihin tai tuhansiin korkean turvatason organisaatioihin samanaikaisesti.
 
 ### 5. How was it discovered?
 Hyökkäystä ei havaittu automaattisilla hälytyksillä tai valtion tiedustelun toimesta, vaan tietoturvayhtiö FireEye huomasi epäilyttävän kirjautumisyrityksen omassa kaksivaiheisessa tunnistautumisessaan. Tutkiessaan tätä pientä poikkeamaa FireEye huomasi työkalujensa päätyneen vieraasiin käsiin ja jäljitti murron SolarWindsin päivitykseen. Tämä osoittaa, että suuret kyberhyökkäykset paljastuvat usein asiantuntijoiden tarkkuuden ja pienten poikkeamien seurannan kautta.
