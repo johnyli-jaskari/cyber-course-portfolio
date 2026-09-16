@@ -22,7 +22,7 @@ Hyökkäyksen uhreiksi joutuivat muun muassa Ison-Britannian kansallinen terveyd
 Hyökkäys kohdistui suorimmin saatavuuteen (Availability), sillä kiristyshaittaohjelma lukitsi tiedostot ja järjestelmät estäen niiden käytön kokonaan. Tämän lisäksi myös eheys (Integrity) kärsi, koska koodi muutti järjestelmissä olevia tiedostoja luvattomasti kryptoamalla ne ilman käyttäjän suostumusta.
 
 ### 4. The attack technique - ransomware and "wormable" exploits
-Kiristyshaittaohjelma (ransomware) lukitsee uhrin tiedostot tai järjestelmät salaamalla ne ja vaatii lunnaita niiden avaamisesta. Tavanomainen kiristyshaittaohjelma vaatii leväkseen käyttäjän virheen, kuten haitallisen sähköpostiliitteen avaamisen tai linkin klikkaamisen. WannaCrysta teki poikkeuksellisen vaarallisen sen, että se pystyi leviämään verkoissa verkoissa täysin automaattisesti tietokoneelta toiselle ilman minkäänlaista käyttäjän myötävaikutusta.
+Kiristyshaittaohjelma (ransomware) lukitsee uhrin tiedostot tai järjestelmät salaamalla ne ja vaatii lunnaita niiden avaamisesta. Tavanomainen kiristyshaittaohjelma vaatii leväkseen käyttäjän virheen, kuten haitallisen sähköpostiliitteen avaamisen tai linkin klikkaamisen. WannaCrysta teki poikkeuksellisen vaarallisen sen, että se se hyödynsi EternalBlue-haavoittuvuutta ja pystyi leviämään verkoissa täysin automaattisesti tietokoneelta toiselle ilman minkäänlaista käyttäjän myötävaikutusta. 
 
 ### 5. How was it discovered and how was it stopped
 
