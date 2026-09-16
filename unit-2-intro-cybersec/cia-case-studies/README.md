@@ -74,6 +74,24 @@ Julkaisujärjestelmä, sen lisäosat ja palvelinohjelmistot jatkuvasti päivitet
 
 Offline-varmuuskopioita, joiden avulla sivusto voidaan palauttaa nopeasti ennalleen käyttökatkon minimoimiseksi. Julkaisemalla tiedote paikallismedialle ja kuntalaisten suuntaan asiakastietojen turvallisuuden vahvistamiseksi sekä organisaation maineen suojaamiseksi.
 
+### Scenario D - The manipulated invoice
+- Primary CIA violation
+
+Integrity
+
+- Secondary impacts.
+
+Confidentiality: Hyökkääjä pääsi käsiksi toimittajan sähköpostitiliin ja lukemaan luottamuksellista viestintää sekä laskutustietoja laatiakseen uskottavan huijauksen. <br>
+Availability: Alkuperäinen lasku jäi maksamatta, mikä aiheutti tilapäisen häiriön yrityksen maksuliikenteeseen ja maksuvalmiuteen.
+
+- Attack technique
+
+Sähköpostitilin kaappaus ja laskun peukalointi.
+
+- Preventive controls
+
+- Damage-limitation controls
+
 ## Findings
 What I learned / what the output told me.
 
