@@ -5,13 +5,14 @@
 **Environment:** Moodle
 
 ## Goal
-What I was trying to do.
+Reflect on the SolarWinds incident and connect it to Cisco Module 1 concepts.
 
 ## Steps
-Commands run, in order. Use code blocks.
+Katsoin videon. <br>
+(https://www.youtube.com/watch?v=Kf7Motm36Go&t=5s)
 
 ## Findings
-What I learned / what the output told me.
+### 1. The incident in your own words
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
