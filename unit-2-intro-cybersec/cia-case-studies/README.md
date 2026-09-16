@@ -13,7 +13,7 @@ Analysoida neljää eri reaalimaailman tietoturvaskenaariota CIA-triadin avulla 
 
 Availability
 
-- Secondary impacts.
+- Secondary impacts
 
 Confidentiality: Hyökkääjät varastivat potilastietoja ja uhkasivat julkaista ne, mikä vaaransi luottamuksellisten henkilö- ja terveystietojen suojan.  <br>
 Integrity: Kryptatut palvelimet ja potilastiedot muuttuivat käyttökelvottomiksi ja epäluotettaviksi, kunnes ne saadaan palautettua.
@@ -35,7 +35,7 @@ Säännöllisesti ylläpidettävät ja lukitut varmuuskopiot mahdollistavat jär
 
 Confidentiality
 
-- Secondary impacts.
+- Secondary impacts
 
 Integrity: Vanhentuneella MD5-algoritmilla tiivistettyjen salasanojen vuotaminen heikentää käyttäjätunnistuksen eheyttä ja mahdollistaa luvattoman tilien kaappauksen. <br>
 Availability: Vaikka järjestelmät pysyivät pystyssä, pakotetut salasanojen nollaukset ja tietoturvatoimet aiheuttavat tilapäisiä katkoja käyttäjien palvelukäyttöön.
@@ -57,7 +57,7 @@ Vaarannettujen asiakastilien nopea sulkeminen. Mitätöidä kaikkien käyttäjie
 
  Integrity
 
-- Secondary impacts.
+- Secondary impacts
 
 Availability: Verkkosivusto jouduttiin ottamaan pois käytöstä 4 tunniksi puhdistusta ja palautusta varten, mikä katkaisi julkiset palvelut. <br>
 Confidentiality: Luvaton pääsy verkkopalvelimelle altistaa myös palvelimen sisäiset konfiguraatiot ja lokitiedostot hyökkääjän katseille.
@@ -79,7 +79,7 @@ Offline-varmuuskopioita, joiden avulla sivusto voidaan palauttaa nopeasti ennall
 
 Integrity
 
-- Secondary impacts.
+- Secondary impacts
 
 Confidentiality: Hyökkääjä pääsi käsiksi toimittajan sähköpostitiliin ja lukemaan luottamuksellista viestintää sekä laskutustietoja laatiakseen uskottavan huijauksen. <br>
 Availability: Alkuperäinen lasku jäi maksamatta, mikä aiheutti tilapäisen häiriön yrityksen maksuliikenteeseen ja maksuvalmiuteen.
