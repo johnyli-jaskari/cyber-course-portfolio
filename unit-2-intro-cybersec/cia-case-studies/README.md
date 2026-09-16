@@ -1,7 +1,7 @@
 # U2-01a Assignment: CIA Triad Case Studies
 
-**Date:** 2026-09-15
-**Source:** U2-01a Assignment: CIA Triad Case Studies
+**Date:** 2026-09-15 <br>
+**Source:** U2-01a Assignment: CIA Triad Case Studies <br>
 **Environment:** MacOS, Moodle
 
 ## Goal
@@ -90,7 +90,11 @@ Sähköpostitilin kaappaus ja laskun peukalointi.
 
 - Preventive controls
 
+Pakollinen toimintamalli, jossa kaikki maksutietojen muutokset vahvistetaan aina toimittajalle toista viestintäkanavaa pitkin esim. soittamalla. Monivaiheinen tunnistautuminen kaikille sähköpostitileille ja käyttöön sähköpostin aitouden tarkistukset
+
 - Damage-limitation controls
+
+Yhteydessä omaan pankkiin ja poliisiin varojen jäädyttämiseksi sekä takaisinperinnän käynnistämiseksi. Kaikkien kyseisten sähköpostitilien salasanojen vaihtaminen, katkaistaan aktiiviset istunnot ja selvitetään tutkinnalla, mitä tietoja hyökkääjä pääsi näkemään tai muokkaamaan.
 
 ## Findings
 What I learned / what the output told me.
