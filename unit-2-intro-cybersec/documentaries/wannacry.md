@@ -2,7 +2,7 @@
 
 **Date:** 2026-09-16   <br>
 **Source:** U2-01c Assignment: WannaCry (documentary)   <br>
-**Environment:** MacOS, Github
+**Environment:** macOS, Moodle
 
 ## Goal
 What I was trying to do.
