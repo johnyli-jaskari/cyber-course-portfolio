@@ -9,7 +9,7 @@ Reflect on the SolarWinds incident and connect it to Cisco Module 1 concepts.
 
 ## Steps
 Katsoin videon. <br>
-(https://www.youtube.com/watch?v=Kf7Motm36Go&t=5s)
+https://www.youtube.com/watch?v=Kf7Motm36Go&t=5s
 
 ## Findings
 ### 1. The incident in your own words
