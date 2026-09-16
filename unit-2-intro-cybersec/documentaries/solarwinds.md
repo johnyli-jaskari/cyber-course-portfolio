@@ -38,4 +38,4 @@ Tapaus opetti tietoturva-alalle, ettei edes tunnettujen ja luotettavien organisa
 Tämä muuttaa suhtautumista arjessa asennettavaan ja päivitettävään sisältöön. Mikä tahansa ohjelmisto voi periaatteessa olla kompromisoitu.
 
 ## Issues and how I resolved them
---
+Ei ongelmia.
