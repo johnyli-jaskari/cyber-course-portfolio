@@ -13,6 +13,26 @@ https://www.youtube.com/watch?v=Kf7Motm36Go&t=5s
 
 ## Findings
 ### 1. The incident in your own words
+Hyökkääjät murtautuivat SolarWinds-yhtiön järjestelmään ja ujuttivat haittaohjelman sen suosittuun Orion-ohjelmistopäivitykseen. Tämän seurauksena yhtiö jakoi tietämättään saastuneen, digitaalisesti allekirjoitetun päivityksen suoraan tuhansille asiakkailleen
+
+### 2. Who was affected, and how?
+Noin 18 000 organisaatiota latasi saastuneen päivityksen, joista hyökkääjät valikoivat noin 50 korkean profiilin kohdetta syvempää vakoilua varten. Uhreihin kuului muun muassa Yhdysvaltain valtiovarain- ja puolustusministeriöitä sekä suuria teknologiajättejä, kuten Microsoft. Tapaus aiheutti valtavat rahalliset vahingot, kiristi Yhdysvaltain ja Venäjän välisiä suhteita.
+
+### 3. The CIA principle
+Iskun pääkohteena oli luottamuksellisuus (Confidentiality), sillä kyseessä oli puhtaasti digitaalinen vakoiluoperaatio salaisen tiedon lukemiseksi. Eheys (Integrity) oli kuitenkin hyökkäyksen toteutustapa, sillä hyökkääjät peukaloivat SolarWindsin lähdekoodia ja rakennusjärjestelmää.
+
+### 4. The attack technique - what made this one different?
+Toimitusketjuhyökkäyksessä rikollinen ei iske suoraan kohteeseen, vaan murtautuu sen käyttämään luotettuun kolmannen osapuolen toimittajaan. Tämä tekee hyökkäyksestä poikkeuksellisen vaarallisen, koska se kiertää suojaukset hyväksikäyttämällä valmista luottamussuhdetta. Yhdellä ainoalla murrolla hyökkääjä voi saada pääsyn satoihin tai tuhansiin korkean turvatason organisaatioihin samanaikaisesti.
+
+### 5. How was it discovered?
+
+
+
+### 6. What could have helped
+
+### 7. The broader lesson
+
+### 8. Your personal takeaway
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
