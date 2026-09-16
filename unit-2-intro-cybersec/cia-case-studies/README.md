@@ -5,7 +5,7 @@
 **Environment:** MacOS, Moodle
 
 ## Goal
-What I was trying to do.
+Analysoida neljää eri reaalimaailman tietoturvaskenaariota CIA-triadin avulla sekä tunnistaa niihin soveltuvat ennaltaehkäisevät ja vahinkoja rajoittavat suojaukset.
 
 ## Steps
 ### Scenario A - The hospital
@@ -97,10 +97,7 @@ Pakollinen toimintamalli, jossa kaikki maksutietojen muutokset vahvistetaan aina
 Yhteydessä omaan pankkiin ja poliisiin varojen jäädyttämiseksi sekä takaisinperinnän käynnistämiseksi. Kaikkien kyseisten sähköpostitilien salasanojen vaihtaminen, katkaistaan aktiiviset istunnot ja selvitetään tutkinnalla, mitä tietoja hyökkääjä pääsi näkemään tai muokkaamaan.
 
 ## Findings
-What I learned / what the output told me.
+Vahinkojen rajoittamisessa nopea viestintä, eristäminen ja prosessien hallinta ovat kriittisessä roolissa.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
+CIA-triad soveltaminen esimerkkeihin.
