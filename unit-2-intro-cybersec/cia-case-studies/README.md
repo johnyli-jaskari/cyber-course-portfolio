@@ -60,7 +60,7 @@ Vaarannettujen asiakastilien nopea sulkeminen. Mitätöidä kaikkien käyttäjie
 - Secondary impacts
 
 Availability: Verkkosivusto jouduttiin ottamaan pois käytöstä 4 tunniksi puhdistusta ja palautusta varten, mikä katkaisi julkiset palvelut. <br>
-Confidentiality: Luvaton pääsy verkkopalvelimelle altistaa myös palvelimen sisäiset konfiguraatiot ja lokitiedostot hyökkääjän katseille.
+Confidentiality: Luvaton pääsy verkkopalvelimelle altistaa myös palvelimen sisäiset konfiguraatiot ja lokitiedostot hyökkääjälle.
 
 - Attack technique
 
