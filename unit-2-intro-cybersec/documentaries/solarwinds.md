@@ -1,7 +1,7 @@
 # U2-01b Assignment: The SolarWinds Hack (documentary)
 
-**Date:** 2026-09-16
-**Source:** U2-01b Assignment: The SolarWinds Hack (documentary)
+**Date:** 2026-09-16 <br>
+**Source:** U2-01b Assignment: The SolarWinds Hack (documentary) <br>
 **Environment:** Moodle
 
 ## Goal
