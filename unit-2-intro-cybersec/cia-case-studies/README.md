@@ -100,4 +100,4 @@ Yhteydessä omaan pankkiin ja poliisiin varojen jäädyttämiseksi sekä takaisi
 Vahinkojen rajoittamisessa nopea viestintä, eristäminen ja prosessien hallinta ovat kriittisessä roolissa.
 
 ## Issues and how I resolved them
-Ennaltaehkäisevien ja vahinkoa rajoittavien kontrollien päällekkäisyy. Erottelua.
+Ennaltaehkäisevien ja vahinkoa rajoittavien kontrollien päällekkäisyys. Erottelua.
