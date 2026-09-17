@@ -31,9 +31,11 @@ Päästyään verkon sisälle NotPetya käytti EternalBlue-haavoittuvuutta levit
 Yrityksessä verkon tiukka segmentointi olisi pienentänyt vahinkoja merkittävästi. Eriyttämällä verkon osat toisistaan ja rajoittamalla verkkolohkojen välistä liikennettä haittaohjelman liikkuminen olisi pysähtynyt. Tämä olisi eristänyt tartunnan vain ensimmäisiin saastuneisiin laitteisiin ja estänyt yrityksen koko IT-infrastruktuurin laajamittaisen vahingoittumisen.
 
 ### 7. The broader lesson - attribution and consequences
-
+NotPetya osoitti, että kyberaseiden hallinta digitaalisesti yhteenliitetyssä maailmassa on lähes mahdotonta ja ne aiheuttavat välimatkasta huolimatta valtavia sivullisia vahinkoja. Geopoliittisesti tapaus hämärsi sodankäynnin rajoja, sillä valtiollisen toimijan osoittaminen on hidasta, mikä mahdollistaa aggressiiviset kyberoperaatiot ilman välitöntä sotilaallista vastinetta.
 
 ### 8. Your personal takeaway
+
+
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
