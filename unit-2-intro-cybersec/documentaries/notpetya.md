@@ -5,7 +5,7 @@
 **Environment:** macOS, Moodle
 
 ## Goal
-Pohtia NotPetya-kyberhyökkäystä.
+Pohtia NotPetya-kyberhyökkäystä, sen teknistä toteutusta ja levittäytymistä sekä arvioida sen laajoja yhteiskunnallisia ja geopoliittisia vaikutuksia.
 
 ## Steps
 Katsoin videon. <br>
