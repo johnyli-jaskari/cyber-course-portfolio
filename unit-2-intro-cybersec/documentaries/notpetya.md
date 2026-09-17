@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=N20q-ZMop0w
 
 ## Findings
 ### 1. The incident in your own words
-
+NotPetya oli kesäkuussa 2017 käynnistynyt tuhovoimainen kyberhyökkäys, joka alkoi Ukrainasta tietyssä kirjanpito-ohjelmistossa olleen saastuneen päivityksen kautta. Toisin kuin WannaCry, joka levisi satunnaisesti ympäri maailmaa, NotPetya oli maantieteellisesti tarkkaan kohdennettu isku Ukrainaan, joka kuitenkin levisi nopeasti Ukrainan rajojen ulkopuolelle. Hyökkäyksen teki poikkeukselliseksi sen pysäyttämätön nopeus sisäverkoissa sekä se, että kerran saastuneita järjestelmiä ei voitu enää palauttaa toimintaan.
 
 ### 2. Who was affected, and how
 
