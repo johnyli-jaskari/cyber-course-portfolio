@@ -13,13 +13,13 @@ https://www.youtube.com/watch?v=PKHH_gvJ_hA&t=1s
 
 ## Findings
 ### 1. The incident in your own words
-WannaCry oli vuonna 2017 käynnistynyt maailmanlaajuinen kyberhyökkäys, jossa kiristyshaittaohjelma (ransomware) kryptasi eli lukitsi uhrien tiedostoja ja vaati Bitcoin-lunnaita niiden avaamisesta. Hyökkäys levisi poikkeuksellisen nopeasti, vaikuttaen yli 150 maahan ja saastutti noin 230 tuhatta konetta. Lopulta se vaikutti kriittisesti toimijoihin ympäri maailmaa, mukaan lukien sairaaloita, pankkeja, liikenneyhtiöitä ja valtionvirastoja.
+WannaCry oli vuonna 2017 käynnistynyt maailmanlaajuinen kyberhyökkäys. Kiristyshaittaohjelma lukitsi uhrien tiedostot ja vaati Bitcoin-lunnaita niiden avaamisesta. Hyökkäys levisi poikkeuksellisen nopeasti, vaikuttaen yli 150 maahan ja saastutti noin 230 tuhatta konetta. Lopulta se vaikutti kriittisesti toimijoihin ympäri maailmaa, mukaan lukien sairaaloita, pankkeja, liikenneyhtiöitä ja valtionvirastoja.
 
 ### 2. Who was affected, and how
 Hyökkäyksen uhreiksi joutuivat muun muassa Ison-Britannian kansallinen terveydenhuoltojärjestelmä NHS sekä useat muut yritykset ja julkisen sektorin toimijat. Teknisien vaurioiden lisäksi hyökkäyksellä oli vakavia inhimillisiä seurauksia, kun sairaaloissa jouduttiin perumaan leikkauksia ja käännyttämään potilaita. Tämä teki hyökkäyksestä erityisen vaarallisen, sillä se vaaransi suoraan ihmishenkiä eikä vain liike-elämän toimintaa.
 
 ### 3. The CIA principle
-Hyökkäys kohdistui suorimmin saatavuuteen (Availability), sillä kiristyshaittaohjelma lukitsi tiedostot ja järjestelmät estäen niiden käytön kokonaan. Tämän lisäksi myös eheys (Integrity) kärsi, koska koodi muutti järjestelmissä olevia tiedostoja luvattomasti kryptoamalla ne ilman käyttäjän suostumusta.
+Hyökkäys kohdistui suorimmin saatavuuteen, iristyshaittaohjelma lukitsi tiedostot ja järjestelmät, mikä esti niiden käytön kokonaan. Tämän lisäksi myös eheys (Integrity) kärsi, koska koodi muutti järjestelmissä olevia tiedostoja luvattomasti kryptoamalla ne ilman käyttäjän suostumusta.
 
 ### 4. The attack technique - ransomware and "wormable" exploits
 Kiristyshaittaohjelma (ransomware) lukitsee uhrin tiedostot tai järjestelmät salaamalla ne ja vaatii lunnaita niiden avaamisesta. Tavanomainen kiristyshaittaohjelma vaatii leväkseen käyttäjän virheen, kuten haitallisen sähköpostiliitteen avaamisen tai linkin klikkaamisen. WannaCrysta teki vaarallisen sen, että se se hyödynsi EternalBlue-haavoittuvuutta ja pystyi leviämään verkoissa täysin automaattisesti tietokoneelta toiselle ilman minkäänlaista käyttäjän myötävaikutusta. 
