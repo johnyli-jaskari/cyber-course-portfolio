@@ -5,7 +5,7 @@
 **Environment:** macOS, Moodle
 
 ## Goal
-What I was trying to do.
+Pohtia NotPetya kyberhyökkäystä, sen teknistä toteutusta, levittäytymistä sekä arvioida vaikutuksia, myös geopoliittisia
 
 ## Steps
 Katsoin videon. <br>
