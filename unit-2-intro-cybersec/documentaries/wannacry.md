@@ -25,8 +25,10 @@ Hyökkäys kohdistui suorimmin saatavuuteen (Availability), sillä kiristyshaitt
 Kiristyshaittaohjelma (ransomware) lukitsee uhrin tiedostot tai järjestelmät salaamalla ne ja vaatii lunnaita niiden avaamisesta. Tavanomainen kiristyshaittaohjelma vaatii leväkseen käyttäjän virheen, kuten haitallisen sähköpostiliitteen avaamisen tai linkin klikkaamisen. WannaCrysta teki poikkeuksellisen vaarallisen sen, että se se hyödynsi EternalBlue-haavoittuvuutta ja pystyi leviämään verkoissa täysin automaattisesti tietokoneelta toiselle ilman minkäänlaista käyttäjän myötävaikutusta. 
 
 ### 5. How was it discovered and how was it stopped
-Hyökkäys havaittiin, kun sairaaloiden ja yritysten näytöille ilmestyi punaisia kiristysilmoituksia ja järjestelmät olivat käyttökelvottomia. Leviämisen pysäytti tutkija Marcus Hutchins, joka löysi koodista rekisteröimättömän verkkotunnuksen ja rekisteröi sen itselleen. Tämä verkkotunnus toimi tahattomana tappokytkimenä (kill switch), sillä haittaohjelma oli ohjelmoitu lopettamaan leviämisensä sivuston ollessa pystyssä. Tapaus osoittaa, miten kyberhyökkäyksiä voidaan joskus pysäyttää lähes vahingossa yksinkertaisella oivalluksella.
+Hyökkäys havaittiin, kun sairaaloiden ja yritysten näytöille ilmestyi punaisia kiristysilmoituksia ja järjestelmät olivat käyttökelvottomia. Leviämisen pysäytti tutkija, joka löysi koodista rekisteröimättömän verkkotunnuksen ja rekisteröi sen itselleen. Tämä verkkotunnus toimi tahattomana tappokytkimenä (kill switch), sillä haittaohjelma oli ohjelmoitu lopettamaan leviämisensä sivuston ollessa pystyssä. Tapaus osoittaa, miten kyberhyökkäyksiä voidaan joskus pysäyttää lähes vahingossa yksinkertaisella oivalluksella.
+
 ### 6. What could have helped - the patch question
+Yksi keskeinen syy miksi monet organisaatiot jättivät Microsoftin julkaiseman päivityksen asentamatta, oli koska ne nojasivat vanhentuneisiin järjestelmiin kuten Windows XP, joille ei enää tarjottu tavanomaisia päivityksiä. Ilman päivitystäkin vahinkoja olisi voitu rajoittaa verkon segmentoinnilla, eli sulkemalla haittaohjelman käyttämä SMB-portti (445) sisäverkon laitteiden väliltä. Tämä olisi estänyt matoa leviämästä automaattisesti tietokoneelta toiselle samassa verkossa.
 
 ### 7. The broader lesson
 
