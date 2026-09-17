@@ -5,7 +5,7 @@
 **Environment:** macOS, Moodle
 
 ## Goal
-What I was trying to do.
+Pohtia ja laatia ytimekäs tietoturva-analyysi vuoden 2017 WannaCry-kiristyshaittaohjelmahyökkäyksestä.
 
 ## Steps
 Katsoin videon. <br>
