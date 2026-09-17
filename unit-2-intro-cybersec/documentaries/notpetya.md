@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=N20q-ZMop0w
 
 ## Findings
 ### 1. The incident in your own words
-NotPetya oli kesäkuussa 2017 käynnistynyt tuhovoimainen kyberhyökkäys, joka alkoi Ukrainasta tietyssä kirjanpito-ohjelmistossa olleen saastuneen päivityksen kautta. Toisin kuin WannaCry, joka levisi satunnaisesti ympäri maailmaa, NotPetya oli maantieteellisesti tarkkaan kohdennettu isku Ukrainaan, joka kuitenkin levisi nopeasti Ukrainan rajojen ulkopuolelle. Hyökkäyksen teki poikkeukselliseksi sen pysäyttämätön nopeus sisäverkoissa sekä se, että kerran saastuneita järjestelmiä ei voitu enää palauttaa toimintaan.
+NotPetya oli kesäkuussa 2017 käynnistynyt kyberhyökkäys, joka käynnistyi Ukrainasta saastuneen kirjanpito-ohjelmiston päivityksen kautta. Toisin kuin WannaCry, joka levisi satunnaisesti ympäri maailmaa, NotPetya oli maantieteellisesti tarkkaan kohdennettu isku Ukrainaan, joka kuitenkin levisi nopeasti Ukrainan rajojen ulkopuolelle. Hyökkäyksen teki poikkeuksellisen sen pysäyttämätön leviämisnopeus sisäverkoissa sekä se, että saastuneita järjestelmiä ei voitu enää palauttaa toimintaan.
 
 ### 2. Who was affected, and how
 NotPetya vaikutti ukrainalaisen Oschadbankin ohella lukuisiin maailmanlaajuisesti suuriin yrityksiin, kuten Maersk, FedEx, Merck, Saint-Gobain, Reckitt Benckiser, Mondelez. Esimerkiksi merirahtijätti Maersk menetti koko maailmanlaajuisen IT-infrastruktuurinsa minuuteissa, mikä pysäytti satamaterminaalit, rahtiseurannan viikoiksi ja lopulta koko IT-järjestelmän korvaaminen. Yhteensä hyökkäys aiheutti globaalisesti arviolta yli 10 miljardin dollarin vahingot, mikä tekee siitä yhden historian kalleimmista kyberiskuista. 
