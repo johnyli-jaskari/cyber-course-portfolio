@@ -31,6 +31,7 @@ Hyökkäys havaittiin, kun sairaaloiden ja yritysten näytöille ilmestyi punais
 Yksi keskeinen syy miksi monet organisaatiot jättivät Microsoftin julkaiseman päivityksen asentamatta, oli koska ne nojasivat vanhentuneisiin järjestelmiin kuten Windows XP, joille ei enää tarjottu tavanomaisia päivityksiä. Ilman päivitystäkin vahinkoja olisi voitu rajoittaa verkon segmentoinnilla, eli sulkemalla haittaohjelman käyttämä SMB-portti (445) sisäverkon laitteiden väliltä. Tämä olisi estänyt matoa leviämästä automaattisesti tietokoneelta toiselle samassa verkossa.
 
 ### 7. The broader lesson
+WannaCry opetti, että järjestelmien nopea päivittäminen on kriittisen tärkeää ja sen laiminlyönti kriittisessä infrastruktuurissa voi vaarantaa jopa ihmishenkiä. Se paljasti myös terveydenhuollon pahan haavoittuvuuden vanhentuneiden järjestelmien vuoksi. Lisäksi hyökkäys osoitti valtioiden kyberaseiden vaarat, kun NSA:lta vuotanut EternalBlue-työkalu päätyi verkkorikollisten käsiin.
 
 ### 8. Your personal takeaway
 
