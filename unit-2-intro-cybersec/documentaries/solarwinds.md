@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=Kf7Motm36Go&t=5s
 
 ## Findings
 ### 1. The incident in your own words
-Hyökkääjät murtautuivat SolarWinds-yhtiön järjestelmään ja ujuttivat haittaohjelman sen suosittuun Orion-ohjelmistopäivitykseen. Tämän seurauksena yhtiö jakoi tietämättään saastuneen, digitaalisesti allekirjoitetun päivityksen suoraan tuhansille asiakkailleen
+Hyökkääjät murtautuivat SolarWinds-yhtiön järjestelmään ja ujuttivat haittaohjelman sen suosittuun Orion-ohjelmistopäivitykseen. Tämän seurauksena yhtiö jakoi tietämättään saastuneen päivityksen suoraan tuhansille asiakkailleen.
 
 ### 2. Who was affected, and how?
 Noin 18 000 organisaatiota latasi saastuneen päivityksen, joista hyökkääjät valikoivat noin 50 korkean profiilin kohdetta syvempää vakoilua varten. Uhreihin kuului muun muassa Yhdysvaltain valtiovarain- ja puolustusministeriöitä sekä suuria teknologiajättejä, kuten Microsoft. Tapaus aiheutti valtavat rahalliset vahingot, kiristi Yhdysvaltain ja Venäjän välisiä suhteita.
