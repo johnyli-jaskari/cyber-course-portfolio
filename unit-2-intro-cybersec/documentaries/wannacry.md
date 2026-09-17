@@ -34,7 +34,7 @@ Yksi keskeinen syy miksi monet organisaatiot jättivät Microsoftin julkaiseman 
 WannaCry opetti, että järjestelmien nopea päivittäminen on kriittisen tärkeää ja sen laiminlyönti kriittisessä infrastruktuurissa voi vaarantaa jopa ihmishenkiä. Se paljasti myös terveydenhuollon pahan haavoittuvuuden vanhentuneiden järjestelmien vuoksi. Lisäksi hyökkäys osoitti valtioiden kyberaseiden vaarat, kun NSA:lta vuotanut EternalBlue-työkalu päätyi verkkorikollisten käsiin.
 
 ### 8. Your personal takeaway
-Ymmärsin miten haavoittuvia arjen tärkeät palvelut ovat ja kuinka välttämättömiä eristetyt varmuuskopiot ovat toiminnan turvaamiseksi.
+Ymmärsin miten haavoittuvia arjen tärkeät palvelut ovat. Myös eristettyjen varmuuskopioiden välttämättömyys toiminnan turvaamiseksi.
 
 ## Issues and how I resolved them
 Ei ongelmia.
