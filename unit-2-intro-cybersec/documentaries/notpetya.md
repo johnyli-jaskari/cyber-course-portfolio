@@ -34,7 +34,7 @@ Yrityksessä verkon tiukka segmentointi olisi pienentänyt vahinkoja merkittäv�
 NotPetya osoitti, että kyberaseiden hallinta digitaalisesti yhteenliitetyssä maailmassa on lähes mahdotonta ja ne aiheuttavat välimatkasta huolimatta valtavia sivullisia vahinkoja. Geopoliittisesti tapaus hämärsi sodankäynnin rajoja, sillä valtiollisen toimijan osoittaminen on hidasta, mikä mahdollistaa aggressiiviset kyberoperaatiot ilman välitöntä sotilaallista vastinetta.
 
 ### 8. Your personal takeaway
-
+Digitaalinen sodankäynti voi aiheuttaa erittäin paljon vahinkoa lyhyessä ajassa. Sodankäynti kokonaisuudessaan on muuttunut todella paljon.
 
 
 ## Issues and how I resolved them
