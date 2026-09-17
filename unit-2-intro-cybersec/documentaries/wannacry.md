@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=PKHH_gvJ_hA&t=1s
 
 ## Findings
 ### 1. The incident in your own words
-WannaCry oli toukokuussa 2017 käynnistynyt maailmanlaajuinen kyberhyökkäys, jossa kiristyshaittaohjelma (ransomware) kryptasi eli lukitsi uhrien tiedostoja ja vaati Bitcoin-lunnaita niiden avaamisesta. Hyökkäys levisi poikkeuksellisen nopeasti, vaikuttaen yli 150 maahan ja saastutti noin 230 tuhatta konetta. Lopulta se vaikutti kriittisesti toimijoihin ympäri maailmaa, mukaan lukien sairaaloita, pankkeja, liikenneyhtiöitä ja valtionvirastoja.
+WannaCry oli vuonna 2017 käynnistynyt maailmanlaajuinen kyberhyökkäys, jossa kiristyshaittaohjelma (ransomware) kryptasi eli lukitsi uhrien tiedostoja ja vaati Bitcoin-lunnaita niiden avaamisesta. Hyökkäys levisi poikkeuksellisen nopeasti, vaikuttaen yli 150 maahan ja saastutti noin 230 tuhatta konetta. Lopulta se vaikutti kriittisesti toimijoihin ympäri maailmaa, mukaan lukien sairaaloita, pankkeja, liikenneyhtiöitä ja valtionvirastoja.
 
 ### 2. Who was affected, and how
 Hyökkäyksen uhreiksi joutuivat muun muassa Ison-Britannian kansallinen terveydenhuoltojärjestelmä NHS sekä useat muut yritykset ja julkisen sektorin toimijat. Teknisien vaurioiden lisäksi hyökkäyksellä oli vakavia inhimillisiä seurauksia, kun sairaaloissa jouduttiin perumaan leikkauksia ja käännyttämään potilaita. Tämä teki hyökkäyksestä erityisen vaarallisen, sillä se vaaransi suoraan ihmishenkiä eikä vain liike-elämän toimintaa.
