@@ -36,6 +36,5 @@ NotPetya osoitti, että kyberaseiden hallinta digitaalisesti yhteenliitetyssä m
 ### 8. Your personal takeaway
 Digitaalinen sodankäynti voi aiheuttaa erittäin paljon vahinkoa lyhyessä ajassa. Sodankäynti kokonaisuudessaan on muuttunut todella paljon.
 
-
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
+Ei ongelmia.
