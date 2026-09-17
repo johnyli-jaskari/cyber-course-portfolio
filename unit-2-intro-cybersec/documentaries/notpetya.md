@@ -1,7 +1,7 @@
 # U2-02b Assignment: Darknet Diaries Ep. 54 - NotPetya (documentary)
 
-**Date:** 2026-09-17
-**Source:** U2-02b Assignment: Darknet Diaries Ep. 54 - NotPetya (documentary)
+**Date:** 2026-09-17 <br>
+**Source:** U2-02b Assignment: Darknet Diaries Ep. 54 - NotPetya (documentary) <br>
 **Environment:** macOS, Moodle
 
 ## Goal
