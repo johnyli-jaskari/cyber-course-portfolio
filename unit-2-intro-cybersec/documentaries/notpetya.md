@@ -28,7 +28,7 @@ Hyökkääjät murtautuivat ukrainalaisen M.E.Doc-kirjanpito-ohjelmiston päivit
 Päästyään verkon sisälle NotPetya käytti EternalBlue-haavoittuvuutta levitäkseen automaattisesti päivittämättömiin Windows-järjestelmiin. Lisäksi se eristi muistista käyttäjätunnuksia ja salasanatiivisteitä Mimikatz-työkalun avulla, mikä mahdollisti tunnistetietojen kaappauksen. Näitä kaapattuja tunnuksia hyödyntäen haittaohjelma liikkui verkoissa saastuttaen myös täysin päivitetyt laitteet.
 
 ### 6. What could have helped
-Verkon tiukka segmentointi olisi pienentänyt vahinkoja merkittävästi. Eriyttämällä verkon osat toisistaan ja rajoittamalla verkkolohkojen välistä liikennettä haittaohjelman liikkuminen olisi pysähtynyt. Tämä olisi eristänyt tartunnan vain ensimmäisiin saastuneisiin laitteisiin ja estänyt koko globaalin IT-infrastruktuurin halvautumisen.
+Yrityksessä verkon tiukka segmentointi olisi pienentänyt vahinkoja merkittävästi. Eriyttämällä verkon osat toisistaan ja rajoittamalla verkkolohkojen välistä liikennettä haittaohjelman liikkuminen olisi pysähtynyt. Tämä olisi eristänyt tartunnan vain ensimmäisiin saastuneisiin laitteisiin ja estänyt koko globaalin IT-infrastruktuurin vahingoittumisen.
 
 ### 7. The broader lesson - attribution and consequences
 
