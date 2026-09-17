@@ -25,7 +25,7 @@ NotPetya kohdistui ennen kaikkea saatavuuteen (Availability) ja myös eheyteen (
 Hyökkääjät murtautuivat ukrainalaisen M.E.Doc-kirjanpito-ohjelmiston päivityspalvelimelle ja saastuttivat sen viruksella. Kun sovellusta käyttäneet yritykset latasivat automaattisen ja luotetun päivityksen, haittaohjelma pääsi suoraan heidän sisäverkkoihinsa. Ohjelmiston päivitysmekanismin saastuttaminen on poikkeuksellisen tehokasta, koska se kiertää perinteiset suojaukset käyttämällä organisaation olemassa olevaa viestintään ja suorittaa haitallisen koodin järjestelmänvalvojan oikeuksin.
 
 ### 5. How it spread inside networks
-
+Päästyään verkon sisälle NotPetya käytti EternalBlue-haavoittuvuutta levitäkseen automaattisesti päivittämättömiin Windows-järjestelmiin. Lisäksi se eristi muistista käyttäjätunnuksia ja salasanatiivisteitä Mimikatz-työkalun avulla, mikä mahdollisti tunnistetietojen kaappauksen. Näitä kaapattuja tunnuksia hyödyntäen haittaohjelma liikkui verkoissa saastuttaen myös täysin päivitetyt laitteet.
 
 ### 6. What could have helped
 
