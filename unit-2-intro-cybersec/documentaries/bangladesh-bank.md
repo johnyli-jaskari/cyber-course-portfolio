@@ -19,8 +19,10 @@ Bangladesh Bankin ryöstössä hyökkääjät yrittivät varastaa lähes miljard
 Hyökkääjät käyttivät kuukausia verkon sisäiseen tiedusteluun opiskellen pankin päivittäisiä rutiineja, työntekijöiden toimintatapoja ja SWIFT-maksujärjestelmän toimintaa. Kärsivällisyys oli kriittistä, sillä se mahdollisti hyökkäyksen täydellisen ajoittamisen eri maanosien viikonlopuille ja pyhäpäiville, mikä viivästytti epäilyttävien rahansiirtojen havaitsemista.
 
 ### 3. The CIA principle
+Ensisijainen kohde oli tiedon eheys (Integrity), sillä hyökkääjät peukaloivat maksutransaktioita ja syöttivät järjestelmään väärennettyjä rahansiirtopyyntöjä. Lisäksi he muokkasivat järjestelmän raportointiohjelmistoa peittääkseen omat jälkensä.
 
 ### 4. The attack technique - SWIFT and the printer trick
+
 
 ### 5. What went wrong for the attackers
 
