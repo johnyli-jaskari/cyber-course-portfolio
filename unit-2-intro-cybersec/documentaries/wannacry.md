@@ -2,7 +2,7 @@
 
 **Date:** 2026-09-16   <br>
 **Source:** U2-01c Assignment: WannaCry (documentary)   <br>
-**Environment:** macOS, Moodle
+**Environment:** macOS, GitHub
 
 ## Goal
 Pohtia ja laatia ytimekäs tietoturva-analyysi vuoden 2017 WannaCry-kiristyshaittaohjelmahyökkäyksestä.
