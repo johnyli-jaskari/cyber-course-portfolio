@@ -5,7 +5,7 @@
 **Environment:** macOS, GitHub
 
 ## Goal
-
+Reflect on the Twitter incident and connect it to Cisco Module 3 concepts.
 
 ## Steps
 Katsoin videon. <br>
