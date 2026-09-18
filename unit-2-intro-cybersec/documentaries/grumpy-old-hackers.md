@@ -1,7 +1,7 @@
 # U2-03c Assignment: Darknet Diaries Ep. 87 - Guild of the Grumpy Old Hackers (documentary)
 
-**Date:** 2026-09-18
-**Source:** U2-03c Assignment: Darknet Diaries Ep. 87 - Guild of the Grumpy Old Hackers (documentary))
+**Date:** 2026-09-18 <br>
+**Source:** U2-03c Assignment: Darknet Diaries Ep. 87 - Guild of the Grumpy Old Hackers (documentary) <br>
 **Environment:** macOS, GitHub
 
 ## Goal
