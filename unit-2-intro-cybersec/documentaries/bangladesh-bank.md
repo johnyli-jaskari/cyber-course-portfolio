@@ -37,4 +37,4 @@ Hyökkäys osoittaa, että kyberhyökkääjien motivaationa voi valtiollisen vak
 Muutti käsitystäni miten valtavan pitkäjänteistä toimintaa ja kärsivällisyyttä monimutkainen hyökkäys voi vaatia. Kuukausien luotettavuuden rakentamisesta aina oikean hetken odottamiseen.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
+Ei ongelmia.
