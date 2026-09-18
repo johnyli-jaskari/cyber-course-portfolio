@@ -27,5 +27,13 @@ Osoitteiden ja salasanojen massakokeilu on hyökkäystekniikka, jossa tietomurro
 ### 5. Why the target was so high-value - but the technique was so simple
 Hyökkäyksen onnistuminen helpolla tavalla osoittaa, että vahvinkaan tekninen suojaus ei auta, jos yksilön omat tietoturvavalinnat pettävät. Mitä merkittävämmässä asemassa henkilö on, sitä suuremman riskin hänen yksinkertaiset virheensä muodostavat.
 
+### 6. What could have helped - defenses an individual can implement
+Hyökkäyksen olisivat estäneet monivaiheinen tunnistautuminen ja yksilöllisten salasanojen käyttö salasananhallintaohjelmalla. Monivaiheinen tunnistautuminen vaatii kirjautumiseen salasanan lisäksi erillisen vahvistuskoodin. Salasananhallintaohjelma puolestaan mahdollistaa jokaiselle palvelulle uniikin ja vahvan salasanan ilman toistuvuutta.
+
+### 7. The broader lesson - leaked data is forever
+Kuvio osoittaa, että vuodettujen tietojen elinkaari on käytännössä ikuinen ja voi vuosia myöhemmin aiheuttaa ongelmia. Pelkkä reagointi tietomurron tapahduttua ei riitä, sillä käyttäjä ei useinkaan tiedä oman salasanansa vuotaneen ennen kuin on jo liian myöhäistä.
+
+### 8. Your personal takeaway - and a small action
+
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
