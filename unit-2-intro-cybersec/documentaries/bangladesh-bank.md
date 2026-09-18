@@ -5,7 +5,7 @@
 **Environment:** macOS, Github
 
 ## Goal
-What I was trying to do.
+Analysoida vuoden 2016 Bangladesh Bank -kyberhyökkäystä, pohtia hyökkääjien soluttautumista, motivaatiota ja pitkäjänteistä toimintaa. 
 
 ## Steps
 Katsoin videon.  <br>
