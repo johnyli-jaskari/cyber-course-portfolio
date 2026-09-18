@@ -5,7 +5,7 @@
 **Environment:** macOS, Github
 
 ## Goal
-Analysoida vuoden 2016 Bangladesh Bank -kyberhyökkäystä, pohtia hyökkääjien soluttautumista, motivaatiota ja pitkäjänteistä toimintaa. 
+Reflect on the Bangladesh Bank Heist incident and connect it to Cisco Module 2 concepts.
 
 ## Steps
 Katsoin videon.  <br>
