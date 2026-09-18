@@ -28,6 +28,7 @@ SWIFT järjestelmän ja kuittaustulostimen peukalointi osti heille arvokasta aik
 Suurin osa siirroista pysäyttivät pankkianalyytikoiden epäilyt, automatisoidut turvamekanismit ja hyökkääjien tekemät pienet operatiiviset virheet, kuten kirjoitusvirhe maksun saajan nimessä. Tämä osoittaa, että hyökkäyksen torjunnassa sattumalla ja inhimillisillä virheillä on usein suuri rooli. Vaikka hyökkäys oli tarkkaan suunniteltu, finanssialan monitasoiset turvatarkastukset ja poikkeamien havainnointi onnistuivat lopulta rajoittamaan vahinkoja.
 
 ### 6. What could have helped - the defender's perspective
+SWIFT-ympäristön tiukka eristäminen muusta pankkiverkosta olisi vaikeuttanut hyökkääjiä etenemästä tavanomaisesta verkosta kriittisiin maksujärjestelmiin. Saastutettu perustyöasema ei olisi tarjonnut suoraa pääsyä rahansiirtojärjestelmiin.
 
 ### 7. The broader lesson - financial crime as cyberattack
 
