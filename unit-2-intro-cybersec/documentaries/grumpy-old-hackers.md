@@ -24,5 +24,8 @@ Hyökkäys kohdistui ensisijaisesti luottamuksellisuuteen (confidentiality), sil
 ### 4. The technique - credential stuffing at a personal scale
 Osoitteiden ja salasanojen massakokeilu on hyökkäystekniikka, jossa tietomurroissa vuodettuja käyttäjätunnuksia ja salasanoja syötetään automaattisesti eri verkkopalveluiden kirjautumissivulle. Se on yksi yleisimmistä hyökkäystavoista, koska automaatio tekee siitä nopeaa, toteuttavissa laajassa mittakaavassa sekä toimii, kun ihmiset käyttävät samoja tunnuksia eri palveluissa.
 
+### 5. Why the target was so high-value - but the technique was so simple
+Hyökkäyksen onnistuminen helpolla tavalla osoittaa, että vahvinkaan tekninen suojaus ei auta, jos yksilön omat tietoturvavalinnat pettävät. Mitä merkittävämmässä asemassa henkilö on, sitä suuremman riskin hänen yksinkertaiset virheensä muodostavat.
+
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
