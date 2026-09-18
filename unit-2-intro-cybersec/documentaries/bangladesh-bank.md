@@ -31,7 +31,7 @@ Suurin osa siirroista pysäyttivät pankkianalyytikoiden epäilyt, automatisoidu
 Tapahtumalokien keskittäminen ja valvonta. Hyökkääjät olivat verkossa kuukausia ja muokkasivat järjestelmätiedostoja. Keskitetty lokitussysteemi, johon hyökkääjät eivät pääse käsiksi, olisi hälyttänyt poikkeavasta komennosta ja tiedostomuutoksista jo ennen rahansiirtoja.
 
 ### 7. The broader lesson - financial crime as cyberattack
-Hyökkäys osoittaa, että kyberhyökkääjien motivaationa voi valtiollisen vakoilun tai sabotaasin sijaan olla puhtaasti taloudellinen hyöty, jolloin itse raha ja maksujärjestelmät ovat ensisijainen kohde. Puolustajien on huomioitava perinteisen tietojen salassapidon lisäksi kriittisten rahansiirtoprosessien valvonta ja ymmärtää, että hyökkääjät voivat käyttää valtio-tason kehittyneitä menetelmiä rahan varastamiseen.
+Hyökkäys osoittaa, että kyberhyökkääjien motivaationa voi valtiollisen vakoilun tai sabotaasin sijaan olla puhtaasti taloudellinen hyöty, jolloin itse raha ja maksujärjestelmät ovat ensisijainen kohde. Asiantuntijoiden on huomioitava perinteisen tietojen salassapidon lisäksi kriittisten rahansiirtoprosessien valvonta ja ymmärtää, että hyökkääjät voivat käyttää valtio-tason kehittyneitä menetelmiä rahan varastamiseen.
 
 ### 8. Your personal takeaway
 Muutti käsitystäni miten paljon pitkäjänteistä toimintaa ja kärsivällisyyttä monimutkainen hyökkäys voi vaatia. Kuukausien luotettavuuden rakentamisesta aina oikean hetken odottamiseen.
