@@ -31,6 +31,7 @@ Suurin osa siirroista pysäyttivät pankkianalyytikoiden epäilyt, automatisoidu
 SWIFT-ympäristön tiukka eristäminen muusta pankkiverkosta olisi vaikeuttanut hyökkääjiä etenemästä tavanomaisesta verkosta kriittisiin maksujärjestelmiin. Saastutettu perustyöasema ei olisi tarjonnut suoraa pääsyä rahansiirtojärjestelmiin.
 
 ### 7. The broader lesson - financial crime as cyberattack
+Hyökkäys osoittaa, että kyberhyökkääjien motivaationa voi valtiollisen vakoilun tai sabotaasin sijaan olla puhtaasti taloudellinen hyöty, jolloin itse raha ja maksujärjestelmät ovat ensisijainen kohde. Puolustajien suojaus pitää ottaa huomioon perinteisen tietojen salassapidon lisäksi kriittisten rahansiirtoprosessien valvonta ja ymmärtää että hyökkääjät voivat käyttää valtio-tason kehittyneitä menetelmiä varastamiseen.
 
 ### 8. Your personal takeaway
 
