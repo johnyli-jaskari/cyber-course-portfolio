@@ -5,7 +5,7 @@
 **Environment:** macOS, GitHub
 
 ## Goal
-Pohtia NotPetya-kyberhyökkäystä, sen teknistä toteutusta ja levittäytymistä sekä arvioida sen laajoja yhteiskunnallisia ja geopoliittisia vaikutuksia.
+Reflect on the NotPetya incident and connect it to Cisco Module 2 concepts.
 
 ## Steps
 Katsoin videon. <br>
