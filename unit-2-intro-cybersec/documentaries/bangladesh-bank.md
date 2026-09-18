@@ -25,6 +25,7 @@ Ensisijainen kohde oli tiedon eheys (Integrity), sillä hyökkääjät peukaloiv
 SWIFT järjestelmän ja kuittaustulostimen peukalointi osti heille arvokasta aikaa, sillä fyysisten kuittien puuttuminen esti henkilökuntaa huomaamasta poikkeamia heti. Hyökkäyksen havaitsemisen viivyttäminen on usein yhtä kriittistä kuin havaitsemisen välttäminen, sillä se antoi hyökkääjille aikaa siirtää ja pestä varat ennen kuin järjestelmiä tai pankkitilejä ehdittiin sulkea.
 
 ### 5. What went wrong for the attackers
+Suurin osa siirroista pysäyttivät pankkianalyytikoiden epäilyt, automatisoidut turvamekanismit ja hyökkääjien tekemät pienet operatiiviset virheet, kuten kirjoitusvirhe maksun saajan nimessä. Tämä osoittaa, että hyökkäyksen torjunnassa sattumalla ja inhimillisillä virheillä on usein suuri rooli. Vaikka hyökkäys oli tarkkaan suunniteltu, finanssialan monitasoiset turvatarkastukset ja poikkeamien havainnointi onnistuivat lopulta rajoittamaan vahinkoja.
 
 ### 6. What could have helped - the defender's perspective
 
