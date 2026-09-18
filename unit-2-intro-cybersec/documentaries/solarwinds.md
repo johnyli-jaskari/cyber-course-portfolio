@@ -2,7 +2,7 @@
 
 **Date:** 2026-09-16 <br>
 **Source:** U2-01b Assignment: The SolarWinds Hack (documentary) <br>
-**Environment:** macOS, Moodle
+**Environment:** macOS, Github
 
 ## Goal
 Reflect on the SolarWinds incident and connect it to Cisco Module 1 concepts.
