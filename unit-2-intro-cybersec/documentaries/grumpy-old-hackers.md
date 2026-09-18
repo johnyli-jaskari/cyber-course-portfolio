@@ -34,6 +34,7 @@ Hyökkäyksen olisivat estäneet monivaiheinen tunnistautuminen ja yksilölliste
 Kuvio osoittaa, että vuodettujen tietojen elinkaari on käytännössä ikuinen ja voi vuosia myöhemmin aiheuttaa ongelmia. Pelkkä reagointi tietomurron tapahduttua ei riitä, sillä käyttäjä ei useinkaan tiedä oman salasanansa vuotaneen ennen kuin on jo liian myöhäistä.
 
 ### 8. Your personal takeaway - and a small action
+Olen aiemmin käyttänyt samaa salasanaa. Tehtävää tehdessä kävin tarkastamassa HaveIBeenPwned. Aion vaihtaa salasanan parempaan ja uniikkiin versioon.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
+Ei ongelmia.
