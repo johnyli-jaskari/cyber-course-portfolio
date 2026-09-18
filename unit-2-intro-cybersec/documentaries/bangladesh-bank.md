@@ -8,7 +8,8 @@
 What I was trying to do.
 
 ## Steps
-Commands run, in order. Use code blocks.
+Katsoin videon.  <br>
+https://www.youtube.com/watch?v=ttohYNSCkik&t=2s
 
 ## Findings
 What I learned / what the output told me.
