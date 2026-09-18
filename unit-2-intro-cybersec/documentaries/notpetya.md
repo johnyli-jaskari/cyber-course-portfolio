@@ -2,7 +2,7 @@
 
 **Date:** 2026-09-17 <br>
 **Source:** U2-02b Assignment: Darknet Diaries Ep. 54 - NotPetya (documentary) <br>
-**Environment:** macOS, Github
+**Environment:** macOS, GitHub
 
 ## Goal
 Pohtia NotPetya-kyberhyökkäystä, sen teknistä toteutusta ja levittäytymistä sekä arvioida sen laajoja yhteiskunnallisia ja geopoliittisia vaikutuksia.
