@@ -22,6 +22,7 @@ Tunnusten uudelleenkäyttö tarkoittaa saman käyttäjätunnuksen ja salasanan y
 Hyökkäys kohdistui ensisijaisesti luottamuksellisuuteen (confidentiality), sillä hyökkääjät pääsivät käsiksi tietyn henkilön yksityiseen tiliin ja sen sisältämiin tietoihin. Samalla kärsi myös eheys (integrity), kun luvaton pääsy mahdollisti kyvyn esiintyä tilin omistajana ja julkaista viestejä uhrin nimissä. Kohde menetti tilapäisesti yksityisyytensä ja hallinnan omasta digitaalisesta identiteetistään.
 
 ### 4. The technique - credential stuffing at a personal scale
+Osoitteiden ja salasanojen massakokeilu on hyökkäystekniikka, jossa tietomurroissa vuodettuja käyttäjätunnuksia ja salasanoja syötetään automaattisesti eri verkkopalveluiden kirjautumissivulle. Se on yksi yleisimmistä hyökkäystavoista, koska automaatio tekee siitä nopeaa, toteuttavissa laajassa mittakaavassa sekä toimii, kun ihmiset käyttävät samoja tunnuksia eri palveluissa.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
