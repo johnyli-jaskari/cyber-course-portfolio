@@ -22,7 +22,7 @@ Hyökkääjät käyttivät kuukausia verkon sisäiseen tiedusteluun opiskellen p
 Ensisijainen kohde oli tiedon eheys (Integrity), sillä hyökkääjät peukaloivat maksutransaktioita ja syöttivät järjestelmään väärennettyjä rahansiirtopyyntöjä. Lisäksi he muokkasivat järjestelmän raportointiohjelmistoa peittääkseen omat jälkensä.
 
 ### 4. The attack technique - SWIFT and the printer trick
-SWIFT järjestlmän ja kuittaustulostimen peukalointi osti heille arvokasta aikaa, sillä fyysisten kuittien puuttuminen esti henkilökuntaa huomaamasta poikkeamia heti. Hyökkäyksen havaitsemisen viivyttäminen on usein yhtä kriittistä kuin havaitsemisen välttäminen, sillä se antoi hyökkääjille aikaa siirtää ja pestä varat ennen kuin järjestelmiä tai pankkitilejä ehdittiin sulkea.
+SWIFT järjestelmän ja kuittaustulostimen peukalointi osti heille arvokasta aikaa, sillä fyysisten kuittien puuttuminen esti henkilökuntaa huomaamasta poikkeamia heti. Hyökkäyksen havaitsemisen viivyttäminen on usein yhtä kriittistä kuin havaitsemisen välttäminen, sillä se antoi hyökkääjille aikaa siirtää ja pestä varat ennen kuin järjestelmiä tai pankkitilejä ehdittiin sulkea.
 
 ### 5. What went wrong for the attackers
 
