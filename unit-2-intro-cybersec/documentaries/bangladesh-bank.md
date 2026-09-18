@@ -12,7 +12,23 @@ Katsoin videon.  <br>
 https://www.youtube.com/watch?v=ttohYNSCkik&t=2s
 
 ## Findings
-What I learned / what the output told me.
+### 1. The incident in your own words
+Bangladesh Bankin ryöstössä hyökkääjät yrittivät varastaa lähes miljardi dollaria tekemällä väärennettyjä maksupyyntöjä pankin SWIFT-järjestelmän kautta. Vaikka suurin osa siirroista saatiin pysäytettyä, hyökkääjät onnistuivat saamaan haltuunsa noin 81 miljoonaa dollaria. Tapaus on poikkeuksellinen verrattuna perinteisiin pankkiryöstöihin, sillä fyysisen aseellisen väkivallan sijaan hyökkäys tehtiin täysin digitaalisesti ja näkymättömästi etänä.
+
+### 2. The patient approach - months of preparation
+Hyökkääjät käyttivät kuukausia verkon sisäiseen tiedusteluun opiskellen pankin päivittäisiä rutiineja, työntekijöiden toimintatapoja ja SWIFT-maksujärjestelmän toimintaa. Kärsivällisyys oli kriittistä, sillä se mahdollisti hyökkäyksen täydellisen ajoittamisen eri maanosien viikonlopuille ja pyhäpäiville, mikä viivästytti epäilyttävien rahansiirtojen havaitsemista.
+
+### 3. The CIA principle
+
+### 4. The attack technique - SWIFT and the printer trick
+
+### 5. What went wrong for the attackers
+
+### 6. What could have helped - the defender's perspective
+
+### 7. The broader lesson - financial crime as cyberattack
+
+### 8. Your personal takeaway
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
