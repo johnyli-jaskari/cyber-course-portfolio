@@ -34,7 +34,7 @@ SWIFT-ympäristön tiukka eristäminen muusta pankkiverkosta olisi vaikeuttanut 
 Hyökkäys osoittaa, että kyberhyökkääjien motivaationa voi valtiollisen vakoilun tai sabotaasin sijaan olla puhtaasti taloudellinen hyöty, jolloin itse raha ja maksujärjestelmät ovat ensisijainen kohde. Puolustajien on huomioitava perinteisen tietojen salassapidon lisäksi kriittisten rahansiirtoprosessien valvonta ja ymmärtää, että hyökkääjät voivat käyttää valtio-tason kehittyneitä menetelmiä rahan varastamiseen.
 
 ### 8. Your personal takeaway
-Muutti käsitystäni miten valtavan pitkäjänteistä toimintaa ja kärsivällisyyttä monimutkainen hyökkäys voi vaatia. Kuukausien luotettavuuden rakentamisesta aina oikean hetken odottamiseen.
+Muutti käsitystäni miten paljon pitkäjänteistä toimintaa ja kärsivällisyyttä monimutkainen hyökkäys voi vaatia. Kuukausien luotettavuuden rakentamisesta aina oikean hetken odottamiseen.
 
 ## Issues and how I resolved them
 Ei ongelmia.
