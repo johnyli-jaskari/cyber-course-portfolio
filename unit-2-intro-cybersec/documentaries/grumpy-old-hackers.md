@@ -5,13 +5,14 @@
 **Environment:** macOS, GitHub
 
 ## Goal
-What I was trying to do.
+
 
 ## Steps
-Commands run, in order. Use code blocks.
+Katsoin videon. <br>
+https://www.youtube.com/watch?v=-j0kWlphD4w&t=1s
 
 ## Findings
-What I learned / what the output told me.
+### 1. The incident in your own words
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
