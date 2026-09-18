@@ -19,7 +19,7 @@ Hollantilaiset IT-ammattilaiset ja ettiset tietoturvatutkijat murtautuivat Yhdys
 Tunnusten uudelleenkäyttö tarkoittaa saman käyttäjätunnuksen ja salasanan yhdistelmän käyttämistä useissa eri verkkopalveluissa. Tämä tekee yksittäisestä tietomurrosta pitkäaikaisen riskin, sillä hyökkääjät voivat kokeilla vuodettuja tunnuksia täysin erillisiin palveluihin vielä vuosienkin päästä. Hyökkäys onnistui ainoastaan siksi, että kohde oli käyttänyt vuonna 2012 LinkedIn-palvelussa ollutta salasanaa myös Twitter-tilillään vuonna 2016.
 
 ### 3. The CIA principle
-Hyökkäys kohdistui ensisijaisesti luottamuksellisuuteen (confidentiality), sillä hyökkääjät pääsivät käsiksi tietyn henkilön yksityiseen tiliin ja sen sisältämiin tietoihin. Samalla kärsi myös tili ja sen kautta julkaistavan viestinnän eheys (integrity), kun luvaton pääsy mahdollisti kyvyn esiintyä tilin omistajana ja hallinnoida sen sisältöä. Uhri menetti tilapäisesti yksityisyytensä ja hallinnan omasta digitaalisesta identiteetistään.
+Hyökkäys kohdistui ensisijaisesti luottamuksellisuuteen (confidentiality), sillä hyökkääjät pääsivät käsiksi tietyn henkilön yksityiseen tiliin ja sen sisältämiin tietoihin. Samalla kärsi myös tili ja sen kautta julkaistavan viestinnän eheys (integrity), kun luvaton pääsy mahdollisti kyvyn esiintyä tilin omistajana ja hallinnoida sen sisältöä. Kohde menetti tilapäisesti yksityisyytensä ja hallinnan omasta digitaalisesta identiteetistään.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
