@@ -5,7 +5,7 @@
 **Environment:** macOS, GitHub
 
 ## Goal
-Pohtia ja laatia ytimekäs tietoturva-analyysi vuoden 2017 WannaCry-kiristyshaittaohjelmahyökkäyksestä.
+Reflect on the WannaCry incident and connect it to Cisco Module 1 concepts.
 
 ## Steps
 Katsoin videon. <br>
