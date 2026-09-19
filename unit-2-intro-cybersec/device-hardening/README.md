@@ -16,7 +16,7 @@ Tarkistin käyttöjärjestelmän versio komennolla `cat /etc/os-release`. Käyt�
 
 ![](screenshots/operating-system-1.png)
 
-2. ✅ Automatic security updates are enabled
+- 2\. ✅ Automatic security updates are enabled
 
 Tarkistaa onko automaattiset turvapäivitykset käynnissä.
 
@@ -27,7 +27,7 @@ Ei, joten asensin ja konfiguroin automaattiset turvapäivitykset. <br>
 <img src="screenshots/operating-system-3.png" width="800" height="500"> 
 <img src="screenshots/operating-system-4.png" width="800" height="500">   
 
-3. ✅ All pending updates installed
+- 3\. ✅ All pending updates installed
 
 Järjestelmän päivitys komennolla `sudo apt update && sudo apt upgrade -y`. Kaikki saatavilla olevat paketit ja turvapäivitykset ovat asennettuina.
 
@@ -35,13 +35,13 @@ Järjestelmän päivitys komennolla `sudo apt update && sudo apt upgrade -y`. Ka
 <img src="screenshots/operating-system-6.png" width="800" height="500">   
 
 ### Authentication
-4. ✅ Strong login password or PIN set (not blank, not reused)
+- 4\. ✅ Strong login password or PIN set (not blank, not reused)
 
 Käyttäjätilin salasana tilan varmistaminen komennolla `sudo chage -l john`. Käyttäjälle on asetettu vahva ja yksilöllinen salasana asennuksen yhteydessä.
 
 ![](screenshots/authentication-1.png)
 
-5. ✅ Screen lock automatically activates within 5 minutes of inactivity  <br>
+- 5\. ✅ Screen lock automatically activates within 5 minutes of inactivity  <br>
 
 Komento, joka näyttää nykyisen lukitusviiveen sekunteina.  <br>
 
@@ -51,33 +51,33 @@ Lukitusviive on jo valmiina asetettu 5 minuuttiin. Ja varmistus vielä, että au
 
 <img src="screenshots/authentication-3.png" width="800" height="500">     
 
-6. N/A Biometric login configured (where supported) as a convenience layer, not as the only factor
+- 6\. N/A Biometric login configured (where supported) as a convenience layer, not as the only factor
 
 Käytössä on Debian 13 -virtuaalikoneympäristö, jossa ei ole kytkettynä biometrista laitteistoa (kuten sormenjälkilukijaa). Ajamalla komento `fprintd-enroll`, joka ilmoitti, ettei yhteensopivaa laitetta ole saatavilla. <br>
 
 <img src="screenshots/authentication-4.png" width="600" height="300">
 
 ### Storage and data
-7. N/A Full-disk encryption enabled (BitLocker, FileVault, LUKS)
+- 7\. N/A Full-disk encryption enabled (BitLocker, FileVault, LUKS)
 
 Levyn salauksen tarkistus. Käytössä oleva Debian 13 VM ei hyödynnä kokolevynsalausta, sillä se on asennettu kevyeksi harjoitusympäristöksi. Arkikäytössä olevilla laitteilla salaus kytketään päälle asennusvaiheessa.  <br>
 
 <img src="screenshots/storage-and-data-1.png" width="1000" height="700">
 
-8. ✅ At least one recent backup exists in a separate location (external drive or cloud)
+- 8\. ✅ At least one recent backup exists in a separate location (external drive or cloud)
 
 Varmuuskopio tiedosto.  <br>
 
 <img src="screenshots/storage-and-data-2.png" width="700" height="400">
 
-9. ✅ Backup restoration tested at least once (try restoring a single file)
+- 9\. ✅ Backup restoration tested at least once (try restoring a single file)
 
 Varmuuskopion palautusta purkamalla se väliaikaiseen hakemistoon. <br>
 
 <img src="screenshots/storage-and-data-3.png" width="700" height="400">
 
 ### Network
-10. ✅ Host firewall enabled
+- 10\. ✅ Host firewall enabled
 
 Isäntäpalomuurin tilan tarkistaminen. 
 
@@ -87,13 +87,13 @@ Palomuuri ei ole päällä, joten palomuurin pitää käynnistää. <br>
 
 <img src="screenshots/network-2.png" width="600" height="300">
 
-11. ✅ Network profile correctly set (public/private) for your current network
+- 11\. ✅ Network profile correctly set (public/private) for your current network
 
 Aktiivinen verkkoyhteys ja sen profiilin tarkistaminen.
 
 <img src="screenshots/network-3.png" width="900" height="600">
 
-12. ✅ Unnecessary sharing services (file sharing, remote desktop) disabled when not needed
+- 12\. ✅ Unnecessary sharing services (file sharing, remote desktop) disabled when not needed
 
 Löydetyt palvelut.
 
@@ -104,13 +104,13 @@ Avahi ja CUPS sulkeminen.
 <img src="screenshots/network.png" width="1400" height="1000">
 
 ### Software
-13. ✅ Browser is up to date
+- 13\. ✅ Browser is up to date
 
 Firefox selaimen päiviytystä.
 
 <img src="screenshots/software-1.png" width="900" height="600">
 
-14. ✅ Reputable anti-malware solution present (built-in Defender is acceptable on Windows)
+- 14\. ✅ Reputable anti-malware solution present (built-in Defender is acceptable on Windows)
 
 Asensin ClamAV-virustorjunnan. 
 
@@ -118,7 +118,7 @@ Asensin ClamAV-virustorjunnan.
 
 <img src="screenshots/software-2.png" width="900" height="600">
 
-15. ✅ Unused applications uninstalled (list 3+ you removed)
+- 15\. ✅ Unused applications uninstalled (list 3+ you removed)
 
 Positin kolme valmiiksiasennettua sovellusta: seahorse, gnome-calculator ja gnome-system-monitor.
 <img src="screenshots/software-3.png" width="900" height="600">
