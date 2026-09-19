@@ -89,6 +89,12 @@ Palomuuri ei ole päällä, joten palomuurin pitää käynnistää. <br>
 
 11. ✅ Network profile correctly set (public/private) for your current network
 
+Aktiivinen verkkoyhteys ja sen profiilin tarkistaminen.
+
+<img src="screenshots/network-3.png" width="700" height="400">
+
+12. ✅ Unnecessary sharing services (file sharing, remote desktop) disabled when not needed
+
 
 ## Findings
 What I learned / what
