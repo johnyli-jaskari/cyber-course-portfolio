@@ -44,6 +44,8 @@ Käyttäjätilin salasana tilan varmistaminen komennolla `sudo chage -l john`. K
 
 Komento, joka näyttää nykyisen lukitusviiveen sekunteina:  <br>
 ![](screenshots/authentication-2.png)
+
+Lukitusviive jo valmiina asetettu 5 minuuttiin. Varmistus vielä, että automaattinen näytönlukitus on aktivoituna päälle.
 ## Findings
 What I learned / what
 
