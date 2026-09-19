@@ -26,7 +26,9 @@ Ei, joten asensin ja konfiguroin automaattiset turvapäivitykset. <br>
 ![](screenshots/operating-system-4.png)
 
 3. ✅ All pending updates installed
+
 Järjestelmän päivitys komennolla `sudo apt update && sudo apt upgrade -y`. Kaikki saatavilla olevat paketit ja turvapäivitykset ovat asennettuina.
+![](screenshots/operating-system-5.png)
 
 ## Findings
 What I learned / what
