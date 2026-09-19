@@ -8,7 +8,7 @@
 What I was trying to do.
 
 ## Steps
-[  ] OS is currently supported and receiving security updat
+[ x ] OS is currently supported and receiving security updat
  
 ## Findings
 What I learned / what the output told me.
