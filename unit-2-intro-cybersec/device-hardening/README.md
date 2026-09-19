@@ -42,7 +42,8 @@ Käyttäjätilin salasana tilan varmistaminen komennolla `sudo chage -l john`. K
 
 5. ✅ Screen lock automatically activates within 5 minutes of inactivity  <br>
 
-Komento, joka näyttää nykyisen lukitusviiveen sekunteina:
+Komento, joka näyttää nykyisen lukitusviiveen sekunteina:  <br>
+![](screenshots/authentication-2.png)
 ## Findings
 What I learned / what
 
