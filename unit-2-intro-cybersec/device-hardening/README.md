@@ -11,7 +11,7 @@ What I was trying to do.
 ### Operating system
 1. ✅ OS is currently supported and receiving security updates.  <br>
 Tarkistin käyttöjärjestelmän versio komennolla `cat /etc/os-release`. Käytössä on Debian 13 (trixie), joka on voimassa oleva ja tuettu versio.
-
+!(screenshots/Operating-system-1.png)
 
 ## Findings
 What I learned / what
