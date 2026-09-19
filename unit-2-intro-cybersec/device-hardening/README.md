@@ -70,6 +70,10 @@ Varmuuskopion palautusta purkamalla se väliaikaiseen hakemistoon. <br>
 <img src="screenshots/storage-and-data-3.png" width="700" height="400">
 
 ### Network
+10. ✅ Host firewall enabled
+
+Palomuurin tilan tarkistaminen. <br>
+<img src="screenshots/network-1.png" width="700" height="400">
 
 ## Findings
 What I learned / what
