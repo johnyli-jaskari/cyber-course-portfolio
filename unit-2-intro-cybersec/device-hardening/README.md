@@ -29,9 +29,12 @@ Ei, joten asensin ja konfiguroin automaattiset turvapäivitykset. <br>
 
 Järjestelmän päivitys komennolla `sudo apt update && sudo apt upgrade -y`. Kaikki saatavilla olevat paketit ja turvapäivitykset ovat asennettuina.
 ![](screenshots/operating-system-5.png)
-
-
 ![](screenshots/operating-system-6.png)
+
+### Authentication
+4. ✅ Strong login password or PIN set (not blank, not reused)
+Käyttäjätilin salasana tilan varmistaminen komennolla `sudo chage -l john`. Käyttäjälle on asetettu vahva ja yksilöllinen salasana asennuksen yhteydessä.
+![](screenshots/authentication-1.png)
 
 ## Findings
 What I learned / what
