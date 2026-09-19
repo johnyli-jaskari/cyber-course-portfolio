@@ -23,18 +23,20 @@ Tarkistaa onko automaattiset turvapäivitykset käynnissä.
 <img src="screenshots/operating-system-2.png" width="600" height="300">
 
 Ei, joten asensin ja konfiguroin automaattiset turvapäivitykset. <br>
-<img src="screenshots/operating-system-3.png" width="600" height="300"> 
-<img src="screenshots/operating-system-4.png" width="600" height="300">   
+<img src="screenshots/operating-system-3.png" width="700" height="400"> 
+<img src="screenshots/operating-system-4.png" width="700" height="400">   
 
 3. ✅ All pending updates installed
 
 Järjestelmän päivitys komennolla `sudo apt update && sudo apt upgrade -y`. Kaikki saatavilla olevat paketit ja turvapäivitykset ovat asennettuina.
-<img src="screenshots/operating-system-5.png" width="600" height="300">  
-<img src="screenshots/operating-system-6.png" width="600" height="300">   
+
+<img src="screenshots/operating-system-5.png" width="700" height="400">  
+<img src="screenshots/operating-system-6.png" width="700" height="400">   
 
 ### Authentication
 4. ✅ Strong login password or PIN set (not blank, not reused)
 Käyttäjätilin salasana tilan varmistaminen komennolla `sudo chage -l john`. Käyttäjälle on asetettu vahva ja yksilöllinen salasana asennuksen yhteydessä.
+
 ![](screenshots/authentication-1.png)
 
 ## Findings
