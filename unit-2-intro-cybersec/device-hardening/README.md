@@ -120,6 +120,9 @@ Asensin ClamAV-virustorjunnan.
 
 - 15\. ✅ Unused applications uninstalled (list 3+ you removed)
 
+...
+
+- 16\. ✅ Local administrator account renamed or disabled where possible; daily-use account is non-admin
 
 
 ## Findings
