@@ -106,7 +106,7 @@ Avahi ja CUPS sulkeminen.
 ### Software
 13. ✅ Browser is up to date
 
-<img src="screenshots/software-1.png" width="600" height="300">
+<img src="screenshots/software-1.png" width="900" height="600">
 
 ## Findings
 What I learned / what
