@@ -79,8 +79,7 @@ Varmuuskopion palautusta purkamalla se väliaikaiseen hakemistoon. <br>
 ### Network
 10. ✅ Host firewall enabled
 
-Palomuurin tilan tarkistaminen. <br>
-
+Palomuurin tilan tarkistaminen. 
 <img src="screenshots/network-1.png" width="700" height="400">
 
 Palomuuri ei ole päällä, joten palomuurin pitää käynnistää. <br>
