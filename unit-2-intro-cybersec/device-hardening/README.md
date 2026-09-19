@@ -112,7 +112,9 @@ Firefox selaimen päiviytystä.
 
 14. ✅ Reputable anti-malware solution present (built-in Defender is acceptable on Windows)
 
-Asensin ClamAV-virustorjunnan. Käytin komentoa: ```sudo apt update && sudo apt install -y clamav clamav-daemon && clamscan --version```
+Asensin ClamAV-virustorjunnan. 
+
+<img src="screenshots/software-5.png" width="900" height="600">
 
 <img src="screenshots/software-2.png" width="900" height="600">
 
