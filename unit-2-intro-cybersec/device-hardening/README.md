@@ -56,7 +56,7 @@ Käytössä on Debian 13 -virtuaalikoneympäristö, jossa ei ole kytkettynä bio
 ### Storage and data
 7. N/A Full-disk encryption enabled (BitLocker, FileVault, LUKS)
 
-Levyn salauksen tarkistus. Käytössä oleva Debian 13 VM ei hyödynnä kokolevynsalausta, sillä se on asennettu kevyeksi harjoitusympäristöksi. Tuotantolaitteistoilla salaus kytketään päälle asennusvaiheessa.  <br>
+Levyn salauksen tarkistus. Käytössä oleva Debian 13 VM ei hyödynnä kokolevynsalausta, sillä se on asennettu kevyeksi harjoitusympäristöksi. Arkikäytössä olevilla laitteilla salaus kytketään päälle asennusvaiheessa.  <br>
 <img src="screenshots/authentication-5.png" width="1000" height="700">
 
 ## Findings
