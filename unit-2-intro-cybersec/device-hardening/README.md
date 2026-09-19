@@ -8,8 +8,8 @@
 What I was trying to do.
 
 ## Steps
-Commands run, in order. Use code blocks.
-
+[ ] OS is currently supported and receiving security updat
+ 
 ## Findings
 What I learned / what the output told me.
 
