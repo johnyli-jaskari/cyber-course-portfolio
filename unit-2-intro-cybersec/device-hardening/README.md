@@ -119,6 +119,10 @@ Asensin ClamAV-virustorjunnan. Käytin komentoa: ```sudo apt update && sudo apt 
 15. ✅ Unused applications uninstalled (list 3+ you removed)
 
 Positin kolme valmiiksiasennettua sovellusta: seahorse, gnome-calculator ja gnome-system-monitor.
+<img src="screenshots/software-3.png" width="900" height="600">
+
+<img src="screenshots/software-4.png" width="900" height="600">
+
 ## Findings
 What I learned / what
 
