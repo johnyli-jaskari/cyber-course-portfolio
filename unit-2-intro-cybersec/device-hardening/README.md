@@ -62,7 +62,7 @@ Levyn salauksen tarkistus. Käytössä oleva Debian 13 VM ei hyödynnä kokolevy
 8. ✅ At least one recent backup exists in a separate location (external drive or cloud)
 
 Tuore varmuuskopio järjestelmän kriittisistä tiedostoista pakattuna arkistona `tar`-komennolla. <br>
-<img src="screenshots/storage-and-data-2.png" width="600" height="300">
+<img src="screenshots/storage-and-data-2.png" width="900" height="600">
 
 ## Findings
 What I learned / what
