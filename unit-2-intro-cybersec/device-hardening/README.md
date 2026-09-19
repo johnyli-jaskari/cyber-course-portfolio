@@ -8,10 +8,13 @@
 What I was trying to do.
 
 ## Steps
-1. ✅ OS is currently supported and receiving security updat
- 
+### Operating system
+1. ✅ OS is currently supported and receiving security updates.  <br>
+Tarkistin käyttöjärjestelmän versio komennolla `cat /etc/os-release`. Käytössä on Debian 13 (trixie), joka on voimassa oleva ja tuettu versio.
+
+
 ## Findings
-What I learned / what the output told me.
+What I learned / what
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
