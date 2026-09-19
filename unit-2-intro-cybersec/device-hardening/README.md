@@ -29,8 +29,8 @@ Ei, joten asensin ja konfiguroin automaattiset turvapäivitykset. <br>
 3. ✅ All pending updates installed
 
 Järjestelmän päivitys komennolla `sudo apt update && sudo apt upgrade -y`. Kaikki saatavilla olevat paketit ja turvapäivitykset ovat asennettuina.
-![](screenshots/operating-system-5.png)
-![](screenshots/operating-system-6.png)
+<img src="screenshots/operating-system-5.png" width="600" height="300">  
+<img src="screenshots/operating-system-6.png" width="600" height="300">   
 
 ### Authentication
 4. ✅ Strong login password or PIN set (not blank, not reused)
