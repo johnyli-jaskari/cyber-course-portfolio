@@ -75,7 +75,8 @@ Varmuuskopion palautusta purkamalla se väliaikaiseen hakemistoon. <br>
 Palomuurin tilan tarkistaminen. <br>
 <img src="screenshots/network-1.png" width="700" height="400">
 
-Palomuuri ei ole päällä, joten palomuurin käynnistäminen.
+Palomuuri ei ole päällä, joten palomuurin pitää käynnistää. <br>
+<img src="screenshots/network-2.png" width="700" height="400">
 
 ## Findings
 What I learned / what
