@@ -10,7 +10,7 @@ What I was trying to do.
 ## Steps
 ### Hardening checklist
 ### Operating system
-1. ✅ OS is currently supported and receiving security updates.
+- 1. ✅ OS is currently supported and receiving security updates.
 
 Tarkistin käyttöjärjestelmän versio komennolla `cat /etc/os-release`. Käytössä on Debian 13 (trixie), joka on voimassa oleva ja tuettu versio.
 
