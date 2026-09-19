@@ -53,6 +53,9 @@ Lukitusviive on jo valmiina asetettu 5 minuuttiin. Ja varmistus vielä, että au
 Käytössä on Debian 13 -virtuaalikoneympäristö, jossa ei ole kytkettynä biometrista laitteistoa (kuten sormenjälkilukijaa). Ajamalla komento `fprintd-enroll`, joka ilmoitti, ettei yhteensopivaa laitetta ole saatavilla. <br>
 <img src="screenshots/authentication-4.png" width="600" height="300">
 
+### Storage and data
+7. N/A Full-disk encryption enabled (BitLocker, FileVault, LUKS)
+
 ## Findings
 What I learned / what
 
