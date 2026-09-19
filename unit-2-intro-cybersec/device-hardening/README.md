@@ -19,7 +19,9 @@ Tarkistin käyttöjärjestelmän versio komennolla `cat /etc/os-release`. Käyt�
 Tarkistaa onko automaattiset turvapäivitykset käynnissä.
 ![](screenshots/operating-system-2.png)
 
-Ei, joten asentamalla ja konfiguroi automaattiset turvapäivitykset.
+Ei, joten asensin ja konfiguroin automaattiset turvapäivitykset. <br>
+![](screenshots/operating-system-3.png)
+![](screenshots/operating-system-4.png)
 
 ## Findings
 What I learned / what
