@@ -61,10 +61,13 @@ Levyn salauksen tarkistus. Käytössä oleva Debian 13 VM ei hyödynnä kokolevy
 
 8. ✅ At least one recent backup exists in a separate location (external drive or cloud)
 
-Varmuuskopio käyttäjän tiedoista.  <br>
+Varmuuskopio tiedosto.  <br>
 <img src="screenshots/storage-and-data-2.png" width="1000" height="700">
 
 9. ✅ Backup restoration tested at least once (try restoring a single file)
+
+Varmuuskopion palautusta purkamalla se väliaikaiseen hakemistoon.
+
 ## Findings
 What I learned / what
 
