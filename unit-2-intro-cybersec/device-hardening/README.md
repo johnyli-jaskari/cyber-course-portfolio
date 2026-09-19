@@ -97,12 +97,14 @@ Aktiivinen verkkoyhteys ja sen profiilin tarkistaminen.
 
 Löydetyt palvelut.
 
-<img src="screenshots/network-4.png" width="2500" height="2000">
+<img src="screenshots/network-4.png" width="1400" height="1000">
 
 Avahi ja CUPS sulkeminen.
 
-<img src="screenshots/network.png" width="2500" height="2000">
+<img src="screenshots/network.png" width="1400" height="1000">
 
+### Software
+13. ✅ Browser is up to date
 ## Findings
 What I learned / what
 
