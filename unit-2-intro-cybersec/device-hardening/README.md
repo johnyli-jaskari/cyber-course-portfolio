@@ -106,7 +106,16 @@ Avahi ja CUPS sulkeminen.
 ### Software
 13. ✅ Browser is up to date
 
+Firefox selaimen päiviytystä.
+
 <img src="screenshots/software-1.png" width="900" height="600">
+
+14. ✅ Reputable anti-malware solution present (built-in Defender is acceptable on Windows)
+
+Asensin ClamAV-virustorjunnan.
+
+<img src="screenshots/software-2.png" width="900" height="600">
+
 
 ## Findings
 What I learned / what
