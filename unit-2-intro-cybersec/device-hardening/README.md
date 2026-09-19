@@ -91,7 +91,7 @@ Palomuuri ei ole päällä, joten palomuurin pitää käynnistää. <br>
 
 Aktiivinen verkkoyhteys ja sen profiilin tarkistaminen.
 
-<img src="screenshots/network-3.png" width="700" height="400">
+<img src="screenshots/network-3.png" width="900" height="600">
 
 12. ✅ Unnecessary sharing services (file sharing, remote desktop) disabled when not needed
 
