@@ -95,6 +95,11 @@ Aktiivinen verkkoyhteys ja sen profiilin tarkistaminen.
 
 12. ✅ Unnecessary sharing services (file sharing, remote desktop) disabled when not needed
 
+Löydetyt palvelut.
+
+<img src="screenshots/network-4.png" width="700" height="400">
+
+Avahi ja CUPS sulkeminen.
 
 ## Findings
 What I learned / what
