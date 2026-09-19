@@ -69,6 +69,8 @@ Varmuuskopio tiedosto.  <br>
 Varmuuskopion palautusta purkamalla se väliaikaiseen hakemistoon. <br>
 <img src="screenshots/storage-and-data-3.png" width="700" height="400">
 
+### Network
+
 ## Findings
 What I learned / what
 
