@@ -29,6 +29,7 @@ Ei, joten asensin ja konfiguroin automaattiset turvapäivitykset. <br>
 
 Järjestelmän päivitys komennolla `sudo apt update && sudo apt upgrade -y`. Kaikki saatavilla olevat paketit ja turvapäivitykset ovat asennettuina.
 ![](screenshots/operating-system-5.png)
+![](screenshots/operating-system-6.png)
 
 ## Findings
 What I learned / what
