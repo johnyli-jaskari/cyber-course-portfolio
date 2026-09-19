@@ -101,7 +101,7 @@ Löydetyt palvelut.
 
 Avahi ja CUPS sulkeminen.
 
-<img src="screenshots/network-5.png" width="1000" height="700">
+<img src="screenshots/network.png" width="1200" height="900">
 
 ## Findings
 What I learned / what
