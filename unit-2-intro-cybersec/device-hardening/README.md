@@ -51,7 +51,7 @@ Lukitusviive on jo valmiina asetettu 5 minuuttiin. Ja varmistus vielä, että au
 6. N/A Biometric login configured (where supported) as a convenience layer, not as the only factor
 
 Käytössä on Debian 13 -virtuaalikoneympäristö, jossa ei ole kytkettynä biometrista laitteistoa (kuten sormenjälkilukijaa). Ajamalla komento `fprintd-enroll`, joka ilmoitti, ettei yhteensopivaa laitetta ole saatavilla. <br>
-<img src="screenshots/authentication-4.png" width="800" height="500">
+<img src="screenshots/authentication-4.png" width="600" height="300">
 
 ## Findings
 What I learned / what
