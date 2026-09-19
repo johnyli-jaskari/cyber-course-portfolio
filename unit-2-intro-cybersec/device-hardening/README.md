@@ -35,6 +35,7 @@ Järjestelmän päivitys komennolla `sudo apt update && sudo apt upgrade -y`. Ka
 
 ### Authentication
 4. ✅ Strong login password or PIN set (not blank, not reused)
+
 Käyttäjätilin salasana tilan varmistaminen komennolla `sudo chage -l john`. Käyttäjälle on asetettu vahva ja yksilöllinen salasana asennuksen yhteydessä.
 
 ![](screenshots/authentication-1.png)
