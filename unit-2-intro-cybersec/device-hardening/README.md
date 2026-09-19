@@ -122,17 +122,21 @@ Asensin ClamAV-virustorjunnan.
 
 ...
 
+### Accounts
+
 - 16\. ✅ Local administrator account renamed or disabled where possible; daily-use account is non-admin
 
 Tavallinen käyttäjä
 
 <img src="screenshots/accounts-1.png" width="900" height="600">
 
-- 17\.  Guest account disabled
+- 17\. ✅ Guest account disabled
 
 Tarkistin, että järjestelmässä ei ole aktiivista vierastiliä. Komento palauttaa täysin tyhjän rivin, eli järjestelmässä ei ole vierastiliä.
 
 <img src="screenshots/accounts-2.png" width="900" height="600">
+
+### Physical
 
 ## Findings
 What I learned / what
