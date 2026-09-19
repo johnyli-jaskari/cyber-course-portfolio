@@ -138,6 +138,12 @@ Tarkistin, että järjestelmässä ei ole aktiivista vierastiliä. Komento palau
 
 ### Physical
 
+- 18\. ⚠️ partial. Cable lock or secure storage option identified for travel/public use
+
+Laitteen fyysinen turvallisuus matkustettaessa ja julkisissa tiloissa varmistetaan Kensington-vaijerilukolla, jolla tietokone kiinnitetään kiinteään rakenteeseen. Kun laite ei ole välittömässä käytössä tai sitä kuljetetaan, sitä säilytetään lukittavassa laukussa tai lukittavassa kaapissa.
+
+- 19. ✅ Laptop's "find my device" or equivalent feature enabled
+
 ## Findings
 What I learned / what
 
