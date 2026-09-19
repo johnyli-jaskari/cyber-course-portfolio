@@ -66,7 +66,8 @@ Varmuuskopio tiedosto.  <br>
 
 9. ✅ Backup restoration tested at least once (try restoring a single file)
 
-Varmuuskopion palautusta purkamalla se väliaikaiseen hakemistoon.
+Varmuuskopion palautusta purkamalla se väliaikaiseen hakemistoon. <br>
+<img src="screenshots/storage-and-data-3.png" width="900" height="600">
 
 ## Findings
 What I learned / what
