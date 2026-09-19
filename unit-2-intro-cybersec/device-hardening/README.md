@@ -23,6 +23,7 @@ Tarkistaa onko automaattiset turvapäivitykset käynnissä.
 <img src="screenshots/operating-system-2.png" width="600" height="300">
 
 Ei, joten asensin ja konfiguroin automaattiset turvapäivitykset. <br>
+
 <img src="screenshots/operating-system-3.png" width="800" height="500"> 
 <img src="screenshots/operating-system-4.png" width="800" height="500">   
 
@@ -43,39 +44,47 @@ Käyttäjätilin salasana tilan varmistaminen komennolla `sudo chage -l john`. K
 5. ✅ Screen lock automatically activates within 5 minutes of inactivity  <br>
 
 Komento, joka näyttää nykyisen lukitusviiveen sekunteina.  <br>
+
 <img src="screenshots/authentication-2.png" width="800" height="500">  
 
 Lukitusviive on jo valmiina asetettu 5 minuuttiin. Ja varmistus vielä, että automaattinen näytönlukitus on aktivoituna päälle.  <br>
+
 <img src="screenshots/authentication-3.png" width="800" height="500">     
 
 6. N/A Biometric login configured (where supported) as a convenience layer, not as the only factor
 
 Käytössä on Debian 13 -virtuaalikoneympäristö, jossa ei ole kytkettynä biometrista laitteistoa (kuten sormenjälkilukijaa). Ajamalla komento `fprintd-enroll`, joka ilmoitti, ettei yhteensopivaa laitetta ole saatavilla. <br>
+
 <img src="screenshots/authentication-4.png" width="600" height="300">
 
 ### Storage and data
 7. N/A Full-disk encryption enabled (BitLocker, FileVault, LUKS)
 
 Levyn salauksen tarkistus. Käytössä oleva Debian 13 VM ei hyödynnä kokolevynsalausta, sillä se on asennettu kevyeksi harjoitusympäristöksi. Arkikäytössä olevilla laitteilla salaus kytketään päälle asennusvaiheessa.  <br>
+
 <img src="screenshots/storage-and-data-1.png" width="1000" height="700">
 
 8. ✅ At least one recent backup exists in a separate location (external drive or cloud)
 
 Varmuuskopio tiedosto.  <br>
+
 <img src="screenshots/storage-and-data-2.png" width="700" height="400">
 
 9. ✅ Backup restoration tested at least once (try restoring a single file)
 
 Varmuuskopion palautusta purkamalla se väliaikaiseen hakemistoon. <br>
+
 <img src="screenshots/storage-and-data-3.png" width="700" height="400">
 
 ### Network
 10. ✅ Host firewall enabled
 
 Palomuurin tilan tarkistaminen. <br>
+
 <img src="screenshots/network-1.png" width="700" height="400">
 
 Palomuuri ei ole päällä, joten palomuurin pitää käynnistää. <br>
+
 <img src="screenshots/network-2.png" width="700" height="400">
 
 ## Findings
