@@ -56,7 +56,7 @@ Käytössä on Debian 13 -virtuaalikoneympäristö, jossa ei ole kytkettynä bio
 ### Storage and data
 7. N/A Full-disk encryption enabled (BitLocker, FileVault, LUKS)
 
-<img src="screenshots/authentication-5.png" width="100" height="700">
+<img src="screenshots/authentication-5.png" width="1000" height="700">
 
 ## Findings
 What I learned / what
