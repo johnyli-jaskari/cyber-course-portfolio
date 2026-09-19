@@ -97,9 +97,11 @@ Aktiivinen verkkoyhteys ja sen profiilin tarkistaminen.
 
 Löydetyt palvelut.
 
-<img src="screenshots/network-4.png" width="1000" height="700">
+<img src="screenshots/network-4.png" width="1200" height="900">
 
 Avahi ja CUPS sulkeminen.
+
+<img src="screenshots/network-5.png" width="1000" height="700">
 
 ## Findings
 What I learned / what
