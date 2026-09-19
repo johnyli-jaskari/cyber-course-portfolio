@@ -81,11 +81,11 @@ Varmuuskopion palautusta purkamalla se väliaikaiseen hakemistoon. <br>
 
 Isäntäpalomuurin tilan tarkistaminen. 
 
-<img src="screenshots/network-1.png" width="700" height="400">
+<img src="screenshots/network-1.png" width="600" height="300">
 
 Palomuuri ei ole päällä, joten palomuurin pitää käynnistää. <br>
 
-<img src="screenshots/network-2.png" width="700" height="400">
+<img src="screenshots/network-2.png" width="600" height="300">
 
 11. ✅ Network profile correctly set (public/private) for your current network
 
