@@ -8,6 +8,7 @@
 What I was trying to do.
 
 ## Steps
+### Hardening checklist
 ### Operating system
 1. ✅ OS is currently supported and receiving security updates.  <br>
 Tarkistin käyttöjärjestelmän versio komennolla `cat /etc/os-release`. Käytössä on Debian 13 (trixie), joka on voimassa oleva ja tuettu versio.
