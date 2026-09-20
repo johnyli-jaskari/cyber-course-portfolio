@@ -130,6 +130,8 @@ Ylimääräiset sovellukset ja niiden konfiguraatioiden poistaminen.
 
 <img src="screenshots/software-6.png" width="900" height="600">
 
+Sama komento uudelleen osoittaakseen, että sovellukset on poistettu.
+
 ### Accounts
 
 - 16\. ✅ Local administrator account renamed or disabled where possible; daily-use account is non-admin
