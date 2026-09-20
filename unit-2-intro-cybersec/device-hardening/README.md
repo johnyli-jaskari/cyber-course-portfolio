@@ -152,9 +152,10 @@ Kytkin sijaintipalvelut päälle asetuksista.
 
 <img src="screenshots/physical-2.png" width="900" height="600">
 
+Paikannuspalvelu `geoclue.service` on aktiivinen ja pyörii taustalla, mikä mahdollistaa laitteen verkkopohjaisen paikannuksen käyttöjärjestelmätasolla.
+
 <img src="screenshots/physical-3.png" width="900" height="600">
 
-Latasin ja asensin Prey Client -paketin.
 
 ## Findings
 What I learned / what
