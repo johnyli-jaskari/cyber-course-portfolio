@@ -164,6 +164,10 @@ Tarkistin laitteen levynrakenne, jossa määritettiin koko fyysinen levy /dev/sd
 
 Katoamistilanteessa levy ylikirjoitetaan komennolla: `sudo dd if=/dev/urandom of=/dev/sda bs=1M status=progress`
 
+Komennon parametrit on tunnistettu.
+
+<img src="screenshots/physical-5.png" width="900" height="600">
+
 ## Findings
 What I learned / what
 
