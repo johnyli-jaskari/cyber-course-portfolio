@@ -5,14 +5,14 @@
 **Environment:** Debian 13 VM
 
 ## Goal
-What I was trying to do.
+Toteuttaa ja dokumentoida Debian 13 -virtuaalikoneelle konkreettiset eri tavat suojata ohjelmistoa ja tehdä muutoksia.
 
 ## Steps
 ### Hardening checklist
 ### Operating system
 - 1\. ✅ OS is currently supported and receiving security updates.
 
-Tarkistin käyttöjärjestelmän versio komennolla `cat /etc/os-release`. Käytössä on Debian 13 (trixie), joka on voimassa oleva ja tuettu versio.
+Tarkistin käyttöjärjestelmän version `cat /etc/os-release`. Käytössä on Debian 13 (trixie), joka on voimassa oleva ja tuettu versio.
 
 ![](screenshots/operating-system-1.png)
 
@@ -182,9 +182,4 @@ Komennon parametrit on tunnistettu.
 
 ### A short reflection (150 words): which change had the biggest security impact, and which was the most inconvenient?
 
-
-## Findings
-What I learned / what
-
-## Issues and how I resolved them
-Problems encountered, fixes applied.
+Merkittävin tietoturvaparannus oli etäpyyhintämenettelyn määrittäminen ja varmentaminen. Määritelty ja testattu tapa ylikirjoittaa koko /dev/sda-levy  estää tehokkaasti tietovuodot, jos laite katoaa tai varastetaan. Hankalaa oli poistettavat sovellukset ja niiden oikea suoritus. Varmistaminen, ettei poistettu mitään järjestelmän kannalta kriittistä taustakirjastoa, joka teki vaiheesta työläämmän.
