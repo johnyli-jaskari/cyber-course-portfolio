@@ -146,7 +146,7 @@ Tavallinen käyttäjä
 
 Tarkistin, että järjestelmässä ei ole aktiivista vierastiliä. Komento palauttaa täysin tyhjän rivin, eli järjestelmässä ei ole vierastiliä.
 
-<img src="screenshots/accounts-2.png" width="900" height="600">
+<img src="screenshots/accounts-2.png" width="800" height="500">
 
 ### Physical
 
