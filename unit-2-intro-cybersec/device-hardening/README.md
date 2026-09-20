@@ -122,7 +122,7 @@ Asensin ClamAV-virustorjunnan.
 
 3 pelisovellusta.
 
-<img src="screenshots/software-3.png" width="900" height="600">
+<img src="screenshots/software-3.png" width="1200" height="1000">
 
 Ylimääräiset sovellukset ja niiden konfiguraatioiden poistaminen.
 
