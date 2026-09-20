@@ -122,7 +122,7 @@ Asensin ClamAV-virustorjunnan.
 
 3 pelisovellusta. gnome-mines, gnome-sudoku ja aisleriot.
 
-<img src="screenshots/software-3.png" width="1600" height="1400">
+<img src="screenshots/software.png" width="1600" height="1400">
 
 Ylimääräiset sovellukset ja niiden konfiguraatioiden poistaminen.
 
