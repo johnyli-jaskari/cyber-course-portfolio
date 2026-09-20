@@ -97,11 +97,11 @@ Aktiivinen verkkoyhteys ja sen profiilin tarkistaminen.
 
 Löydetyt palvelut.
 
-<img src="screenshots/network-4.png" width="1400" height="1200">
+<img src="screenshots/network-4.png" width="1600" height="1400">
 
 Avahi ja CUPS sulkeminen.
 
-<img src="screenshots/network.png" width="1400" height="1200">
+<img src="screenshots/network.png" width="1600" height="1400">
 
 ### Software
 - 13\. ✅ Browser is up to date
