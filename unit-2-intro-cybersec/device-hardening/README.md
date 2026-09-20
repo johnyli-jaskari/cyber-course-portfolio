@@ -116,7 +116,7 @@ Asensin ClamAV-virustorjunnan.
 
 <img src="screenshots/software-5.png" width="900" height="600">
 
-<img src="screenshots/software-2.png" width="900" height="600">
+<img src="screenshots/software-2.png" width="700" height="400">
 
 - 15\. ✅ Unused applications uninstalled (list 3+ you removed)
 
