@@ -120,9 +120,15 @@ Asensin ClamAV-virustorjunnan.
 
 - 15\. ✅ Unused applications uninstalled (list 3+ you removed)
 
-3 sovellusta.
+3 pelisovellusta.
 
-...
+<img src="screenshots/software-3.png" width="900" height="600">
+
+Ylimääräiset sovellukset ja niiden konfiguraatioiden poistaminen.
+
+<img src="screenshots/software-4.png" width="900" height="600">
+
+<img src="screenshots/software-6.png" width="900" height="600">
 
 ### Accounts
 
