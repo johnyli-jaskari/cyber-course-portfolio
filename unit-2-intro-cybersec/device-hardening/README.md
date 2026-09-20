@@ -172,13 +172,13 @@ Paikannuspalvelu `geoclue.service` on aktiivinen ja pyörii taustalla, mikä mah
 
 Tarkistin laitteen levynrakenne, jossa määritettiin koko fyysinen levy /dev/sda
 
-<img src="screenshots/physical-4.png" width="900" height="600">
+<img src="screenshots/physical-4.png" width="700" height="400">
 
 Katoamistilanteessa levy ylikirjoitetaan komennolla: `sudo dd if=/dev/urandom of=/dev/sda bs=1M status=progress`
 
 Komennon parametrit on tunnistettu.
 
-<img src="screenshots/physical-5.png" width="900" height="600">
+<img src="screenshots/physical-5.png" width="600" height="500">
 
 ### A short reflection (150 words): which change had the biggest security impact, and which was the most inconvenient?
 
