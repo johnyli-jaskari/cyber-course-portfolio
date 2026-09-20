@@ -140,7 +140,7 @@ Sama komento uudelleen osoittaakseen, että sovellukset on poistettu.
 
 Tavallinen käyttäjä
 
-<img src="screenshots/accounts-1.png" width="1200" height="900">
+<img src="screenshots/accounts-1.png" width="1400" height="1100">
 
 - 17\. ✅ Guest account disabled
 
