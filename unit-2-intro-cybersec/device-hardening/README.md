@@ -146,13 +146,13 @@ Laitteen fyysinen turvallisuus matkustettaessa ja julkisissa tiloissa varmisteta
 
 Tarkistin oliko jo asennettuna taustalla aktiivista paikannuspalvelua. Debianissa ei ollut.
 
-<img src="screenshots/physiacl-1.png" width="900" height="600">
+<img src="screenshots/physical-1.png" width="900" height="600">
 
 Valitsin kolmannen osapuolen Prey Project -agentti, joka on yleisesti käytetty kevytvaihtoehto. Ensin järjestelmään asennettiin sen tarvitsemat taustariippuvuudet.
 
-<img src="screenshots/physiacl-2.png" width="900" height="600">
+<img src="screenshots/physical-2.png" width="900" height="600">
 
-<img src="screenshots/physiacl-3.png" width="900" height="600">
+<img src="screenshots/physical-3.png" width="900" height="600">
 
 Latasin ja asensin Prey Client -paketin.
 
