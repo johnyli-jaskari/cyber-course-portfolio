@@ -162,7 +162,7 @@ Tarkistin oliko jo asennettuna taustalla aktiivista paikannuspalvelua. Oli, mutt
 
 Kytkin sijaintipalvelut päälle asetuksista.
 
-<img src="screenshots/physical-2.png" width="900" height="600">
+<img src="screenshots/physical-2.png" width="800" height="500">
 
 Paikannuspalvelu `geoclue.service` on aktiivinen ja pyörii taustalla, mikä mahdollistaa laitteen verkkopohjaisen paikannuksen käyttöjärjestelmätasolla.
 
