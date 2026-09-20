@@ -106,7 +106,7 @@ Avahi ja CUPS sulkeminen.
 ### Software
 - 13\. ✅ Browser is up to date
 
-Firefox selaimen päiviytystä.
+Firefox selaimen päivitystä.
 
 <img src="screenshots/software-1.png" width="900" height="600">
 
@@ -179,6 +179,9 @@ Katoamistilanteessa levy ylikirjoitetaan komennolla: `sudo dd if=/dev/urandom of
 Komennon parametrit on tunnistettu.
 
 <img src="screenshots/physical-5.png" width="900" height="600">
+
+### A short reflection (150 words): which change had the biggest security impact, and which was the most inconvenient?
+
 
 ## Findings
 What I learned / what
