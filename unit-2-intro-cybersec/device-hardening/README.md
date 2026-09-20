@@ -120,6 +120,8 @@ Asensin ClamAV-virustorjunnan.
 
 - 15\. ✅ Unused applications uninstalled (list 3+ you removed)
 
+3 sovellusta.
+
 ...
 
 ### Accounts
