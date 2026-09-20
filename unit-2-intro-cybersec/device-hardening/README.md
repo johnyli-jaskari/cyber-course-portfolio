@@ -5,7 +5,7 @@
 **Environment:** Debian 13 VM
 
 ## Goal
-Toteuttaa ja dokumentoida Debian 13 -virtuaalikoneelle konkreettiset eri tavat suojata järjestelmää ja tehdä siihen muutoksia.
+Toteuttaa ja dokumentoida Debian 13 -virtuaalikoneelle konkreettiset eri tavat suojata järjestelmää.
 
 ## Steps
 ### Hardening checklist
