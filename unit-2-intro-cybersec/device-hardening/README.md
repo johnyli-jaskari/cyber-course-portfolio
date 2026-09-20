@@ -45,11 +45,11 @@ Käyttäjätilin salasana tilan varmistaminen komennolla `sudo chage -l john`. K
 
 Komento, joka näyttää nykyisen lukitusviiveen sekunteina.  <br>
 
-<img src="screenshots/authentication-2.png" width="800" height="500">  
+<img src="screenshots/authentication-2.png" width="900" height="600">  
 
 Lukitusviive on jo valmiina asetettu 5 minuuttiin. Ja varmistus vielä, että automaattinen näytönlukitus on aktivoituna päälle.  <br>
 
-<img src="screenshots/authentication-3.png" width="800" height="500">     
+<img src="screenshots/authentication-3.png" width="900" height="600">     
 
 - 6\. N/A Biometric login configured (where supported) as a convenience layer, not as the only factor
 
