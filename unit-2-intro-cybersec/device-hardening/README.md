@@ -158,11 +158,11 @@ Paikannuspalvelu `geoclue.service` on aktiivinen ja pyörii taustalla, mikä mah
 
 20\. ✅ You know how to remotely wipe the device if lost
 
-Tarkistin laitteen levynrakenne, jossa määritettiin kohdeosio `/dev/sda1`
+Tarkistin laitteen levynrakenne, jossa määritettiin koko fyysinen levy /dev/sda
 
 <img src="screenshots/physical-4.png" width="900" height="600">
 
-Katoamistilanteessa levy ylikirjoitetaan komennolla: `sudo dd if=/dev/urandom of=/dev/sda1 bs=1M status=progress`
+Katoamistilanteessa levy ylikirjoitetaan komennolla: `sudo dd if=/dev/urandom of=/dev/sda bs=1M status=progress`
 
 ## Findings
 What I learned / what
