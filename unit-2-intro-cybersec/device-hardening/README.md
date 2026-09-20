@@ -144,11 +144,11 @@ Laitteen fyysinen turvallisuus matkustettaessa ja julkisissa tiloissa varmisteta
 
 - 19\. ✅ Laptop's "find my device" or equivalent feature enabled
 
-Tarkistin oliko jo asennettuna taustalla aktiivista paikannuspalvelua. Debianissa ei ollut.
+Tarkistin oliko jo asennettuna taustalla aktiivista paikannuspalvelua. Oli, mutta ei päällä.
 
 <img src="screenshots/physical-1.png" width="900" height="600">
 
-Valitsin kolmannen osapuolen Prey Project -agentti, joka on yleisesti käytetty kevytvaihtoehto. Ensin järjestelmään asennettiin sen tarvitsemat taustariippuvuudet.
+Kytkin sijaintipalvelut päälle asetuksista.
 
 <img src="screenshots/physical-2.png" width="900" height="600">
 
