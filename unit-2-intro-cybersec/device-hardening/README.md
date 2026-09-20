@@ -120,7 +120,7 @@ Asensin ClamAV-virustorjunnan.
 
 - 15\. ✅ Unused applications uninstalled (list 3+ you removed)
 
-3 pelisovellusta.
+3 pelisovellusta. gnome-mines, gnome-sudoku ja aisleriot.
 
 <img src="screenshots/software-3.png" width="1600" height="1400">
 
