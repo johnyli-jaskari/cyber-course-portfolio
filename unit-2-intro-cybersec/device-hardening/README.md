@@ -170,7 +170,7 @@ Paikannuspalvelu `geoclue.service` on aktiivinen ja pyörii taustalla, mikä mah
 
 20\. ✅ You know how to remotely wipe the device if lost
 
-Tarkistin laitteen levynrakenne, jossa määritettiin koko fyysinen levy /dev/sda
+Tarkistin laitteen levynrakenteen, jossa määritettiin koko fyysinen levy /dev/sda
 
 <img src="screenshots/physical-4.png" width="700" height="400">
 
