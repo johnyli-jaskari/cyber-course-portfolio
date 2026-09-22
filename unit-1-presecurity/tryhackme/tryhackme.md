@@ -15,10 +15,15 @@ Huone. <br>
 
 - How The Web Works
 
-Moduulin ilmaiset huoneet.  <br>
+Tein moduulin ilmaiset huoneet.  <br>
 <img width="1277" height="907" alt="image" src="https://github.com/user-attachments/assets/9102d686-d572-450f-8e86-51bef2e7ed3e" />
 
 - Computer Fundamentals
 
-Moduulin ilmaiset huoneet.  <br>
+Tein moduulin ilmaiset huoneet.  <br>
 <img width="1132" height="911" alt="image" src="https://github.com/user-attachments/assets/d19b944e-0640-448e-8491-4cf3d59be114" />
+
+- Operating Systems Basics
+
+Tein moduulin ilmaiset huoneet. <br>
+<img width="1143" height="907" alt="image" src="https://github.com/user-attachments/assets/83114532-6714-49c6-bc83-0df42748d70c" />
