@@ -6,7 +6,7 @@ moduuli <br>
 - Network Fundamentals
 
 Tein moduulin ilmaiset huoneet. <br>
-<img width="800" height="620" alt="image" src="https://github.com/user-attachments/assets/8660bed9-c32d-41c9-9f31-2eaf10cde59f" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8660bed9-c32d-41c9-9f31-2eaf10cde59f" />
 
 - Network Fundamentals 2
 
