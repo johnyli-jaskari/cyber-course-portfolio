@@ -1,6 +1,6 @@
 - Introduction to Cyber Security
 
-moduuli <br>
+Moduuli <br>
 <img width="820" height="550" alt="image" src="https://github.com/user-attachments/assets/4b657ff4-f629-468a-b69a-9cd6a16e910a" />
 
 - Network Fundamentals
@@ -25,13 +25,16 @@ Tein moduulin ilmaiset huoneet.  <br>
 
 - Operating Systems Basics
 
+Tein moduulin ilmaiset huoneet. <br>
 <img width="740" height="550" alt="image" src="https://github.com/user-attachments/assets/83114532-6714-49c6-bc83-0df42748d70c" />
 
 - Software Basics
 
+Tein moduulin ilmaiset huoneet. <br>
 <img width="740" height="550" alt="image" src="https://github.com/user-attachments/assets/88bbc46d-b3ed-4547-a303-12acaa8d4e0d" />
 
 - Attacks and Defenses
 
+Tein moduulin ilmaiset huoneet. <br>
 <img width="800" height="540" alt="image" src="https://github.com/user-attachments/assets/c2c812e1-571c-414a-910b-9dfd9066cac8" />
 
