@@ -1,7 +1,7 @@
 - Introduction to Cyber Security
 
 moduuli <br>
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/4b657ff4-f629-468a-b69a-9cd6a16e910a" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/4b657ff4-f629-468a-b69a-9cd6a16e910a" />
 
 - Network Fundamentals
 
@@ -16,22 +16,22 @@ Huone. <br>
 - How The Web Works
 
 Tein moduulin ilmaiset huoneet.  <br>
-<img width="1100" height="807" alt="image" src="https://github.com/user-attachments/assets/9102d686-d572-450f-8e86-51bef2e7ed3e" />
+<img width="900" height="707" alt="image" src="https://github.com/user-attachments/assets/9102d686-d572-450f-8e86-51bef2e7ed3e" />
 
 - Computer Fundamentals
 
 Tein moduulin ilmaiset huoneet.  <br>
-<img width="1000" height="811" alt="image" src="https://github.com/user-attachments/assets/d19b944e-0640-448e-8491-4cf3d59be114" />
+<img width="900" height="711" alt="image" src="https://github.com/user-attachments/assets/d19b944e-0640-448e-8491-4cf3d59be114" />
 
 - Operating Systems Basics
 
-<img width="1000" height="807" alt="image" src="https://github.com/user-attachments/assets/83114532-6714-49c6-bc83-0df42748d70c" />
+<img width="900" height="707" alt="image" src="https://github.com/user-attachments/assets/83114532-6714-49c6-bc83-0df42748d70c" />
 
 - Software Basics
 
-<img width="1040" height="806" alt="image" src="https://github.com/user-attachments/assets/88bbc46d-b3ed-4547-a303-12acaa8d4e0d" />
+<img width="900" height="706" alt="image" src="https://github.com/user-attachments/assets/88bbc46d-b3ed-4547-a303-12acaa8d4e0d" />
 
 - Attacks and Defenses
 
-<img width="1150" height="792" alt="image" src="https://github.com/user-attachments/assets/c2c812e1-571c-414a-910b-9dfd9066cac8" />
+<img width="1000" height="692" alt="image" src="https://github.com/user-attachments/assets/c2c812e1-571c-414a-910b-9dfd9066cac8" />
 
