@@ -25,12 +25,10 @@ Tein moduulin ilmaiset huoneet.  <br>
 
 - Operating Systems Basics
 
-Tein moduulin ilmaiset huoneet. <br>
 <img width="1143" height="907" alt="image" src="https://github.com/user-attachments/assets/83114532-6714-49c6-bc83-0df42748d70c" />
 
 - Software Basics
 
-Tein moduulin ilmaiset huoneet. <br>
 <img width="1197" height="906" alt="image" src="https://github.com/user-attachments/assets/88bbc46d-b3ed-4547-a303-12acaa8d4e0d" />
 
 - Attacks and Defenses
