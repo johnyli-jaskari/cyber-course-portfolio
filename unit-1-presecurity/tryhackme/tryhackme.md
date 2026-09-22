@@ -1,9 +1,15 @@
 - Introduction to Cyber Security
 
+moduuli <br>
 <img width="1352" height="900" alt="image" src="https://github.com/user-attachments/assets/4b657ff4-f629-468a-b69a-9cd6a16e910a" />
 
 - Network Fundamentals
 
-Tein ilmaiset huoneet.
-
+Tein moduulin ilmaiset huoneet. <br>
 <img width="1132" height="875" alt="image" src="https://github.com/user-attachments/assets/8660bed9-c32d-41c9-9f31-2eaf10cde59f" />
+
+- Network Fundamentals 2
+
+Huone. <br>
+<img width="1703" height="767" alt="image" src="https://github.com/user-attachments/assets/0cf5623f-aa7e-4969-9b0b-98487eab63b1" />
+
