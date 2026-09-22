@@ -32,3 +32,8 @@ Tein moduulin ilmaiset huoneet. <br>
 
 Tein moduulin ilmaiset huoneet. <br>
 <img width="1197" height="906" alt="image" src="https://github.com/user-attachments/assets/88bbc46d-b3ed-4547-a303-12acaa8d4e0d" />
+
+- Attacks and Defenses
+
+<img width="1302" height="892" alt="image" src="https://github.com/user-attachments/assets/c2c812e1-571c-414a-910b-9dfd9066cac8" />
+
