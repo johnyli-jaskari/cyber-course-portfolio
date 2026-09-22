@@ -13,3 +13,7 @@ Tein moduulin ilmaiset huoneet. <br>
 Huone. <br>
 <img width="1703" height="767" alt="image" src="https://github.com/user-attachments/assets/0cf5623f-aa7e-4969-9b0b-98487eab63b1" />
 
+- How The Web Works
+
+Moduulin ilmaiset huoneet.
+<img width="1277" height="907" alt="image" src="https://github.com/user-attachments/assets/9102d686-d572-450f-8e86-51bef2e7ed3e" />
