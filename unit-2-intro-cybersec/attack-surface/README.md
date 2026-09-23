@@ -15,7 +15,7 @@ Kartoittaa omia digitaalisia laitteita ja tilejä sekä pohtia hyökkääjien n�
 
 - Table listing your most-used online accounts
 
-<img width="1341" height="745" alt="image" src="https://github.com/user-attachments/assets/63507631-ba70-4e5f-bbd0-087e188b27b1" />
+<img width="1325" height="727" alt="image" src="https://github.com/user-attachments/assets/ce212d94-292d-40f3-bd0d-e79511004e5b" />
 
 - Rank your top 5 highest-value targets from an attacker's perspective and explain your ranking in 1–2 sentences each.
 
