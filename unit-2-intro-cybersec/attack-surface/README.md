@@ -1,6 +1,6 @@
 -  Table listing every device you personally use
 
-<img width="1432" height="610" alt="image" src="https://github.com/user-attachments/assets/0a5a8171-cdfa-4b50-94d1-96a355759222" />
+<img width="1737" height="677" alt="image" src="https://github.com/user-attachments/assets/a4e6e1bc-4daa-4492-a755-49d75ff686e1" />
 
 - Table listing your most-used online accounts
 
