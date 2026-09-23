@@ -5,7 +5,7 @@
 **Environment:** Windows
 
 ## Goal
-What I was trying to do.
+Kartoittaa omia digitaalisia laitteita ja tilejä sekä pohtia hyökkääjien näkökulmaa. 
 
 ## Steps
 
@@ -34,7 +34,7 @@ Sähköpostitililtä löytyy paljon tietoa uhrista ja sitä voi käyttää eri t
 Olen käyttänyt heikkoja tai toistuvia salasanoja. Vaikka kyseessä ei olisi itselle sen verran tärkeä sivusto, jonka takia ei jaksa panostaa ja pohtia salasanaa, pitää muistaa käyttää vahvoja salasanoja ja käytäntöjä niiden luomisessa. Jos salasana pääsee hyökkääjien käsiksi tai tapahtuu tietovuotoja, niin yhden tilin lisäksi kaikki samaa salasanaa käyttävät tilit eivät olisi vaarassa. Joten aion huolehtia uniikkien salasanojen käytöstä ja hyödyntää mahdollisesti salasanapalveluita enemmän.
 
 ## Findings
-
+Opin enemmän miten laitteet ovat yhteydessä eri palveluihin ja laitteiden piirteitä.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
+Laitteiden eroavaisuuksia, eri tilejä ja tietoja.
