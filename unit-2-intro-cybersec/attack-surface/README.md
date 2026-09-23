@@ -5,3 +5,6 @@
 - Table listing your most-used online accounts
 
 <img width="1347" height="747" alt="image" src="https://github.com/user-attachments/assets/b6643f42-d7f9-43a4-85a6-8420b8c0bd97" />
+
+- Rank your top 5 highest-value targets from an attacker's perspective and explain your ranking in 1–2 sentences each.
+
