@@ -11,11 +11,11 @@ What I was trying to do.
 
 -  Table listing every device you personally use
 
-<img width="1757" height="677" alt="image" src="https://github.com/user-attachments/assets/12b3c36f-4352-42d0-a895-b53b117e03cd" />
+<img width="1761" height="732" alt="image" src="https://github.com/user-attachments/assets/48705c18-1e8c-429c-900c-0d44e58c9f00" />
 
 - Table listing your most-used online accounts
 
-<img width="1347" height="747" alt="image" src="https://github.com/user-attachments/assets/b6643f42-d7f9-43a4-85a6-8420b8c0bd97" />
+<img width="1341" height="745" alt="image" src="https://github.com/user-attachments/assets/63507631-ba70-4e5f-bbd0-087e188b27b1" />
 
 - Rank your top 5 highest-value targets from an attacker's perspective and explain your ranking in 1–2 sentences each.
 
