@@ -25,7 +25,7 @@ MacBook kone voi olla hyökkääjille arvokas, koska laadukas ja tunnettu olevan
 
 Kännykkä on arvokas ja löytyy paljon tietoa yhdestä laitteesta. Hyökkääjät voivat hyödyntää ja yrittää aiheuttaa vielä enemmän vahinkoa ja varastelua kännykän kautta.
 
-Windows kone kohteena voi olla hyökkääjille kohde, koska sillä on arvoa sekä pystyy murtautumaan sisälle saadakseen enemmän varoja uhrilta.
+Windows kone voi olla hyökkääjille kohde, koska sillä on arvoa sekä pystyy murtautumaan sisälle saadakseen enemmän varoja uhrilta.
 
 Sähköpostitililtä löytyy paljon tietoa uhrista ja sitä voi käyttää eri tileille ja sivustoille pääsyssä kaksivaiheisessa vahvistautumisessa.
 
