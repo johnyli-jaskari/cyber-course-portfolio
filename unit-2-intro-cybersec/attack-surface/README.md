@@ -31,7 +31,7 @@ Sähköpostitililtä löytyy paljon tietoa uhrista ja sitä voi käyttää eri t
 
 - Write a 200-word reflection: Where are my biggest exposures, and what is one concrete change I will make this week?
 
-Olen käyttänyt heikkoja tai toistuvia salasanoja. Vaikka kyseessä ei olisi itselle sen verran tärkeä sivusto, jonka takia ei jaksa panostaa ja pohtia salasanaa, pitää muistaa käyttää vahvoja salasanoja ja käytäntöjä niiden luomisessa. Jos salasana pääsee hyökkääjien käsiksi tai tapahtuu tietovuotoja, niin yhden tilin lisäksi kaikki samaa salasanaa käyttävät tilit eivät olisi vaarassa. Joten aion huolehtia uniikkien salasanojen käytöstä ja hyödyntää mahdollisesti salasanapalveluita enemmän.
+Olen käyttänyt heikkoja tai toistuvia salasanoja. Vaikka kyseessä ei olisi itselle sen verran tärkeä sivusto, jonka takia ei jaksa panostaa ja pohtia salasanaa, pitää muistaa käyttää vahvoja salasanoja ja käytäntöjä niiden luomisessa. Jos salasana pääsee hyökkääjien käsiksi tai tapahtuu tietovuotoja, niin yhden tilin lisäksi kaikki samaa salasanaa käyttävät tilit eivät olisi vaarassa. Joten aion huolehtia uniikkien salasanojen käytöstä ja hyödyntää salasanapalveluita enemmän.
 
 ## Findings
 Opin enemmän miten laitteet ovat yhteydessä eri palveluihin ja laitteiden piirteitä.
