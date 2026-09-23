@@ -11,7 +11,7 @@ What I was trying to do.
 
 -  Table listing every device you personally use
 
-<img width="1741" height="677" alt="image" src="https://github.com/user-attachments/assets/71e7b2e6-9a6a-4dca-886b-d85ba00ae613" />
+<img width="1757" height="677" alt="image" src="https://github.com/user-attachments/assets/12b3c36f-4352-42d0-a895-b53b117e03cd" />
 
 - Table listing your most-used online accounts
 
