@@ -37,4 +37,4 @@ Olen käyttänyt heikkoja tai toistuvia salasanoja. Vaikka kyseessä ei olisi it
 Opin enemmän miten laitteet ovat yhteydessä eri palveluihin ja laitteiden piirteitä.
 
 ## Issues and how I resolved them
-Laitteiden eroavaisuuksia, eri tilejä ja tietoja.
+Laitteiden eroavaisuuksia, mahdollisia uniikkeja tietoja mitä kyseinen laite voi tarjota.
