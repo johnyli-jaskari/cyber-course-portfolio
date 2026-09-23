@@ -182,4 +182,4 @@ Komennon parametrit on tunnistettu.
 
 ### A short reflection (150 words): which change had the biggest security impact, and which was the most inconvenient?
 
-Merkittävin tietoturvaparannus oli etäpyyhintämenettelyn määrittäminen ja varmentaminen. Määritelty ja testattu tapa ylikirjoittaa koko /dev/sda-levy  estää tehokkaasti tietovuodot, jos laite katoaa tai varastetaan. Hankalaa oli poistettavat sovellukset ja niiden oikea suoritus. Tarpeettomien ohjelmien tunnistaminen sekä varmistaminen, ettei poistunut mitään järjestelmän kannalta kriittistä taustakirjastoa. Tämä teki vaiheesta työläämmän.
+Muutos millä oli suurin turvallisuusvaikutus oli palomuurin päälle käynnistäminen, mikä auttaa turvaamaan laitetta viruksilta. Hankalin muutos toteuttaa oli kolmen pelisovelluksen poistaminen. Poistamisen yhteydessä poistui myös muita taustaprosesseja joka vaikeutti poiston kohdistamisen vain haluamiin sovelluksiin. Oikean komennon määrittämisessa meni aikaa.
