@@ -34,6 +34,7 @@ Kertoisin kolleegalle mielipiteeni, että ei kannata kertoa salasanaa avoimesti.
 Olen managerin työpisteellä vaihtamassa vanhaa näppäimistöä ja löydän näppäimistön alapuolelta lapun missä lukee managerikäyttäjän salasana. Olen yksin ja manageri on poissa tapaamisessa.
 
 **What's legally at stake:**
+Tilanteeseen liittyy luvaton käyttö, jos työpisteellä salasanan löytäjä käyttää tunnuksia kirjautumiseen ilman omistajan lupaa. Vaikka kokeilee salasanaa, kyseessä on luvaton käyttö.
 
 **What's ethically at stake:**
 
