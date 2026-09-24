@@ -68,11 +68,17 @@ Olisin kaverin kanssa yhteydessä, että en pysty auttamaan toivomuksessa.
 Olen työntantajani nettisivustolla jossa minulla on henkilökohtainen käyttäjätili. Huomaan sivun osoitekentässä kohdan user-id ja muokkaan sitä. Tämä johtaa verkkosivun latutumaan uudelleen, toisen käyttäjätilille ja sen eri tiedoille kuten ostohistoria.
 
 **What's legally at stake:**
+GDPR ja erityisesti tietomurtojen ilmoittaminen. Käyttäjä toteutti vahingossa tietomurron ja on velvoitettu ilmoittamaan siitä viranomaisille.
 
 **What's ethically at stake:**
+Koska työskentelen työnantajalle joka omistaa verkkosivuston, itse mahdollisten verkkosivuston heikkouksien kertominen työnantajalle ja
+kritisoiminen voi olla epämukavaa. Samalla kaikkien käyttäjien tietoturva voi olla vaarassa ja on vastuu ilmoittaa.
 
 **What I would do:**
+Kertoisin kokemuksestani työnantajalle ja epäilystä, että sivuston turvallisuus voi olla vaarannettu. Selittäisin ja näyttäisin mitä tein ja keskustelisin asiasta. Olisin tarvittaessa apuna jatkotutkinnassa.
 
 **What I would NOT do, and why:**
+En sivuuttaisi epäilystäni verkkosivusta ja kertomatta kenellekkään. Laki kertoo, että tietomurrosta pitää kertoa. Välittäisin myös yrityksen työntekijänä asiakkaani käyttökokemuksista, ja seuraamukset voi vaikuttaa isosti liiketoimintaan.
 
 **Who I would consult:**
+Olisin yhteydessä ensin tietoturvatiimille, jonka jälkeen tiedottaa esihenkilöä.
