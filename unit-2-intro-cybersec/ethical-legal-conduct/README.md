@@ -5,9 +5,13 @@
 **Environment:** Windows
 
 ## Goal
-What I was trying to do.
+Tiedosto sisältää eri skenaarioita ja niiden tulkintaa, eettiesti, lakisääteisesti ja yleisellä tasolla mitä kannattaa tehdä ja mitä ei kannata. Sisältää myös oma henkilökohtainen toimintaohje.
 
 ## Steps
+- Skenaarioiden pohtiminen
+- Personal code of conduct
+
+## Findings
 ### Scenario 1: The colleague's password
 
 **What is happening (in my own words):**   Työkolleega tarvii tietyt tiedot ja pyytää minulta, että kirjaudun hänen puolesta koneelleensa. Kolleega kertoo salasanansa.
@@ -102,3 +106,16 @@ En alkaisi tekemään työtä ilman virallista vahvistusta ja parempaa ymmärrys
 
 **Who I would consult:**
 Keskustelisin IT-kaverin ja hänen esihenkilön kanssa ennen syvempää tutkimista.
+
+### Personal code of conduct
+
+1. Aion pitää tunnukseni itsellä, enkä jaa toisten tunnuksia.
+2. En kirjaudu toisten tileille.
+3. Ilmoitan, jos löydän tietoturva ongelman, esim sivustolla.
+4. En katso tietoja mihin ei ole lupaa.
+5. Tiedän oman osaamiseni rajat.
+
+---
+Signed: John Yli-Jaskari
+Date: 2026-09-24
+First commit (initial version): 2026-09-24
