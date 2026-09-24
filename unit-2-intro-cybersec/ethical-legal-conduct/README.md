@@ -12,20 +12,15 @@ What I was trying to do.
 
 **What is happening (in my own words):**   Työkolleega tarvii tietyt tiedot ja pyytää minulta, että kirjaudun hänen puolesta koneelleensa. Kolleega kertoo salasanansa.
 
-**What's legally at stake:**   
-Kyseessä on hyväksyttävän käytön periaatteet. Salasanoja ja tunnuksia ei pitäisi jakaa kollegojen kanssa.
+**What's legally at stake:**   Kyseessä on hyväksyttävän käytön periaatteet. Salasanoja ja tunnuksia ei pitäisi jakaa kollegojen kanssa.
 
-**What's ethically at stake:**  
-Halu auttaa mentoria, mutta pitää samalla noudattaa ohjeita. Joten toisen salasanan käyttäminen ei olisi sääntöjen mukaista.
+**What's ethically at stake:**  Halu auttaa mentoria, mutta pitää samalla noudattaa ohjeita. Joten toisen salasanan käyttäminen ei olisi sääntöjen mukaista.
 
-**What I would do:** <br>
-Jos asiakkaan kassa on puhelu kesken ja tarvitsen tietokonetta, pyytäisin asiakasta odottamaan tai lopetan puhelun ja ilmoitan, että otan yhteyttä hetken päästä. Kirjautuisin koneelle ilman salasanan jakamista ja etsisin tarvittavat tiedot. Sitten jatkaisin asiakkaan palvelua.
+**What I would do:** Jos asiakkaan kassa on puhelu kesken ja tarvitsen tietokonetta, pyytäisin asiakasta odottamaan tai lopetan puhelun ja ilmoitan, että otan yhteyttä hetken päästä. Kirjautuisin koneelle ilman salasanan jakamista ja etsisin tarvittavat tiedot. Sitten jatkaisin asiakkaan palvelua.
 
-**What I would NOT do, and why:**  
-Kieltäytyisin auttamasta kolleegaa käyttämällä hänen tunnuksia koneelle kirjautumiseen. Oikeiden käytäntöjen noudattaminen on ammattimaista.
+**What I would NOT do, and why:**  Kieltäytyisin auttamasta kolleegaa käyttämällä hänen tunnuksia koneelle kirjautumiseen. Oikeiden käytäntöjen noudattaminen on ammattimaista.
 
-**Who I would consult:**
-Kertoisin kolleegalle mielipiteeni, että ei kannata kertoa salasanaa avoimesti.
+**Who I would consult:**  Kertoisin kolleegalle mielipiteeni, että ei kannata kertoa salasanaa avoimesti.
 
 ### Scenario 2: The found credentials
 
