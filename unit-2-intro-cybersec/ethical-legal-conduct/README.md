@@ -37,7 +37,7 @@ Omistaja on luottanut, että työ voidaan hoitaa asiallisesti ja itsellä on vas
 Tilanteessa en testaisi löytämää salasanaa tai jakaisi sitä ulkopuolisille. Ottaisin yhteyttä manageriin ja ilmoittaisin löydetystä salasanasta. Kehottaisin salasanan vaihtoa ja antaisin lapun takaisin.
 
 **What I would NOT do, and why:**
-En käyttäisi tai kokeilisi salasanaa, koska se rikkoo yksityisyyttä ja rikoslakia.
+En käyttäisi tai kokeilisi salasanaa, koska se rikkoo yksityisyyttä ja rikoslakia. En jakaisi salasanaa, koska se vaarantaa tilin.
 
 **Who I would consult:**
 Keskustelisin tunnusten omistajan kanssa ennen työpisteeltä lähtemistä.
@@ -55,6 +55,22 @@ Teknikolla vastuu käyttää oikeuksiaan ainoastaan asiallisiin tarkoituksiin. V
 
 **What I would do:**
 En katsoisi tiedostoa, vaikka kaveri pyytäisi. Kertoisin kaverille, että en voi antaa kyseisiä haastattelun tietoja. Kehotan, että hän voi odottaa palautteen saamista tai pyytää sitä erikseen. 
+
+**What I would NOT do, and why:**
+En tutkisi kolleegan haastattelutiedostoa tai lähettäisi sitä eteenpäin, koska se on epäammattimaista. Teot voivat johtaa myös seuraamuksiin itselle ja kaverille.
+
+**Who I would consult:**
+Olisin kaverin kanssa yhteydessä, että en pysty auttamaan toivomuksessa.
+
+### Scenario 4: The vulnerability you accidentally noticed
+
+**What is happening (in my own words):**
+
+**What's legally at stake:**
+
+**What's ethically at stake:**
+
+**What I would do:**
 
 **What I would NOT do, and why:**
 
