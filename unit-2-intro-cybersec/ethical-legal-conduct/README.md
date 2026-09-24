@@ -65,6 +65,7 @@ Olisin kaverin kanssa yhteydessä, että en pysty auttamaan toivomuksessa.
 ### Scenario 4: The vulnerability you accidentally noticed
 
 **What is happening (in my own words):**
+Olen työntantajani nettisivustolla jossa minulla on henkilökohtainen käyttäjätili. Huomaan sivun osoitekentässä kohdan user-id ja muokkaan sitä. Tämä johtaa verkkosivun latutumaan uudelleen, toisen käyttäjätilille ja sen eri tiedoille kuten ostohistoria.
 
 **What's legally at stake:**
 
