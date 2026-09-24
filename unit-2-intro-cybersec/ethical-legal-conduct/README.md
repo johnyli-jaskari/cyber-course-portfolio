@@ -31,6 +31,7 @@ Kertoisin kolleegalle mielipiteeni, että ei kannata kertoa salasanaa avoimesti.
 ### Scenario 2: The found credentials
 
 **What is happening (in my own words):**
+Olen managerin työpisteellä vaihtamassa vanhaa näppäimistöä ja löydän näppäimistön alapuolelta lapun missä lukee managerikäyttäjän salasana. Olen yksin ja manageri on poissa tapaamisessa.
 
 **What's legally at stake:**
 
