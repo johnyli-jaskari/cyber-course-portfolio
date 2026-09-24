@@ -5,7 +5,7 @@
 **Environment:** Windows
 
 ## Goal
-Tiedosto sisältää eri skenaarioita ja niiden tulkintaa, eettiesti, lakisääteisesti ja yleisellä tasolla mitä kannattaa tehdä ja mitä ei kannata. Sisältää myös oma henkilökohtainen toimintaohje.
+Tiedosto sisältää eri skenaarioita ja niiden tulkintaa, eettiesti, lakisääteisesti ja yleisellä tasolla mitä kannattaa tehdä ja mitä ei kannata. Sisältää myös oman henkilökohtaisen toimintaohjeen.
 
 ## Steps
 - Skenaarioiden pohtiminen
