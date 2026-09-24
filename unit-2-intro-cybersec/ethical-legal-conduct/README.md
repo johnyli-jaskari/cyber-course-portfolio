@@ -12,7 +12,7 @@ What I was trying to do.
 
 **What is happening (in my own words):**   Työkolleega tarvii tietyt tiedot ja pyytää minulta, että kirjaudun hänen puolesta koneelleensa. Kolleega kertoo salasanansa.
 
-**What's legally at stake:**   Kyseessä on hyväksyttävän käytön periaatteet. Salasanoja ja tunnuksia ei pitäisi jakaa kollegojen kanssa.
+**What's legally at stake:**   Kyseessä on hyväksyttävän käytön periaatteet (acceptable use policy). Salasanoja ja tunnuksia ei pitäisi jakaa kollegojen kanssa.
 
 **What's ethically at stake:**  Halu auttaa mentoria, mutta pitää samalla noudattaa ohjeita. Joten toisen salasanan käyttäminen ei olisi sääntöjen mukaista.
 
@@ -82,3 +82,23 @@ En sivuuttaisi epäilystäni verkkosivusta ja kertomatta kenellekkään. Laki ke
 
 **Who I would consult:**
 Olisin yhteydessä ensin tietoturvatiimille, jonka jälkeen tiedottaa esihenkilöä.
+
+### Scenario 5: The off-hours request
+
+**What is happening (in my own words):**
+Olen hairjoitellut kyberturvallisuudesta opiskellen ja verkkohaavoittuvuus testausta eri alustoilla. Kaveri, joka työskentelee yrityksessä IT-puolella kysyy apua heidän verkkosivustosta ja miten se on toiminut oudosti.
+
+**What's legally at stake:**
+Tilanteeseen liittyy luvaton käyttö riski. Vaikka IT-asiantuntija antaa luvan, ei tarkoita, että se olisi virallista.
+
+**What's ethically at stake:**
+Oma kokemus ja osaaminen ei välttämättä ole riittävän korkealla tasolla. Tämä voi johtaa myös tilanteen pahentumiseen tai tiettyjen tietojen vuotoon.
+
+**What I would do:**
+Varmistaisin, että työsuhde olisi virallinen ennen tilannetta tutkimista ja mainitsen, että en ole virallinen ammattilainen. Tekisin läheistä yhteistyötä yrityksen kanssa.
+
+**What I would NOT do, and why:**
+En alkaisi tekemään työtä ilman virallista vahvistusta ja parempaa ymmärrystä verkkosivustosta. En alkaisi tekemään valtavia muutoksia ja kokeiluja, jotta uskon voivani auttaa.
+
+**Who I would consult:**
+Keskustelisin IT-kaverin ja hänen esihenkilön kanssa ennen syvempää tutkimista.
