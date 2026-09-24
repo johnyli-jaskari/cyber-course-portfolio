@@ -43,5 +43,21 @@ Omistaja on luottanut, että työ voidaan hoitaa asiallisesti ja itsellä on vas
 Tilanteessa en testaisi löytämää salasanaa tai jakaisi sitä ulkopuolisille. Ottaisin yhteyttä manageriin ja ilmoittaisin löydetystä salasanasta. Kehottaisin salasanan vaihtoa ja antaisin lapun takaisin.
 
 **What I would NOT do, and why:**
+En käyttäisi tai kokeilisi salasanaa, koska se rikkoo yksityisyyttä ja rikoslakia.
+
+**Who I would consult:**
+Keskustelisin tunnusten omistajan kanssa ennen työpisteeltä lähtemistä.
+
+### Scenario 3 : The personal data peek
+
+**What is happening (in my own words):**
+
+**What's legally at stake:**
+
+**What's ethically at stake:**
+
+**What I would do:**
+
+**What I would NOT do, and why:**
 
 **Who I would consult:**
