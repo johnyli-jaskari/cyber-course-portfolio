@@ -10,8 +10,7 @@ What I was trying to do.
 ## Steps
 ### Scenario 1: The colleague's password
 
-**What is happening (in my own words):**   
-Työkolleega tarvii tietyt tiedot ja pyytää minulta, että kirjaudun hänen puolesta koneelleensa. Kolleega kertoo salasanansa.
+**What is happening (in my own words):**   Työkolleega tarvii tietyt tiedot ja pyytää minulta, että kirjaudun hänen puolesta koneelleensa. Kolleega kertoo salasanansa.
 
 **What's legally at stake:**   
 Kyseessä on hyväksyttävän käytön periaatteet. Salasanoja ja tunnuksia ei pitäisi jakaa kollegojen kanssa.
