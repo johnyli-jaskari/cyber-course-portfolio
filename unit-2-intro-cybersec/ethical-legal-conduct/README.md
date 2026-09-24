@@ -45,6 +45,7 @@ Keskustelisin tunnusten omistajan kanssa ennen työpisteeltä lähtemistä.
 ### Scenario 3 : The personal data peek
 
 **What is happening (in my own words):**
+Työskentelen helpdesk teknikkona, jolla on valtuudet katsoa eri työsähköposteja ja tiedostoja. Kolleega ottaa yhteyttä ja kysyy saako nähdä yhden haastattelunsa arvioinnin. Tämä haastattelu tiedosto on erillisessä sähköpostissa mihin kolleegalla ei ole käyttöoikeuksia.
 
 **What's legally at stake:**
 
