@@ -51,9 +51,10 @@ Työskentelen helpdesk teknikkona, jolla on valtuudet katsoa eri työsähköpost
 Aiheeseen liittyy etenkin GDPR. Helpdesk teknikko katsoo tiedostoja mihin ei ole ammattimaista selitystä tai lupaa. Valtuuksien ja käyttöoikeuksien käyttäminen eri tarkoituksiin.
 
 **What's ethically at stake:**
-
+Teknikolla vastuu käyttää oikeuksiaan ainoastaan asiallisiin tarkoituksiin. Vaikka olisi halua auttaa kaveria, joka on huolissaan.
 
 **What I would do:**
+En katsoisi tiedostoa, vaikka kaveri pyytäisi. Kertoisin kaverille, että en voi antaa kyseisiä haastattelun tietoja. Kehotan, että hän voi odottaa palautteen saamista tai pyytää sitä erikseen. 
 
 **What I would NOT do, and why:**
 
