@@ -48,8 +48,10 @@ Keskustelisin tunnusten omistajan kanssa ennen työpisteeltä lähtemistä.
 Työskentelen helpdesk teknikkona, jolla on valtuudet katsoa eri työsähköposteja ja tiedostoja. Kolleega ottaa yhteyttä ja kysyy saako nähdä yhden haastattelunsa arvioinnin. Tämä haastattelu tiedosto on erillisessä sähköpostissa mihin kolleegalla ei ole käyttöoikeuksia.
 
 **What's legally at stake:**
+Aiheeseen liittyy etenkin GDPR. Helpdesk teknikko katsoo tiedostoja mihin ei ole ammattimaista selitystä tai lupaa. Valtuuksien ja käyttöoikeuksien käyttäminen eri tarkoituksiin.
 
 **What's ethically at stake:**
+
 
 **What I would do:**
 
