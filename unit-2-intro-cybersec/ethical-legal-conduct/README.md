@@ -37,6 +37,7 @@ Olen managerin työpisteellä vaihtamassa vanhaa näppäimistöä ja löydän n�
 Tilanteeseen liittyy luvaton käyttö, jos työpisteellä salasanan löytäjä käyttää tunnuksia kirjautumiseen ilman omistajan lupaa. Vaikka kokeilee salasanaa, kyseessä on luvaton käyttö.
 
 **What's ethically at stake:**
+Omistaja on luottanut, että työ voidaan hoitaa asiallisesti ja itsellä on vastuu hoitaa työ ammattimaisesti. 
 
 **What I would do:**
 
