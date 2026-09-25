@@ -31,7 +31,7 @@ Hyökkäys havaittii kyberturvallisuus yrityksessä Fireeye missä tuntematon la
 Tilannetta olisi auttanut Solarwinds päivityksen tarkempaa varmistusta työntekijöiltä ja parempia rutiineja, jonka avulla olisi voineet huomata haitallisen koodin. Hyökkäys ei olisi edennyt tai vaikuttanut yhtä paljon ja Solarwinds olisivat pystyneet varoittamaaan mahdollisesta tietoturvariskistä asiakkailleen.
 
 ### 7. The broader lesson
-Yleinen oppi tapahtumasta kertoo, että luotettavalta organisaatiolta tulleet päivitykset eivät välttämättä ole turvallisia. Myös rutiininomaisista päivityksistä pitää ottaa tarvittavat turvatoimenpiteet.
+Yleinen oppi tapahtumasta kertoo, että luotettavalta organisaatiolta tulleet päivitykset eivät välttämättä ole turvallisia. Myös rutiininomaisista päivityksissä pitää ottaa tarvittavat turvatoimenpiteet.
 
 ### 8. Your personal takeaway
 Ajattelen eri tavalla miten arjessa ladattavat päivitykset voi olla harmillisia. Samalla haitallisten ohjelmien asentaminen ei välttämättä ole niin harvinaista.
