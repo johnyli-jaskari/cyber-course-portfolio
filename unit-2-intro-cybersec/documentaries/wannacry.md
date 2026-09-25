@@ -19,10 +19,10 @@ Wannacry oli vuonna 2017 tapahtunut kiristyshaittaohjelma, joka käytti kalastus
 Yli 150 valtiota ja 230 tuhatta konetta olivat wannacry uhrina. Isoimmista tapauksista oli Yhdistyneen kuningaskunnan kansallinen terveyspalvelu missä sairaaloissa elintärkeät laitteistot olivat käyttökelvottomia, joka vaaransi ihmishenkiä. 
 
 ### 3. The CIA principle
-
+Hyökkäys kohdistui saatavuuteen, koska wannacry oli kiristyshaittaohjelma eli käyttäjät eivät pystyneet käyttämään koneitaan. Eheys, koska koodia muutettiin, jotta tietokoneita pystyttiin lukitsemaan käytöstä.
 
 ### 4. The attack technique - ransomware and "wormable" exploits
-Kiristyshaittaohjelma (ransomware) lukitsee uhrin tiedostot tai järjestelmät salaamalla ne ja vaatii lunnaita niiden avaamisesta. Tavanomainen kiristyshaittaohjelma vaatii leväkseen käyttäjän virheen, kuten haitallisen sähköpostiliitteen avaamisen tai linkin klikkaamisen. WannaCrysta teki vaarallisen sen, että se se hyödynsi EternalBlue-haavoittuvuutta ja pystyi leviämään verkoissa automaattisesti tietokoneelta toiselle ilman käyttäjän myötävaikutusta.
+Kiristyshaittaohjelma on hyökkäystapa missä poistetaan käyttäjän mahdollisuutta käyttää järjestelmää ja vaatia käyttäjältä lunnaita, kuten tässä tapauksessa Bitcoin, että järjestelmän saa takaisin käyttöön. Perinteisessä kiristyhaittaohjelmassa tarvitaan pääkäyttäjän toimintoa, kuten linkin painamista tai lataamalla tiedoston. Wannacry pystyi levitä nopeasti automaattisesti ilman minkäänlaista vuorovaikutusta käyttäjän kanssa ja lukita järjestelmän.
 
 ### 5. How was it discovered and how was it stopped
 Hyökkäys havaittiin, kun sairaaloiden ja yritysten näytöille ilmestyi punaisia kiristysilmoituksia ja järjestelmät olivat käyttökelvottomia. Leviämisen pysäytti tutkija, joka löysi koodista rekisteröimättömän verkkotunnuksen ja rekisteröi sen itselleen. Tämä verkkotunnus toimi tahattomana tappokytkimenä, sillä haittaohjelma oli ohjelmoitu lopettamaan leviämisensä sivuston ollessa pystyssä. Tapaus osoittaa, miten kyberhyökkäyksiä voidaan joskus pysäyttää lähes vahingossa yksinkertaisella oivalluksella.
