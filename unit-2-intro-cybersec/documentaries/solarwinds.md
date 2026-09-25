@@ -19,7 +19,7 @@ Solarwinds, joka tarjoaa monia ohjelmistoja suurille yrityksille mukaanlukien Or
 Hyökkäyksen kohdistetuiksi uhreiksi joutui noin 50 organisaatioita, joita hyökkääjät vakoilivat. Uhreihin kuuluivat Yhdysvaltojen hallituksen eri osastoja kuten energia osasto, jonka vastuulla on ydinaseet. Hyökkäyksellä oli vaikutusta Yhdysvaltojen ja Venäjän suhteeseen.
 
 ### 3. The CIA principle
-Tässä tapauksessa kohteena oli luottamuksellisuus, koska monet organisaatiot olivat haavoittuvia ja salaiset tiedot tulivat esille. Yrityksen eheys oli vaikutettu, koska koodia oli muokattu
+Tässä tapauksessa kohteena oli luottamuksellisuus, koska monet organisaatiot olivat haavoittuvia ja salaiset tiedot tulivat esille. Yrityksen eheys oli vaikutettu, koska koodia oli muokattu.
 
 ### 4. The attack technique - what made this one different?
 Toimitusketjuhyökkäyksessä tutkitaan kohteen kolmatta osapuolta, joilla on yhteys kohteeseen. Kolmas osapuoli on usein heikompi lenkki johon pystyy murtautumaan sisälle. Luottamusta ja yhteyttä hyödynnetään kohteen ja murtautumisen välillä joka mahdollistaa hyökkäyksen alkuperäiseen korkean tason kohteeseen.
@@ -27,15 +27,14 @@ Toimitusketjuhyökkäyksessä tutkitaan kohteen kolmatta osapuolta, joilla on yh
 ### 5. How was it discovered?
 Hyökkäys havaittii kyberturvallisuus yrityksessä Fireeye missä tuntematon laite on rekisteröity työntekijälle, joka yrittää toteuttaa kaksivaiheista tunnistautumista yksityiseen verkkoon. Fireeye asiantutkija tutkii asiaa ja varmistaa, että kirjautuminen ei ole työntekijän. Asiaa tutkitaan enemmän ja todetaan, että korkean tason Fireeye kybertyökaluja on varastettu ja hyökkäys jäljitetään Solarwinds Orion päivitykseen.
 
-
 ### 6. What could have helped
-Jos ohjelmistopäivityksen koodi olisi käännetty ja verrattu automaattisesti kahdessa erillisessä ympäristössä, järjestelmä olisi havainnut haittaohjelman tekemät koodimuutokset. Tämä olisi pysäyttänyt saastuneen päivityksen jakelun asiakkaille ennen sen julkaisua.
+Tilannetta olisi auttanut Solarwinds päivityksen tarkempaa varmistusta työntekijöiltä ja parempia rutiineja, jonka avulla olisi voineet huomata haitallisen koodin. Hyökkäys ei olisi edennyt tai vaikuttanut yhtä paljon ja Solarwinds olisivat pystyneet varoittamaaan mahdollisesta tietoturvariskistä asiakkailleen.
 
 ### 7. The broader lesson
-Tapaus opetti tietoturva-alalle, ettei edes tunnettujen ja luotettavien organisaatioiden digitaalisiin päivityksiin voi luottaa sokeasti. Automaattisten päivitysten jakelukanavasta muodostui hyökkäysase, mikä pakotti organisaatiot arvioimaan uudelleen kolmansien osapuolten mukanaan tuomia riskejä.
+Yleinen oppi tapahtumasta kertoo, että luotettavalta organisaatiolta tulleet päivitykset eivät välttämättä ole turvallisia. Myös rutiininomaisista päivityksistä pitää ottaa tarvittavat turvatoimenpiteet.
 
 ### 8. Your personal takeaway
-Tämä muuttaa suhtautumista arjessa asennettavaan ja päivitettävään sisältöön. Mikä tahansa ohjelmisto voi periaatteessa olla kompromisoitu.
+Ajattelen eri tavalla miten arjessa ladattavat päivitykset voi olla harmillisia. Samalla haitallisten ohjelmien asentaminen ei välttämättä ole niin harvinaista.
 
 ## Issues and how I resolved them
 Ei ongelmia.
