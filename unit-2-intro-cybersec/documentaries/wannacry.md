@@ -13,8 +13,7 @@ https://www.youtube.com/watch?v=PKHH_gvJ_hA&t=1s
 
 ## Findings
 ### 1. The incident in your own words
-Wannacry oli vuonna 2017 tapahtunut kiristyshaittaohjelma, joka oli yksi isoimmista kaltaisistaan hyökkäyksistä historiassa. Wannacry levisi erittäin nopeasti ja ensimmäisen päivän jälkeen vaikuttanut 74 eri maahan ja tuhansiin organisaatioihin maailmanlaajuisesti. Uhreja kuten terveydenhuolto, pankit, energia yritykset, rautatiet, yksityiset yritykset ja koneet.
-
+Wannacry oli vuonna 2017 tapahtunut kiristyshaittaohjelma, joka oli yksi isoimmista kaltaisistaan hyökkäyksistä historiassa. Wannacry levisi erittäin nopeasti ja ensimmäisen päivän jälkeen vaikuttanut 74 eri maahan ja tuhansiin organisaatioihin maailmanlaajuisesti. Uhreja kuten terveydenhuolto, pankit, energia yritykset, rautatiet, yksityiset yritykset.
 ### 2. Who was affected, and how
 Yli 150 valtiota ja 230 tuhatta konetta olivat wannacry uhrina. Isoimmista tapauksista oli Yhdistyneen kuningaskunnan kansallinen terveyspalvelu missä sairaaloissa elintärkeät laitteistot olivat käyttökelvottomia, joka vaaransi ihmishenkiä. 
 
