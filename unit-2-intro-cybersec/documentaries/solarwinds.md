@@ -19,10 +19,10 @@ Solarwinds, joka tarjoaa monia ohjelmistoja suurille yrityksille mukaanlukien Or
 Hyökkäyksen kohdistetuiksi uhreiksi joutui noin 50 organisaatioita, joita hyökkääjät vakoilivat. Uhreihin kuuluivat Yhdysvaltojen hallituksen eri osastoja kuten energia osasto, jonka vastuulla on ydinaseet. Hyökkäyksellä oli vaikutusta Yhdysvaltojen ja Venäjän suhteeseen.
 
 ### 3. The CIA principle
-Iskun pääkohteena oli luottamuksellisuus (Confidentiality), sillä kyseessä oli puhtaasti digitaalinen vakoiluoperaatio salaisen tiedon lukemiseksi. Eheys (Integrity) oli kuitenkin hyökkäyksen toteutustapa, sillä hyökkääjät peukaloivat SolarWindsin lähdekoodia ja rakennusjärjestelmää.
+Tässä tapauksessa kohteena oli luottamuksellisuus, koska monet organisaatiot olivat haavoittuvia ja salaiset tiedot tulivat esille. Yrityksen eheys oli vaikutettu, koska koodia oli muokattu
 
 ### 4. The attack technique - what made this one different?
-Toimitusketjuhyökkäyksessä rikollinen ei iske suoraan kohteeseen, vaan murtautuu sen käyttämään heikompaan ja luotettuun kolmannen osapuolen toimittajaan. Yhdellä ainoalla murrolla hyökkääjä voi saada pääsyn satoihin tai tuhansiin korkean turvatason organisaatioihin samanaikaisesti.
+Toimitusketjuhyökkäyksessä tutkitaan kohteen kolmatta osapuolta, joilla on yhteys kohteeseen. Kolmas osapuoli on usein heikompi lenkki johon pystyy murtautumaan sisälle. Luottamusta ja yhteyttä hyödynnetään kohteen ja murtautumisen välillä joka mhdollistaa hyökkäyksen alkuperäiseen korkean tason kohteeseen.
 
 ### 5. How was it discovered?
 Hyökkäystä ei havaittu automaattisilla hälytyksillä tai valtion tiedustelun toimesta, vaan tietoturvayhtiö FireEye huomasi epäilyttävän kirjautumisyrityksen omassa kaksivaiheisessa tunnistautumisessaan. Tutkiessaan tätä pientä poikkeamaa FireEye huomasi työkalujensa päätyneen vieraasiin käsiin ja jäljitti murron SolarWindsin päivitykseen. Tämä osoittaa, että suuret kyberhyökkäykset paljastuvat usein asiantuntijoiden tarkkuuden ja pienten poikkeamien seurannan kautta.
