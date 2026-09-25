@@ -25,7 +25,7 @@ Hyökkäys kohdistui saatavuuteen, koska wannacry oli kiristyshaittaohjelma eli 
 Kiristyshaittaohjelma on hyökkäystapa missä poistetaan käyttäjän mahdollisuutta käyttää järjestelmää ja vaatia käyttäjältä lunnaita, kuten tässä tapauksessa Bitcoin, että järjestelmän saa takaisin käyttöön. Perinteisessä kiristyhaittaohjelmassa tarvitaan pääkäyttäjän toimintoa, kuten linkin painamista tai lataamalla tiedoston. Wannacry pystyi levitä nopeasti automaattisesti ilman minkäänlaista vuorovaikutusta käyttäjän kanssa ja lukita järjestelmän.
 
 ### 5. How was it discovered and how was it stopped
-Hyökkäys havaittiin, kun sairaaloiden ja yritysten näytöille ilmestyi punaisia kiristysilmoituksia ja järjestelmät olivat käyttökelvottomia. Leviämisen pysäytti tutkija, joka löysi koodista rekisteröimättömän verkkotunnuksen ja rekisteröi sen itselleen. Tämä verkkotunnus toimi tahattomana tappokytkimenä, sillä haittaohjelma oli ohjelmoitu lopettamaan leviämisensä sivuston ollessa pystyssä. Tapaus osoittaa, miten kyberhyökkäyksiä voidaan joskus pysäyttää lähes vahingossa yksinkertaisella oivalluksella.
+
 
 ### 6. What could have helped - the patch question
 Monet organisaatiot jättivät Microsoftin julkaiseman päivityksen asentamatta, koska ne käyttivät vanhentuneita jäjestelmiä kuten Windows XP, joille ei enää tarjottu tavanomaisia päivityksiä. Ilman päivitystäkin vahinkoja olisi voitu rajoittaa verkon segmentoinnilla, eli sulkemalla haittaohjelman käyttämä SMB-portti (445) sisäverkon laitteiden väliltä. Tämä olisi estänyt matoa leviämästä automaattisesti tietokoneelta toiselle samassa verkossa.
