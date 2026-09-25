@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=Kf7Motm36Go&t=5s
 Solarwinds, joka tarjoaa monia ohjelmistoja suurille yrityksille mukaanlukien Orion ohjelmiston. Orion ohjelmistoon hyökättiin ja päivityksien myötä tuhannet käyttäjät saivat haitallista koodia.
 
 ### 2. Who was affected, and how?
-Hyökkäyksen kohdistetuiksi uhreiksi joutui noin 50 organisaatioita, joita hyökkääjät vakoilivat. Uhreihin kuuluivat Yhdysvaltojen hallituksen eri osastoja kuten energia osasto, jonka vastuulla on ydinaseet. Hyökkäyksellä oli vaikutusta Yhdysvaltojen ja Venäjän suhteeseen.
+Hyökkäyksen kohdistetuiksi uhreiksi joutui noin 50 organisaatioita, joita hyökkääjät vakoilivat. Uhreihin kuuluivat esimerkiksi Yhdysvaltojen hallituksen eri osastoja kuten energia osasto, jonka vastuulla on ydinaseet. Hyökkäyksellä oli vaikutusta Yhdysvaltojen ja Venäjän suhteeseen.
 
 ### 3. The CIA principle
 Tässä tapauksessa kohteena oli luottamuksellisuus, koska monet organisaatiot olivat haavoittuvia ja salaiset tiedot tulivat esille. Yrityksen eheys oli vaikutettu, koska koodia oli muokattu.
