@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=N20q-ZMop0w
 
 ## Findings
 ### 1. The incident in your own words
-NotPetya kyberhyökkäys kohdistui ja alkoi Ukrainasta missä haittaohjelma levisi verkossa ottamalla mimikatz työkalulla tunnukset ja pääsee järjestelmän sisälle tai Eternal-Blue työkalun avulla ja lopuksi poistaa tiedostot käytöstä. NotPetya oli tarkoitettu vain Ukrainan alueelle, kun taas Wannacry oli tarkoitettu laajasti ja globaalilla tasolla. NotPetya kuitenkin myös levisi globaalisti.
+NotPetya kyberhyökkäys kohdistui ja alkoi Ukrainasta missä haittaohjelma levisi verkossa ottamalla mimikatz työkalulla tunnukset jolla pääsee järjestelmän sisälle tai Eternal-Blue työkalun avulla ja lopuksi poistaa tiedostot käytöstä. NotPetya oli tarkoitettu vain Ukrainan alueelle, kun taas Wannacry oli tarkoitettu laajasti ja globaalilla tasolla. NotPetya kuitenkin myös levisi globaalisti.
 
 ### 2. Who was affected, and how
 Yrityksiä mihin NotPetya vaikutti isosti oli muunmuassa Maersk, FedEx, Merck, Saint-Gobain, Reckitt Benckiser, Mondelez. Maailman suurin merirahtiyritys Maersk joutui ongelmiin, koska heidän koko verkkonsa kaatui, joten rahtiterminaaleissa ei tiedetä mitä laivarahti sisältää, mihin se rahti puretaan, mihin lähetetään. Globaalisti NotPetya aiheutti yli 10 miljardin dollarin vahingot.
