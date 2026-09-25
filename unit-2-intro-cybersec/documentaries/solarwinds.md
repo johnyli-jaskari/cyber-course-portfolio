@@ -22,10 +22,10 @@ Hyökkäyksen kohdistetuiksi uhreiksi joutui noin 50 organisaatioita, joita hyö
 Tässä tapauksessa kohteena oli luottamuksellisuus, koska monet organisaatiot olivat haavoittuvia ja salaiset tiedot tulivat esille. Yrityksen eheys oli vaikutettu, koska koodia oli muokattu
 
 ### 4. The attack technique - what made this one different?
-Toimitusketjuhyökkäyksessä tutkitaan kohteen kolmatta osapuolta, joilla on yhteys kohteeseen. Kolmas osapuoli on usein heikompi lenkki johon pystyy murtautumaan sisälle. Luottamusta ja yhteyttä hyödynnetään kohteen ja murtautumisen välillä joka mhdollistaa hyökkäyksen alkuperäiseen korkean tason kohteeseen.
+Toimitusketjuhyökkäyksessä tutkitaan kohteen kolmatta osapuolta, joilla on yhteys kohteeseen. Kolmas osapuoli on usein heikompi lenkki johon pystyy murtautumaan sisälle. Luottamusta ja yhteyttä hyödynnetään kohteen ja murtautumisen välillä joka mahdollistaa hyökkäyksen alkuperäiseen korkean tason kohteeseen.
 
 ### 5. How was it discovered?
-Hyökkäystä ei havaittu automaattisilla hälytyksillä tai valtion tiedustelun toimesta, vaan tietoturvayhtiö FireEye huomasi epäilyttävän kirjautumisyrityksen omassa kaksivaiheisessa tunnistautumisessaan. Tutkiessaan tätä pientä poikkeamaa FireEye huomasi työkalujensa päätyneen vieraasiin käsiin ja jäljitti murron SolarWindsin päivitykseen. Tämä osoittaa, että suuret kyberhyökkäykset paljastuvat usein asiantuntijoiden tarkkuuden ja pienten poikkeamien seurannan kautta.
+Hyökkäys havaittii kyberturvallisuus yrityksessä Fireeye missä tuntematon laite on rekisteröity työntekijälle, joka yrittää toteuttaa kaksivaiheista tunnistautumista yksityiseen verkkoon. Fireeye asiantutkija tutkii asiaa ja varmistaa, että kirjautuminen ei ole työntekijän. Asiaa tutkitaan enemmän ja todetaan, että korkean tason Fireeye kybertyökaluja on varastettu ja hyökkäys jäljitetään Solarwinds Orion päivitykseen.
 
 
 ### 6. What could have helped
