@@ -31,10 +31,10 @@ Suurin osa siirroista pysäytettiin, koska rahasiirron epäilystä missä kirjoi
 Bangladesh Bankin verkon segmentointi julkisesta verkosta. Vaikka SWIFT itsessään on turvallinen, Bangladesh Bankin koneisiin päästiin ja sen kautta kirjautumaan SWIFT verkkoon. Tämä tekisi kyberhyökkäyksestä haastavamman.
 
 ### 7. The broader lesson - financial crime as cyberattack
-
+Bangladesh Bankin kyberhyökkäys on esimerkki, missä hyökkääjien kohteena on pelkästään raha. Asiantuntijoiden pitää huolehtia, että rahasiirtojakin voidaan vääristää ja turvallisiin ohjelmistoihin voidaan päästä käsiksi.
 
 ### 8. Your personal takeaway
-Muutti käsitystäni miten paljon pitkäjänteistä toimintaa ja kärsivällisyyttä monimutkainen hyökkäys voi vaatia. Kuukausien luotettavuuden rakentamisesta aina oikean hetken odottamiseen.
+Ajattelen eri tavalla miten kärsivällisyys voi mahdollistaa kyberhyökkäyksen toteuttamisen ja suuremmalla mittakaavalla. 
 
 ## Issues and how I resolved them
 Ei ongelmia.
