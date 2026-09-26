@@ -19,10 +19,10 @@ Kyberhyökkääjät yrittivät tehdä pankkiryöstön Bangladesh valtion pankist
 Hyökkääjät tutkivat pankin verkossa miltä tyypillinen iso rahasiirto näyttää, minkä tyyppisiä, milloin siirto tehtiin ja kenelle. Hyökkääjät yrittivät sulautua ja oppia miten siirto tehdään ilman, että se herättäisi epäilyjä. He tekivät valmiiksi eri pankkitilejä mihin siirrot voitaisi myöhemmin toteuttaa. Kärsivällisyys merkkaa paljon tässä tapauksessa, koska valmistelun lisäksi he ajoittivat kyberhyökkäyksen viikonlopulle ja eri maanosien pyhäpäiville vähentäen huomiota.
 
 ### 3. The CIA principle
-
+Tapaukseen liittyy eheys, koska hyökkääjien rahasiirrot olivat epäaitoja eivätkä virallisesti pankin tekemiä. Myös rahasiirtojen raportointi laitettiin pois toiminnasta, mikä antoi väärennetyn kuvan henkilökunalle, että mitään rahasiirtoja ei tapahtuisi.
 
 ### 4. The attack technique - SWIFT and the printer trick
-SWIFT järjestelmän ja kuittaustulostimen peukalointi osti heille arvokasta aikaa, sillä fyysisten kuittien puuttuminen esti henkilökuntaa huomaamasta poikkeamia heti. Hyökkäyksen havaitsemisen viivyttäminen on usein yhtä kriittistä kuin havaitsemisen välttäminen, sillä se antoi hyökkääjille aikaa siirtää ja pestä varat ennen kuin järjestelmiä tai pankkitilejä ehdittiin sulkea.
+
 
 ### 5. What went wrong for the attackers
 Suurin osa siirroista pysäyttivät pankkianalyytikoiden epäilyt, automatisoidut turvamekanismit ja hyökkääjien tekemät pienet operatiiviset virheet, kuten kirjoitusvirhe maksun saajan nimessä. Tämä osoittaa, että hyökkäyksen torjunnassa sattumalla ja inhimillisillä virheillä on usein suuri rooli. Vaikka hyökkäys oli tarkkaan suunniteltu, finanssialan monitasoiset turvatarkastukset ja poikkeamien havainnointi onnistuivat lopulta rajoittamaan vahinkoja.
