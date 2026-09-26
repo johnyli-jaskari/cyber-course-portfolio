@@ -34,7 +34,7 @@ Hyökkäyksen vaikutusta olisi voinut pienentää oman yrityksen sisäisen verko
 NotPetya osoittaa, että kyberhyökkäyksien hallitseminen on vaikeaa, vaikka olisi tarkkaan suunniteltu ja toteutettu. Samalla näyttää miten digitaalisesti voi suorittaa sodankäyntiä ja kuinka sotahankkeita pystyy tehdä ilman välitöntä tekijän tunnistamista tai sotilaallista vastausta.
 
 ### 8. Your personal takeaway
-Kyberhyökkäyksien vaikutus voi olla suurempi mitä tavanomainen sodankäynti. Kuitenkin kyberhyökkäyksien hillitseminen ja kohdentaminen on vaikeampaa kuin perinteiset metodit.
+Kyberhyökkäyksien vaikutus voi olla suurempi mitä tavanomainen sodankäynti. Kuitenkin kyberhyökkäyksien hillitseminen ja kohdentaminen on vaikeampaa, mikä tekee siitä riskialttiin ja epävarman vaihtoehdon.
 
 ## Issues and how I resolved them
 Ei ongelmia.
