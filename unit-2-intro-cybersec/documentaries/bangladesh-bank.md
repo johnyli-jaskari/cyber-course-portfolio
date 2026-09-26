@@ -25,7 +25,7 @@ Tapaukseen liittyy eheys, koska hyökkääjien rahasiirrot olivat epäaitoja eiv
 Bangladesh Bankissa oleva tulostin, minkä tehtävänä on tulostaa kaikki SWIFT tapahtumat. Tekemällä tulostin varmistusmekanisimin pois käytöstä, hyökkääjien menneillään olevat rahasiirrot eivät saavu pankin henkilökunnan tietoon ja antaa aikaa hyökkääjille toteuttaa rystöä. Lykkäämällä havaitsemista on yhtä tärkeää kuin havaitsemisen välttäminen, koska viivyttäminen antaa aikaa ja tietyissä hyökkäyksissä havaitsemisen välttäminen on epätodennäköistä.
 
 ### 5. What went wrong for the attackers
-Suurin osa siirroista pysäytettiin, koska rahasiirron epäilystä missä kirjoitusvirhe oli maksun saajan nimessä, joka johti laajempaan tutkintaan. Tämä kertoo miten sattuma ja pienet virheet voivat olla merkittäviä, vaikka olisi tarkkaan suunniteltu hyökkäys. Turvamenetelmät voivat tulla hyväksikäytetyksi, jos ei ole tarpeeksi kehittyneitä, mutta samalla erittäin tärkeitä, jotta poikkeamat voidaan huomata.
+Suurin osa siirroista pysäytettiin, koska rahasiirron epäilystä missä oli kirjoitusvirhe maksun saajan nimessä, joka johti laajempaan tutkintaan. Tämä kertoo miten sattuma ja pienet virheet voivat olla merkittäviä, vaikka olisi tarkkaan suunniteltu hyökkäys. Turvamenetelmät voivat tulla hyväksikäytetyksi, jos ei ole tarpeeksi kehittyneitä, mutta samalla erittäin tärkeitä, jotta poikkeamat voidaan huomata.
 
 ### 6. What could have helped - the defender's perspective
 Bangladesh Bankin verkon segmentointi julkisesta verkosta. Vaikka SWIFT itsessään on turvallinen, Bangladesh Bankin koneisiin päästiin ja sen kautta kirjautumaan SWIFT verkkoon. Tämä tekisi kyberhyökkäyksestä haastavamman.
