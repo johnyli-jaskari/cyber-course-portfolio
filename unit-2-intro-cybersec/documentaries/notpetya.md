@@ -28,13 +28,13 @@ Hyökkääjät käyttivät MeDoc ohjelmistoa ja sen päivitys serveriä laittama
 NotPetya käytti Eternal-Blue ja mimikatz, joiden avulla se pääsi leviämään eri käyttöjärjestelmiin. Jos koneella on päivitykset ajan tasalla, Mimikatz keräsi kohde koneen muistista tunnukset ja käyttäisi niitä, kunnes pääsisi sisälle.
 
 ### 6. What could have helped
-Hyökkäyksen vaikutusta olisi voinut pienentää segmentoimalla oman verkon, joka
+Hyökkäyksen vaikutusta olisi voinut pienentää oman yrityksen sisäisen verkon segmentoinnilla, jonka avulla NotPetya vaikutuksia olisi voinut minimoida. NotPetya ei pystyisi levitä pidemmälle kuin ensimmäisiin yrityksen järjestelmiin.
 
 ### 7. The broader lesson - attribution and consequences
-NotPetya osoitti, että kyberaseiden hallinta digitaalisesti yhteenliitetyssä maailmassa on lähes mahdotonta ja ne aiheuttavat välimatkasta huolimatta valtavia sivullisia vahinkoja. Geopoliittisesti tapaus hämärsi sodankäynnin rajoja, sillä valtiollisen toimijan osoittaminen on hidasta, mikä mahdollistaa aggressiiviset kyberoperaatiot ilman välitöntä sotilaallista vastinetta.
+NotPetya osoittaa, että kyberhyökkäyksien hallitseminen on vaikeaa, vaikka olisi tarkkaan suunniteltu ja toteutettu. Samalla näyttää miten digitaalisesti voi suorittaa sodankäyntiä ja kuinka sotahankkeita pystyy tehdä ilman välitöntä tekijän tunnistamista tai sotilaallista vastausta.
 
 ### 8. Your personal takeaway
-Digitaalinen sodankäynti voi aiheuttaa erittäin paljon vahinkoa lyhyessä ajassa. Sodankäynti kokonaisuudessaan on muuttunut todella paljon.
+Kyberhyökkäyksien vaikutus voi olla suurempi mitä tavanomainen sodankäynti. Kuitenkin kyberhyökkäyksien hillitseminen ja kohdentaminen on vaikeampaa kuin perinteiset metodit.
 
 ## Issues and how I resolved them
 Ei ongelmia.
