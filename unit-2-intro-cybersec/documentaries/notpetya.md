@@ -31,7 +31,7 @@ NotPetya käytti Eternal-Blue ja mimikatz, joiden avulla se pääsi leviämään
 Hyökkäyksen vaikutusta olisi voinut pienentää oman yrityksen sisäisen verkon segmentoinnilla, jonka avulla NotPetya vaikutuksia olisi voinut minimoida. NotPetya ei pystyisi levitä pidemmälle kuin ensimmäisiin yrityksen järjestelmiin.
 
 ### 7. The broader lesson - attribution and consequences
-NotPetya osoittaa, että kyberhyökkäyksien hallitseminen on vaikeaa, vaikka olisi tarkkaan suunniteltu ja toteutettu. Samalla näyttää miten digitaalisesti voi suorittaa sodankäyntiä ja kuinka sotahankkeita pystyy tehdä ilman välitöntä tekijän tunnistamista tai sotilaallista vastausta.
+NotPetya osoittaa, että kyberhyökkäyksien hallitseminen on vaikeaa, vaikka olisi tarkkaan suunniteltu ja toteutettu. Samalla näyttää miten digitaalisesti voi suorittaa sodankäyntiä ja kuinka sotahankkeita pystyy tehdä ilman välitöntä ja virallista vastuuta tai sotilaallista vastausta.
 
 ### 8. Your personal takeaway
 Kyberhyökkäyksien vaikutus voi olla suurempi mitä tavanomainen sodankäynti. Kuitenkin kyberhyökkäyksien hillitseminen ja kohdentaminen on vaikeampaa, mikä tekee siitä riskialttiin ja epävarman menetelmän.
