@@ -28,7 +28,7 @@ Bangladesh Bankissa oleva tulostin, minkä tehtävänä on tulostaa kaikki SWIFT
 Suurin osa siirroista pysäytettiin, koska rahasiirron epäilystä missä oli kirjoitusvirhe maksun saajan nimessä, joka johti laajempaan tutkintaan. Tämä kertoo miten sattuma ja pienet virheet voivat olla merkittäviä, vaikka olisi tarkkaan suunniteltu hyökkäys. Turvamenetelmät voivat tulla hyväksikäytetyksi, jos ei ole tarpeeksi kehittyneitä, mutta samalla erittäin tärkeitä, jotta poikkeamat voidaan huomata.
 
 ### 6. What could have helped - the defender's perspective
-Bangladesh Bankin verkon segmentointi julkisesta verkosta. Vaikka SWIFT itsessään on turvallinen, Bangladesh Bankin koneisiin päästiin ja sen kautta kirjautumaan SWIFT verkkoon. Tämä tekisi kyberhyökkäyksestä haastavamman.
+Bangladesh pankin verkon segmentointi julkisesta verkosta. Vaikka SWIFT itsessään on turvallinen, Bangladesh pankin koneisiin päästiin ja sen kautta kirjautumaan SWIFT verkkoon. Tämä tekisi kyberhyökkäyksestä haastavamman.
 
 ### 7. The broader lesson - financial crime as cyberattack
 Bangladesh Bankin kyberhyökkäys on esimerkki, missä hyökkääjien kohteena on pelkästään raha. Asiantuntijoiden pitää huolehtia, että rahasiirtojakin voidaan vääristää ja turvallisiin ohjelmistoihin voidaan päästä käsiksi.
