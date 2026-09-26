@@ -19,7 +19,7 @@ NotPetya kyberhyökkäys kohdistui ja alkoi Ukrainasta missä haittaohjelma levi
 Yrityksiä mihin NotPetya vaikutti isosti oli muunmuassa Maersk, FedEx, Merck, Saint-Gobain, Reckitt Benckiser, Mondelez. Maailman suurin merirahtiyritys Maersk joutui ongelmiin, koska heidän koko verkkonsa kaatui, joten rahtiterminaaleissa ei tiedetä mitä laivarahti sisältää, mihin se rahti puretaan, mihin lähetetään. Globaalisti NotPetya aiheutti yli 10 miljardin dollarin vahingot.
 
 ### 3. The CIA principle - and the trick
-NotPetya kohdistui CIA triad saatavuuteen (Availability), koska lukitsi käyttäjät ohjelmistosta ja ilman mahdollisuutta saada tiedot takaisin. Hyökkäys esiintyi kiristyshaittaohjelmana, mutta hyökkääjien tarkoituksena ei ollut raha vaan enemmään vahingon tekeminen.
+NotPetya kohdistui CIA triad saatavuuteen (Availability), koska lukitsi käyttäjät ohjelmistosta ja ilman mahdollisuutta saada tiedot takaisin. Hyökkäys esiintyi kiristyshaittaohjelmana, mutta hyökkääjien tarkoituksena ei ollut raha vaan enemmään vahingon tekeminen. Eheys, koska koneiden käynnistystietoja muokattiin.
 
 ### 4. The attack technique - initial access through a supply chain   
 Hyökkääjät käyttivät MeDoc ohjelmistoa ja sen päivitys serveriä laittamalla haitallisen viruksen päivitykseen, joka lopulta saavuttaa Ukrainalaiset asiakkaat. Kun päivitys ladataan, haitallinen ohjelma pääsee tuhansiin koneisiin ja sisäverkkoihin ympäri Ukrainaa. Päivityspalvelun hyödyntäminen hyökkäyksessä on etenkin ovelaa, koska MeDc on luotettu ja tarjoaa yhteyden moniin käyttäjiin.
