@@ -13,13 +13,13 @@ https://www.youtube.com/watch?v=ttohYNSCkik&t=2s
 
 ## Findings
 ### 1. The incident in your own words
-Bangladesh pankin ryöstössä hyökkääjät yrittivät varastaa lähes miljardi dollaria tekemällä väärennettyjä maksupyyntöjä pankin SWIFT-järjestelmän kautta. Vaikka suurin osa siirroista saatiin pysäytettyä, hyökkääjät onnistuivat saamaan haltuunsa noin 81 miljoonaa dollaria. Tapaus on poikkeuksellinen verrattuna perinteisiin pankkiryöstöihin, sillä fyysisen aseellisen väkivallan sijaan hyökkäys tehtiin täysin digitaalisesti ja näkymättömästi etänä.
+Kyberhyökkääjät yrittivät tehdä pankkiryöstön Bangladesh valtion pankista. Heidän tavoitteena oli ryöstää 1 miljardia dollaria ja he lopuksi saivat noin 81 miljoonaa dollaria. Pankkiryöstö toteutettiin kyberhyökkäyksellä missä he murtautuivat pankin SWIFT rahansiirto järjestelmään. Verrattuna perinteisiin pankkiryöstöihin, joissa käytetään aseellista väkivaltaa, Bangladesh pankki ryöstettiin etänä verkossa.
 
 ### 2. The patient approach - months of preparation
-Hyökkääjät käyttivät kuukausia verkon sisäiseen tiedusteluun opiskellen pankin päivittäisiä rutiineja, työntekijöiden toimintatapoja ja SWIFT-maksujärjestelmän toimintaa. Kärsivällisyys oli kriittistä, sillä se mahdollisti hyökkäyksen täydellisen ajoittamisen eri maanosien viikonlopuille ja pyhäpäiville, mikä viivästytti epäilyttävien rahansiirtojen havaitsemista.
+Hyökkääjät tutkivat pankin verkossa miltä tyypillinen iso rahasiirto näyttää, minkä tyyppisiä, milloin siirto tehtiin ja kenelle. Hyökkääjät yrittivät sulautua ja oppia miten siirto tehdään ilman, että se herättäisi epäilyjä. He tekivät valmiiksi eri pankkitilejä mihin siirrot voitaisi myöhemmin toteuttaa. Kärsivällisyys merkkaa paljon tässä tapauksessa, koska valmistelun lisäksi he ajoittivat kyberhyökkäyksen viikonlopulle ja eri maanosien pyhäpäiville vähentäen huomiota.
 
 ### 3. The CIA principle
-Ensisijainen kohde oli tiedon eheys (Integrity), sillä hyökkääjät peukaloivat maksutransaktioita ja syöttivät järjestelmään väärennettyjä rahansiirtopyyntöjä. Lisäksi he muokkasivat järjestelmän raportointiohjelmistoa peittääkseen omat jälkensä.
+
 
 ### 4. The attack technique - SWIFT and the printer trick
 SWIFT järjestelmän ja kuittaustulostimen peukalointi osti heille arvokasta aikaa, sillä fyysisten kuittien puuttuminen esti henkilökuntaa huomaamasta poikkeamia heti. Hyökkäyksen havaitsemisen viivyttäminen on usein yhtä kriittistä kuin havaitsemisen välttäminen, sillä se antoi hyökkääjille aikaa siirtää ja pestä varat ennen kuin järjestelmiä tai pankkitilejä ehdittiin sulkea.
