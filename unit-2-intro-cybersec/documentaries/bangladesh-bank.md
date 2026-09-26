@@ -19,13 +19,13 @@ Kyberhyökkääjät yrittivät tehdä pankkiryöstön Bangladesh valtion pankist
 Hyökkääjät tutkivat pankin verkossa miltä tyypillinen iso rahasiirto näyttää, minkä tyyppisiä, milloin siirto tehtiin ja kenelle. Hyökkääjät yrittivät sulautua ja oppia miten siirto tehdään ilman, että se herättäisi epäilyjä. He tekivät valmiiksi eri pankkitilejä mihin siirrot voitaisi myöhemmin toteuttaa. Kärsivällisyys merkkaa paljon tässä tapauksessa, koska valmistelun lisäksi he ajoittivat kyberhyökkäyksen viikonlopulle ja eri maanosien pyhäpäiville vähentäen huomiota.
 
 ### 3. The CIA principle
-Tapaukseen liittyy eheys, koska hyökkääjien rahasiirrot olivat epäaitoja eivätkä virallisesti pankin tekemiä. Myös rahasiirtojen raportointi laitettiin pois toiminnasta, mikä antoi väärennetyn kuvan henkilökunalle, että mitään rahasiirtoja ei tapahtuisi.
+Tapaukseen liittyy eheys, koska hyökkääjien rahasiirrot olivat epäaitoja eivätkä virallisesti pankin tekemiä. Myös rahasiirtojen raportointi laitettiin pois toiminnasta, mikä antoi väärennetyn kuvan henkilökunnalle, että mitään rahasiirtoja ei tapahtuisi.
 
 ### 4. The attack technique - SWIFT and the printer trick
-
+Bangladesh pankissa oleva tulostin, minkä tehtävänä on tulostaa kaikki SWIFT tapahtumat. Tekemällä tulostin varmistusmekanisimin pois käytöstä, hyökkääjien menneillään olevat rahasiirrot eivät saavu pankin henkilökunnan tietoon ja antaa aikaa hyökkääjille toteuttaa rystöä. Lykkäämällä havaitsemista on yhtä tärkeää kuin havaitsemisen välttäminen, koska viivyttäminen antaa aikaa ja tietyissä hyökkäyksissä havaitsemisen välttäminen on epätodennäköistä.
 
 ### 5. What went wrong for the attackers
-Suurin osa siirroista pysäyttivät pankkianalyytikoiden epäilyt, automatisoidut turvamekanismit ja hyökkääjien tekemät pienet operatiiviset virheet, kuten kirjoitusvirhe maksun saajan nimessä. Tämä osoittaa, että hyökkäyksen torjunnassa sattumalla ja inhimillisillä virheillä on usein suuri rooli. Vaikka hyökkäys oli tarkkaan suunniteltu, finanssialan monitasoiset turvatarkastukset ja poikkeamien havainnointi onnistuivat lopulta rajoittamaan vahinkoja.
+
 
 ### 6. What could have helped - the defender's perspective
 Tapahtumalokien keskittäminen ja valvonta. Hyökkääjät olivat verkossa kuukausia ja muokkasivat järjestelmätiedostoja. Keskitetty lokitussysteemi, johon hyökkääjät eivät pääse käsiksi, olisi hälyttänyt poikkeavasta komennosta ja tiedostomuutoksista jo ennen rahansiirtoja.
