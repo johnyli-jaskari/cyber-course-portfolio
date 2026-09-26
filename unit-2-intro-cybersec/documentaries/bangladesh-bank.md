@@ -34,7 +34,7 @@ Bangladesh Bankin verkon segmentointi julkisesta verkosta. Vaikka SWIFT itsessä
 Bangladesh Bankin kyberhyökkäys on esimerkki, missä hyökkääjien kohteena on pelkästään raha. Asiantuntijoiden pitää huolehtia, että rahasiirtojakin voidaan vääristää ja turvallisiin ohjelmistoihin voidaan päästä käsiksi.
 
 ### 8. Your personal takeaway
-Ajattelen eri tavalla miten kärsivällisyys voi mahdollistaa kyberhyökkäyksen toteuttamisen ja suuremmalla mittakaavalla. Kärsivällisyyden avulla pystyy ottamaan huomioon paljon enemmän ja nähdä ryöstö mahdollisuuden.
+Ajattelen eri tavalla miten kärsivällisyys voi mahdollistaa kyberhyökkäyksen toteuttamisen ja suuremmalla mittakaavalla. Kärsivällisyyden avulla pystyy ottamaan huomioon paljon enemmän.
 
 ## Issues and how I resolved them
 Ei ongelmia.
