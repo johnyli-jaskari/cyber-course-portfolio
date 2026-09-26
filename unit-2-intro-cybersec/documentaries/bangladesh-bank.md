@@ -22,16 +22,16 @@ Hyökkääjät tutkivat pankin verkossa miltä tyypillinen iso rahasiirto näytt
 Tapaukseen liittyy eheys, koska hyökkääjien rahasiirrot olivat epäaitoja eivätkä virallisesti pankin tekemiä. Myös rahasiirtojen raportointi laitettiin pois toiminnasta, mikä antoi väärennetyn kuvan henkilökunnalle, että mitään rahasiirtoja ei tapahtuisi.
 
 ### 4. The attack technique - SWIFT and the printer trick
-Bangladesh pankissa oleva tulostin, minkä tehtävänä on tulostaa kaikki SWIFT tapahtumat. Tekemällä tulostin varmistusmekanisimin pois käytöstä, hyökkääjien menneillään olevat rahasiirrot eivät saavu pankin henkilökunnan tietoon ja antaa aikaa hyökkääjille toteuttaa rystöä. Lykkäämällä havaitsemista on yhtä tärkeää kuin havaitsemisen välttäminen, koska viivyttäminen antaa aikaa ja tietyissä hyökkäyksissä havaitsemisen välttäminen on epätodennäköistä.
+Bangladesh Bankissa oleva tulostin, minkä tehtävänä on tulostaa kaikki SWIFT tapahtumat. Tekemällä tulostin varmistusmekanisimin pois käytöstä, hyökkääjien menneillään olevat rahasiirrot eivät saavu pankin henkilökunnan tietoon ja antaa aikaa hyökkääjille toteuttaa rystöä. Lykkäämällä havaitsemista on yhtä tärkeää kuin havaitsemisen välttäminen, koska viivyttäminen antaa aikaa ja tietyissä hyökkäyksissä havaitsemisen välttäminen on epätodennäköistä.
 
 ### 5. What went wrong for the attackers
 Suurin osa siirroista pysäytettiin, koska rahasiirron epäilystä missä kirjoitusvirhe oli maksun saajan nimessä, joka johti laajempaan tutkintaan. Tämä kertoo miten sattuma ja pienet virheet voivat olla merkittäviä, vaikka olisi tarkkaan suunniteltu hyökkäys. Turvamenetelmät voivat tulla hyväksikäytetyksi, jos ei ole tarpeeksi kehittyneitä, mutta samalla erittäin tärkeitä, jotta poikkeamat voidaan huomata.
 
 ### 6. What could have helped - the defender's perspective
-
+Bangladesh Bankin verkon segmentointi julkisesta verkosta. Vaikka SWIFT itsessään on turvallinen, Bangladesh Bankin koneisiin päästiin ja sen kautta kirjautumaan SWIFT verkkoon. Tämä tekisi kyberhyökkäyksestä haastavamman.
 
 ### 7. The broader lesson - financial crime as cyberattack
-Hyökkäys osoittaa, että kyberhyökkääjien motivaationa voi valtiollisen vakoilun tai sabotaasin sijaan olla puhtaasti taloudellinen hyöty, jolloin itse raha ja maksujärjestelmät ovat ensisijainen kohde. Asiantuntijoiden on huomioitava perinteisen tietojen salassapidon lisäksi kriittisten rahansiirtoprosessien valvonta ja ymmärtää, että hyökkääjät voivat käyttää valtio-tason kehittyneitä menetelmiä rahan varastamiseen.
+
 
 ### 8. Your personal takeaway
 Muutti käsitystäni miten paljon pitkäjänteistä toimintaa ja kärsivällisyyttä monimutkainen hyökkäys voi vaatia. Kuukausien luotettavuuden rakentamisesta aina oikean hetken odottamiseen.
