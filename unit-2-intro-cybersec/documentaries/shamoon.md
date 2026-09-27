@@ -5,10 +5,11 @@
 **Environment:** macOS
 
 ## Goal
-What I was trying to do.
+Reflect on the Shaoon incident and connect it to Cisco Module 4 concepts.
+
 
 ## Steps
-Katsoin videon
+Katsoin videon <br>
 https://www.youtube.com/watch?v=aNFRZHkT4zE&t=7s
 
 ## Findings
@@ -22,6 +23,9 @@ Saudi Aramco on maailmanlaajuinen yritys, joka tuottaa 25 prosenttia maailman ö
 Hyökkäys liittyy eheyteen sillä Saudi Aramcon koneiden sisältö tuhottiin pysyvästi. Myös saatavuuteen, koska työntekijät eivät voineet ja käyttää järjestelmiä. 
 
 ### 4. The attack technique - destruction at scale
+Shamoon levisi nopeasti Saudi Aramco verkossa, koska hyökkäätä käyttivät järjestelmänvalvojan oikeuksia ja virus pystyi levitä heikossa sisäisessä verkossa useille koneille samaan aikaan. Hyökkääjät sai pääsyn Saudi Aramco verkkoon kalastusviestillä, missä työntekijä painoi linkkiä. Tämä osoittaa huolimattomuutta ja mahdollisti viruksen. Hyökkääjät käyttävät tuhoavaa haittaohjelmaa, jos haluavat tehdä paljon vahinkoa, kun taas kiristyshaittaohjelman avulla kiinnostuksena on rahan tekeminen.
+
+### 5. The organizational response
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
