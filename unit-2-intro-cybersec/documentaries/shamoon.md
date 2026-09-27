@@ -8,7 +8,8 @@
 What I was trying to do.
 
 ## Steps
-Commands run, in order. Use code blocks.
+Katsoin videon
+https://www.youtube.com/watch?v=aNFRZHkT4zE&t=7s
 
 ## Findings
 ### 1. The incident in your own words
