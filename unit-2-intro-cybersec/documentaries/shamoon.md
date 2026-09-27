@@ -23,13 +23,13 @@ Saudi Aramco on maailmanlaajuinen yritys, joka tuottaa 25 prosenttia maailman ö
 Hyökkäys liittyy eheyteen sillä Saudi Aramcon koneiden sisältö tuhottiin pysyvästi. Myös saatavuuteen, koska työntekijät eivät voineet ja käyttää järjestelmiä. 
 
 ### 4. The attack technique - destruction at scale
-Shamoon levisi nopeasti Saudi Aramco verkossa, koska hyökkäätä käyttivät järjestelmänvalvojan oikeuksia ja virus pystyi levitä heikossa sisäisessä verkossa useille koneille samaan aikaan. Hyökkääjät sai pääsyn Saudi Aramco verkkoon kalastusviestillä, missä työntekijä painoi linkkiä. Tämä osoittaa huolimattomuutta ja mahdollisti viruksen. Hyökkääjät käyttävät tuhoavaa haittaohjelmaa, jos haluavat tehdä paljon vahinkoa, kun taas kiristyshaittaohjelman avulla kiinnostuksena on rahan tekeminen.
+Shamoon levisi nopeasti Saudi Aramco verkossa, koska hyökkääjät käyttivät järjestelmänvalvojan oikeuksia ja virus pystyi levitä heikossa sisäisessä verkossa useille koneille samaan aikaan. Hyökkääjät sai pääsyn Saudi Aramco verkkoon kalastusviestillä, missä työntekijä painoi linkkiä. Tämä osoittaa huolimattomuutta ja mahdollisti viruksen. Hyökkääjät käyttävät tuhoavaa haittaohjelmaa, jos haluavat tehdä paljon vahinkoa, kun taas kiristyshaittaohjelman avulla kiinnostuksena on rahan tekeminen.
 
 ### 5. The organizational response
 Saudi Aramcon tekoja korjata viruksen aiheuttama vahinko oli tehdä yhteistyötä asiantuntijoiden kanssa, korvasivat kaikki kovalevt, korjasivat verkon turvallisemmaksi ja kouluttivat työntekijöitä. Tämä kyberhyökkäys kertoo miten varautuminen ja investointi kyberturvallisuuteen on tärkeää, jotta pystyy reagoimaan asiallisesti ja parhaan mukaan eri tilanteisiin.
 
 ### 6. What could have helped - defending the organization
-Shamoon kyberhyökkäyksen vahinkoa olisi voinut vähentää rajoittamalla työntekijöiden käyttöoikeuksia. Se olisi hankaloittanut viruksen leviämistä verkossa, jos ei olisi saanut järjestelmänvalvojan oikeuksia.
+Shamoon kyberhyökkäyksen vahinkoa olisi voinut vähentää rajoittamalla työntekijöiden käyttöoikeuksia ja suojata niitä paremmin. Se olisi hankaloittanut viruksen leviämistä verkossa, jos ei olisi saanut järjestelmänvalvojan oikeuksia.
 
 ### 7. The broader lesson - critical infrastructure as a target
 Kyberhyökkäykset jotka on kohdistettu kriittiseen infrastruktuuriin kuten Saudi Aramco, ovat huolestuttavia, koska jos hyökkäys on onnistunut, sillä pystyy olemaan suuria vaikutuksia ja levitä laajalle. Yhteiskunta nojaa näihin kriittisiin kohteisiin joka päivä ja ne ovat välttämättömiä ihmisen arjessa.
