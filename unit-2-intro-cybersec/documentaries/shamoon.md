@@ -28,6 +28,12 @@ Shamoon levisi nopeasti Saudi Aramco verkossa, koska hyökkäätä käyttivät j
 ### 5. The organizational response
 Saudi Aramcon tekoja korjata viruksen aiheuttama vahinko oli tehdä yhteistyötä asiantuntijoiden kanssa, korvasivat kaikki kovalevt, korjasivat verkon turvallisemmaksi ja kouluttivat työntekijöitä. Tämä kyberhyökkäys kertoo miten varautuminen ja investointi kyberturvallisuuteen on tärkeää, jotta pystyy reagoimaan asiallisesti ja parhaan mukaan eri tilanteisiin.
 
+### 7. The broader lesson - critical infrastructure as a target
+Kyberhyökkäykset jotka on kohdistettu kriittiseen infrastruktuuriin kuten Saudi Aramco, ovat huolestuttavia, koska jos hyökkäys on onnistunut, sillä pystyy olemaan suuria vaikutuksia ja levitä laajalle. Yhteiskunta nojaa näihin kriittisiin kohteisiin joka päivä ja ne ovat välttämättömiä ihmisen arjessa.
+
+### 8. Your personal takeaway
+
+ 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
 
