@@ -7,7 +7,6 @@
 ## Goal
 Reflect on the Shamoon incident and connect it to Cisco Module 4 concepts.
 
-
 ## Steps
 Katsoin videon <br>
 https://www.youtube.com/watch?v=aNFRZHkT4zE&t=7s
