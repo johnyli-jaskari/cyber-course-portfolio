@@ -32,10 +32,7 @@ Saudi Aramcon tekoja korjata viruksen aiheuttama vahinko oli tehdä yhteistyöt�
 Kyberhyökkäykset jotka on kohdistettu kriittiseen infrastruktuuriin kuten Saudi Aramco, ovat huolestuttavia, koska jos hyökkäys on onnistunut, sillä pystyy olemaan suuria vaikutuksia ja levitä laajalle. Yhteiskunta nojaa näihin kriittisiin kohteisiin joka päivä ja ne ovat välttämättömiä ihmisen arjessa.
 
 ### 8. Your personal takeaway
-
- 
+Tapahtumasta jää mieleen miten fyysisiä varmuuskopioita tarvitaan. Varmuuskopiot ovat yksi tapa vastata kyberhyökkäykseen.
+  
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
+Ei ongelmia.
