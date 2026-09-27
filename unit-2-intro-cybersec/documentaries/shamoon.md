@@ -26,7 +26,7 @@ Hyökkäys liittyy eheyteen sillä Saudi Aramcon koneiden sisältö tuhottiin py
 Shamoon levisi nopeasti Saudi Aramco verkossa, koska hyökkäätä käyttivät järjestelmänvalvojan oikeuksia ja virus pystyi levitä heikossa sisäisessä verkossa useille koneille samaan aikaan. Hyökkääjät sai pääsyn Saudi Aramco verkkoon kalastusviestillä, missä työntekijä painoi linkkiä. Tämä osoittaa huolimattomuutta ja mahdollisti viruksen. Hyökkääjät käyttävät tuhoavaa haittaohjelmaa, jos haluavat tehdä paljon vahinkoa, kun taas kiristyshaittaohjelman avulla kiinnostuksena on rahan tekeminen.
 
 ### 5. The organizational response
-Saudi Aramco tekoja korjata viruksen aiheuttama vahinko oli tehdä yhteistyötä asiantuntijoiden kanssa, korvasivat kaikki kovalevt, korjasivat verkon turvallisemmaksi ja kouluttivat työntekijöitä. Tämä kyberhyökkäys kertoo miten varautuminen ja investointi on tärkeää, jotta pystyy reagoimaan asiallisesti ja parhaan mukaan eri tilanteisiin.
+Saudi Aramco tekoja korjata viruksen aiheuttama vahinko oli tehdä yhteistyötä asiantuntijoiden kanssa, korvasivat kaikki kovalevt, korjasivat verkon turvallisemmaksi ja kouluttivat työntekijöitä. Tämä kyberhyökkäys kertoo miten varautuminen ja investointi kyberturvallisuuteen on tärkeää, jotta pystyy reagoimaan asiallisesti ja parhaan mukaan eri tilanteisiin.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
