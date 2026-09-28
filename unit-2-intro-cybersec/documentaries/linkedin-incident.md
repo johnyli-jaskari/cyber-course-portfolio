@@ -37,6 +37,5 @@ Organisaatioilla on vastuu huolehtia käyttäjiensä arkaluonteisista asioista o
 Olen käyttänyt samoja salasanoja ajoittain ja LinkedIn tietovuoto muistuttaa miksi on tärkeää käyttää vahvoja tunnuksia. Salasanan luominen ja hallinta pystyy toteuttaa työkaluilla.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
-
+Ei ongelmia.
 
