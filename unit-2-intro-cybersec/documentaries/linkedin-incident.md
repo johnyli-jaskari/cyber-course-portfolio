@@ -15,6 +15,7 @@ LinkedIn sivustolle murtauduttiin vuonna 2012 missä käyttäjien salasanoja var
 
 ### 2. Who was affected, and how
 
+
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
 
