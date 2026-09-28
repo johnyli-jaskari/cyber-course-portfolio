@@ -14,7 +14,7 @@ Last updated: 2026-08-15
 | Competence | Evidence (assignment + link) | Notes / what it demonstrates |
 |---|---|---|
 | Tuntee CIA käsitteet (knows CIA concepts) |  |  |
-| Ymmärtää saavutettavuuden käsitteen ja siihen kohdistuvat uhat (understands availability and its threats) | U2-04b Assignment: Darknet Diaries Ep. 30 - Shamoon (documentary) | Opiskelija ymmärtää saavutettavuuden käsitteen ja siihen kohdistuvat uhat (wiper = destroyed availability)  |
+| Ymmärtää saavutettavuuden käsitteen ja siihen kohdistuvat uhat (understands availability and its threats) | U2-04b Assignment: Darknet Diaries Ep. 30 - Shamoon (documentary) |  |
 | Ymmärtää luottamuksellisuuden käsitteen ja siihen kohdistuvat uhat (understands confidentiality and its threats) |  |  |
 | Ymmärtää eheyden käsitteen ja siihen kohdistuvat uhat (understands integrity and its threats) |  |  |
 
