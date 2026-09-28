@@ -28,7 +28,7 @@ Murtautumisen laajuus tuli selville vasta vuosia myöhemmin, joka kertoo kuinka 
 ### 6. What could have helped - defending the organization
 
 ### 7. The broader lesson: credential reuse and downstream attacks
-Organisaatioilla on vastuu huolehtia käyttäjiensä arkaluonteisista asioista omaamalla asiantuntijoita ja suojata järjestelmiä. Myös käyttäjillä on vastuu huolehtia ja panostaa omiin salasanoihin tekemällä niistä vahvoja eikä käyttämällä samaa salasanaa uudestaan.
+Organisaatioilla on vastuu huolehtia käyttäjiensä arkaluonteisista asioista omaamalla asiantuntijoita ja suojata järjestelmiä. Myös käyttäjillä on vastuu huolehtia ja panostaa omiin salasanoihin eri sivustoilla tekemällä niistä vahvoja eikä käyttämällä samaa salasanaa uudestaan.
 
 ### 8. Your personal takeaway
 Olen käyttänyt samoja salasanoja ajoittain ja LinkedIn tietovuoto muistuttaa miksi on tärkeää käyttää vahvoja tunnuksia. Salasanan luominen ja hallinta pystyy toteuttaa työkaluilla.
