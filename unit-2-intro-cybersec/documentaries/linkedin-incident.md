@@ -31,10 +31,9 @@ Murtautumisen laajuus tuli selville vasta vuosia myöhemmin, joka kertoo kuinka 
 Organisaatioilla on vastuu huolehtia käyttäjiensä arkaluonteisista asioista omaamalla asiantuntijoita ja suojata järjestelmiä. Myös käyttäjillä on vastuu huolehtia ja panostaa omiin salasanoihin tekemällä niistä vahvoja eikä käyttämällä samaa salasanaa uudestaan.
 
 ### 8. Your personal takeaway
-
+Olen käyttänyt samoja salasanoja ajoittain ja LinkedIn tietovuoto muistuttaa miksi on tärkeää käyttää vahvoja tunnuksia. Salasanahallintaa pystyy toteuttaa työkaluilla.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
 
-## Referencesja kertoivat, että noin
-Links to docs, write-ups, or related notes.
+
