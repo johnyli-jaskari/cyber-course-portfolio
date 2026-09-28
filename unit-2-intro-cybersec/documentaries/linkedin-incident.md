@@ -8,6 +8,8 @@
 Reflect on the LinkedIn incident and connect it to Cisco Module 4 concepts.
 
 ## Steps
+Katsoin videon. <br>
+https://www.youtube.com/watch?v=b1wpPo5tud0&t=803s
 
 ## Findings
 ### 1. The incident in your own words
