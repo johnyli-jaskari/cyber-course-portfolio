@@ -26,6 +26,7 @@ Hajautusarvo näyttää salasanat merkkijonona, joita ei pysty lukemaan suoraan 
 Murtautumisen laajuus tuli selville vasta vuosia myöhemmin, joka kertoo kuinka varastettuja tietoja voi jakaa salaa. Tietoturvariski ja hyökkäys on usein tapahtunut aikaisemmin ja ollut olemassa jonkin aikaa ennen kuin se on tullut julkisuuden tietoon.
 
 ### 6. What could have helped - defending the organization
+Hash säilytys suolaamalla, joka vaikeuttaa hyökkääjille salasanojen löytämistä ja hyödyntämistä. Tämä olisi vähentänyt vahinkoja.
 
 ### 7. The broader lesson: credential reuse and downstream attacks
 Organisaatioilla on vastuu huolehtia käyttäjiensä arkaluonteisista asioista omaamalla asiantuntijoita ja suojata järjestelmiä. Myös käyttäjillä on vastuu huolehtia ja panostaa omiin salasanoihin eri sivustoilla tekemällä niistä vahvoja eikä käyttämällä samaa salasanaa uudestaan.
