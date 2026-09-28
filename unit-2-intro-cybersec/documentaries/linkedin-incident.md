@@ -17,7 +17,10 @@ LinkedIn sivustolle murtauduttiin vuonna 2012 missä käyttäjien salasanoja var
 Käyttäjät jotka käyttivät samaa salasanaa, niin heidän muut tilit olivat myös vaarassa murtautumiselle, kun LinkedIn salasanat varastettiin. Samalla suuret määrät varastettuja salasanoja meni myyntiin, jotka ovat arvokkaita.
 
 ### 3. The CIA principle
+LinkedIn murtautumiseen ensisijainen kohde on luottamuksellisuus, koska käyttäjien henkilökohtaiset tunnukset pääsivät julkisuuteen ja rikollisten käsiin. Vaikka tunnusten vuotaminen on hetkellistä, kyberhyökkäykset kuten LinkedIn vaikuttaa käyttäjien luottamukseen suuriin yrityksiin ja kuinka paljon he haluavat käyttää verkkopalveluita.
 
+### 4. The technique and the weak hashing decision
+Hajautusarvo näyttää salasanat merkkijonona, joita ei pysty lukemaan suoraan tekstinä. Suolaamaton hajautusarvo on heikompi tapa sälyttää salasanat, koska se ei luo eri hajautusarvoja samaa salasanaa käyttäville ja valmiita taulukoita voi hyödyntää, joka helpottaa hyökkääjien murtautumista usealle tilille. Suolattu hajautusarvolla hyökkääjien pitää murtaa jokainen salasana erikseen. LinkedIn ei käyttänyt suolattuja hajautusarvoja, joka johti suureen tietovuotoon ja opetti, että turvallisiin menetelmiin pitää nojata.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
