@@ -14,6 +14,9 @@ Reflect on the LinkedIn incident and connect it to Cisco Module 4 concepts.
 LinkedIn sivustolle murtauduttiin vuonna 2012 missä käyttäjien salasanoja varastettiin. LinkedIn ilmoitti tietomurrosta julkisuuteen niin pian kuin pystyivät ja ilmoittivat, että 6,5 miljoonan käyttäjän tunnukset kompromisoitu. Aikajanasta tekee kiinnostavan sen, että vuonna 2016 saatiin selville, että alkuperäisessä 2012 LinkedIn murrossa oli 117 miljoonan käyttäjän salasanat varastettu.
 
 ### 2. Who was affected, and how
+Käyttäjät jotka käyttivät samaa salasanaa, niin heidän muut tilit olivat myös vaarassa murtautumiselle, kun LinkedIn salasanat varastettiin. Samalla suuret määrät varastettuja salasanoja meni myyntiin, jotka ovat arvokkaita.
+
+### 3. The CIA principle
 
 
 ## Issues and how I resolved them
