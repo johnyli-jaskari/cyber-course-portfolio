@@ -23,6 +23,7 @@ LinkedIn murtautumiseen ensisijainen kohde on luottamuksellisuus, koska käyttä
 Hajautusarvo näyttää salasanat merkkijonona, joita ei pysty lukemaan suoraan tekstinä. Suolaamaton hajautusarvo on heikompi tapa säilyttää salasanat, koska se ei luo eri hajautusarvoja samaa salasanaa käyttäville ja valmiita taulukoita voi hyödyntää, joka helpottaa hyökkääjien murtautumista usealle tilille. Suolattu hajautusarvolla hyökkääjien pitää murtaa jokainen salasana erikseen. LinkedIn ei käyttänyt suolattuja hajautusarvoja, joka oli yksi pääsyy tietovuodon vakavuuteen, mikä opetti, että moderneihin käytäntöihin pitää nojata.
 
 ### 5. The slow surfacing of the data
+Murtautumisen laajuus tuli selville vasta vuosia myöhemmin, joka kertoo miten tietovudon kaikki tiedot voi olla pääsemättä julkisuuteen ja kuinka varastettuja tietoja voi jakaa salaa.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
