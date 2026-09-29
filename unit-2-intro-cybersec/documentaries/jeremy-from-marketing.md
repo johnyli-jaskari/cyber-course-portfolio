@@ -5,7 +5,7 @@
 **Environment:** Github
 
 ## Goal
-Reflect on the Jeremy Hammond incident and connect it to Cisco Module 5 concepts.
+Reflect on the Jeremy incident and connect it to Cisco Module 5 concepts.
 
 ## Steps
 Commands run, in order. Use code blocks.
