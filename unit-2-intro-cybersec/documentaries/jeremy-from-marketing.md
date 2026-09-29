@@ -11,7 +11,8 @@ Reflect on the Jeremy incident and connect it to Cisco Module 5 concepts.
 Commands run, in order. Use code blocks.
 
 ## Findings
-What I learned / what the output told me.
+### 1. Jeremy's story in your own words
+Jeremy Hammond oli valenimi oikealle Tinker Secor penetraatiotestaajalle. Hän teki työtä yritykselle, joka antoi valenimen ja luvan testata kuinka hyvät heidän suojausmenetelmät ovat organisaation sisäpuolelta.
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
