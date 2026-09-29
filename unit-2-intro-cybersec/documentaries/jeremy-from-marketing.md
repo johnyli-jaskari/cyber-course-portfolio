@@ -1,7 +1,7 @@
 # U2-05c Assignment: Darknet Diaries Ep. 18 - Jeremy from Marketing (documentary)
 
-**Date:** 2026-09-29
-**Source:** U2-05c Assignment: Darknet Diaries Ep. 18 - Jeremy from Marketing (documentary)
+**Date:** 2026-09-29 <br>
+**Source:** U2-05c Assignment: Darknet Diaries Ep. 18 - Jeremy from Marketing (documentary) <br>
 **Environment:** Github
 
 ## Goal
