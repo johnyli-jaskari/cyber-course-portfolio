@@ -1,16 +1,16 @@
-TITLE: [Organization] — [Incident type], [Month Year]
+TITLE: Valtori — Tietomurto, Tammikuu 2026
 
 SUMMARY (2–3 sentences)
-What happened, when, and what the impact was.
+Valtion tieto- ja viestintätekniikkakeskukseen Valtoriin tehtiin tietomurto missä Valtorin mobiililaitteiden hallintapalvelu oli kohteena. Palvelua käyttää valtion virastot ja virkahenkilöt, hyökkäys tapahtui 30.1.2026. Arviolta noin 50 000 laitetta ja niiden käyttäjätietoja kompromisoitu.
 
 WHAT WAS AFFECTED <br>
 - Valtion virkahenkilöiden mobiililaitteiden hallintapalvelu; nimiä, puhelinnumeroita, sähköpostiosoitteita, laitetietoja. <br>
 - 50 tuhatta laitetta. <br>
-- Palvelut pysyivät käynnissä, kuitenkin te
+- Palvelut pysyivät käynnissä.
 
 CIA ANALYSIS
-- Primary violation: [C / I / A]
-- Secondary impacts: [brief explanation]
+- Ensisijaisesti luottamuksellisuutta rikottu, koska eri arkaluonteisia ja korkean tason työntekijöiden tietoja päässyt vuotamaan kuten käyttäjätietoja ja laitetetoja.
+- Eheys, koska palvelun järjestelmiin murtauduttiin.
 
 ATTACK CHAIN (high level)
 A short numbered sequence of what is known or plausibly inferred:
@@ -23,6 +23,6 @@ DEFENSES THAT WOULD HAVE HELPED
 - 2–3 specific controls (damage limitation / response)
 
 SOURCES <br>
-Yle 9.2: https://yle.fi/a/74-20209131
-Valtorin tiedote 3.2: https://valtori.fi/-/osassa-valtionhallinnon-mobiililaitehallintaa-tietomurto-hyokkaajan-toiminta-estetty
+1. Yle 9.2: https://yle.fi/a/74-20209131
+2. Valtorin tiedote 3.2: https://valtori.fi/-/osassa-valtionhallinnon-mobiililaitehallintaa-tietomurto-hyokkaajan-toiminta-estetty
 Numbered list of sources with URLs and access dates.
