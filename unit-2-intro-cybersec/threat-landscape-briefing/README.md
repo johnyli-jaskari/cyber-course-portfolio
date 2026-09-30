@@ -28,4 +28,4 @@ DEFENSES THAT WOULD HAVE HELPED
 SOURCES <br>
 1. Yle 9.2: https://yle.fi/a/74-20209131
 2. Valtorin tiedote 3.2: https://valtori.fi/-/osassa-valtionhallinnon-mobiililaitehallintaa-tietomurto-hyokkaajan-toiminta-estetty
-Numbered list of sources with URLs and access dates.
+3. Yle 4.2: https://yle.fi/a/74-20208246?utm_source=chatgpt.com
