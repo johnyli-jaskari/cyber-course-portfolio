@@ -1,6 +1,6 @@
 TITLE: Valtori — Tietomurto, Tammikuu 2026
 
-SUMMARY (2–3 sentences)
+SUMMARY (2–3 sentences) <br>
 Valtion tieto- ja viestintätekniikkakeskukseen Valtoriin tehtiin tietomurto missä Valtorin mobiililaitteiden hallintapalvelu oli kohteena. Palvelua käyttää valtion virastot ja virkahenkilöt, hyökkäys tapahtui 30.1.2026. Arviolta noin 50 000 laitetta ja niiden käyttäjätietoja kompromisoitu.
 
 WHAT WAS AFFECTED <br>
