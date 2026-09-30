@@ -20,7 +20,10 @@ A short numbered sequence of what is known or plausibly inferred:
 
 DEFENSES THAT WOULD HAVE HELPED
 - 2–3 specific controls (preventive)
+  Ohjelmiston haavoittuvuuksien tunnistaminen ja korjaaminen, joka vaikeuttaa hyökkääjien pääsyä.
 - 2–3 specific controls (damage limitation / response)
+  Hyökkäyksen vahinkoa olisi rajoittanut vanhojen käyttäjätietojen ja laitetietojen poistaminen kunnolla, jotta hyökkääjällä ei olisi pääsyä palvelun koko elinkaaren aikana käyttävien tietoihin. 
+
 
 SOURCES <br>
 1. Yle 9.2: https://yle.fi/a/74-20209131
