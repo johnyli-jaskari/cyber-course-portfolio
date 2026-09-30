@@ -14,9 +14,9 @@ CIA ANALYSIS
 
 ATTACK CHAIN (high level)
 A short numbered sequence of what is known or plausibly inferred:
-1. Initial access (how the attacker likely got in)
-2. Escalation / lateral movement (if known)
-3. Impact (what the attacker did)
+1. Hyökkääjä pääsi mobiililaitteiden hallintapalveluun valmisohjelman nollapäivähaavoittuvuuden kautta eli uusi haavoittuvuus mihin ei ollut päivitystä. 
+2. Kun hyökkääjä pääsi sisälle han sai haltuunsa nimiä ja numeroita, tarkkaa hyökkääjän etenemisestä ei ole tarkempaa tietoa.
+3. Hyökkääjä sai kokonaisuudessa noin 50 000 virkahenkilön laitteen tietoja. Tapaus on törkeä tietomurto ja johtanut tutkintaan.
 
 DEFENSES THAT WOULD HAVE HELPED
 - 2–3 specific controls (preventive)
