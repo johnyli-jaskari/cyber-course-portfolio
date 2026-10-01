@@ -22,7 +22,7 @@ DEFENSES THAT WOULD HAVE HELPED
 - 2–3 specific controls (preventive) <br>
   Ohjelmiston haavoittuvuuksien tunnistaminen ja korjaaminen päivityksillä, joka voisi vaikeuttaa hyökkääjien pääsyä järjestelmään. Järjestelmän ja poikkeavan käyttäytymisen valvonta, joka nopeuttaisi hyökkäyksen havaitsemista ja sen ennaltaehkäisyä.
 - 2–3 specific controls (damage limitation / response) <br>
-  Hyökkäyksen vahinkoa olisi rajoittanut vanhojen käyttäjätietojen ja laitetietojen poistaminen kunnolla, jotta hyökkääjällä ei olisi pääsyä palvelun koko elinkaaren aikana käyttävien tietoihin. Viranomaisyhteistyö mikä auttaa tutkinnassa ja tapahtumasta pystyy oppimaan paljon.
+  Hyökkäyksen vahinkoa olisi rajoittanut vanhojen käyttäjätietojen ja laitetietojen poistaminen kunnolla palvelusta, jotta hyökkääjällä ei olisi pääsyä palvelun koko elinkaaren aikana käyttävien tietoihin. Viranomaisyhteistyö mikä auttaa tutkinnassa ja mahdollistaa tapahtumasta oppimaan paljon.
 
 
 SOURCES <br>
