@@ -5,7 +5,7 @@ Valtion tieto- ja viestintätekniikkakeskukseen Valtoriin tehtiin tietomurto mis
 
 WHAT WAS AFFECTED <br>
 - Valtion virkahenkilöiden mobiililaitteiden hallintapalvelu; nimiä, puhelinnumeroita, sähköpostiosoitteita, laitetietoja.  <br>
-- 50 tuhatta laitetta. <br>
+- 50 000 laitetta. <br>
 - Palvelut pysyivät käynnissä.
 
 CIA ANALYSIS
