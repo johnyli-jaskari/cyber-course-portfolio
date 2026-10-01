@@ -28,4 +28,4 @@ DEFENSES THAT WOULD HAVE HELPED
 SOURCES <br>
 1. Yle 9.2.2026 - Valtorin tietomurto uhkaa tuhansien virka­henkilöiden tietoturvaa - https://yle.fi/a/74-20209131
 2. Valtorin tiedote 5.2.2026 - Tilannepäivitys 30.1. todetusta mobiililaitehallinnan tietomurrosta, päivitetty 9.2. - https://valtori.fi/-/tilannepaivitys-30.1.-todetusta-mobiililaitehallinnan-tietomurrosta
-3. Yle 4.2.2026 - Valtorin tuottamaan mobiili­laitteiden hallinta­palveluun on kohdistunut tietomurto - https://yle.fi/a/74-20208246?utm_source=chatgpt.com
+3. Yle 4.2.2026 - Valtorin tuottamaan mobiili­laitteiden hallinta­palveluun on kohdistunut tietomurto - https://yle.fi/a/74-20208246
