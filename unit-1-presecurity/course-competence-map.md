@@ -26,8 +26,7 @@ Last updated: 2026-08-15
 | Competence | Evidence (assignment + link) | Notes / what it demonstrates |
 |---|---|---|
 | Osaa tehdä laitteiden suojauksen kannalta tärkeät ohjelmistoasennukset ja asetukset sekä päivittää ne tarvittaessa (can install and configure device security software, and keep it updated) |  |  |
-| Osaa huomioida tietoturvan tiedonsiirrossa ja tallennuksessa (can address security in data transmission and storage) | [
-U1-04b Assignment: Cloud Concepts] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-1-presecurity/cloud-concepts/reflection.md) |  |
+| Osaa huomioida tietoturvan tiedonsiirrossa ja tallennuksessa (can address security in data transmission and storage) |  |  |
 | Huomioi laitteiden fyysisen suojauksen kotona, työpaikalla ja matkustettaessa (addresses physical device security at home, at work, and while travelling) |  |  |
 | Tunnistaa sosiaalisen manipuloinnin keinot ja osaa varautua niihin (recognizes social engineering methods and can defend against them) |  |  |
 
