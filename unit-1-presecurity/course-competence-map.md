@@ -37,7 +37,7 @@ Last updated: 2026-08-15
 
 | Competence | Evidence (assignment + link) | Notes / what it demonstrates |
 |---|---|---|
-| Tietää tavanomaiset kyberhyökkäyksen tekniikat ja niihin liittyvät riskit (knows common cyberattack techniques and associated risks) |  |  |
+| Tietää tavanomaiset kyberhyökkäyksen tekniikat ja niihin liittyvät riskit (knows common cyberattack techniques and associated risks) | [U1-02a Assignment: Map Your Network] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-1-presecurity/network-fundamentals/network-profile.md) | U1-02a: Oman verkon kartoittaminen, IP, MAC, Subnet, DNS, porttien määrittäminen. |
 | Osaa tavanomaiset keinot, joilla kyberhyökkäyksen aiheuttamia vahinkoja voi rajoittaa (knows common ways to limit damage from cyberattacks) |  |  |
 
 ---
