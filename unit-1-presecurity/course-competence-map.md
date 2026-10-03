@@ -13,7 +13,7 @@ Last updated: 2026-10-02
 
 | Competence | Evidence (assignment + link) | Notes / what it demonstrates |
 |---|---|---|
-| Tuntee CIA käsitteet (knows CIA concepts) |  |  |
+| Tuntee CIA käsitteet (knows CIA concepts) | [U1-07a Assignment: Attacker vs Defender Reflection] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-1-presecurity/attacks-and-defenses/attacker-vs-defender.md) |  |
 | Ymmärtää saavutettavuuden käsitteen ja siihen kohdistuvat uhat (understands availability and its threats) | [U2-04b Assignment: Darknet Diaries Ep. 30 - Shamoon (documentary)] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-2-intro-cybersec/documentaries/shamoon.md) | U2-04b: Shamoon-hyökkäyksen seurauksena yrityksen 35 tuhatta konetta menivät käyttökelvottomiksi.|
 | Ymmärtää luottamuksellisuuden käsitteen ja siihen kohdistuvat uhat (understands confidentiality and its threats) | [U1-03a Assignment: Wireshark - Cleartext vs Encrypted Traffic] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-1-presecurity/web-traffic-analysis/wireshark-first-look.md) | U1-03a: Wireshark salaamaton ja salatun verkkoliikenteen tietojen tutkimista. |
 | Ymmärtää eheyden käsitteen ja siihen kohdistuvat uhat (understands integrity and its threats) |  |  |
