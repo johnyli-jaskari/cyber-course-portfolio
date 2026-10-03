@@ -4,7 +4,7 @@ Living evidence map for *Kyberturvallisuus 15 ECVET*.
 I update this file as I complete assignments, linking each to the
 competence(s) it demonstrates.
 
-Last updated: 2026-08-15
+Last updated: 2026-10-02
 
 ---
 
