@@ -47,7 +47,7 @@ Last updated: 2026-10-02
 
 | Competence | Evidence (assignment + link) | Notes / what it demonstrates |
 |---|---|---|
-| Tuntee salausmenetelmien periaatteen (understands the principle of encryption methods) |  |  |
+| Tuntee salausmenetelmien periaatteen (understands the principle of encryption methods) | [U2-04c Assignment: Darknet Diaries Ep. 86 - The LinkedIn Incident (documentary)] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-2-intro-cybersec/documentaries/linkedin-incident.md) | Ymmärsin miten LinkedIn salasanoja säilytettiin unsalted-SHA-1 menetelmällä, joka oli heikko ja suolauksen merkityksen. |
 | Tietää ja osaa nimetä yleisimmät salausmenetelmät (knows and can name common encryption methods) |  |  |
 
 ---
