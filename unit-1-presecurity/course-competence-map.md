@@ -55,7 +55,7 @@ Last updated: 2026-10-02
 ## My portfolio overall
 
 Brief description of how my portfolio is organized:
-[2–3 sentences describing the structure of your repo, written when finalizing]
+Pääkansiot unit-1-presecurity ja unit-2-intro-cybersec, joiden sisällä tehtäviä omissa kansioissa. Tehtäviin käytetty yhtenäistä rakennetta ja jaottelua, jotka sisältää yleistiedot, tehtävän ja sen vaiheet sekä reflektointia.
 
 ## Closing reflection
 
