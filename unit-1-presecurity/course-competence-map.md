@@ -38,7 +38,7 @@ Last updated: 2026-10-02
 | Competence | Evidence (assignment + link) | Notes / what it demonstrates |
 |---|---|---|
 | Tietää tavanomaiset kyberhyökkäyksen tekniikat ja niihin liittyvät riskit (knows common cyberattack techniques and associated risks) | [U1-02a Assignment: Map Your Network] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-1-presecurity/network-fundamentals/network-profile.md) <br> [U1-03f Assignment: Subnetting Basics] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-1-presecurity/subnetting/U1-03f_Subnetting_Basics.md)| U1-02a: Oman verkon kartoittaminen, IP, MAC, Subnet, DNS, porttien määrittäminen. <br> U1-03f: Laskin viiden CIDR-lohkon subnet-maskit, verkko- ja broadcast-osoitteet sekä default gateway ja host-osoitealueet.|
-| Osaa tavanomaiset keinot, joilla kyberhyökkäyksen aiheuttamia vahinkoja voi rajoittaa (knows common ways to limit damage from cyberattacks) |  |  |
+| Osaa tavanomaiset keinot, joilla kyberhyökkäyksen aiheuttamia vahinkoja voi rajoittaa (knows common ways to limit damage from cyberattacks) | [U2-04a Assignment: Threat Landscape Briefing] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-2-intro-cybersec/threat-landscape-briefing/README.md) | U2-04a: Valtori tietomurrossa tunnistin rajoittaviksi tekijöiksi mobiililaitteiden hallintapalvelun vanhojen tietojen poistaminen ja viranomaisyhteistyö. |
 
 ---
 
