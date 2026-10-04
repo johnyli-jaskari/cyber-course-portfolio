@@ -47,7 +47,7 @@ Last updated: 2026-10-02
 
 | Competence | Evidence (assignment + link) | Notes / what it demonstrates |
 |---|---|---|
-| Tuntee salausmenetelmien periaatteen (understands the principle of encryption methods) | [U2-04c Assignment: Darknet Diaries Ep. 86 - The LinkedIn Incident (documentary)] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-2-intro-cybersec/documentaries/linkedin-incident.md) | Ymmärsin miten LinkedIn salasanoja säilytettiin unsalted-SHA-1 menetelmällä, joka oli heikko ja suolauksen merkityksen. |
+| Tuntee salausmenetelmien periaatteen (understands the principle of encryption methods) | [U2-04c Assignment: Darknet Diaries Ep. 86 - The LinkedIn Incident (documentary)] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-2-intro-cybersec/documentaries/linkedin-incident.md) <br> [U1-03e Assignment: Packet Tracer - Use Telnet and SSH] (https://github.com/johnyli-jaskari/cyber-course-portfolio/blob/main/unit-1-presecurity/how%20the%20web%20works/U1-03b-e%20packet%20tracer/U1-03e%20Assignment%3A%20Packet%20Tracer%20-%20Use%20Telnet%20and%20SSH.md) | U2-04c: Ymmärsin miten LinkedIn salasanoja säilytettiin unsalted-SHA-1 menetelmällä, joka oli heikko ja suolauksen merkityksen. U1-03e: SSH on turvallinen etäyhteyteen ja Telnet on suojaamaton vaihtoehto. |
 | Tietää ja osaa nimetä yleisimmät salausmenetelmät (knows and can name common encryption methods) |  |  |
 
 ---
