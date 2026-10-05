@@ -1,8 +1,8 @@
 # U2-05c Assignment: Darknet Diaries Ep. 18 - Jeremy from Marketing (documentary)
 
-**Date:** 2026-10-05
-**Source:** U2-05c Assignment: Darknet Diaries Ep. 18 - Jeremy from Marketing (documentary)
-**Environment:** Github
+**Date:** 2026-10-05 <br>
+**Source:** U2-05c Assignment: Darknet Diaries Ep. 18 - Jeremy from Marketing (documentary) <br>
+**Environment:** macOS, Github
 
 ## Goal
 What I was trying to do.
