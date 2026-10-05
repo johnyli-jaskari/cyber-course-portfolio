@@ -2,7 +2,7 @@
 
 **Date:** 2026-09-27 <br>
 **Source:** U2-04b Assignment: Darknet Diaries Ep. 30 - Shamoon (documentary) <br>
-**Environment:** macOS
+**Environment:** macOS, GitHub
 
 ## Goal
 Reflect on the Shamoon incident and connect it to Cisco Module 4 concepts.
