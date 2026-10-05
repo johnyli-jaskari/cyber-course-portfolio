@@ -2,7 +2,7 @@
 
 **Date:** 2026-09-27 <br>
 **Source:** U2-04c Assignment: Darknet Diaries Ep. 86 - The LinkedIn Incident (documentary) <br>
-**Environment:** macOS
+**Environment:** macOS, GitHub
 
 ## Goal
 Reflect on the LinkedIn incident and connect it to Cisco Module 4 concepts.
