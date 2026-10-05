@@ -2,7 +2,7 @@
 
 **Date:** 2026-10-05 <br>
 **Source:** U2-05c Assignment: Darknet Diaries Ep. 18 - Jeremy from Marketing (documentary) <br>
-**Environment:** macOS, Github
+**Environment:** macOS, GitHub
 
 ## Goal
 What I was trying to do.
