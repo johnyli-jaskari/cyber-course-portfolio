@@ -2,7 +2,7 @@
 
 **Date:** 2026-09-18 <br>
 **Source:** U2-02c Assignment: Darknet Diaries Ep. 72 - Bangladesh Bank Heist (documentary) <br>
-**Environment:** macOS, Github
+**Environment:** macOS, GitHub
 
 ## Goal
 Reflect on the Bangladesh Bank Heist incident and connect it to Cisco Module 2 concepts.
