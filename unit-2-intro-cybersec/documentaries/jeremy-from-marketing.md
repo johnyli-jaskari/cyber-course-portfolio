@@ -17,6 +17,11 @@ Jeremy Hammond oli hakkeri ja aktivisti, joka Anonymous ryhmän kanssa teki kybe
 ### 2. The target - Stratfor
 Stratfor oli tiedusteluyritys, joka neuvoi ja teki yhteistyötä suurien yrityksien, hallituksien ja muiden asiakkaiden kanssa liittyen heidän turvallisuuteen ja geopoliittisiin asioihin. Jeremy ja hänen yhteistyökumppanit valitsivat Stratfor kohteeksi ja pitivät sitä oikeutettuna, koska uskoivat, että Stratfor osallistui valvontaan ja haitalliseen toimintaan aktivisteja vastaan. Halusivat paljastaa yksityistä tietoa julkiseksi. Mielestäni vaikka idea ja motiivi oli hyvä, toimet olivat huonot kuinka he murtautuivat laittomasti järjestelmiin, olisi voineet tehdä vaikutusta laillisilla keinoilla.
 
+### 3. The legal reality
+Jeremy Hammond tapaus kertoo miten lailliset seuraamukset ovat läsnä luvattomassa pääsyssä järjestelmään, vaikka olisi hyvä motivaatio ja tarkoitus. Lainsäädännössä otetaan huomioon mitä on tehnyt eikä painoarvo ole vain motivaatiossa. Tämä osoittaa, että hyvä tarkoitus ja aktivismi ei suojaa rikossyytteiltä.
+
+### 4. Activism, hacktivism, or crime?
+
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
 
