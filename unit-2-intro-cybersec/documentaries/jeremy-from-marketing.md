@@ -21,7 +21,9 @@ Stratfor oli tiedusteluyritys, joka neuvoi ja teki yhteistyötä suurien yrityks
 Jeremy Hammond tapaus kertoo miten lailliset seuraamukset ovat läsnä luvattomassa pääsyssä järjestelmään, vaikka olisi hyvä motivaatio ja tarkoitus. Lainsäädännössä otetaan huomioon mitä on tehnyt eikä painoarvo ole vain motivaatiossa. Tämä osoittaa miten hyvä tarkoitus ja aktivismi ei suojaa rikossyytteiltä.
 
 ### 4. Activism, hacktivism, or crime?
+Mielestäni Jeremy Hammond on enemmän hacktivisti enkä vertaisi suoraan tyypillisiin rikollisiin. Jermey oli rikokseen syyllistynyt, mutta samaan aikaan aktivisti, poliittisia tavoitteita, ei ajatellut vain itseään ja halu auttaa yhteiskuntaa.
 
+### 5. The "good intentions" defense - and its limits
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
