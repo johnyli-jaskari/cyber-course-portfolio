@@ -24,7 +24,10 @@ Jeremy Hammond tapaus kertoo miten lailliset seuraamukset ovat läsnä luvattoma
 Mielestäni Jeremy Hammond on enemmän hacktivisti enkä vertaisi suoraan tyypillisiin rikollisiin. Jermey oli rikokseen syyllistynyt, mutta samaan aikaan aktivisti, poliittisia tavoitteita, ei ajatellut vain itseään ja halu auttaa yhteiskuntaa.
 
 ### 5. The "good intentions" defense - and its limits
-Hyvät aikomukset ei ole hyvä laillinen puolustus, koska järjestelmään murtautumisessa on kuitenkin lakia ja sääntöjä rikottu. Konkreettisia teot voivat olla oikeudellisesti vahvempia kuin oma motiivi puolustuksena. Turvallisuustutkija ylittää rajan rikollisuuden, kun testaa järjestelmää ilman lupaa tai sovittujen rajojen ulkopuolella.
+Hyvät aikomukset ei ole hyvä laillinen puolustus, koska järjestelmään murtautumisessa on kuitenkin lakia ja sääntöjä rikottu. Konkreettiset teot voivat olla oikeudellisesti vahvempia kuin oma motiivi puolustuksena. Turvallisuustutkija ylittää rajan rikollisuuteen, kun testaa järjestelmää ilman lupaa tai sovittujen rajojen ulkopuolella.
+
+### 6. The technical concepts you noticed
+
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
