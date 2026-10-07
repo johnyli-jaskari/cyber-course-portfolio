@@ -27,7 +27,9 @@ Mielestäni Jeremy Hammond on enemmän hacktivisti enkä vertaisi suoraan tyypil
 Hyvät aikomukset ei ole hyvä laillinen puolustus, koska järjestelmään murtautumisessa on kuitenkin lakia ja sääntöjä rikottu. Konkreettiset teot voivat olla oikeudellisesti vahvempia kuin oma motiivi puolustuksena. Turvallisuustutkija ylittää rajan rikollisuuteen, kun testaa järjestelmää ilman lupaa tai sovittujen rajojen ulkopuolella.
 
 ### 6. The technical concepts you noticed
-OPSEC eli operatiivinen turvallisuus, joka tarkoittaa miten oman toiminnan ja tiedon pystyy suojaamaan. Jeremy from marketing videossa OPSEC esiintyi kuinka Jeremy teki testauksia ja hakkerointia salassa ilman muiden työntekijöiden tietämistä. Operatiivinen turvallisuus näkyi myös kuinka Tinkerin toiminta paljastui, kun Tinker talousosaston koneelle murtautumisen jälkeen käytti PowerShell ohjelmaa ja IT osasto huomasi epäilyttävää toimintaa PowerShell käytöstä talousosastolla. Tämä lopulta johti Tinkerin "Jeremy" kiinnisaamiseen.
+OPSEC eli operatiivinen turvallisuus, joka tarkoittaa miten oman toiminnan ja tiedon pystyy suojaamaan ilman paljastumista. Jeremy from marketing videossa OPSEC esiintyi kuinka Jeremy teki testauksia ja hakkerointia salassa ilman muiden työntekijöiden tietämistä. Operatiivinen turvallisuus näkyi myös kuinka Tinkerin toiminta paljastui, kun Tinker talousosaston koneelle murtautumisen jälkeen käytti PowerShell ohjelmaa ja IT osasto huomasi epäilyttäväksi, että talousosastolla oli Powershell käytössä. Tämä lopulta johti Tinkerin "Jeremy" kiinnisaamiseen.
+
+### 7. The responsibility question - for you
 
 ## Issues and how I resolved them
 Problems encountered, fixes applied.
