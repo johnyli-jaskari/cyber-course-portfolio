@@ -5,7 +5,7 @@
 **Environment:** macOS, GitHub
 
 ## Goal
-What I was trying to do.
+Reflect on the Jeremy Hammond incident and connect it to Cisco Module 5 concepts.
 
 ## Steps
 Commands run, in order. Use code blocks.
@@ -32,8 +32,8 @@ OPSEC eli operatiivinen turvallisuus, joka tarkoittaa miten oman toiminnan ja ti
 ### 7. The responsibility question - for you
 Pystyy oppimaan paljon kyberturvallisuudesta, mutta samalla kokemuksella on mahdollista toteuttaa haitallisia asioita ja on itsellä vastuu käyttää taitoja laillisesti ja eettisesti. Lupa kannattaa aina tarkistaa jos on epävarma ja ennen kuin aloittaa toteutusta. Ilman lupaa tehdyt toimet voivat tehdä vahinkoa tai johtaa oikeudellisiin seuraamuksiin. Jos löytäisi haavoittuvuuden järjestelmästä mitä ei omista, on hyvä ilmoittaa ja kertoa järjestelmän omistajalle eikä hyväksikäyttää tai olla huomioimatta sitä. Etenkin jos löytyy kokemusta teknisesti, pystyy paremmin auttamaan ja selittämään haavoittuvuutta. Epävarmoissa tilanteissa voi kysyä apua opettajalta, työnantajalta tai tietoturva-ammattilaiselta. 
 
-## Issues and how I resolved them
-Problems encountered, fixes applied.
+### 8. Your personal takeaway
+Kyberturvallisuuden taitoihin ja oppimiseen liittyy paljon vastuuta. Haluan oppia uusia taitoja ja tietää hyvin niiden lailliset ja eettiset rajat.
 
-## References
-Links to docs, write-ups, or related notes.
+## Issues and how I resolved them
+--
