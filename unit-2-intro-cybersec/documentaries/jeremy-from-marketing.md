@@ -8,7 +8,8 @@
 Reflect on the Jeremy Hammond incident and connect it to Cisco Module 5 concepts.
 
 ## Steps
-Commands run, in order. Use code blocks.
+Katsoin videon. <br>
+https://www.youtube.com/watch?v=qV7qknrJM_A&t=62s
 
 ## Findings
 ### 1. Jeremy's story in your own words
