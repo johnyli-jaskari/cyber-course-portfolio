@@ -8,4 +8,4 @@
 
 - Room Icon The Brochure
 
-<img width="2012" height="1072" alt="Näyttökuva 2026-10-09 kello 19 41 35" src="https://github.com/user-attachments/assets/29551bd9-e690-4f40-a8ff-9e2bba4416a4" />
+<img width="2012" height="1872" alt="Näyttökuva 2026-10-09 kello 19 41 35" src="https://github.com/user-attachments/assets/29551bd9-e690-4f40-a8ff-9e2bba4416a4" />
