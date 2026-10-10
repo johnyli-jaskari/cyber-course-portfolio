@@ -6,7 +6,7 @@
 
 - Missing Person
   
-<img width="1512" height="453" alt="Näyttökuva 2026-10-09 kello 18 10 59" src="https://github.com/user-attachments/assets/ef7220de-b29f-4965-8491-2058756152d1" />
+<img width="1382" height="448" alt="Näyttökuva 2026-10-10 kello 16 07 43" src="https://github.com/user-attachments/assets/9e83a9e7-690a-4a89-940d-30dae3c14dfc" />
 
 - Room Icon The Brochure
 
