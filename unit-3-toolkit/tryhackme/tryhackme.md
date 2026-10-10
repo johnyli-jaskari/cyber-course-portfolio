@@ -14,3 +14,6 @@
 
 <img width="1512" height="449" alt="Näyttökuva 2026-10-10 kello 9 46 17" src="https://github.com/user-attachments/assets/8b601cb0-e489-4647-9111-da63116f93e1" />
 
+- Digital Footprint
+
+<img width="1512" height="451" alt="Näyttökuva 2026-10-10 kello 11 00 21" src="https://github.com/user-attachments/assets/08014350-e420-4a91-b355-7e340877808c" />
