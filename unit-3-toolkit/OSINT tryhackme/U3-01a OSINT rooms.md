@@ -2,7 +2,7 @@
 
 - Sakura Room
 
-<img width="3522" height="1068" alt="image" src="https://github.com/user-attachments/assets/f6b39ed2-88d1-41e2-9f33-bbd7438389ec" />
+<img width="1383" height="444" alt="Näyttökuva 2026-10-10 kello 16 05 17" src="https://github.com/user-attachments/assets/ced774a2-7a5c-4636-8e6c-808b13ab8823" />
 
 - Missing Person
   
