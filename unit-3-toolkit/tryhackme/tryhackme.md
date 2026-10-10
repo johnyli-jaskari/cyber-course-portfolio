@@ -1,4 +1,3 @@
-<img width="1512" height="451" alt="Näyttökuva 2026-10-10 kello 13 24 37" src="https://github.com/user-attachments/assets/8a99c49b-8ea2-475d-8d28-271cf97651da" />
 - Sakura Room
 
 <img width="3022" height="868" alt="image" src="https://github.com/user-attachments/assets/f6b39ed2-88d1-41e2-9f33-bbd7438389ec" />
