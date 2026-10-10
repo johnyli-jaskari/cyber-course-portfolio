@@ -1,3 +1,4 @@
+<img width="1512" height="451" alt="Näyttökuva 2026-10-10 kello 13 24 37" src="https://github.com/user-attachments/assets/8a99c49b-8ea2-475d-8d28-271cf97651da" />
 - Sakura Room
 
 <img width="3022" height="868" alt="image" src="https://github.com/user-attachments/assets/f6b39ed2-88d1-41e2-9f33-bbd7438389ec" />
@@ -25,3 +26,8 @@
 - OhSINT
   
 <img width="1512" height="455" alt="Näyttökuva 2026-10-10 kello 12 37 15" src="https://github.com/user-attachments/assets/8a66c400-af99-43ee-a684-9836e779e181" />
+
+- Have a Break
+
+<img width="1512" height="448" alt="Näyttökuva 2026-10-10 kello 13 25 40" src="https://github.com/user-attachments/assets/25390dde-c277-4267-8b84-5c32309a2c83" />
+
