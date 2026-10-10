@@ -2,7 +2,7 @@
 
 - Sakura Room
 
-<img width="3522" height="1268" alt="image" src="https://github.com/user-attachments/assets/f6b39ed2-88d1-41e2-9f33-bbd7438389ec" />
+<img width="3522" height="1468" alt="image" src="https://github.com/user-attachments/assets/f6b39ed2-88d1-41e2-9f33-bbd7438389ec" />
 
 - Missing Person
   
