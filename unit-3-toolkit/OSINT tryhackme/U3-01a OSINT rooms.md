@@ -10,25 +10,25 @@
 
 - Room Icon The Brochure
 
-<img width="1512" height="472" alt="Näyttökuva 2026-10-09 kello 19 41 35" src="https://github.com/user-attachments/assets/f19061c4-4fd5-4d99-8db2-5d08ef93d311" />
+<img width="1386" height="469" alt="Näyttökuva 2026-10-10 kello 16 09 51" src="https://github.com/user-attachments/assets/bb3b3bca-742d-41ee-94f6-5d8911597739" />
 
 - Water Bottle
 
-<img width="1512" height="449" alt="Näyttökuva 2026-10-10 kello 9 46 17" src="https://github.com/user-attachments/assets/8b601cb0-e489-4647-9111-da63116f93e1" />
+<img width="1372" height="446" alt="Näyttökuva 2026-10-10 kello 16 10 51" src="https://github.com/user-attachments/assets/5bd02667-b308-4992-ad75-59d86abe8822" />
 
 - Digital Footprint
 
-<img width="1512" height="451" alt="Näyttökuva 2026-10-10 kello 11 00 21" src="https://github.com/user-attachments/assets/08014350-e420-4a91-b355-7e340877808c" />
+<img width="1385" height="445" alt="Näyttökuva 2026-10-10 kello 16 11 56" src="https://github.com/user-attachments/assets/a96517d5-d8f7-4aa4-b585-63a280740a3f" />
 
 - Letter
 
-<img width="1511" height="448" alt="Näyttökuva 2026-10-10 kello 11 38 34" src="https://github.com/user-attachments/assets/fa0d23a2-f69b-4e2e-baa4-3c127494ad4a" />
+<img width="1376" height="448" alt="Näyttökuva 2026-10-10 kello 16 12 44" src="https://github.com/user-attachments/assets/13e8412e-648c-4901-99a1-2b956bdf11af" />
 
 - OhSINT
   
-<img width="1512" height="455" alt="Näyttökuva 2026-10-10 kello 12 37 15" src="https://github.com/user-attachments/assets/8a66c400-af99-43ee-a684-9836e779e181" />
+<img width="1375" height="454" alt="Näyttökuva 2026-10-10 kello 16 13 24" src="https://github.com/user-attachments/assets/0b2be804-09e5-4458-b0be-c8c012d2c01d" />
 
 - Have a Break
 
-<img width="1512" height="448" alt="Näyttökuva 2026-10-10 kello 13 25 40" src="https://github.com/user-attachments/assets/25390dde-c277-4267-8b84-5c32309a2c83" />
+<img width="1381" height="446" alt="Näyttökuva 2026-10-10 kello 16 14 14" src="https://github.com/user-attachments/assets/c15dfa82-7421-464c-91ca-15afb8ff6b6e" />
 
