@@ -1,4 +1,4 @@
-# U3-01a OSINT rooms
+# OSINT rooms
 
 - Sakura Room
 
