@@ -2,4 +2,4 @@
 
 - Passive Reconnaissance
 
-<img width="1397" height="436" alt="Näyttökuva 2026-10-20 kello 19 04 11" src="https://github.com/user-attachments/assets/68788464-01e7-46cb-917f-9d03eb027d74" />
+<img width="1898" height="593" alt="image" src="https://github.com/user-attachments/assets/6a124809-8904-48e1-965f-0a6aa69e94f5" />
