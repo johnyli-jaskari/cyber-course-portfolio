@@ -5,7 +5,7 @@
 **Environment:** TryHackMe
 
 ## Goal
-Opi käyttämään yksinkertaisia työkaluja, kuten traceroutea, pingiä, telnetiä ja verkkoselainta, tiedon keräämiseen.
+Oppia käyttämään yksinkertaisia työkaluja, kuten traceroutea, pingiä, telnetiä ja verkkoselainta, tiedon keräämiseen.
 
 ## Steps
 
