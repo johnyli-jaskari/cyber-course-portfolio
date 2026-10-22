@@ -1,7 +1,7 @@
 # Google Dorking tryhackme
 
 **Date:** 2026-10-20 <br>
-**Source:** Google Dorking <br> 
+**Source:** Google Dorking exercises <br> 
 **Environment:** TryHackMe
 
 ## Goal
