@@ -1,5 +1,8 @@
 # Recon Rooms
 
+**Date:** 2026-10-22
+**Source:** Recon Rooms
+**Environment:** TryHackMe
 
 ## Goal
 Opi käyttämään yksinkertaisia työkaluja, kuten traceroutea, pingiä, telnetiä ja verkkoselainta, tiedon keräämiseen.
