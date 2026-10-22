@@ -4,6 +4,11 @@
 **Source:** OSINT rooms  <br>
 **Environment:** TryHackMe
 
+## Goal
+Tryhackme huoneiden suorittaminen.
+
+## Steps
+
 - Sakura Room
 
 <img width="1383" height="444" alt="Näyttökuva 2026-10-10 kello 16 05 17" src="https://github.com/user-attachments/assets/ced774a2-7a5c-4636-8e6c-808b13ab8823" />
