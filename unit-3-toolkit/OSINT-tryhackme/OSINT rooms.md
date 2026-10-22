@@ -5,7 +5,7 @@
 **Environment:** TryHackMe
 
 ## Goal
-Tryhackme huoneiden suorittaminen.
+Tryhackme OSINT huoneiden suorittaminen.
 
 ## Steps
 
