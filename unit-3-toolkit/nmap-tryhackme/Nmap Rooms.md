@@ -12,3 +12,7 @@ Nmap tryhackme huoneiden suoritus.
 - Nmap
 
 <img width="1896" height="670" alt="image" src="https://github.com/user-attachments/assets/e243f5f0-bed0-4a52-968a-6a64c225c63f" />
+
+- Nmap Live Host Discovery
+
+<img width="1898" height="623" alt="image" src="https://github.com/user-attachments/assets/034a38f1-a40b-4d4e-b35c-0f736b2fa4d3" />
