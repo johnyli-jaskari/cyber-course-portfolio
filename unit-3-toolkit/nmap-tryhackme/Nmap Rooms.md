@@ -5,7 +5,7 @@
 **Environment:** TryHackMe
 
 ## Goal
-Nmap tryhackme huoneiden suoritus.
+Nmap työkaluun tutustuminen.
 
 ## Steps
 
