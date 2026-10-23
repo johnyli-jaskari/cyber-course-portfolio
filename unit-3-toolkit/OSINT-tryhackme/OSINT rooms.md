@@ -5,7 +5,7 @@
 **Environment:** TryHackMe
 
 ## Goal
-Tryhackme OSINT huoneiden suorittaminen.
+Avointen lähteiden tiedustelun (OSINT) perusteiden hallinta.
 
 ## Steps
 
