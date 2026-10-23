@@ -5,7 +5,7 @@
 **Environment:** TryHackMe
 
 ## Goal
-Google Dorking tryhackme huoneen suoritus.
+Ymmärtää miten hakukoneet toimivat ja kuinka niitä voi hyödyntää piilotetun sisällön etsimisessä.
 
 ## Steps
 
