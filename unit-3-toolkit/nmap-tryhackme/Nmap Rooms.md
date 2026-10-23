@@ -11,4 +11,4 @@ Nmap tryhackme huoneiden suoritus.
 
 - Nmap
 
-<img width="1890" height="667" alt="image" src="https://github.com/user-attachments/assets/57cd158f-cf27-48f5-8a26-d165224ecac8" />
+<img width="1896" height="670" alt="image" src="https://github.com/user-attachments/assets/e243f5f0-bed0-4a52-968a-6a64c225c63f" />
