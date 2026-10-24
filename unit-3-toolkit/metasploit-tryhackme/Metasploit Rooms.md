@@ -12,3 +12,5 @@ What I was trying to do.
 - Metasploit: Introduction
 
 <img width="1891" height="577" alt="image" src="https://github.com/user-attachments/assets/16557dff-ecb0-4c20-b879-096fe8019280" />
+
+<img width="1726" height="527" alt="image" src="https://github.com/user-attachments/assets/0b508b98-0aaf-40d8-9b15-e882b9788fee" />
