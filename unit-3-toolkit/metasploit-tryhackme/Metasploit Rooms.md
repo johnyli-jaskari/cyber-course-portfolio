@@ -5,7 +5,7 @@
 **Environment:** TryHackMe
 
 ## Goal
-What I was trying to do.
+Perehtyä Metasploit Frameworkin perusteisiin ja käyttöön.
 
 ## Steps
 
