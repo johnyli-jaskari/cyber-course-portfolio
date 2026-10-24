@@ -5,7 +5,7 @@
 **Environment:** TryHackMe
 
 ## Goal
-Perehtyä Metasploit Frameworkin perusteisiin ja käyttöön.
+Perehtyä Metasploit Frameworkin perusteisiin ja käyttöön, hallita msfconsole-konsolia, etsiä moduuleja, konfiguroida hyökkäyksiä sekä hallinnoida sessioita kohdejärjestelmissä.
 
 ## Steps
 
