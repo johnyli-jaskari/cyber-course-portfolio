@@ -19,11 +19,15 @@ Kali Linux virtuaalikoneen tiedoston lataus sekä asennus VMware:ssa.
 
 <img width="1242" height="831" alt="image" src="https://github.com/user-attachments/assets/196864e4-f099-41a8-b94c-ec343cfc771b" />
 
-Valitsin Vmwaressa Kali ISO tiedoston ja tein asennuksen loppuun. 
+Valitsin Vmwaressa Kali ISO tiedoston ja asetin oikeat järjestelmä asetukset.  
 
 <img width="1377" height="725" alt="image" src="https://github.com/user-attachments/assets/887e878d-4b8e-4e6e-9dfc-558f213cd32b" />
 
 <img width="1155" height="796" alt="image" src="https://github.com/user-attachments/assets/62882f69-a58d-4423-b0e5-3cb51f2b7bc8" />
+
+Käynnistin Kali Linux ja tein asennuksen loppuun. 
+
+<img width="838" height="682" alt="image" src="https://github.com/user-attachments/assets/f0a31533-dd22-4dc5-843d-a058af8f80fd" />
 
 Metasploitable 2 virtuaalikoneen asennus. Tiedoston lataus, purkaminen ja VMwaressa avaaminen.
 
