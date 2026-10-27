@@ -9,6 +9,10 @@ Kali linux ja Metasploitable 2 virtuaalikoneiden asennus ja oikein konfigurointi
 
 ## Steps
 
+VMware työpöydän asennus Broadcom sivustolta.
+
+<img width="1902" height="810" alt="image" src="https://github.com/user-attachments/assets/d302f228-a6df-49c1-8991-2ec799970fb9" />
+
 Kali Linux virtuaalikoneen tiedoston lataus sekä asennus VMware:ssa.
 
 <img width="1242" height="831" alt="image" src="https://github.com/user-attachments/assets/196864e4-f099-41a8-b94c-ec343cfc771b" />
