@@ -8,12 +8,15 @@
 Kali linux ja Metasploitable 2 virtuaalikoneiden asennus ja oikein konfigurointi samassa ohjelmistossa kuten VMware.
 
 ## Steps
+### Install VMware
 
 VMware työpöydän asennus/päivitys Broadcom sivustolta.
 
 <img width="1896" height="817" alt="image" src="https://github.com/user-attachments/assets/0d02d816-0a16-47d3-903b-1ad96bf058f8" />
 
 <img width="911" height="687" alt="image" src="https://github.com/user-attachments/assets/03928bc3-252e-4037-9bc0-49c4f32be7b2" />
+
+### Create the Kali VM
 
 Kali Linux virtuaalikoneen tiedoston lataus sekä asennus VMware:ssa.
 
@@ -28,6 +31,8 @@ Valitsin Vmwaressa Kali ISO tiedoston ja asetin oikeat järjestelmä asetukset.
 Käynnistin Kali Linux ja tein asennuksen loppuun. 
 
 <img width="838" height="682" alt="image" src="https://github.com/user-attachments/assets/f0a31533-dd22-4dc5-843d-a058af8f80fd" />
+
+### Import Metasploitable 2
 
 Metasploitable 2 virtuaalikoneen asennus. Tiedoston lataus, purkaminen ja VMwaressa avaaminen.
 
