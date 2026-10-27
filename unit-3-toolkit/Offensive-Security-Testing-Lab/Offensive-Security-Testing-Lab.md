@@ -33,6 +33,8 @@ Metasploitable 2 virtuaalikoneen asennus. Tiedoston lataus, purkaminen ja VMware
 
 <img width="1847" height="405" alt="image" src="https://github.com/user-attachments/assets/2938c4ac-626b-483d-a7ba-1b65e931de33" />
 
+Asetin network adapter Host-Only tilaan
+
 <img width="1241" height="867" alt="image" src="https://github.com/user-attachments/assets/5c997a54-498a-4cde-848a-a7f0d4107dfd" />
 
 ## Findings
