@@ -11,7 +11,7 @@ Kali linux ja Metasploitable 2 virtuaalikoneiden asennus ja oikein konfigurointi
 
 VMware työpöydän asennus Broadcom sivustolta.
 
-<img width="1896" height="825" alt="image" src="https://github.com/user-attachments/assets/7d1505e3-aa17-4e6c-8377-aa12e3e3d1bf" />
+<img width="1896" height="817" alt="image" src="https://github.com/user-attachments/assets/0d02d816-0a16-47d3-903b-1ad96bf058f8" />
 
 Kali Linux virtuaalikoneen tiedoston lataus sekä asennus VMware:ssa.
 
@@ -19,7 +19,7 @@ Kali Linux virtuaalikoneen tiedoston lataus sekä asennus VMware:ssa.
 
 Valitsin Vmwaressa iso Kali ISO tiedoston ja tein asennuksen loppuun. 
 
-<img width="1336" height="767" alt="image" src="https://github.com/user-attachments/assets/6daed0ee-a334-4d45-9694-bd1a13e61d9a" />
+<img width="1377" height="725" alt="image" src="https://github.com/user-attachments/assets/887e878d-4b8e-4e6e-9dfc-558f213cd32b" />
 
 <img width="1108" height="785" alt="image" src="https://github.com/user-attachments/assets/884faf51-614c-4879-b314-67eb1a09731c" />
 
