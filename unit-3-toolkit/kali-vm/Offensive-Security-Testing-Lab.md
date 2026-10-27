@@ -23,7 +23,7 @@ Valitsin Vmwaressa Kali ISO tiedoston ja tein asennuksen loppuun.
 
 <img width="1377" height="725" alt="image" src="https://github.com/user-attachments/assets/887e878d-4b8e-4e6e-9dfc-558f213cd32b" />
 
-<img width="1108" height="785" alt="image" src="https://github.com/user-attachments/assets/884faf51-614c-4879-b314-67eb1a09731c" />
+<img width="1155" height="796" alt="image" src="https://github.com/user-attachments/assets/62882f69-a58d-4423-b0e5-3cb51f2b7bc8" />
 
 Metasploitable 2 virtuaalikoneen asennus. Tiedoston lataus, purkaminen ja VMwaressa avaaminen.
 
