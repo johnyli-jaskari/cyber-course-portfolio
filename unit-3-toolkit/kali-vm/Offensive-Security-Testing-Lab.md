@@ -1,7 +1,7 @@
 # Offensive Security Testing Lab
 
-**Date:** 2026-10-27
-**Source:** Offensive Security Testing Lab
+**Date:** 2026-10-27 <br>
+**Source:** Offensive Security Testing Lab <br>
 **Environment:** Windows
 
 ## Goal
