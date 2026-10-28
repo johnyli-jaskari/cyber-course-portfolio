@@ -26,7 +26,7 @@ Valitsin Vmwaressa Kali ISO tiedoston ja asetin oikeat laitteistoasetukset.
 
 <img width="1377" height="725" alt="image" src="https://github.com/user-attachments/assets/887e878d-4b8e-4e6e-9dfc-558f213cd32b" />
 
-<img width="900" height="752" alt="image" src="https://github.com/user-attachments/assets/764d093b-7673-4141-8419-b14929535d97" />
+<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/764d093b-7673-4141-8419-b14929535d97" />
 
 Käynnistin Kali Linux ja tein asennuksen loppuun. 
 
