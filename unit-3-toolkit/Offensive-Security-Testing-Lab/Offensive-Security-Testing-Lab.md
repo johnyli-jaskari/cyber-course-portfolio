@@ -65,10 +65,6 @@ Käytin Metasploitable eth0 IP:tä Kali Linux terminaalissa, komento ```ping -c 
 Yhteys toimii Kali Linuxin ja Metasploitable 2 välillä.
 
 ## Findings
-What I learned / what the output told me.
+Kali Linux ja Metasploitable 2 asennettuna, koneiden välillä verkkoyhteys.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
