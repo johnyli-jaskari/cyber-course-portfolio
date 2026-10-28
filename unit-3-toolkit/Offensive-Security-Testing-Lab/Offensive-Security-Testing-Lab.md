@@ -20,7 +20,7 @@ VMware työpöydän asennus/päivitys Broadcom sivustolta.
 
 Kali Linux virtuaalikoneen tiedoston lataus sekä asennus VMware:ssa.
 
-<img width="1242" height="831" alt="image" src="https://github.com/user-attachments/assets/196864e4-f099-41a8-b94c-ec343cfc771b" />
+<img width="1042" height="631" alt="image" src="https://github.com/user-attachments/assets/196864e4-f099-41a8-b94c-ec343cfc771b" />
 
 Valitsin Vmwaressa Kali ISO tiedoston ja asetin oikeat laitteistoasetukset.  
 
