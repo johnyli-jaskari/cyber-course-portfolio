@@ -48,7 +48,7 @@ Kali Linux käyttää Host-only verkkokorttia ja NAT verkkokorttia. Metasploitab
 
 ### Verify isolation
 
-Kokeilin yhdistää internettiin Metasploitable 2 virtuaalikoneesta. 
+Kokeilin yhdistää internettiin Metasploitable 2 virtuaalikoneesta.
 
 <img width="816" height="273" alt="image" src="https://github.com/user-attachments/assets/99392869-e718-4749-ab36-e08fb95fe548" />
 
@@ -56,6 +56,7 @@ Kali Linux yhteys varmistaminen Metasploitable 2 virtuaalikoneeseen. Ensin komen
 
 <img width="786" height="527" alt="image" src="https://github.com/user-attachments/assets/c224b623-b4a1-47e7-9e19-75a00144f39c" />
 
+Käytin Metasploitable eth0 IP:tä ja komentoa ```ping```  Kali Linux terminaalissa.
 
 ## Findings
 What I learned / what the output told me.
