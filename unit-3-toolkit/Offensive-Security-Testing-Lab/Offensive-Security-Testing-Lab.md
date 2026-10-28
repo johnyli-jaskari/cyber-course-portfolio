@@ -42,6 +42,17 @@ Asetin network adapter Host-Only tilaan
 
 <img width="1241" height="867" alt="image" src="https://github.com/user-attachments/assets/5c997a54-498a-4cde-848a-a7f0d4107dfd" />
 
+### Lock down the network
+
+Kali Linux käyttää Host-only verkkokorttia ja NAT verkkokorttia. Metasploitable 2 on käytössä vain yksi verkkokortti Host-only.
+
+### Verify isolation
+
+Kokeilin yhdistää internettiin Metasploitable 2 virtuaalikoneesta. 
+
+<img width="816" height="273" alt="image" src="https://github.com/user-attachments/assets/99392869-e718-4749-ab36-e08fb95fe548" />
+
+
 ## Findings
 What I learned / what the output told me.
 
