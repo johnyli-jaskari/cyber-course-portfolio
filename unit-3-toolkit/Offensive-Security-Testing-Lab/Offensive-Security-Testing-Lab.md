@@ -68,3 +68,4 @@ Yhteys toimii Kali Linuxin ja Metasploitable 2 välillä.
 Kali Linux ja Metasploitable 2 asennettuna, koneiden välillä verkkoyhteys.
 
 ## Issues and how I resolved them
+Kali Linux disk tila aluksi alhainen.
