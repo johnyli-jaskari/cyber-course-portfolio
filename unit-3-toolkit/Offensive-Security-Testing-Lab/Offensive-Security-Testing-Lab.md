@@ -56,7 +56,11 @@ Kali Linux yhteys varmistaminen Metasploitable 2 virtuaalikoneeseen. Ensin komen
 
 <img width="786" height="527" alt="image" src="https://github.com/user-attachments/assets/c224b623-b4a1-47e7-9e19-75a00144f39c" />
 
-Käytin Metasploitable eth0 IP:tä ja komentoa ```ping```  Kali Linux terminaalissa.
+Käytin Metasploitable eth0 IP:tä ja komentoa ```ping```  Kali Linux terminaalissa. 
+
+<img width="912" height="352" alt="image" src="https://github.com/user-attachments/assets/17192e97-69db-4629-8b6a-c5e6306a7144" />
+
+Yhteys toimii Kali Linuxin ja Metasploitable 2 välillä.
 
 ## Findings
 What I learned / what the output told me.
