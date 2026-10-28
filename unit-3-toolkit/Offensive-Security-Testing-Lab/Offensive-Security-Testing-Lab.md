@@ -26,7 +26,7 @@ Valitsin Vmwaressa Kali ISO tiedoston ja asetin oikeat laitteistoasetukset.
 
 <img width="1377" height="725" alt="image" src="https://github.com/user-attachments/assets/887e878d-4b8e-4e6e-9dfc-558f213cd32b" />
 
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/764d093b-7673-4141-8419-b14929535d97" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/764d093b-7673-4141-8419-b14929535d97" />
 
 Käynnistin Kali Linux ja tein asennuksen loppuun. 
 
@@ -40,7 +40,7 @@ Metasploitable 2 virtuaalikoneen asennus. Tiedoston lataus, purkaminen ja VMware
 
 Asetin network adapter Host-Only tilaan
 
-<img width="1241" height="867" alt="image" src="https://github.com/user-attachments/assets/5c997a54-498a-4cde-848a-a7f0d4107dfd" />
+<img width="941" height="650" alt="image" src="https://github.com/user-attachments/assets/5c997a54-498a-4cde-848a-a7f0d4107dfd" />
 
 ### Lock down the network
 
