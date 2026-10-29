@@ -14,7 +14,7 @@ VMware työpöydän asennus/päivitys Broadcom sivustolta.
 
 <img width="1896" height="817" alt="image" src="https://github.com/user-attachments/assets/0d02d816-0a16-47d3-903b-1ad96bf058f8" />
 
-<img width="922" height="712" alt="image" src="https://github.com/user-attachments/assets/57319aab-0ea9-4b5f-9106-874c2c7e8cf7" />
+<img width="822" height="612" alt="image" src="https://github.com/user-attachments/assets/57319aab-0ea9-4b5f-9106-874c2c7e8cf7" />
 
 ### Create the Kali VM
 
