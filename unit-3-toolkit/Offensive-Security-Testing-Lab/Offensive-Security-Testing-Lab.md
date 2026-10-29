@@ -24,7 +24,7 @@ Kali Linux virtuaalikoneen tiedoston lataus sekä asennus VMware:ssa.
 
 Valitsin Vmwaressa Kali ISO tiedoston ja asetin oikeat laitteistoasetukset.  
 
-<img width="1377" height="725" alt="image" src="https://github.com/user-attachments/assets/887e878d-4b8e-4e6e-9dfc-558f213cd32b" />
+<img width="1287" height="752" alt="image" src="https://github.com/user-attachments/assets/8c03ab3e-ee89-4a3a-b07f-0aa9ff89a157" />
 
 <img width="1037" height="765" alt="image" src="https://github.com/user-attachments/assets/3d89439c-8c0f-4d32-84d7-a8c20ae941ab" />
 
