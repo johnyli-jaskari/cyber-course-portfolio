@@ -56,7 +56,7 @@ Kokeilin yhdistää internettiin Metasploitable 2 virtuaalikoneesta.
 
 Kali Linux yhteyden varmistaminen Metasploitable 2 virtuaalikoneeseen. Ensin komento ```ifconfig``` Metasploitable VM:ssä.
 
-<img width="786" height="527" alt="image" src="https://github.com/user-attachments/assets/c224b623-b4a1-47e7-9e19-75a00144f39c" />
+<img width="822" height="522" alt="image" src="https://github.com/user-attachments/assets/2d86bb2b-6c8c-46e2-8728-09d3b70a228f" />
 
 Käytin Metasploitable eth0 IP:tä Kali Linux terminaalissa, komento ```ping -c 4 192.168.163.128```
 
