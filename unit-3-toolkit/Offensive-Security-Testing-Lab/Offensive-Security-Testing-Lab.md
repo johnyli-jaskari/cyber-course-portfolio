@@ -52,7 +52,7 @@ Kali Linux käyttää Host-only ja NAT Network Adaptereita. Metasploitable 2 on 
 
 Kokeilin yhdistää internettiin Metasploitable 2 virtuaalikoneesta.
 
-<img width="816" height="273" alt="image" src="https://github.com/user-attachments/assets/99392869-e718-4749-ab36-e08fb95fe548" />
+<img width="810" height="250" alt="image" src="https://github.com/user-attachments/assets/61196077-ae11-44d9-85c0-a7752d3f4d50" />
 
 Kali Linux yhteyden varmistaminen Metasploitable 2 virtuaalikoneeseen. Ensin komento ```ifconfig``` Metasploitable VM:ssä.
 
