@@ -32,6 +32,8 @@ Käynnistin Kali Linux ja tein asennuksen loppuun.
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/350f6ab6-48ea-43b1-a7af-7a60667ead7f" />
 
+<img width="1037" height="651" alt="image" src="https://github.com/user-attachments/assets/f8ebef14-9d46-4c40-8b0a-1ef3c5eaa9e6" />
+
 ### Import Metasploitable 2
 
 Metasploitable 2 virtuaalikoneen asennus. Tiedoston lataus, purkaminen ja VMwaressa avaaminen.
