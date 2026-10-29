@@ -44,6 +44,8 @@ Asetin network adapter Host-Only tilaan
 
 <img width="950" height="750" alt="image" src="https://github.com/user-attachments/assets/30ee885e-cde0-45aa-b26c-eb9ad9c439c6" />
 
+<img width="936" height="522" alt="image" src="https://github.com/user-attachments/assets/415aee01-2389-40d7-8eb8-4721c2b13209" />
+
 ### Lock down the network
 
 Kali Linux käyttää Host-only ja NAT Network Adaptereita. Metasploitable 2 on käytössä vain yksi Network Adapter Host-only. Molempien Host-Only verkkosovittimet ovat samassa verkossa VMnet1.
