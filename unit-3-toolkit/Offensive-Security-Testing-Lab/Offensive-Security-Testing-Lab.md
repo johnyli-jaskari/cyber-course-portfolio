@@ -30,7 +30,7 @@ Valitsin Vmwaressa Kali ISO tiedoston ja asetin oikeat laitteistoasetukset.
 
 Käynnistin Kali Linux ja tein asennuksen loppuun. 
 
-<img width="857" height="652" alt="image" src="https://github.com/user-attachments/assets/350f6ab6-48ea-43b1-a7af-7a60667ead7f" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/350f6ab6-48ea-43b1-a7af-7a60667ead7f" />
 
 ### Import Metasploitable 2
 
