@@ -40,7 +40,7 @@ Metasploitable 2 virtuaalikoneen asennus. Tiedoston lataus, purkaminen ja VMware
 
 Asetin network adapter Host-Only tilaan
 
-<img width="1196" height="926" alt="image" src="https://github.com/user-attachments/assets/30ee885e-cde0-45aa-b26c-eb9ad9c439c6" />
+<img width="1000" height="826" alt="image" src="https://github.com/user-attachments/assets/30ee885e-cde0-45aa-b26c-eb9ad9c439c6" />
 
 ### Lock down the network
 
