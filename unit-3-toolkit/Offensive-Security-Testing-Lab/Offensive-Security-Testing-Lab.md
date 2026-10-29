@@ -44,7 +44,7 @@ Asetin network adapter Host-Only tilaan
 
 <img width="950" height="750" alt="image" src="https://github.com/user-attachments/assets/30ee885e-cde0-45aa-b26c-eb9ad9c439c6" />
 
-<img width="936" height="522" alt="image" src="https://github.com/user-attachments/assets/415aee01-2389-40d7-8eb8-4721c2b13209" />
+<img width="836" height="422" alt="image" src="https://github.com/user-attachments/assets/415aee01-2389-40d7-8eb8-4721c2b13209" />
 
 ### Lock down the network
 
