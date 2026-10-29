@@ -32,7 +32,7 @@ Käynnistin Kali Linux ja tein asennuksen loppuun.
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/350f6ab6-48ea-43b1-a7af-7a60667ead7f" />
 
-<img width="1007" height="491" alt="image" src="https://github.com/user-attachments/assets/31da6875-dd52-4c40-883f-f0a25c5f46f8" />
+<img width="907" height="491" alt="image" src="https://github.com/user-attachments/assets/31da6875-dd52-4c40-883f-f0a25c5f46f8" />
 
 ### Import Metasploitable 2
 
