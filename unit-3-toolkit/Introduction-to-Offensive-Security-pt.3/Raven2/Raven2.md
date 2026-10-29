@@ -18,10 +18,8 @@ VMwaren kautta Raven2 avaus ja oikeiden asetusten laittaminen. Network adatper H
 <img width="941" height="491" alt="image" src="https://github.com/user-attachments/assets/19ffd29e-a415-4cde-8502-3038e3a59c12" />
 
 ## Findings
-What I learned / what the output told me.
+Raven 2 asennettu VMware:ssa.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
+--
 
-## References
-Links to docs, write-ups, or related notes.
