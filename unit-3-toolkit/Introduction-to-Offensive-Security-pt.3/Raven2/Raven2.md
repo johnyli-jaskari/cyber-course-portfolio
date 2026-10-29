@@ -15,6 +15,7 @@ VMwaren kautta Raven2 avaus ja oikeiden asetusten laittaminen. Network adatper H
 
 <img width="917" height="697" alt="image" src="https://github.com/user-attachments/assets/1c0ba51c-ca59-44a5-bef7-fce7b8b2ad39" />
 
+<img width="941" height="491" alt="image" src="https://github.com/user-attachments/assets/19ffd29e-a415-4cde-8502-3038e3a59c12" />
 
 ## Findings
 What I learned / what the output told me.
