@@ -1,20 +1,16 @@
 # Hydra Room
 
-**Date:** 2026-10-31
-**Source:** Hydra Room
+**Date:** 2026-10-31 <br>
+**Source:** Hydra Room <br>
 **Environment:** TryHackMe
 
 ## Goal
-What I was trying to do.
+Tutustua Hydra-työkaluun ja oppia selvittämään verkkosivuston kirjautumistiedot brute force -hyökkäyksen avulla.
 
 ## Steps
-Commands run, in order. Use code blocks.
+<img width="1891" height="575" alt="image" src="https://github.com/user-attachments/assets/c155d160-96d8-4771-b98e-19a1a9388b58" />
 
 ## Findings
 What I learned / what the output told me.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
-
-## References
-Links to docs, write-ups, or related notes.
