@@ -27,6 +27,13 @@ What I was trying to do.
 
 <img width="1662" height="468" alt="image" src="https://github.com/user-attachments/assets/ee1b40bb-132b-4f93-9fcf-08134d2963cf" />
 
+<img width="1813" height="833" alt="image" src="https://github.com/user-attachments/assets/ccd61e71-50a6-44c8-a3db-e1f816c58f2d" />
+
+<img width="1055" height="776" alt="image" src="https://github.com/user-attachments/assets/3a90224d-ee66-4cb0-9a52-ebe633a72eff" />
+
+<img width="874" height="170" alt="image" src="https://github.com/user-attachments/assets/b8411212-cba9-4355-94be-ac6982905a47" />
+
+
 ## Findings
 What I learned / what the output told me.
 
