@@ -11,10 +11,9 @@ What I was trying to do.
 ### Task 1. Basics
 - 2e728dd31fb5949bc39cac5a9f066498
 
-<img width="650" height="266" alt="image" src="https://github.com/user-attachments/assets/8aabe495-bc50-46e0-a6c5-fa7b9531ccdb" />
+<img width="650" height="214" alt="image" src="https://github.com/user-attachments/assets/2e0c7967-560b-4e25-9b20-5d33800bf50f" />
 
 <img width="1461" height="544" alt="image" src="https://github.com/user-attachments/assets/d467c92b-bc5c-4fc1-9914-b7a587e9a9aa" />
-
 
 <img width="1514" height="835" alt="image" src="https://github.com/user-attachments/assets/d22e08ca-1042-482b-a924-df4b0461b998" />
 
@@ -22,6 +21,11 @@ What I was trying to do.
 
 <img width="647" height="213" alt="image" src="https://github.com/user-attachments/assets/c424dea0-3585-41db-bf50-9630c5e0c83f" />
 
+- 1A732667F3917C0F4AA98BB13011B9090C6F8065
+
+<img width="650" height="231" alt="image" src="https://github.com/user-attachments/assets/3365f060-87d9-478f-8a2a-a78cc269d6d6" />
+
+<img width="1662" height="468" alt="image" src="https://github.com/user-attachments/assets/ee1b40bb-132b-4f93-9fcf-08134d2963cf" />
 
 ## Findings
 What I learned / what the output told me.
