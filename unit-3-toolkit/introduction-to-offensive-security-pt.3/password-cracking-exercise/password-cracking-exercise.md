@@ -43,9 +43,13 @@ What I was trying to do.
 
 <img width="1878" height="630" alt="image" src="https://github.com/user-attachments/assets/4b8c933e-4813-4093-8da1-d90b2efa0970" />
 
-
+<img width="1383" height="786" alt="image" src="https://github.com/user-attachments/assets/ca767283-9d5b-4e0b-a8fe-ec9f34317cd8" />
 
 <img width="1080" height="756" alt="image" src="https://github.com/user-attachments/assets/29b31cc0-7b63-436b-9c87-85a07eaea092" />
+
+<img width="1155" height="181" alt="image" src="https://github.com/user-attachments/assets/708bd274-67de-4aba-afef-91186535b466" />
+
+<img width="905" height="232" alt="image" src="https://github.com/user-attachments/assets/757c9c07-35aa-4a26-8b89-7cc8c6d0822f" />
 
 ## Findings
 What I learned / what the output told me.
