@@ -79,6 +79,11 @@ What I was trying to do.
 
 <img width="780" height="147" alt="image" src="https://github.com/user-attachments/assets/b6c93ee1-f4b8-4acb-8d45-a6774113f013" />
 
+<img width="737" height="211" alt="image" src="https://github.com/user-attachments/assets/d10a8a2d-e3aa-44ad-b621-7fa20ec627cf" />
+
+### Task 3. Cracking Hashes from /etc/shadow
+
+
 ## Findings
 What I learned / what the output told me.
 
