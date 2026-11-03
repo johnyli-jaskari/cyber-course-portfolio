@@ -44,6 +44,9 @@ What I was trying to do.
 <img width="1878" height="630" alt="image" src="https://github.com/user-attachments/assets/4b8c933e-4813-4093-8da1-d90b2efa0970" />
 
 
+
+<img width="1080" height="756" alt="image" src="https://github.com/user-attachments/assets/29b31cc0-7b63-436b-9c87-85a07eaea092" />
+
 ## Findings
 What I learned / what the output told me.
 
