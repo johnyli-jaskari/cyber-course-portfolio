@@ -71,7 +71,13 @@ What I was trying to do.
 
 <img width="707" height="221" alt="image" src="https://github.com/user-attachments/assets/0b47fab4-a4cc-4c6e-99b8-8fd7d4a0c5ae" />
 
-<img width="800" height="577" alt="image" src="https://github.com/user-attachments/assets/7d212b28-11f9-4855-9ca6-417db64613e5" />
+<img width="857" height="726" alt="image" src="https://github.com/user-attachments/assets/c0bb0808-b401-4768-b901-f690b1d632c3" />
+
+<img width="1807" height="832" alt="image" src="https://github.com/user-attachments/assets/94a38b2c-8ba2-4a5e-8dbb-28357e63da73" />
+
+<img width="1032" height="731" alt="image" src="https://github.com/user-attachments/assets/019a6219-dec5-4113-8ff4-3b244dd95e52" />
+
+<img width="780" height="147" alt="image" src="https://github.com/user-attachments/assets/b6c93ee1-f4b8-4acb-8d45-a6774113f013" />
 
 ## Findings
 What I learned / what the output told me.
