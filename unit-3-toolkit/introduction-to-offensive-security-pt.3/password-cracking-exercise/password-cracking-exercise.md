@@ -65,6 +65,8 @@ What I was trying to do.
 
 <img width="1426" height="252" alt="image" src="https://github.com/user-attachments/assets/737a22c7-d14b-4566-afc2-6f2a815b99e0" />
 
+### Task 2. NTHash / NTLM
+
 ## Findings
 What I learned / what the output told me.
 
