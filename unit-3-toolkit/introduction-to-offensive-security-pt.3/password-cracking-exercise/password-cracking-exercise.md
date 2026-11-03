@@ -55,11 +55,15 @@ What I was trying to do.
 
 <img width="1001" height="242" alt="image" src="https://github.com/user-attachments/assets/d10e60de-da59-4ecd-a5a0-ddf4efec588d" />
 
-<img width="1672" height="531" alt="image" src="https://github.com/user-attachments/assets/0447d2b1-df59-41b6-8d2c-b8b7b61106c6" />
+<img width="1677" height="541" alt="image" src="https://github.com/user-attachments/assets/5f830e0e-bff2-45cb-a179-c9a581996aa1" />
 
-<img width="1517" height="767" alt="image" src="https://github.com/user-attachments/assets/cd30a914-da77-4479-b480-aa2fd49314db" />
+<img width="1816" height="767" alt="image" src="https://github.com/user-attachments/assets/a74d1d21-6715-4eaa-a906-0768784e120c" />
 
-![Uploading image.png…]()
+<img width="1067" height="737" alt="image" src="https://github.com/user-attachments/assets/1fe18837-d587-40f9-bf67-e0dc6b534afa" />
+
+<img width="1822" height="177" alt="image" src="https://github.com/user-attachments/assets/b83530dd-5899-4128-86e7-1c962527cf37" />
+
+<img width="1426" height="252" alt="image" src="https://github.com/user-attachments/assets/737a22c7-d14b-4566-afc2-6f2a815b99e0" />
 
 ## Findings
 What I learned / what the output told me.
