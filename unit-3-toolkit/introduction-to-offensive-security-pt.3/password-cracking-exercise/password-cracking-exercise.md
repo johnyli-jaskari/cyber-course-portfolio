@@ -67,6 +67,12 @@ What I was trying to do.
 
 ### Task 2. NTHash / NTLM
 
+- 5460C85BD858A11475115D2DD3A82333 
+
+<img width="707" height="221" alt="image" src="https://github.com/user-attachments/assets/0b47fab4-a4cc-4c6e-99b8-8fd7d4a0c5ae" />
+
+<img width="1047" height="777" alt="image" src="https://github.com/user-attachments/assets/7d212b28-11f9-4855-9ca6-417db64613e5" />
+
 ## Findings
 What I learned / what the output told me.
 
