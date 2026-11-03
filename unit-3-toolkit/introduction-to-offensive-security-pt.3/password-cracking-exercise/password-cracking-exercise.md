@@ -51,6 +51,16 @@ What I was trying to do.
 
 <img width="905" height="232" alt="image" src="https://github.com/user-attachments/assets/757c9c07-35aa-4a26-8b89-7cc8c6d0822f" />
 
+- c5a60cc6bbba781c601c5402755ae1044bbf45b78d1183cbf2ca1c865b6c792cf3c6b87791344986c8a832a0f9ca8d0b4afd3d9421a149d57075e1b4e93f90bf
+
+<img width="1001" height="242" alt="image" src="https://github.com/user-attachments/assets/d10e60de-da59-4ecd-a5a0-ddf4efec588d" />
+
+<img width="1672" height="531" alt="image" src="https://github.com/user-attachments/assets/0447d2b1-df59-41b6-8d2c-b8b7b61106c6" />
+
+<img width="1517" height="767" alt="image" src="https://github.com/user-attachments/assets/cd30a914-da77-4479-b480-aa2fd49314db" />
+
+![Uploading image.png…]()
+
 ## Findings
 What I learned / what the output told me.
 
