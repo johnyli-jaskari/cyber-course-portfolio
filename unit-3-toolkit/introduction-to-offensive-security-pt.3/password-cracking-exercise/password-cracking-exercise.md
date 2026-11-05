@@ -31,9 +31,9 @@ What I was trying to do.
 
 <img width="1832" height="837" alt="image" src="https://github.com/user-attachments/assets/9277a351-f7c6-4217-bf83-4530bced82e4" />
 
-<img width="900" height="636" alt="image" src="https://github.com/user-attachments/assets/9e1e9b31-3d0e-4d06-a680-681437545a9b" />
+<img width="800" height="536" alt="image" src="https://github.com/user-attachments/assets/9e1e9b31-3d0e-4d06-a680-681437545a9b" />
 
-<img width="611" height="147" alt="image" src="https://github.com/user-attachments/assets/04a00e07-d5d3-4dbd-b6b3-f73e2367b34f" />
+<img width="511" height="127" alt="image" src="https://github.com/user-attachments/assets/04a00e07-d5d3-4dbd-b6b3-f73e2367b34f" />
 
 <img width="857" height="264" alt="image" src="https://github.com/user-attachments/assets/4f0b0207-59ac-4d2d-a14c-b116382cbcb6" />
 
