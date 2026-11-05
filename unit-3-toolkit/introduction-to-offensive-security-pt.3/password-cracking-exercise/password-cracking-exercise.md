@@ -19,7 +19,7 @@ What I was trying to do.
 
 <img width="900" height="655" alt="image" src="https://github.com/user-attachments/assets/11076bda-457a-41da-9833-517a76917b54" />
 
-<img width="802" height="152" alt="image" src="https://github.com/user-attachments/assets/dc6291cc-37fe-45d6-a736-15024202c04a" />
+<img width="702" height="100" alt="image" src="https://github.com/user-attachments/assets/dc6291cc-37fe-45d6-a736-15024202c04a" />
 
 <img width="647" height="213" alt="image" src="https://github.com/user-attachments/assets/c424dea0-3585-41db-bf50-9630c5e0c83f" />
 
