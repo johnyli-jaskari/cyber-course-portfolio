@@ -17,7 +17,7 @@ What I was trying to do.
 
 <img width="1830" height="837" alt="image" src="https://github.com/user-attachments/assets/9bd5c660-31df-4d58-995f-e5149bd682fc" />
 
-<img width="850" height="600" alt="image" src="https://github.com/user-attachments/assets/11076bda-457a-41da-9833-517a76917b54" />
+<img width="800" height="550" alt="image" src="https://github.com/user-attachments/assets/11076bda-457a-41da-9833-517a76917b54" />
 
 <img width="502" height="100" alt="image" src="https://github.com/user-attachments/assets/dc6291cc-37fe-45d6-a736-15024202c04a" />
 
