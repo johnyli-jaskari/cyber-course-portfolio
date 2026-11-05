@@ -83,7 +83,13 @@ What I was trying to do.
 
 ### Task 3. Cracking Hashes from /etc/shadow
 
-<img width="1311" height="512" alt="image" src="https://github.com/user-attachments/assets/2151456d-8596-4c4b-86e8-12befee4a37a" />
+<img width="1381" height="837" alt="image" src="https://github.com/user-attachments/assets/8ee90bbc-4514-49ad-85b7-5d4f573dea95" />
+
+<img width="1897" height="407" alt="image" src="https://github.com/user-attachments/assets/30ba03cd-18a8-4448-96a7-c716d6333519" />
+
+<img width="1842" height="837" alt="image" src="https://github.com/user-attachments/assets/ee5d754a-cd37-474a-af58-f7875796cdfc" />
+
+<img width="1077" height="735" alt="image" src="https://github.com/user-attachments/assets/73cc3714-cda5-424b-8781-e78645f94e64" />
 
 ## Findings
 What I learned / what the output told me.
