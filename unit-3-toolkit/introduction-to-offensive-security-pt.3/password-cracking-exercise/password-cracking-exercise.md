@@ -89,9 +89,13 @@ What I was trying to do.
 
 <img width="1897" height="407" alt="image" src="https://github.com/user-attachments/assets/30ba03cd-18a8-4448-96a7-c716d6333519" />
 
-<img width="1842" height="837" alt="image" src="https://github.com/user-attachments/assets/ee5d754a-cd37-474a-af58-f7875796cdfc" />
+<img width="1547" height="770" alt="image" src="https://github.com/user-attachments/assets/061b2ce2-8002-433a-8612-1ed333367534" />
 
 <img width="1077" height="735" alt="image" src="https://github.com/user-attachments/assets/73cc3714-cda5-424b-8781-e78645f94e64" />
+
+<img width="1710" height="125" alt="image" src="https://github.com/user-attachments/assets/f52db5a8-9a76-466b-85dd-b206268e16f3" />
+
+<img width="1310" height="202" alt="image" src="https://github.com/user-attachments/assets/449220f0-77b6-4160-bf35-af31eba9abf6" />
 
 ## Findings
 What I learned / what the output told me.
