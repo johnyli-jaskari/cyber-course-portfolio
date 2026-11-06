@@ -107,11 +107,13 @@ What I was trying to do.
 
 <img width="1277" height="712" alt="image" src="https://github.com/user-attachments/assets/e7c7ef0d-8a26-4695-a808-ae28eb6083e5" />
 
-<img width="1917" height="317" alt="image" src="https://github.com/user-attachments/assets/dc839d71-096e-4afe-ac47-018918820cd8" />
+<img width="1917" height="360" alt="image" src="https://github.com/user-attachments/assets/1bea3c71-5bfd-4beb-9062-6387c5f3b87e" />
 
 <img width="1320" height="667" alt="image" src="https://github.com/user-attachments/assets/6b156bd0-05e5-4763-ae7b-157bf0d8a6f1" />
 
 <img width="862" height="260" alt="image" src="https://github.com/user-attachments/assets/1ef445c2-4da1-46db-b87c-090b781fd367" />
+
+### Task 5. Cracking a Password-Protected ZIP
 
 ## Findings
 What I learned / what the output told me.
