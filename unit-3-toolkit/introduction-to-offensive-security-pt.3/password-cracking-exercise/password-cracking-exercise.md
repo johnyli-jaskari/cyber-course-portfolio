@@ -83,6 +83,8 @@ What I was trying to do.
 
 ### Task 3. Cracking Hashes from /etc/shadow
 
+<img width="560" height="432" alt="image" src="https://github.com/user-attachments/assets/970626c7-ef91-4d72-a6fc-c7c931efcbdc" />
+
 <img width="555" height="142" alt="image" src="https://github.com/user-attachments/assets/76fb1e4b-fcdb-4690-b0a4-96d6f433b710" />
 
 <img width="1381" height="837" alt="image" src="https://github.com/user-attachments/assets/8ee90bbc-4514-49ad-85b7-5d4f573dea95" />
