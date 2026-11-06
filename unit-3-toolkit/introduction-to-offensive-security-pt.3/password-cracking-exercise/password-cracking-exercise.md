@@ -101,6 +101,9 @@ What I was trying to do.
 
 <img width="1310" height="202" alt="image" src="https://github.com/user-attachments/assets/449220f0-77b6-4160-bf35-af31eba9abf6" />
 
+### Task 4. Cracking SSH Key Passwords
+
+
 ## Findings
 What I learned / what the output told me.
 
