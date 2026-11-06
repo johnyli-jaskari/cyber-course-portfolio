@@ -107,7 +107,7 @@ What I was trying to do.
 
 <img width="1277" height="712" alt="image" src="https://github.com/user-attachments/assets/e7c7ef0d-8a26-4695-a808-ae28eb6083e5" />
 
-<img width="1917" height="360" alt="image" src="https://github.com/user-attachments/assets/1bea3c71-5bfd-4beb-9062-6387c5f3b87e" />
+<img width="1877" height="336" alt="image" src="https://github.com/user-attachments/assets/7b65a048-72d6-4065-bfc3-cff2e76c37f2" />
 
 <img width="1320" height="667" alt="image" src="https://github.com/user-attachments/assets/6b156bd0-05e5-4763-ae7b-157bf0d8a6f1" />
 
