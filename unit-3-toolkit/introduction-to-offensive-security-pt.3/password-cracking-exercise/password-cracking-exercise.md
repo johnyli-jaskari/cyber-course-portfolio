@@ -103,6 +103,13 @@ What I was trying to do.
 
 ### Task 4. Cracking SSH Key Passwords
 
+<img width="1277" height="712" alt="image" src="https://github.com/user-attachments/assets/e7c7ef0d-8a26-4695-a808-ae28eb6083e5" />
+
+<img width="1907" height="582" alt="image" src="https://github.com/user-attachments/assets/8c025eab-3536-4120-83e3-3093c3495b60" />
+
+<img width="1320" height="667" alt="image" src="https://github.com/user-attachments/assets/6b156bd0-05e5-4763-ae7b-157bf0d8a6f1" />
+
+<img width="862" height="260" alt="image" src="https://github.com/user-attachments/assets/1ef445c2-4da1-46db-b87c-090b781fd367" />
 
 ## Findings
 What I learned / what the output told me.
