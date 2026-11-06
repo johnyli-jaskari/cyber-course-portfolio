@@ -113,6 +113,9 @@ What I was trying to do.
 
 <img width="862" height="260" alt="image" src="https://github.com/user-attachments/assets/1ef445c2-4da1-46db-b87c-090b781fd367" />
 
+Mango salasanalla pääsi tiedostoon käsiksi.
+<img width="1000" height="432" alt="image" src="https://github.com/user-attachments/assets/a2998aa9-fcb8-4540-92c6-5ce628f18209" />
+
 ### Task 5. Cracking a Password-Protected ZIP
 
 ## Findings
