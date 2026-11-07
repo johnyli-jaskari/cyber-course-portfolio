@@ -39,7 +39,7 @@ What I was trying to do.
 
 - D7F4D3CCEE7ACD3DD7FAD3AC2BE2AAE9C44F4E9B7FB802D73136D4C53920140A
 
-<img width="940" height="209" alt="image" src="https://github.com/user-attachments/assets/a47fad05-4135-496b-ae6b-db8810aaf434" />
+<img width="840" height="160" alt="image" src="https://github.com/user-attachments/assets/a47fad05-4135-496b-ae6b-db8810aaf434" />
 
 <img width="1697" height="585" alt="image" src="https://github.com/user-attachments/assets/cc3dda70-73f6-419a-9f04-59e03ab8013d" />
 
