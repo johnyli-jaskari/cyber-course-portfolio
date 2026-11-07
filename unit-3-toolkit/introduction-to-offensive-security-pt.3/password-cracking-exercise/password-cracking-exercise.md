@@ -45,7 +45,7 @@ What I was trying to do.
 
 <img width="1830" height="840" alt="image" src="https://github.com/user-attachments/assets/00144d9e-51ed-493c-a8bf-f99d7f83b881" />
 
-<img width="991" height="632" alt="image" src="https://github.com/user-attachments/assets/a4199061-6ae9-4544-939b-de47dade8a0d" />
+<img width="891" height="532" alt="image" src="https://github.com/user-attachments/assets/a4199061-6ae9-4544-939b-de47dade8a0d" />
 
 <img width="1327" height="216" alt="image" src="https://github.com/user-attachments/assets/e97536f6-ea5f-4533-a848-dc8e8dbddb96" />
 
