@@ -133,8 +133,7 @@ Tiedostoon kirjautuminen salasanalla pass123.
 <table>
 <tr>
 <td><img width="701" height="442" alt="image" src="https://github.com/user-attachments/assets/de4b75bc-72f8-4c7b-aaf8-f8096458e610" /></td>
-<td><img width="600" height="227" alt="image" src="https://github.com/user-attachments/assets/3e6a67a2-ecc2-4137-b56d-32a77d3de054" /></td>
-</td>
+<td><img width="605" height="227" alt="image" src="https://github.com/user-attachments/assets/c18f82e5-7ac0-44f9-92e3-b335520ab509" /></td>
 </tr>
 </table>
 
