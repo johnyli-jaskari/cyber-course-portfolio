@@ -120,6 +120,8 @@ Mango salasanalla pääsi tiedostoon käsiksi.
 
 <img width="1307" height="817" alt="image" src="https://github.com/user-attachments/assets/60a5cc4e-8fc2-4d6d-bb44-84f07d0b8c23" />
 
+<img width="1917" height="272" alt="image" src="https://github.com/user-attachments/assets/e28fc921-aaad-407a-a482-f28a8131d859" />
+
 ## Findings
 What I learned / what the output told me.
 
