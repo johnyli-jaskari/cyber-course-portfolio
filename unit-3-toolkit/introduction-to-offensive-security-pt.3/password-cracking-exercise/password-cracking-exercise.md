@@ -118,6 +118,8 @@ Mango salasanalla pääsi tiedostoon käsiksi.
 
 ### Task 5. Cracking a Password-Protected ZIP
 
+<img width="1307" height="817" alt="image" src="https://github.com/user-attachments/assets/60a5cc4e-8fc2-4d6d-bb44-84f07d0b8c23" />
+
 ## Findings
 What I learned / what the output told me.
 
