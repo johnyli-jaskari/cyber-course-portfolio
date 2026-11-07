@@ -124,7 +124,7 @@ Mango salasanalla pääsi tiedostoon käsiksi.
 
 <img width="1917" height="407" alt="image" src="https://github.com/user-attachments/assets/84592be8-2e7d-44dd-8af3-6316136a6253" />
 
-<img width="1917" height="710" alt="image" src="https://github.com/user-attachments/assets/f7136dfe-4c7b-42dd-817e-ca3e3f7c4d9d" />
+<img width="1685" height="626" alt="image" src="https://github.com/user-attachments/assets/5e2f0474-9d5a-4e67-80d8-c31aef25f206" />
 
 <img width="862" height="276" alt="image" src="https://github.com/user-attachments/assets/1a35c69d-f4db-4d0a-9e3a-46bdf6a292ee" />
 
