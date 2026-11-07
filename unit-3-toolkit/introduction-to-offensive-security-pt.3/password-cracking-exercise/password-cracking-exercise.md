@@ -130,8 +130,13 @@ Mango salasanalla pääsi tiedostoon käsiksi.
 
 Tiedostoon kirjautuminen salasanalla pass123.
 
-<img width="642" height="431" alt="image" src="https://github.com/user-attachments/assets/d33708dc-1f3b-4daa-a6d5-f2b441b0be33" /> <img width="611" height="222" alt="image" src="https://github.com/user-attachments/assets/98445e64-3bfc-44b3-8dbd-6f34158e1f60" />
-
+<table>
+<tr>
+<td><img width="701" height="442" alt="image" src="https://github.com/user-attachments/assets/de4b75bc-72f8-4c7b-aaf8-f8096458e610" /></td>
+<td><img width="600" height="227" alt="image" src="https://github.com/user-attachments/assets/3e6a67a2-ecc2-4137-b56d-32a77d3de054" /></td>
+</td>
+</tr>
+</table>
 
 ### Task 6. Cracking a Password-Protected RAR Archive
 
