@@ -128,6 +128,8 @@ Mango salasanalla pääsi tiedostoon käsiksi.
 
 <img width="862" height="276" alt="image" src="https://github.com/user-attachments/assets/1a35c69d-f4db-4d0a-9e3a-46bdf6a292ee" />
 
+### Task 6. Cracking a Password-Protected RAR Archive
+
 ## Findings
 What I learned / what the output told me.
 
