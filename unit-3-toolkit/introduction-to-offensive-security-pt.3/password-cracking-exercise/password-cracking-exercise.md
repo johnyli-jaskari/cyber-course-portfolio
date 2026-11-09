@@ -165,7 +165,7 @@ Task05.zip tiedoston lataus ja sen purkaminen.
 
 <img width="1307" height="817" alt="image" src="https://github.com/user-attachments/assets/60a5cc4e-8fc2-4d6d-bb44-84f07d0b8c23" />
 
-Zip2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste zip-arkistosta.
+Zip2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
 <img width="1917" height="407" alt="image" src="https://github.com/user-attachments/assets/84592be8-2e7d-44dd-8af3-6316136a6253" />
 
@@ -186,15 +186,23 @@ Salasana on pass123, jolla pystyy ZIP-arkistoon kirjautumaan.
 
 ### Task 6. Cracking a Password-Protected RAR Archive
 
+Task06.zip tiedoston lataus ja sen purkaminen.
+
 <img width="507" height="427" alt="image" src="https://github.com/user-attachments/assets/2cc1b896-d7b5-4cac-ad0a-bffd06845789" />
 
 <img width="1106" height="837" alt="image" src="https://github.com/user-attachments/assets/e7601d24-6035-4600-be1d-d2410fc4499e" />
 
+Rar2john-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
+
 <img width="1648" height="257" alt="image" src="https://github.com/user-attachments/assets/2f1e60ba-b368-442a-8787-291995eefe1a" />
+
+Salasanan selvittäminen John the Ripper komento ja RockYou-salasanasanakirjan avulla.
 
 <img width="1508" height="735" alt="image" src="https://github.com/user-attachments/assets/bfacdb75-50f9-4f4f-9409-611e84f72792" />
 
 <img width="542" height="267" alt="image" src="https://github.com/user-attachments/assets/55129800-589f-4f1f-bc1f-69ee2b36d78b" />
+
+Salasana on: password. RAR-arkiston purkaminen, selvitetyn salasanan syöttäminen ja flag.txt tiedoston tarkistus.
 
 <img width="1302" height="501" alt="image" src="https://github.com/user-attachments/assets/c2b8ae23-13e7-4695-ab5c-d7e37ad91dbe" />
 
