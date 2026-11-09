@@ -135,7 +135,7 @@ Hash on SHA512 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-sa
 
 <img width="1310" height="202" alt="image" src="https://github.com/user-attachments/assets/449220f0-77b6-4160-bf35-af31eba9abf6" />
 
-Salasana on 123.
+Salasana on 1234.
 ### Task 4. Cracking SSH Key Passwords
 
 <img width="551" height="437" alt="image" src="https://github.com/user-attachments/assets/386f250b-fa39-4741-a2c7-3381fa1d061b" />
