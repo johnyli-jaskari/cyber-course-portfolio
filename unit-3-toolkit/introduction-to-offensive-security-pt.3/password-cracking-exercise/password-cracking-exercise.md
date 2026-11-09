@@ -137,6 +137,12 @@ Tiedostoon kirjautuminen salasanalla pass123.
 
 ### Task 6. Cracking a Password-Protected RAR Archive
 
+<img width="1106" height="837" alt="image" src="https://github.com/user-attachments/assets/e7601d24-6035-4600-be1d-d2410fc4499e" />
+
+<img width="1648" height="257" alt="image" src="https://github.com/user-attachments/assets/2f1e60ba-b368-442a-8787-291995eefe1a" />
+
+<img width="1508" height="735" alt="image" src="https://github.com/user-attachments/assets/bfacdb75-50f9-4f4f-9409-611e84f72792" />
+
 ## Findings
 What I learned / what the output told me.
 
