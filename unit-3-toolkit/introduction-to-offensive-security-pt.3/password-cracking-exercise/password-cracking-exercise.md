@@ -144,7 +144,7 @@ Task04 zip tiedoston lataus ja sen purkaminen.
 
 <img width="1157" height="716" alt="image" src="https://github.com/user-attachments/assets/d6046b2b-ff19-4b89-bc7e-321889c06995" />
 
-SSH2John-komennolla muunnetaan SSH-yksityisavain John the Ripperille sopivaan salasanatiiviste muotoon. 
+SSH2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
 <img width="1877" height="336" alt="image" src="https://github.com/user-attachments/assets/7b65a048-72d6-4065-bfc3-cff2e76c37f2" />
 
@@ -154,7 +154,7 @@ Salasanan selvittäminen John the Ripper komento ja RockYou-salasanasanakirjan a
 
 <img width="862" height="260" alt="image" src="https://github.com/user-attachments/assets/1ef445c2-4da1-46db-b87c-090b781fd367" />
 
-Salasana on mango. Salasanalla pääsi Task04.zip -tiedostossa olevaan id_rsa tiedostoon käsiksi.
+Salasana on mango. Salasanalla pääsi Task04.zip -tiedostossa olevaan id_rsa SSH-yksityisavaimeen käsiksi.
 <img width="1000" height="432" alt="image" src="https://github.com/user-attachments/assets/a2998aa9-fcb8-4540-92c6-5ce628f18209" />
 
 ### Task 5. Cracking a Password-Protected ZIP
