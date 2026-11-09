@@ -113,13 +113,19 @@ Salasana on mushroom.
 
 ### Task 3. Cracking Hashes from /etc/shadow
 
+Task03 zip tiedoston lataus Kali Linuxissa ja sen purkaminen.
+
 <img width="560" height="432" alt="image" src="https://github.com/user-attachments/assets/970626c7-ef91-4d72-a6fc-c7c931efcbdc" />
 
 <img width="1206" height="837" alt="image" src="https://github.com/user-attachments/assets/735ee241-534b-440a-9022-d026b111685a" />
 
+Unshadow-komennolla yhdistetään local_passwd- ja local_shadow-tiedostot yhdeksi John the Ripperille sopivaksi hash-tiedostoksi. Salasanatiivisteen tunnistaminen käyttämällä ```Hashcat --indentify```.
+
 <img width="1097" height="112" alt="image" src="https://github.com/user-attachments/assets/85d8e0a6-d8f6-422c-8076-3ca2d4c882a3" />
 
 <img width="1897" height="407" alt="image" src="https://github.com/user-attachments/assets/30ba03cd-18a8-4448-96a7-c716d6333519" />
+
+Hash on SHA512 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1547" height="770" alt="image" src="https://github.com/user-attachments/assets/061b2ce2-8002-433a-8612-1ed333367534" />
 
@@ -129,6 +135,7 @@ Salasana on mushroom.
 
 <img width="1310" height="202" alt="image" src="https://github.com/user-attachments/assets/449220f0-77b6-4160-bf35-af31eba9abf6" />
 
+Salasana on 123.
 ### Task 4. Cracking SSH Key Passwords
 
 <img width="551" height="437" alt="image" src="https://github.com/user-attachments/assets/386f250b-fa39-4741-a2c7-3381fa1d061b" />
