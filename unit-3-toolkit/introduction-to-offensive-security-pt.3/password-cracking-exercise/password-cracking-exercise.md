@@ -11,9 +11,13 @@ What I was trying to do.
 ### Task 1. Basics
 - 2e728dd31fb5949bc39cac5a9f066498
 
+Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttämällä ```Hashcat --indentify```
+
 <img width="650" height="214" alt="image" src="https://github.com/user-attachments/assets/2e0c7967-560b-4e25-9b20-5d33800bf50f" />
 
 <img width="1715" height="615" alt="image" src="https://github.com/user-attachments/assets/2e5d45a8-e4a6-4b52-8021-54f58677aed2" />
+
+Salasanatiiviste on MD5 muodossa. Salasanan selvittämiseksi Hashcat komennon käyttö yhdessä rockyou salasanakirjan avulla.
 
 <img width="1830" height="837" alt="image" src="https://github.com/user-attachments/assets/9bd5c660-31df-4d58-995f-e5149bd682fc" />
 
@@ -23,11 +27,17 @@ What I was trying to do.
 
 <img width="647" height="213" alt="image" src="https://github.com/user-attachments/assets/c424dea0-3585-41db-bf50-9630c5e0c83f" />
 
+Salasana on biscuit.
+
 - 1A732667F3917C0F4AA98BB13011B9090C6F8065
+
+Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttämällä ```Hashcat --indentify```
 
 <img width="650" height="231" alt="image" src="https://github.com/user-attachments/assets/3365f060-87d9-478f-8a2a-a78cc269d6d6" />
 
 <img width="1685" height="497" alt="image" src="https://github.com/user-attachments/assets/71be33b9-70a6-4826-bf1e-830e67897d2c" />
+
+Salasanatiiviste on SHA1 muotoa. Salasanan selvittämiseksi Hashcat komennon käyttö yhdessä rockyou salasanakirjan avulla.
 
 <img width="1832" height="837" alt="image" src="https://github.com/user-attachments/assets/9277a351-f7c6-4217-bf83-4530bced82e4" />
 
@@ -36,6 +46,8 @@ What I was trying to do.
 <img width="551" height="127" alt="image" src="https://github.com/user-attachments/assets/04a00e07-d5d3-4dbd-b6b3-f73e2367b34f" />
 
 <img width="657" height="214" alt="image" src="https://github.com/user-attachments/assets/4f0b0207-59ac-4d2d-a14c-b116382cbcb6" />
+
+Salasan on kangeroo.
 
 - D7F4D3CCEE7ACD3DD7FAD3AC2BE2AAE9C44F4E9B7FB802D73136D4C53920140A
 
