@@ -145,6 +145,13 @@ Tiedostoon kirjautuminen salasanalla pass123.
 
 <img width="542" height="267" alt="image" src="https://github.com/user-attachments/assets/55129800-589f-4f1f-bc1f-69ee2b36d78b" />
 
+<table>
+<tr>
+<td><img width="1302" height="501" alt="image" src="https://github.com/user-attachments/assets/c2b8ae23-13e7-4695-ab5c-d7e37ad91dbe" /><td>
+<td><img width="572" height="238" alt="image" src="https://github.com/user-attachments/assets/ff69eaf1-9c11-4cb8-8e23-50e7ed1fcfdd" /></td>
+</tr>
+</table>
+
 ## Findings
 What I learned / what the output told me.
 
