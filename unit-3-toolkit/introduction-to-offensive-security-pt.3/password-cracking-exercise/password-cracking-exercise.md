@@ -93,9 +93,13 @@ Salasana on colossal.
 
 - 5460C85BD858A11475115D2DD3A82333 
 
+Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttämällä ```hashid -m```
+
 <img width="707" height="221" alt="image" src="https://github.com/user-attachments/assets/0b47fab4-a4cc-4c6e-99b8-8fd7d4a0c5ae" />
 
 <img width="816" height="687" alt="image" src="https://github.com/user-attachments/assets/c13ebc4f-51d3-45b2-836e-aa2390ee1073" />
+
+Salasanatiiviste on NTLM muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1835" height="837" alt="image" src="https://github.com/user-attachments/assets/4de931c6-fff2-4d22-9774-eb498b27513b" />
 
@@ -104,6 +108,8 @@ Salasana on colossal.
 <img width="745" height="141" alt="image" src="https://github.com/user-attachments/assets/8a563b46-2d24-4a43-9cc8-07cd49df10bb" />
 
 <img width="737" height="211" alt="image" src="https://github.com/user-attachments/assets/d10a8a2d-e3aa-44ad-b621-7fa20ec627cf" />
+
+Salasana on mushroom.
 
 ### Task 3. Cracking Hashes from /etc/shadow
 
