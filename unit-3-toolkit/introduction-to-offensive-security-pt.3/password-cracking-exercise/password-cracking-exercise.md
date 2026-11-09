@@ -1,11 +1,11 @@
 # Password cracking exercise
 
-**Date:** 2026-11-2
-**Source:** Password cracking exercise
+**Date:** 2026-11-2 <br>
+**Source:** Password cracking exercise <br>
 **Environment:** Kali Linux
 
 ## Goal
-What I was trying to do.
+Tavoitteena on harjoitella erilaisten salasanatiivisteiden ja salasanalla suojattujen tiedostojen salasanojen selvittämistä Hashcat- ja John the Ripper -ohjelmilla.
 
 ## Steps
 ### Task 1. Basics
@@ -184,6 +184,8 @@ Salasana on pass123, jolla pystyy ZIP-arkistoon kirjautumaan.
 </tr>
 </table>
 
+THM{w3ll_d0n3_h4sh_r0y4l}
+
 ### Task 6. Cracking a Password-Protected RAR Archive
 
 Task06.zip tiedoston lataus ja sen purkaminen.
@@ -208,13 +210,11 @@ Salasana on: password. RAR-arkiston purkaminen, selvitetyn salasanan syöttämin
 
 <img width="572" height="238" alt="image" src="https://github.com/user-attachments/assets/ff69eaf1-9c11-4cb8-8e23-50e7ed1fcfdd" />
 
+THM{r4r_4rch1ve5_th15_t1m3}
 
 ## Findings
-What I learned / what the output told me.
+Opin tunnistamaan erilaisia salasanatiivisteitä, käyttämään Hashcat- ja John the Ripper -ohjelmia sekä selvittämään salasanoja eri menetelmillä.
 
 ## Issues and how I resolved them
-Problems encountered, fixes applied.
 
-## References
-Links to docs, write-ups, or related notes.
  
