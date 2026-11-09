@@ -53,7 +53,7 @@ Salasana on kangeroo.
 
 Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttämällä ```Hashcat --indentify```
 
-<img width="840" height="150" alt="image" src="https://github.com/user-attachments/assets/a47fad05-4135-496b-ae6b-db8810aaf434" />
+<img width="840" height="200" alt="image" src="https://github.com/user-attachments/assets/a47fad05-4135-496b-ae6b-db8810aaf434" />
 
 <img width="1697" height="585" alt="image" src="https://github.com/user-attachments/assets/cc3dda70-73f6-419a-9f04-59e03ab8013d" />
 
