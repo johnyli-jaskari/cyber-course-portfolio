@@ -138,7 +138,7 @@ Hash on SHA512 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-sa
 Salasana on 1234.
 ### Task 4. Cracking SSH Key Passwords
 
-Task04 zip tiedoston lataus ja sen purkaminen.
+Task04.zip tiedoston lataus ja sen purkaminen.
 
 <img width="551" height="437" alt="image" src="https://github.com/user-attachments/assets/386f250b-fa39-4741-a2c7-3381fa1d061b" />
 
@@ -159,17 +159,23 @@ Salasana on mango. Salasanalla pääsi Task04.zip -tiedostossa olevaan id_rsa SS
 
 ### Task 5. Cracking a Password-Protected ZIP
 
+Task05.zip tiedoston lataus ja sen purkaminen.
+
 <img width="507" height="426" alt="image" src="https://github.com/user-attachments/assets/eb219471-7a6b-4b15-bd37-5b85fe43c0b9" />
 
 <img width="1307" height="817" alt="image" src="https://github.com/user-attachments/assets/60a5cc4e-8fc2-4d6d-bb44-84f07d0b8c23" />
 
+Zip2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste zip-arkistosta.
+
 <img width="1917" height="407" alt="image" src="https://github.com/user-attachments/assets/84592be8-2e7d-44dd-8af3-6316136a6253" />
+
+Salasanan selvittäminen John the Ripper komento ja RockYou-salasanasanakirjan avulla.
 
 <img width="1457" height="652" alt="image" src="https://github.com/user-attachments/assets/49c324e1-08af-4bd9-ba9c-15481f1170c8" />
 
 <img width="862" height="276" alt="image" src="https://github.com/user-attachments/assets/1a35c69d-f4db-4d0a-9e3a-46bdf6a292ee" />
 
-Tiedostoon kirjautuminen salasanalla pass123.
+Salasana on pass123, jolla pystyy ZIP-arkistoon kirjautumaan.
 
 <table>
 <tr>
