@@ -17,7 +17,7 @@ Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttä
 
 <img width="1715" height="615" alt="image" src="https://github.com/user-attachments/assets/2e5d45a8-e4a6-4b52-8021-54f58677aed2" />
 
-Salasanatiiviste on MD5 muodossa. Salasanan selvittämiseksi Hashcat komennon käyttö yhdessä rockyou salasanakirjan avulla.
+Salasanatiiviste on MD5 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1830" height="837" alt="image" src="https://github.com/user-attachments/assets/9bd5c660-31df-4d58-995f-e5149bd682fc" />
 
@@ -37,7 +37,7 @@ Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttä
 
 <img width="1685" height="497" alt="image" src="https://github.com/user-attachments/assets/71be33b9-70a6-4826-bf1e-830e67897d2c" />
 
-Salasanatiiviste on SHA1 muotoa. Salasanan selvittämiseksi Hashcat komennon käyttö yhdessä rockyou salasanakirjan avulla.
+Salasanatiiviste on SHA1 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1832" height="837" alt="image" src="https://github.com/user-attachments/assets/9277a351-f7c6-4217-bf83-4530bced82e4" />
 
@@ -47,13 +47,17 @@ Salasanatiiviste on SHA1 muotoa. Salasanan selvittämiseksi Hashcat komennon kä
 
 <img width="657" height="214" alt="image" src="https://github.com/user-attachments/assets/4f0b0207-59ac-4d2d-a14c-b116382cbcb6" />
 
-Salasan on kangeroo.
+Salasana on kangeroo.
 
 - D7F4D3CCEE7ACD3DD7FAD3AC2BE2AAE9C44F4E9B7FB802D73136D4C53920140A
+
+Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttämällä ```Hashcat --indentify```
 
 <img width="840" height="150" alt="image" src="https://github.com/user-attachments/assets/a47fad05-4135-496b-ae6b-db8810aaf434" />
 
 <img width="1697" height="585" alt="image" src="https://github.com/user-attachments/assets/cc3dda70-73f6-419a-9f04-59e03ab8013d" />
+
+Salasanatiiviste on SHA2-256 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1830" height="840" alt="image" src="https://github.com/user-attachments/assets/00144d9e-51ed-493c-a8bf-f99d7f83b881" />
 
@@ -63,11 +67,17 @@ Salasan on kangeroo.
 
 <img width="905" height="232" alt="image" src="https://github.com/user-attachments/assets/757c9c07-35aa-4a26-8b89-7cc8c6d0822f" />
 
+Salasana on microphone.
+
 - c5a60cc6bbba781c601c5402755ae1044bbf45b78d1183cbf2ca1c865b6c792cf3c6b87791344986c8a832a0f9ca8d0b4afd3d9421a149d57075e1b4e93f90bf
+
+Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttämällä ```Hashcat --indentify```
 
 <img width="1001" height="242" alt="image" src="https://github.com/user-attachments/assets/d10e60de-da59-4ecd-a5a0-ddf4efec588d" />
 
 <img width="1695" height="527" alt="image" src="https://github.com/user-attachments/assets/095a4555-74ab-4a8d-be08-efc22dd86bd6" />
+
+Salasanatiiviste on Whirlpool muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1841" height="775" alt="image" src="https://github.com/user-attachments/assets/396bd7c6-c56e-4bc4-81d6-a098d90c00d5" />
 
@@ -76,6 +86,8 @@ Salasan on kangeroo.
 <img width="1831" height="180" alt="image" src="https://github.com/user-attachments/assets/c97d56ef-fe8b-4e68-83a8-38990a256aa8" />
 
 <img width="1426" height="252" alt="image" src="https://github.com/user-attachments/assets/737a22c7-d14b-4566-afc2-6f2a815b99e0" />
+
+Salasana on colossal.
 
 ### Task 2. NTHash / NTLM
 
