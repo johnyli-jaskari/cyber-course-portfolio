@@ -21,9 +21,6 @@ Salasanatiiviste on MD5 muodossa. Salasanan selvittäminen Hashcat-komennon ja R
 
 <img width="1525" height="750" alt="image" src="https://github.com/user-attachments/assets/2f2a1d2a-bb00-4cbc-94b6-94e821b1fda9" />
 
-<img width="1092" height="552" alt="image" src="https://github.com/user-attachments/assets/f7a120f9-349e-4476-b335-e0fb614a4bd8" />
-
-
 <img width="800" height="550" alt="image" src="https://github.com/user-attachments/assets/11076bda-457a-41da-9833-517a76917b54" />
 
 <img width="502" height="100" alt="image" src="https://github.com/user-attachments/assets/dc6291cc-37fe-45d6-a736-15024202c04a" />
