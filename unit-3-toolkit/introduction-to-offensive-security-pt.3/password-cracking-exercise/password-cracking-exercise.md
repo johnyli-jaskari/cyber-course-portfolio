@@ -81,7 +81,7 @@ Salasanatiiviste on Whirlpool muodossa. Salasanan selvittäminen Hashcat-komenno
 
 <img width="1841" height="775" alt="image" src="https://github.com/user-attachments/assets/396bd7c6-c56e-4bc4-81d6-a098d90c00d5" />
 
-<img width="900" height="635" alt="image" src="https://github.com/user-attachments/assets/f14737d0-6af9-49aa-8d06-13a7ae24d551" />
+<img width="850" height="535" alt="image" src="https://github.com/user-attachments/assets/f14737d0-6af9-49aa-8d06-13a7ae24d551" />
 
 <img width="1831" height="180" alt="image" src="https://github.com/user-attachments/assets/c97d56ef-fe8b-4e68-83a8-38990a256aa8" />
 
