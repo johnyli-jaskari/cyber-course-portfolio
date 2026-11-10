@@ -41,7 +41,7 @@ Salasanatiiviste on SHA1 muodossa. Salasanan selvittäminen Hashcat-komennon ja 
 
 <img width="1525" height="750" alt="image" src="https://github.com/user-attachments/assets/f7b94618-67d1-406f-b0bd-f90e6caa8dfb" />
 
-<img width="830" height="566" alt="image" src="https://github.com/user-attachments/assets/9e1e9b31-3d0e-4d06-a680-681437545a9b" />
+<img width="800" height="566" alt="image" src="https://github.com/user-attachments/assets/9e1e9b31-3d0e-4d06-a680-681437545a9b" />
 
 <img width="551" height="127" alt="image" src="https://github.com/user-attachments/assets/04a00e07-d5d3-4dbd-b6b3-f73e2367b34f" />
 
@@ -61,7 +61,7 @@ Salasanatiiviste on SHA2-256 muodossa. Salasanan selvittäminen Hashcat-komennon
 
 <img width="1527" height="747" alt="image" src="https://github.com/user-attachments/assets/7cdf35b0-469d-4d20-a422-446bbef094aa" />
 
-<img width="821" height="532" alt="image" src="https://github.com/user-attachments/assets/a4199061-6ae9-4544-939b-de47dade8a0d" />
+<img width="801" height="532" alt="image" src="https://github.com/user-attachments/assets/a4199061-6ae9-4544-939b-de47dade8a0d" />
 
 <img width="1327" height="216" alt="image" src="https://github.com/user-attachments/assets/e97536f6-ea5f-4533-a848-dc8e8dbddb96" />
 
@@ -81,7 +81,7 @@ Salasanatiiviste on Whirlpool muodossa. Salasanan selvittäminen Hashcat-komenno
 
 <img width="1522" height="686" alt="image" src="https://github.com/user-attachments/assets/034f76f2-78ea-4f9b-b7a8-f7997c10600c" />
 
-<img width="820" height="520" alt="image" src="https://github.com/user-attachments/assets/f14737d0-6af9-49aa-8d06-13a7ae24d551" />
+<img width="800" height="520" alt="image" src="https://github.com/user-attachments/assets/f14737d0-6af9-49aa-8d06-13a7ae24d551" />
 
 <img width="1831" height="180" alt="image" src="https://github.com/user-attachments/assets/c97d56ef-fe8b-4e68-83a8-38990a256aa8" />
 
