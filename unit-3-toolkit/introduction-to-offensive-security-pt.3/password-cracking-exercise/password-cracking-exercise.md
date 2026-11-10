@@ -140,7 +140,7 @@ Salasana on 1234.
 
 Task04.zip tiedoston lataus ja sen purkaminen.
 
-<img width="551" height="437" alt="image" src="https://github.com/user-attachments/assets/386f250b-fa39-4741-a2c7-3381fa1d061b" />
+<img width="500" height="385" alt="image" src="https://github.com/user-attachments/assets/386f250b-fa39-4741-a2c7-3381fa1d061b" />
 
 <img width="800" height="516" alt="image" src="https://github.com/user-attachments/assets/d6046b2b-ff19-4b89-bc7e-321889c06995" />
 
