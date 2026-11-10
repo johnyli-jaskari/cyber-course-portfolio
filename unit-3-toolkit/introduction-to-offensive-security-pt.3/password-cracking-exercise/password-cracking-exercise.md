@@ -190,9 +190,9 @@ THM{w3ll_d0n3_h4sh_r0y4l}
 
 Task06.zip tiedoston lataus ja sen purkaminen.
 
-<img width="507" height="427" alt="image" src="https://github.com/user-attachments/assets/2cc1b896-d7b5-4cac-ad0a-bffd06845789" />
+<img width="450" height="370" alt="image" src="https://github.com/user-attachments/assets/2cc1b896-d7b5-4cac-ad0a-bffd06845789" />
 
-<img width="1106" height="837" alt="image" src="https://github.com/user-attachments/assets/e7601d24-6035-4600-be1d-d2410fc4499e" />
+<img width="800" height="637" alt="image" src="https://github.com/user-attachments/assets/e7601d24-6035-4600-be1d-d2410fc4499e" />
 
 Rar2john-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
@@ -208,7 +208,7 @@ Salasana on: password. RAR-arkiston purkaminen, selvitetyn salasanan syöttämin
 
 <img width="1302" height="501" alt="image" src="https://github.com/user-attachments/assets/c2b8ae23-13e7-4695-ab5c-d7e37ad91dbe" />
 
-<img width="572" height="238" alt="image" src="https://github.com/user-attachments/assets/ff69eaf1-9c11-4cb8-8e23-50e7ed1fcfdd" />
+<img width="520" height="200" alt="image" src="https://github.com/user-attachments/assets/ff69eaf1-9c11-4cb8-8e23-50e7ed1fcfdd" />
 
 THM{r4r_4rch1ve5_th15_t1m3}
 
