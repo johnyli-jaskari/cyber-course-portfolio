@@ -129,7 +129,7 @@ Hash on SHA512 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-sa
 
 <img width="1547" height="770" alt="image" src="https://github.com/user-attachments/assets/061b2ce2-8002-433a-8612-1ed333367534" />
 
-<img width="1077" height="735" alt="image" src="https://github.com/user-attachments/assets/73cc3714-cda5-424b-8781-e78645f94e64" />
+<img width="800" height="505" alt="image" src="https://github.com/user-attachments/assets/73cc3714-cda5-424b-8781-e78645f94e64" />
 
 <img width="1710" height="125" alt="image" src="https://github.com/user-attachments/assets/f52db5a8-9a76-466b-85dd-b206268e16f3" />
 
