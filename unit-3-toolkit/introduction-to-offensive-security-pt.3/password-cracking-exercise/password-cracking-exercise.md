@@ -217,5 +217,5 @@ THM{r4r_4rch1ve5_th15_t1m3}
 Opin tunnistamaan erilaisia salasanatiivisteitä, käyttämään Hashcat- ja John the Ripper -ohjelmia sekä selvittämään salasanoja eri menetelmillä.
 
 ## Issues and how I resolved them
-John the Ripper komennon ja apuohjelmien toteutus, selvitin oikeat komennot.
+John the Ripper komennon ja apuohjelmien toteutuksessa selvitin oikeat komennot.
  
