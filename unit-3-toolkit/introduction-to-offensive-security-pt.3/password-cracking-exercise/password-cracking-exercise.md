@@ -121,7 +121,7 @@ Task03 zip tiedoston lataus Kali Linuxissa ja sen purkaminen.
 
 Unshadow-komennolla yhdistetään local_passwd- ja local_shadow-tiedostot yhdeksi hash-tiedostoksi. Salasanatiivisteen tunnistaminen käyttämällä ```Hashcat --indentify```.
 
-<img width="1097" height="112" alt="image" src="https://github.com/user-attachments/assets/85d8e0a6-d8f6-422c-8076-3ca2d4c882a3" />
+<img width="800" height="100" alt="image" src="https://github.com/user-attachments/assets/85d8e0a6-d8f6-422c-8076-3ca2d4c882a3" />
 
 <img width="1897" height="407" alt="image" src="https://github.com/user-attachments/assets/30ba03cd-18a8-4448-96a7-c716d6333519" />
 
