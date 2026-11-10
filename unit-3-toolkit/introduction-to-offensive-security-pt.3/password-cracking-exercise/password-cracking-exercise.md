@@ -142,7 +142,7 @@ Task04.zip tiedoston lataus ja sen purkaminen.
 
 <img width="500" height="385" alt="image" src="https://github.com/user-attachments/assets/386f250b-fa39-4741-a2c7-3381fa1d061b" />
 
-<img width="800" height="516" alt="image" src="https://github.com/user-attachments/assets/d6046b2b-ff19-4b89-bc7e-321889c06995" />
+<img width="850" height="560" alt="image" src="https://github.com/user-attachments/assets/d6046b2b-ff19-4b89-bc7e-321889c06995" />
 
 SSH2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
@@ -163,7 +163,7 @@ Task05.zip tiedoston lataus ja sen purkaminen.
 
 <img width="450" height="370" alt="image" src="https://github.com/user-attachments/assets/eb219471-7a6b-4b15-bd37-5b85fe43c0b9" />
 
-<img width="900" height="590" alt="image" src="https://github.com/user-attachments/assets/60a5cc4e-8fc2-4d6d-bb44-84f07d0b8c23" />
+<img width="850" height="630" alt="image" src="https://github.com/user-attachments/assets/60a5cc4e-8fc2-4d6d-bb44-84f07d0b8c23" />
 
 Zip2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
