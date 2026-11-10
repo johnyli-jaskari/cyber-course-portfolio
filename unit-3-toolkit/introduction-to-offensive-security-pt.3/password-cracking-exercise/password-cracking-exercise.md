@@ -101,7 +101,7 @@ Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttä
 
 Salasanatiiviste on NTLM muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
-<img width="1835" height="837" alt="image" src="https://github.com/user-attachments/assets/4de931c6-fff2-4d22-9774-eb498b27513b" />
+<img width="1525" height="750" alt="image" src="https://github.com/user-attachments/assets/ab20c734-706f-4581-ad26-b36c108cb2e9" />
 
 <img width="850" height="600" alt="image" src="https://github.com/user-attachments/assets/f63db847-6137-4e02-815f-343a4aff8742" />
 
