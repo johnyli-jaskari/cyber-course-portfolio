@@ -148,7 +148,7 @@ SSH2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
 <img width="1877" height="336" alt="image" src="https://github.com/user-attachments/assets/7b65a048-72d6-4065-bfc3-cff2e76c37f2" />
 
-Salasanan selvittäminen John the Ripper komento ja RockYou-salasanasanakirjan avulla.
+Salasanan selvittäminen John the Ripper komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1320" height="667" alt="image" src="https://github.com/user-attachments/assets/6b156bd0-05e5-4763-ae7b-157bf0d8a6f1" />
 
@@ -169,7 +169,7 @@ Zip2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
 <img width="1917" height="407" alt="image" src="https://github.com/user-attachments/assets/84592be8-2e7d-44dd-8af3-6316136a6253" />
 
-Salasanan selvittäminen John the Ripper komento ja RockYou-salasanasanakirjan avulla.
+Salasanan selvittäminen John the Ripper komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1457" height="652" alt="image" src="https://github.com/user-attachments/assets/49c324e1-08af-4bd9-ba9c-15481f1170c8" />
 
@@ -198,7 +198,7 @@ Rar2john-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
 <img width="1648" height="257" alt="image" src="https://github.com/user-attachments/assets/2f1e60ba-b368-442a-8787-291995eefe1a" />
 
-Salasanan selvittäminen John the Ripper komento ja RockYou-salasanasanakirjan avulla.
+Salasanan selvittäminen John the Ripper komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1508" height="735" alt="image" src="https://github.com/user-attachments/assets/bfacdb75-50f9-4f4f-9409-611e84f72792" />
 
