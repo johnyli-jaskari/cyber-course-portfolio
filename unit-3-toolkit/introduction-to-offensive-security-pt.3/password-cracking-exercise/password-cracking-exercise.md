@@ -161,9 +161,9 @@ Salasana on mango. Salasanalla pääsi Task04.zip -tiedostossa olevaan id_rsa SS
 
 Task05.zip tiedoston lataus ja sen purkaminen.
 
-<img width="507" height="426" alt="image" src="https://github.com/user-attachments/assets/eb219471-7a6b-4b15-bd37-5b85fe43c0b9" />
+<img width="450" height="370" alt="image" src="https://github.com/user-attachments/assets/eb219471-7a6b-4b15-bd37-5b85fe43c0b9" />
 
-<img width="1307" height="817" alt="image" src="https://github.com/user-attachments/assets/60a5cc4e-8fc2-4d6d-bb44-84f07d0b8c23" />
+<img width="900" height="617" alt="image" src="https://github.com/user-attachments/assets/60a5cc4e-8fc2-4d6d-bb44-84f07d0b8c23" />
 
 Zip2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
