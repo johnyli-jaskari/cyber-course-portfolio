@@ -117,7 +117,7 @@ Task03 zip tiedoston lataus Kali Linuxissa ja sen purkaminen.
 
 <img width="500" height="390" alt="image" src="https://github.com/user-attachments/assets/970626c7-ef91-4d72-a6fc-c7c931efcbdc" />
 
-<img width="800" height="550" alt="image" src="https://github.com/user-attachments/assets/735ee241-534b-440a-9022-d026b111685a" />
+<img width="820" height="570" alt="image" src="https://github.com/user-attachments/assets/735ee241-534b-440a-9022-d026b111685a" />
 
 Unshadow-komennolla yhdistetään local_passwd- ja local_shadow-tiedostot yhdeksi hash-tiedostoksi. Salasanatiivisteen tunnistaminen käyttämällä ```Hashcat --indentify```.
 
@@ -163,7 +163,7 @@ Task05.zip tiedoston lataus ja sen purkaminen.
 
 <img width="450" height="370" alt="image" src="https://github.com/user-attachments/assets/eb219471-7a6b-4b15-bd37-5b85fe43c0b9" />
 
-<img width="850" height="600" alt="image" src="https://github.com/user-attachments/assets/60a5cc4e-8fc2-4d6d-bb44-84f07d0b8c23" />
+<img width="850" height="585" alt="image" src="https://github.com/user-attachments/assets/60a5cc4e-8fc2-4d6d-bb44-84f07d0b8c23" />
 
 Zip2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
