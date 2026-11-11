@@ -191,7 +191,7 @@ Task06.zip tiedoston lataus ja sen purkaminen.
 
 <img width="450" height="370" alt="image" src="https://github.com/user-attachments/assets/2cc1b896-d7b5-4cac-ad0a-bffd06845789" />
 
-<img width="800" height="637" alt="image" src="https://github.com/user-attachments/assets/e7601d24-6035-4600-be1d-d2410fc4499e" />
+<img width="800" height="610" alt="image" src="https://github.com/user-attachments/assets/e7601d24-6035-4600-be1d-d2410fc4499e" />
 
 Rar2john-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
