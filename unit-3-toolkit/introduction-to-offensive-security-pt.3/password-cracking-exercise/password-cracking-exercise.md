@@ -19,7 +19,7 @@ Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttä
 
 Salasanatiiviste on MD5 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
-<img width="1521" height="747" alt="image" src="https://github.com/user-attachments/assets/4e92e7ea-a14e-4a38-ab31-b169541d1d54" />
+<img width="1525" height="747" alt="image" src="https://github.com/user-attachments/assets/2a71fa08-3ecc-4e80-a66b-cc414ca21115" />
 
 <img width="780" height="550" alt="image" src="https://github.com/user-attachments/assets/11076bda-457a-41da-9833-517a76917b54" />
 
@@ -144,7 +144,7 @@ Task04.zip tiedoston lataus ja sen purkaminen.
 
 SSH2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
-<img width="1877" height="336" alt="image" src="https://github.com/user-attachments/assets/7b65a048-72d6-4065-bfc3-cff2e76c37f2" />
+<img width="1175" height="297" alt="image" src="https://github.com/user-attachments/assets/19e027e4-57a1-474f-a4ac-579a79d13200" />
 
 Salasanan selvittäminen John the Ripper komennon ja RockYou-salasanasanakirjan avulla.
 
