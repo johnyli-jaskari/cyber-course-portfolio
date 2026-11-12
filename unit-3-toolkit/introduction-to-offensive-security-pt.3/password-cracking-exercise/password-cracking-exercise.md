@@ -168,6 +168,8 @@ Zip2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
 <img width="1917" height="407" alt="image" src="https://github.com/user-attachments/assets/84592be8-2e7d-44dd-8af3-6316136a6253" />
 
+<img width="1269" height="318" alt="image" src="https://github.com/user-attachments/assets/df6c8a0e-49e8-4fc7-ad64-63a661629362" />
+
 Salasanan selvittäminen John the Ripper komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1457" height="652" alt="image" src="https://github.com/user-attachments/assets/49c324e1-08af-4bd9-ba9c-15481f1170c8" />
