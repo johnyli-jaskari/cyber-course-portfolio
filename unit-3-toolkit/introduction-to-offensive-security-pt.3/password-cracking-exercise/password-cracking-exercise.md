@@ -197,6 +197,8 @@ Rar2john-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
 <img width="1648" height="257" alt="image" src="https://github.com/user-attachments/assets/2f1e60ba-b368-442a-8787-291995eefe1a" />
 
+<img width="1645" height="270" alt="image" src="https://github.com/user-attachments/assets/da588cb1-e55a-4e53-acd9-b7b70aa7458c" />
+
 Salasanan selvittäminen John the Ripper komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1508" height="735" alt="image" src="https://github.com/user-attachments/assets/bfacdb75-50f9-4f4f-9409-611e84f72792" />
