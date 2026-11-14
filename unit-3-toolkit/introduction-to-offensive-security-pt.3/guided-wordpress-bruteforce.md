@@ -1,7 +1,7 @@
 # Guided WordPress bruteforce
 
-**Date:** 2026-11-14
-**Source:** Guided WordPress bruteforce
+**Date:** 2026-11-14 <br>
+**Source:** Guided WordPress bruteforce <br>
 **Environment:** Kali Linux
 
 ## Goal
