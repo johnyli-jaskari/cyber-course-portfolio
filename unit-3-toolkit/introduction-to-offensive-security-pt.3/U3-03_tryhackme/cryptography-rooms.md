@@ -1,11 +1,11 @@
 # Cryptography Rooms
 
-**Date:** 2026-11-15
-**Source:** Cryptography Rooms
-**Environment:** TryHackMe
+**Date:** 2026-11-15 <br>
+**Source:** Cryptography Rooms <br>
+**Environment:** TryHackMe <br>
 
 ## Goal
-What I was trying to do.
+Oppia kryptografian perusteet ja symmetrinen salaus sekä harjoitella Hash-arvojen murtamista eri työkaluilla.
 
 ## Steps
 
