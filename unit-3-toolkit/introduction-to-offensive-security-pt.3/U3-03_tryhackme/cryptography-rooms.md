@@ -5,7 +5,7 @@
 **Environment:** TryHackMe <br>
 
 ## Goal
-Oppia kryptografian perusteet ja symmetrinen salaus sekä harjoitella Hash-arvojen murtamista eri työkaluilla.
+Oppia kryptografian ja symmetrisen salauksen perusteet sekä harjoitella Hash-arvojen murtamista eri työkaluilla.
 
 ## Steps
 
