@@ -21,7 +21,7 @@ Salasanatiiviste on MD5 muodossa. Salasanan selvittäminen Hashcat-komennon ja R
 
 <img width="1531" height="750" alt="image" src="https://github.com/user-attachments/assets/bdd95be5-c9b7-4ed3-a942-f545db280423" />
 
-<img width="850" height="620" alt="image" src="https://github.com/user-attachments/assets/97bfe27f-bfab-4933-8d7e-c8f94dc4cceb" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/97bfe27f-bfab-4933-8d7e-c8f94dc4cceb" />
 
 <img width="632" height="137" alt="image" src="https://github.com/user-attachments/assets/f0896399-6954-4c53-9045-6a6a8de39ec8" />
 
@@ -41,7 +41,7 @@ Salasanatiiviste on SHA1 muodossa. Salasanan selvittäminen Hashcat-komennon ja 
 
 <img width="1532" height="752" alt="image" src="https://github.com/user-attachments/assets/8aafd202-5f38-4b43-a22a-824443ad01a0" />
 
-<img width="850" height="620" alt="image" src="https://github.com/user-attachments/assets/99cf1959-b5de-4e6b-9242-f9652752b49d" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/99cf1959-b5de-4e6b-9242-f9652752b49d" />
 
 <img width="772" height="157" alt="image" src="https://github.com/user-attachments/assets/a66f4b08-cf16-4987-bcfb-b22d4c12c23b" />
 
