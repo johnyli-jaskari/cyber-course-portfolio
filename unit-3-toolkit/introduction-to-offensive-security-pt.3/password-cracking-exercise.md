@@ -162,7 +162,7 @@ Task05.zip tiedoston lataus ja sen purkaminen.
 
 <img width="450" height="370" alt="image" src="https://github.com/user-attachments/assets/eb219471-7a6b-4b15-bd37-5b85fe43c0b9" />
 
-<img width="1107" height="697" alt="image" src="https://github.com/user-attachments/assets/0eacf473-24be-4efa-9a1b-c223d8e1ce96" />
+<img width="900" height="560" alt="image" src="https://github.com/user-attachments/assets/0eacf473-24be-4efa-9a1b-c223d8e1ce96" />
 
 Zip2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
