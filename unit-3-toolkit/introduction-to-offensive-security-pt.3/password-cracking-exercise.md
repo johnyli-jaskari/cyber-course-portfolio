@@ -195,13 +195,11 @@ Task06.zip tiedoston lataus ja sen purkaminen.
 
 Rar2john-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
-<img width="1645" height="270" alt="image" src="https://github.com/user-attachments/assets/da588cb1-e55a-4e53-acd9-b7b70aa7458c" />
-
 <img width="1642" height="270" alt="image" src="https://github.com/user-attachments/assets/793fcf9b-b50b-4c9f-ac9b-7339651a0ecf" />
 
 Salasanan selvittäminen John the Ripper komennon ja RockYou-salasanasanakirjan avulla.
 
-<img width="1508" height="735" alt="image" src="https://github.com/user-attachments/assets/bfacdb75-50f9-4f4f-9409-611e84f72792" />
+<img width="1382" height="665" alt="image" src="https://github.com/user-attachments/assets/a6a42a01-ce67-4dc1-85f5-4a5d947eeb49" />
 
 <img width="542" height="267" alt="image" src="https://github.com/user-attachments/assets/55129800-589f-4f1f-bc1f-69ee2b36d78b" />
 
