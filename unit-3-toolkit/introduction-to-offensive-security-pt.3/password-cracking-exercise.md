@@ -79,8 +79,6 @@ Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttä
 
 Salasanatiiviste on Whirlpool muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
-<img width="1522" height="686" alt="image" src="https://github.com/user-attachments/assets/034f76f2-78ea-4f9b-b7a8-f7997c10600c" />
-
 <img width="1522" height="687" alt="image" src="https://github.com/user-attachments/assets/5e3f6306-2849-4030-80e5-bd5d00bcb0db" />
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c9d97c11-d15b-4ec4-ae0a-8507cebc2eae" />
