@@ -123,15 +123,15 @@ Unshadow-komennolla yhdistetään local_passwd- ja local_shadow-tiedostot yhdeks
 
 <img width="1138" height="414" alt="image" src="https://github.com/user-attachments/assets/67dd1de3-e732-4d8d-8682-c6c46710d8aa" />
 
-<img width="1342" height="455" alt="image" src="https://github.com/user-attachments/assets/7ac1c672-e9be-483e-8970-1f30e9683841" />
+<img width="1132" height="396" alt="image" src="https://github.com/user-attachments/assets/86b8b8f3-156c-40d6-b5d6-078b507e1137" />
 
 Hash on SHA512 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
-<img width="1524" height="750" alt="image" src="https://github.com/user-attachments/assets/ee0104e4-ed97-4c19-bce5-ac09369f2356" />
+<img width="1522" height="747" alt="image" src="https://github.com/user-attachments/assets/5cd1f682-8344-4971-be10-499638ed4016" />
 
-<img width="850" height="555" alt="image" src="https://github.com/user-attachments/assets/73cc3714-cda5-424b-8781-e78645f94e64" />
+<img width="850" height="620" alt="image" src="https://github.com/user-attachments/assets/a480c012-50d6-4271-886a-f3545d8bcd27" />
 
-<img width="1710" height="125" alt="image" src="https://github.com/user-attachments/assets/f52db5a8-9a76-466b-85dd-b206268e16f3" />
+<img width="1367" height="112" alt="image" src="https://github.com/user-attachments/assets/aa29196c-0c44-4bb9-a028-106bbda212cc" />
 
 <img width="1310" height="202" alt="image" src="https://github.com/user-attachments/assets/449220f0-77b6-4160-bf35-af31eba9abf6" />
 
