@@ -99,13 +99,17 @@ Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttä
 
 <img width="550" height="487" alt="image" src="https://github.com/user-attachments/assets/c13ebc4f-51d3-45b2-836e-aa2390ee1073" />
 
+<img width="757" height="667" alt="image" src="https://github.com/user-attachments/assets/69949562-cec6-48c5-9324-f4ab3343acb7" />
+
 Salasanatiiviste on NTLM muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1522" height="747" alt="image" src="https://github.com/user-attachments/assets/3f1bfb19-b3c3-45b9-ac87-c056d32145cf" />
 
-<img width="850" height="600" alt="image" src="https://github.com/user-attachments/assets/f63db847-6137-4e02-815f-343a4aff8742" />
+<img width="1527" height="750" alt="image" src="https://github.com/user-attachments/assets/a6278e8e-3f8a-46e2-bc1d-6032a798ab51" />
 
-<img width="700" height="140" alt="image" src="https://github.com/user-attachments/assets/8a563b46-2d24-4a43-9cc8-07cd49df10bb" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a146a824-99a9-45f3-8c36-de27c078f7b1" />
+
+<img width="621" height="125" alt="image" src="https://github.com/user-attachments/assets/5746d801-fe51-4512-8765-6bca3c0c6ba0" />
 
 <img width="737" height="211" alt="image" src="https://github.com/user-attachments/assets/d10a8a2d-e3aa-44ad-b621-7fa20ec627cf" />
 
