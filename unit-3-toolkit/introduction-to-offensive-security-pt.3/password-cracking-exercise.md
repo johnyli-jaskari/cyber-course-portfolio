@@ -35,13 +35,9 @@ Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttä
 
 <img width="650" height="231" alt="image" src="https://github.com/user-attachments/assets/3365f060-87d9-478f-8a2a-a78cc269d6d6" />
 
-<img width="1685" height="497" alt="image" src="https://github.com/user-attachments/assets/71be33b9-70a6-4826-bf1e-830e67897d2c" />
-
 <img width="1446" height="420" alt="image" src="https://github.com/user-attachments/assets/27a474a7-8fbe-4a46-ab2a-039b9e3e410d" />
 
 Salasanatiiviste on SHA1 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
-
-<img width="1525" height="750" alt="image" src="https://github.com/user-attachments/assets/f7b94618-67d1-406f-b0bd-f90e6caa8dfb" />
 
 <img width="1532" height="752" alt="image" src="https://github.com/user-attachments/assets/8aafd202-5f38-4b43-a22a-824443ad01a0" />
 
