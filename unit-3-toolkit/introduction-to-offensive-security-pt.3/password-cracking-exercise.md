@@ -105,7 +105,7 @@ Salasanatiiviste on NTLM muodossa. Salasanan selvittäminen Hashcat-komennon ja 
 
 <img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/a146a824-99a9-45f3-8c36-de27c078f7b1" />
 
-<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/5746d801-fe51-4512-8765-6bca3c0c6ba0" />
+<img width="485" height="100" alt="image" src="https://github.com/user-attachments/assets/5746d801-fe51-4512-8765-6bca3c0c6ba0" />
 
 <img width="737" height="211" alt="image" src="https://github.com/user-attachments/assets/d10a8a2d-e3aa-44ad-b621-7fa20ec627cf" />
 
