@@ -140,7 +140,7 @@ Task04.zip tiedoston lataus ja sen purkaminen.
 
 <img width="500" height="385" alt="image" src="https://github.com/user-attachments/assets/386f250b-fa39-4741-a2c7-3381fa1d061b" />
 
-<img width="1025" height="630" alt="image" src="https://github.com/user-attachments/assets/91be1e00-20c8-47b0-a793-55aa3b3a7a1a" />
+<img width="800" height="550" alt="image" src="https://github.com/user-attachments/assets/91be1e00-20c8-47b0-a793-55aa3b3a7a1a" />
 
 SSH2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
