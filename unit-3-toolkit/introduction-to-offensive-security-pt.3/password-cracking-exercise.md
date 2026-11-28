@@ -55,17 +55,13 @@ Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttä
 
 <img width="840" height="200" alt="image" src="https://github.com/user-attachments/assets/a47fad05-4135-496b-ae6b-db8810aaf434" />
 
-<img width="1697" height="585" alt="image" src="https://github.com/user-attachments/assets/cc3dda70-73f6-419a-9f04-59e03ab8013d" />
-
 <img width="1462" height="497" alt="image" src="https://github.com/user-attachments/assets/33f8fb26-6770-40da-8d36-24b38b944bb8" />
 
 Salasanatiiviste on SHA2-256 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
-<img width="1527" height="747" alt="image" src="https://github.com/user-attachments/assets/7cdf35b0-469d-4d20-a422-446bbef094aa" />
-
 <img width="1535" height="747" alt="image" src="https://github.com/user-attachments/assets/a7df680a-4964-4767-be91-b3fd12064f44" />
 
-<img width="1072" height="740" alt="image" src="https://github.com/user-attachments/assets/169a11b6-f667-4500-aaa6-f87b7600cb9e" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/169a11b6-f667-4500-aaa6-f87b7600cb9e" />
 
 <img width="1162" height="190" alt="image" src="https://github.com/user-attachments/assets/de0e3025-ba5e-4fc5-8cef-8d3a98c36189" />
 
