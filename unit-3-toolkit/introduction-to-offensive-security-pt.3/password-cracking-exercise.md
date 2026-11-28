@@ -123,7 +123,7 @@ Unshadow-komennolla yhdistetään local_passwd- ja local_shadow-tiedostot yhdeks
 
 <img width="1138" height="414" alt="image" src="https://github.com/user-attachments/assets/67dd1de3-e732-4d8d-8682-c6c46710d8aa" />
 
-<img width="1132" height="396" alt="image" src="https://github.com/user-attachments/assets/86b8b8f3-156c-40d6-b5d6-078b507e1137" />
+<img width="1126" height="402" alt="image" src="https://github.com/user-attachments/assets/832961d4-5d16-4cef-b6fd-921aed0640ec" />
 
 Hash on SHA512 muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
