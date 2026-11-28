@@ -148,7 +148,7 @@ SSH2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
 Salasanan selvittäminen John the Ripper komennon ja RockYou-salasanasanakirjan avulla.
 
-<img width="1320" height="667" alt="image" src="https://github.com/user-attachments/assets/762d24d8-97b9-45d0-9179-f34b964db6cd" />
+<img width="1312" height="671" alt="image" src="https://github.com/user-attachments/assets/8926f52a-9b61-4c98-af26-61441c813771" />
 
 <img width="862" height="260" alt="image" src="https://github.com/user-attachments/assets/1ef445c2-4da1-46db-b87c-090b781fd367" />
 
