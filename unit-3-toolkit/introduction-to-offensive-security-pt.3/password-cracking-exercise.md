@@ -63,7 +63,7 @@ Salasanatiiviste on SHA2-256 muodossa. Salasanan selvittäminen Hashcat-komennon
 
 <img width="770" height="570" alt="image" src="https://github.com/user-attachments/assets/169a11b6-f667-4500-aaa6-f87b7600cb9e" />
 
-<img width="800" height="120" alt="image" src="https://github.com/user-attachments/assets/de0e3025-ba5e-4fc5-8cef-8d3a98c36189" />
+<img width="750" height="120" alt="image" src="https://github.com/user-attachments/assets/de0e3025-ba5e-4fc5-8cef-8d3a98c36189" />
 
 <img width="905" height="232" alt="image" src="https://github.com/user-attachments/assets/757c9c07-35aa-4a26-8b89-7cc8c6d0822f" />
 
