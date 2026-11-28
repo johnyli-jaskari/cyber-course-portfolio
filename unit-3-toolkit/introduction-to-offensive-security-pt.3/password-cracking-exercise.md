@@ -205,7 +205,7 @@ Salasanan selvittäminen John the Ripper komennon ja RockYou-salasanasanakirjan 
 
 Salasana on: password. RAR-arkiston purkaminen, selvitetyn salasanan syöttäminen ja flag.txt tiedoston tarkistus.
 
-<img width="1302" height="501" alt="image" src="https://github.com/user-attachments/assets/c2b8ae23-13e7-4695-ab5c-d7e37ad91dbe" />
+<img width="1312" height="502" alt="image" src="https://github.com/user-attachments/assets/e772febe-b84c-436c-af4b-36ff7be874a3" />
 
 <img width="520" height="200" alt="image" src="https://github.com/user-attachments/assets/ff69eaf1-9c11-4cb8-8e23-50e7ed1fcfdd" />
 
