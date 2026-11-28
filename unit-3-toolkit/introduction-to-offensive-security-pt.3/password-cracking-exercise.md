@@ -77,13 +77,17 @@ Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttä
 
 <img width="1695" height="527" alt="image" src="https://github.com/user-attachments/assets/095a4555-74ab-4a8d-be08-efc22dd86bd6" />
 
+<img width="1452" height="442" alt="image" src="https://github.com/user-attachments/assets/cb5362c8-e5fa-435e-b946-3b6fd954bfe0" />
+
 Salasanatiiviste on Whirlpool muodossa. Salasanan selvittäminen Hashcat-komennon ja RockYou-salasanasanakirjan avulla.
 
 <img width="1522" height="686" alt="image" src="https://github.com/user-attachments/assets/034f76f2-78ea-4f9b-b7a8-f7997c10600c" />
 
-<img width="780" height="520" alt="image" src="https://github.com/user-attachments/assets/f14737d0-6af9-49aa-8d06-13a7ae24d551" />
+<img width="1822" height="775" alt="image" src="https://github.com/user-attachments/assets/e4160e9c-2475-4233-bf08-49beea479d88" />
 
-<img width="1831" height="180" alt="image" src="https://github.com/user-attachments/assets/c97d56ef-fe8b-4e68-83a8-38990a256aa8" />
+<img width="1065" height="737" alt="image" src="https://github.com/user-attachments/assets/c9d97c11-d15b-4ec4-ae0a-8507cebc2eae" />
+
+<img width="1681" height="180" alt="image" src="https://github.com/user-attachments/assets/e60eee12-01d2-4ba8-96c7-a8720e8e752c" />
 
 <img width="1426" height="252" alt="image" src="https://github.com/user-attachments/assets/737a22c7-d14b-4566-afc2-6f2a815b99e0" />
 
