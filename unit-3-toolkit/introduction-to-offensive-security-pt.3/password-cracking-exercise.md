@@ -166,7 +166,7 @@ Task05.zip tiedoston lataus ja sen purkaminen.
 
 Zip2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
-<img width="1269" height="318" alt="image" src="https://github.com/user-attachments/assets/df6c8a0e-49e8-4fc7-ad64-63a661629362" />
+<img width="1287" height="317" alt="image" src="https://github.com/user-attachments/assets/d30351d6-27c4-4afb-b0e9-c0fd0e991ae9" />
 
 Salasanan selvittäminen John the Ripper komennon ja RockYou-salasanasanakirjan avulla.
 
