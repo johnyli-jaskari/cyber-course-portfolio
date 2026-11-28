@@ -13,8 +13,6 @@ Tavoitteena on harjoitella erilaisten salasanatiivisteiden ja salasanalla suojat
 
 Salasanatiivisteen kirjaaminen hash.txt tiedostoon ja sen tunnistaminen käyttämällä ```Hashcat --indentify```
 
-<img width="650" height="214" alt="image" src="https://github.com/user-attachments/assets/2e0c7967-560b-4e25-9b20-5d33800bf50f" />
-
 <img width="1362" height="532" alt="image" src="https://github.com/user-attachments/assets/d0f7bc4c-f9f9-440a-8724-7fa605ad384e" />
 
 <img width="1350" height="530" alt="image" src="https://github.com/user-attachments/assets/6f8daaf6-56a4-41a1-9be4-74eb2e809d3d" />
