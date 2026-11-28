@@ -21,7 +21,7 @@ Salasanatiiviste on MD5 muodossa. Salasanan selvittäminen Hashcat-komennon ja R
 
 <img width="1531" height="750" alt="image" src="https://github.com/user-attachments/assets/bdd95be5-c9b7-4ed3-a942-f545db280423" />
 
-<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/97bfe27f-bfab-4933-8d7e-c8f94dc4cceb" />
+<img width="780" height="580" alt="image" src="https://github.com/user-attachments/assets/97bfe27f-bfab-4933-8d7e-c8f94dc4cceb" />
 
 <img width="490" height="110" alt="image" src="https://github.com/user-attachments/assets/f0896399-6954-4c53-9045-6a6a8de39ec8" />
 
@@ -41,7 +41,7 @@ Salasanatiiviste on SHA1 muodossa. Salasanan selvittäminen Hashcat-komennon ja 
 
 <img width="1532" height="752" alt="image" src="https://github.com/user-attachments/assets/8aafd202-5f38-4b43-a22a-824443ad01a0" />
 
-<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/99cf1959-b5de-4e6b-9242-f9652752b49d" />
+<img width="780" height="580" alt="image" src="https://github.com/user-attachments/assets/99cf1959-b5de-4e6b-9242-f9652752b49d" />
 
 <img width="550" height="110" alt="image" src="https://github.com/user-attachments/assets/a66f4b08-cf16-4987-bcfb-b22d4c12c23b" />
 
@@ -61,7 +61,7 @@ Salasanatiiviste on SHA2-256 muodossa. Salasanan selvittäminen Hashcat-komennon
 
 <img width="1535" height="747" alt="image" src="https://github.com/user-attachments/assets/a7df680a-4964-4767-be91-b3fd12064f44" />
 
-<img width="770" height="570" alt="image" src="https://github.com/user-attachments/assets/169a11b6-f667-4500-aaa6-f87b7600cb9e" />
+<img width="780" height="580" alt="image" src="https://github.com/user-attachments/assets/169a11b6-f667-4500-aaa6-f87b7600cb9e" />
 
 <img width="750" height="120" alt="image" src="https://github.com/user-attachments/assets/de0e3025-ba5e-4fc5-8cef-8d3a98c36189" />
 
@@ -81,7 +81,7 @@ Salasanatiiviste on Whirlpool muodossa. Salasanan selvittäminen Hashcat-komenno
 
 <img width="1522" height="687" alt="image" src="https://github.com/user-attachments/assets/5e3f6306-2849-4030-80e5-bd5d00bcb0db" />
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c9d97c11-d15b-4ec4-ae0a-8507cebc2eae" />
+<img width="830" height="630" alt="image" src="https://github.com/user-attachments/assets/c9d97c11-d15b-4ec4-ae0a-8507cebc2eae" />
 
 <img width="1681" height="180" alt="image" src="https://github.com/user-attachments/assets/e60eee12-01d2-4ba8-96c7-a8720e8e752c" />
 
