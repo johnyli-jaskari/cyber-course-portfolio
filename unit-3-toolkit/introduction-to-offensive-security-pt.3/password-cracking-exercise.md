@@ -43,7 +43,7 @@ Salasanatiiviste on SHA1 muodossa. Salasanan selvittäminen Hashcat-komennon ja 
 
 <img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/99cf1959-b5de-4e6b-9242-f9652752b49d" />
 
-<img width="772" height="157" alt="image" src="https://github.com/user-attachments/assets/a66f4b08-cf16-4987-bcfb-b22d4c12c23b" />
+<img width="600" height="110" alt="image" src="https://github.com/user-attachments/assets/a66f4b08-cf16-4987-bcfb-b22d4c12c23b" />
 
 <img width="657" height="214" alt="image" src="https://github.com/user-attachments/assets/4f0b0207-59ac-4d2d-a14c-b116382cbcb6" />
 
