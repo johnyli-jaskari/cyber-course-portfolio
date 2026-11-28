@@ -144,7 +144,7 @@ Task04.zip tiedoston lataus ja sen purkaminen.
 
 SSH2John-komennolla luodaan John the Ripperille sopiva salasanatiiviste.
 
-<img width="1175" height="297" alt="image" src="https://github.com/user-attachments/assets/19e027e4-57a1-474f-a4ac-579a79d13200" />
+<img width="1210" height="322" alt="image" src="https://github.com/user-attachments/assets/02b232da-9b6b-4691-945a-be8f145d5d05" />
 
 Salasanan selvittäminen John the Ripper komennon ja RockYou-salasanasanakirjan avulla.
 
